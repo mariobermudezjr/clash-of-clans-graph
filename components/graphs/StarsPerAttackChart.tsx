@@ -17,6 +17,7 @@ import { transformToStarsData, createChartLabel } from '@/lib/chart-utils';
 import { colors } from '@/lib/constants';
 import { Card } from '@/components/ui/Card';
 import { ChartSkeleton } from '@/components/ui/Skeleton';
+import { parseCoCTimestamp } from '@/lib/date-utils';
 
 interface StarsPerAttackChartProps {
   wars: War[];
@@ -56,7 +57,7 @@ export function StarsPerAttackChart({ wars, loading = false }: StarsPerAttackCha
         <div className="bg-surface border border-border rounded-lg p-3 shadow-lg">
           <p className="text-text font-medium mb-1">{data.name}</p>
           <p className="text-textMuted text-sm mb-1">
-            {new Date(data.warEndTime).toLocaleDateString()}
+            {parseCoCTimestamp(data.warEndTime).toLocaleDateString()}
           </p>
           <p className="text-secondary text-sm">
             Avg Stars: <span className="font-semibold text-lg">{data.averageStars}</span>

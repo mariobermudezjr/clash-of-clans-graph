@@ -98,10 +98,10 @@ function DashboardContent() {
       <StatsOverview wars={wars} loading={loading} />
 
       <div className="space-y-6 mb-6">
-        <AttacksPerWarChart wars={wars} loading={loading} />
-        <StarsPerAttackChart wars={wars} loading={loading} />
         <MemberAttacksChart wars={wars} loading={loading} />
         <MemberStarsChart wars={wars} loading={loading} />
+        <AttacksPerWarChart wars={wars} loading={loading} />
+        <StarsPerAttackChart wars={wars} loading={loading} />
       </div>
     </div>
   );

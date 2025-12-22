@@ -1,4 +1,5 @@
 import { War, AttacksPerWarDataPoint, StarsPerAttackDataPoint } from './types';
+import { parseCoCTimestamp } from './date-utils';
 
 /**
  * Transform wars data for the Attacks Per War chart
@@ -39,8 +40,8 @@ export function transformToStarsData(wars: War[]): StarsPerAttackDataPoint[] {
 /**
  * Format date for chart axis
  */
-export function formatChartDate(isoString: string): string {
-  const date = new Date(isoString);
+export function formatChartDate(cocTimestamp: string): string {
+  const date = parseCoCTimestamp(cocTimestamp);
   return date.toLocaleDateString('en-US', {
     month: 'short',
     day: 'numeric',
@@ -64,8 +65,8 @@ export function createChartLabel(opponentName: string, endTime: string): string 
  */
 export function sortWarsByDate(wars: War[], order: 'asc' | 'desc'): War[] {
   const sorted = [...wars].sort((a, b) => {
-    const dateA = new Date(a.endTime).getTime();
-    const dateB = new Date(b.endTime).getTime();
+    const dateA = parseCoCTimestamp(a.endTime).getTime();
+    const dateB = parseCoCTimestamp(b.endTime).getTime();
     return order === 'asc' ? dateA - dateB : dateB - dateA;
   });
   return sorted;
@@ -147,7 +148,7 @@ export function filterWarsByDateRange(
   }
 
   return wars.filter(war => {
-    const warDate = new Date(war.endTime);
+    const warDate = parseCoCTimestamp(war.endTime);
 
     if (startDate && warDate < startDate) {
       return false;
