@@ -32,6 +32,3 @@ jobs:
 
       - name: Build project
         run: npm run build
-        env:
-          COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
-          CLAN_TAG: ${{ secrets.CLAN_TAG }}
