@@ -32,14 +32,28 @@ interface MemberStarsData {
 }
 
 export function MemberStarsChart({ wars, loading = false }: MemberStarsChartProps) {
+  // Find the most recent war by date
+  const getDefaultWarId = (wars: War[]): string => {
+    if (wars.length === 0) return '';
+
+    // Sort wars by endTime to find the most recent
+    const sortedWars = [...wars].sort((a, b) => {
+      const dateA = parseCoCTimestamp(a.endTime).getTime();
+      const dateB = parseCoCTimestamp(b.endTime).getTime();
+      return dateB - dateA; // Most recent first
+    });
+
+    return sortedWars[0].id;
+  };
+
   // State for selected war and sort order
-  const [selectedWarId, setSelectedWarId] = useState<string>(wars.length > 0 ? wars[0].id : '');
+  const [selectedWarId, setSelectedWarId] = useState<string>(getDefaultWarId(wars));
   const [sortBy, setSortBy] = useState<'position' | 'stars-high' | 'stars-low'>('stars-high');
 
   // Update selected war when wars change
   React.useEffect(() => {
     if (wars.length > 0 && !selectedWarId) {
-      setSelectedWarId(wars[0].id);
+      setSelectedWarId(getDefaultWarId(wars));
     }
   }, [wars, selectedWarId]);
 
