@@ -9,6 +9,7 @@ import { StarsPerAttackChart } from './graphs/StarsPerAttackChart';
 import { MemberAttacksChart } from './graphs/MemberAttacksChart';
 import { MemberStarsChart } from './graphs/MemberStarsChart';
 import { Card } from './ui/Card';
+import { TabNavigation } from './ui/TabNavigation';
 
 function DashboardContent() {
   const [wars, setWars] = useState<War[]>([]);
@@ -95,14 +96,26 @@ function DashboardContent() {
     <div className="max-w-7xl mx-auto">
       <Header clanName={clanName} totalWars={wars.length} />
 
-      <StatsOverview wars={wars} loading={loading} />
+      <TabNavigation defaultTab="graphs">
+        {(activeTab) => (
+          <>
+            {activeTab === 'stats' && (
+              <div className="py-6">
+                <StatsOverview wars={wars} loading={loading} />
+              </div>
+            )}
 
-      <div className="space-y-6 mb-6">
-        <MemberAttacksChart wars={wars} loading={loading} />
-        <MemberStarsChart wars={wars} loading={loading} />
-        <AttacksPerWarChart wars={wars} loading={loading} />
-        <StarsPerAttackChart wars={wars} loading={loading} />
-      </div>
+            {activeTab === 'graphs' && (
+              <div className="space-y-6 py-6">
+                <MemberAttacksChart wars={wars} loading={loading} />
+                <MemberStarsChart wars={wars} loading={loading} />
+                <AttacksPerWarChart wars={wars} loading={loading} />
+                <StarsPerAttackChart wars={wars} loading={loading} />
+              </div>
+            )}
+          </>
+        )}
+      </TabNavigation>
     </div>
   );
 }
