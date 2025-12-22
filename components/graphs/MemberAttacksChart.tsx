@@ -170,34 +170,35 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
           <span className="text-textMuted">0 attacks</span>
         </div>
       </div>
-      <div className="h-96">
+      <div style={{ height: Math.max(400, ourMembers.length * 40) }}>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={ourMembers}
-            margin={{ top: 20, right: 30, left: 0, bottom: 80 }}
+            layout="vertical"
+            margin={{ top: 20, right: 30, left: 120, bottom: 20 }}
           >
             <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
             <XAxis
-              dataKey="name"
-              angle={-45}
-              textAnchor="end"
-              height={100}
-              tick={{ fill: colors.textMuted, fontSize: 11 }}
-            />
-            <YAxis
+              type="number"
               domain={[0, 2]}
               ticks={[0, 1, 2]}
               tick={{ fill: colors.textMuted }}
               label={{
                 value: 'Attacks Used',
-                angle: -90,
-                position: 'insideLeft',
+                position: 'insideBottom',
+                offset: -10,
                 style: { fill: colors.text, fontSize: 14 },
               }}
             />
+            <YAxis
+              type="category"
+              dataKey="name"
+              tick={{ fill: colors.textMuted, fontSize: 11 }}
+              width={110}
+            />
             <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
-            <Bar dataKey="attacksUsed" radius={[4, 4, 0, 0]}>
-              <LabelList dataKey="attacksUsed" position="top" fill={colors.text} fontSize={12} />
+            <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
+              <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={12} />
               {ourMembers.map((entry, index) => (
                 <Cell key={`cell-${index}`} fill={getBarColor(entry.attacksUsed)} />
               ))}

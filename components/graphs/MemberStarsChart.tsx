@@ -173,33 +173,34 @@ export function MemberStarsChart({ wars, loading = false }: MemberStarsChartProp
           onChange={handleSortChange}
         />
       </div>
-      <div className="h-96">
+      <div style={{ height: Math.max(400, memberStarsData.length * 40) }}>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={memberStarsData}
-            margin={{ top: 20, right: 30, left: 0, bottom: 80 }}
+            layout="vertical"
+            margin={{ top: 20, right: 30, left: 120, bottom: 20 }}
           >
             <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
             <XAxis
-              dataKey="name"
-              angle={-45}
-              textAnchor="end"
-              height={100}
-              tick={{ fill: colors.textMuted, fontSize: 11 }}
-            />
-            <YAxis
+              type="number"
               domain={[0, maxStars]}
               tick={{ fill: colors.textMuted }}
               label={{
                 value: 'Stars Earned',
-                angle: -90,
-                position: 'insideLeft',
+                position: 'insideBottom',
+                offset: -10,
                 style: { fill: colors.text, fontSize: 14 },
               }}
             />
+            <YAxis
+              type="category"
+              dataKey="name"
+              tick={{ fill: colors.textMuted, fontSize: 11 }}
+              width={110}
+            />
             <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
-            <Bar dataKey="totalStars" fill={colors.secondary} radius={[4, 4, 0, 0]}>
-              <LabelList dataKey="totalStars" position="top" fill={colors.text} fontSize={12} />
+            <Bar dataKey="totalStars" fill={colors.secondary} radius={[0, 4, 4, 0]}>
+              <LabelList dataKey="totalStars" position="right" fill={colors.text} fontSize={12} />
             </Bar>
           </BarChart>
         </ResponsiveContainer>
