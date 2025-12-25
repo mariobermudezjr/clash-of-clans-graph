@@ -2,6 +2,10 @@ import { NextResponse } from 'next/server';
 import { getWars, saveWar, getStorageStats } from '@/lib/storage';
 import { War } from '@/lib/types';
 
+// Force dynamic rendering and disable caching
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 /**
  * GET /api/wars
  * Fetch all wars from storage
