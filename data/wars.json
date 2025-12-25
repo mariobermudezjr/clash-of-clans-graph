@@ -908,10 +908,10 @@
       "endTime": "20251223T034809.000Z",
       "collectedAt": "2025-12-22T21:36:23.591Z",
       "clanStats": {
-        "totalAttacks": 11,
-        "totalStars": 24,
-        "destructionPercentage": 78.72727272727273,
-        "attacksUsed": 11,
+        "totalAttacks": 16,
+        "totalStars": 34,
+        "destructionPercentage": 77.9375,
+        "attacksUsed": 16,
         "attacksAvailable": 40
       },
       "opponentStats": {
@@ -991,7 +991,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1015,7 +1015,7 @@
           "name": "Butta",
           "townhallLevel": 16,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1063,7 +1063,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1481,8 +1481,8 @@
           "attackerName": "Oculus Rift™",
           "defenderTag": "#QLVOJGQQ",
           "defenderName": "Rambo",
-          "stars": 2,
-          "destructionPercentage": 99,
+          "stars": 3,
+          "destructionPercentage": 100,
           "order": 15,
           "isOurClan": true
         },
@@ -1514,9 +1514,9 @@
           "attackerName": "Butta",
           "defenderTag": "#Y9C8QLJUO",
           "defenderName": "Ozdups",
-          "stars": 1,
+          "stars": 2,
           "destructionPercentage": 67,
-          "order": 9,
+          "order": 8,
           "isOurClan": true
         },
                      {
