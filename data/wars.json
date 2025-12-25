@@ -1477,6 +1477,61 @@
         },
         {
           "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#QLVOJGQQ",
+          "defenderName": "Rambo",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
+          "attackerTag": "#QGOVGQLLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#QCPJO9QLJ",
+          "defenderName": "bsipes",
+          "stars": 1,
+          "destructionPercentage": 43,
+          "order": 18,
+          "isOurClan": true
+        },
+             {
+          "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
+          "attackerTag": "#QGOVGQLLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#2LCR8C2CC",
+          "defenderName": "diehard12",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 19,
+          "isOurClan": true
+        },
+                     {
+          "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#Y9C8QLJUO",
+          "defenderName": "Ozdups",
+          "stars": 1,
+          "destructionPercentage": 67,
+          "order": 9,
+          "isOurClan": true
+        },
+                     {
+          "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#98RPVYVR",
+          "defenderName": "DevynM95",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
           "attackerTag": "#G2LUQCQR",
           "attackerName": "Magilla",
           "defenderTag": "#GP288PP8C",
