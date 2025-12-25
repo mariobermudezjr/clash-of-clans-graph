@@ -5,6 +5,19 @@
 
 set -e
 
+# Load user environment (needed for cron)
+if [ -f "$HOME/.bashrc" ]; then
+    source "$HOME/.bashrc" 2>/dev/null || true
+fi
+
+# Ensure PATH includes common node locations
+export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:$PATH"
+
+# Add nvm node path if nvm is available
+if command -v nvm &> /dev/null; then
+    export PATH="$HOME/.nvm/versions/node/$(nvm current)/bin:$PATH"
+fi
+
 # Configuration
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_FILE="$PROJECT_DIR/logs/auto-sync.log"
