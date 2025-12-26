@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-26T16:00:08.035Z",
+  "lastUpdated": "2025-12-26T18:00:07.866Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1598,19 +1598,19 @@
       "preparationStartTime": "20251225T053250.000Z",
       "startTime": "20251226T043250.000Z",
       "endTime": "20251227T043250.000Z",
-      "collectedAt": "2025-12-26T16:00:08.014Z",
+      "collectedAt": "2025-12-26T18:00:07.843Z",
       "clanStats": {
-        "totalAttacks": 17,
-        "totalStars": 39,
-        "destructionPercentage": 85.76470588235294,
-        "attacksUsed": 17,
+        "totalAttacks": 23,
+        "totalStars": 53,
+        "destructionPercentage": 88.26086956521739,
+        "attacksUsed": 23,
         "attacksAvailable": 50
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 11,
-        "destructionPercentage": 98.25,
-        "attacksUsed": 4,
+        "totalAttacks": 6,
+        "totalStars": 17,
+        "destructionPercentage": 98.83333333333333,
+        "attacksUsed": 6,
         "attacksAvailable": 50
       },
       "members": [
@@ -1635,7 +1635,7 @@
           "name": "iishikaori",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1659,7 +1659,7 @@
           "name": "***anabelle***",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1755,7 +1755,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 18,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1763,7 +1763,7 @@
           "name": "cosmicity",
           "townhallLevel": 14,
           "mapPosition": 19,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1995,7 +1995,7 @@
           "name": "TURBIÑO40",
           "townhallLevel": 15,
           "mapPosition": 23,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -2245,6 +2245,94 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 21,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#2G9QCV8UU",
+          "defenderName": "EL TURBO CORTEZ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#QLLJUUCP2",
+          "attackerName": "***anabelle***",
+          "defenderTag": "#8Q8VLC0U2",
+          "defenderName": "100% EL TURBO",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#L0CCUYYVQ",
+          "attackerName": "iishikaori",
+          "defenderTag": "#QCCLY2G",
+          "defenderName": "EL TURBO #2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#L0CCUYYVQ",
+          "attackerName": "iishikaori",
+          "defenderTag": "#2VPP2YL29",
+          "defenderName": "EL TURBO GT #3",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2G2VYQ8CU",
+          "attackerName": "TURBIÑO40",
+          "defenderTag": "#L8GL8GG",
+          "defenderName": "STL_Braden",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#RU9YPGJU",
+          "defenderName": "#LA SULTANA#",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2G2VYQ8CU",
+          "attackerName": "TURBIÑO40",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#2G2VYQ8CU",
+          "defenderName": "TURBIÑO40",
+          "stars": 1,
+          "destructionPercentage": 99,
+          "order": 29,
           "isOurClan": true
         }
       ]
