@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-26T18:00:07.866Z",
+  "lastUpdated": "2025-12-26T20:00:07.561Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1598,19 +1598,19 @@
       "preparationStartTime": "20251225T053250.000Z",
       "startTime": "20251226T043250.000Z",
       "endTime": "20251227T043250.000Z",
-      "collectedAt": "2025-12-26T18:00:07.843Z",
+      "collectedAt": "2025-12-26T20:00:07.544Z",
       "clanStats": {
-        "totalAttacks": 23,
-        "totalStars": 53,
-        "destructionPercentage": 88.26086956521739,
-        "attacksUsed": 23,
+        "totalAttacks": 29,
+        "totalStars": 62,
+        "destructionPercentage": 84.55172413793103,
+        "attacksUsed": 29,
         "attacksAvailable": 50
       },
       "opponentStats": {
-        "totalAttacks": 6,
-        "totalStars": 17,
-        "destructionPercentage": 98.83333333333333,
-        "attacksUsed": 6,
+        "totalAttacks": 13,
+        "totalStars": 31,
+        "destructionPercentage": 89.23076923076923,
+        "attacksUsed": 13,
         "attacksAvailable": 50
       },
       "members": [
@@ -1723,7 +1723,7 @@
           "name": "Butta",
           "townhallLevel": 16,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1747,7 +1747,7 @@
           "name": "Alpha",
           "townhallLevel": 15,
           "mapPosition": 17,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1771,7 +1771,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1963,7 +1963,7 @@
           "name": "#LA SULTANA#",
           "townhallLevel": 15,
           "mapPosition": 19,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -1971,7 +1971,7 @@
           "name": "EL TURBO CORTEZ",
           "townhallLevel": 15,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1979,7 +1979,7 @@
           "name": "el turbo # 3",
           "townhallLevel": 15,
           "mapPosition": 21,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1987,7 +1987,7 @@
           "name": "GARAÑON TURBO",
           "townhallLevel": 15,
           "mapPosition": 22,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -2334,6 +2334,149 @@
           "destructionPercentage": 99,
           "order": 29,
           "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#QJRYR2UPY",
+          "defenderName": "EL ALCON TURBO",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 30,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#2G2VYQ8CU",
+          "defenderName": "TURBIÑO40",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 31,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#28LJL9YJ8",
+          "attackerName": "Alpha",
+          "defenderTag": "#28V98RJ02",
+          "defenderName": "EL TURBO POWER",
+          "stars": 0,
+          "destructionPercentage": 49,
+          "order": 32,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#28LJL9YJ8",
+          "attackerName": "Alpha",
+          "defenderTag": "#2VY9VQQQU",
+          "defenderName": "EL TWIN TURBO",
+          "stars": 1,
+          "destructionPercentage": 59,
+          "order": 33,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2YLVY2CQG",
+          "attackerName": "GARAÑON TURBO",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 34,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2YLVY2CQG",
+          "attackerName": "GARAÑON TURBO",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 35,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#PG89RUJ8",
+          "attackerName": "el turbo # 3",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 36,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#9Y0VJGJYL",
+          "defenderName": "TARZAN TURBO",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 37,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#PG89RUJ8",
+          "attackerName": "el turbo # 3",
+          "defenderTag": "#G8RLG2UL9",
+          "defenderName": "MagillaJr",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#28V98RJ02",
+          "defenderName": "EL TURBO POWER",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2G9QCV8UU",
+          "attackerName": "EL TURBO CORTEZ",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 40,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2G9QCV8UU",
+          "attackerName": "EL TURBO CORTEZ",
+          "defenderTag": "#L2G82LUYG",
+          "defenderName": "❤Alpha❤",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 41,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#RU9YPGJU",
+          "attackerName": "#LA SULTANA#",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 42,
+          "isOurClan": false
         }
       ]
     }
