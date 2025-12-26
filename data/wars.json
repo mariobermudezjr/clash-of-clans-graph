@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-26T12:00:07.217Z",
+  "lastUpdated": "2025-12-26T14:00:08.090Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1598,12 +1598,12 @@
       "preparationStartTime": "20251225T053250.000Z",
       "startTime": "20251226T043250.000Z",
       "endTime": "20251227T043250.000Z",
-      "collectedAt": "2025-12-26T12:00:07.201Z",
+      "collectedAt": "2025-12-26T14:00:08.074Z",
       "clanStats": {
-        "totalAttacks": 4,
-        "totalStars": 8,
-        "destructionPercentage": 85.5,
-        "attacksUsed": 4,
+        "totalAttacks": 5,
+        "totalStars": 10,
+        "destructionPercentage": 81.8,
+        "attacksUsed": 5,
         "attacksAvailable": 50
       },
       "opponentStats": {
@@ -1715,7 +1715,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -2103,6 +2103,17 @@
           "destructionPercentage": 93,
           "order": 8,
           "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#2PQR9GUU",
+          "defenderName": "SPIDER MAN TURB",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 9,
+          "isOurClan": true
         }
       ]
     }
