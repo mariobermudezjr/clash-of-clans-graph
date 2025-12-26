@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-22T21:36:23.592Z",
+  "lastUpdated": "2025-12-26T06:00:07.995Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1497,7 +1497,7 @@
           "order": 18,
           "isOurClan": true
         },
-             {
+        {
           "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
           "attackerTag": "#QGOVGQLLR8",
           "attackerName": "Jackson Red",
@@ -1508,7 +1508,7 @@
           "order": 19,
           "isOurClan": true
         },
-                     {
+        {
           "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
           "attackerTag": "#28PQVGGQ8",
           "attackerName": "Butta",
@@ -1519,7 +1519,7 @@
           "order": 8,
           "isOurClan": true
         },
-                     {
+        {
           "warId": "20251223t034809.000z--2yguqgy90--pyyrgu8q",
           "attackerTag": "#28PQVGGQ8",
           "attackerName": "Butta",
@@ -1583,6 +1583,525 @@
           "stars": 2,
           "destructionPercentage": 98,
           "order": 26,
+          "isOurClan": false
+        }
+      ]
+    },
+    {
+      "id": "20251227t043250.000z--2yguqgy90--j0282jr",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#J0282JR",
+      "opponentName": "jutiapa u22",
+      "teamSize": 25,
+      "state": "inWar",
+      "preparationStartTime": "20251225T053250.000Z",
+      "startTime": "20251226T043250.000Z",
+      "endTime": "20251227T043250.000Z",
+      "collectedAt": "2025-12-26T06:00:07.978Z",
+      "clanStats": {
+        "totalAttacks": 4,
+        "totalStars": 8,
+        "destructionPercentage": 85.5,
+        "attacksUsed": 4,
+        "attacksAvailable": 50
+      },
+      "opponentStats": {
+        "totalAttacks": 4,
+        "totalStars": 11,
+        "destructionPercentage": 98.25,
+        "attacksUsed": 4,
+        "attacksAvailable": 50
+      },
+      "members": [
+        {
+          "tag": "#9PU99J8",
+          "name": "Mist",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#882UYU9P",
+          "name": "Pig Grease 2.3",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#L0CCUYYVQ",
+          "name": "iishikaori",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QP0RJLC00",
+          "name": "ang",
+          "townhallLevel": 18,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QYUJ2YCU",
+          "name": "*General*Tange*",
+          "townhallLevel": 18,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QLLJUUCP2",
+          "name": "***anabelle***",
+          "townhallLevel": 18,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LUQCQR",
+          "name": "Magilla",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 17,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2GCQJVLL",
+          "name": "slingblade",
+          "townhallLevel": 17,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q8GPPQ98U",
+          "name": "Mr. Frodo",
+          "townhallLevel": 17,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2J2PRRCL",
+          "name": "Aral",
+          "townhallLevel": 17,
+          "mapPosition": 11,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#LU9LVLYG",
+          "name": "Grizzly Reaper",
+          "townhallLevel": 17,
+          "mapPosition": 12,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 13,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#28PQVGGQ8",
+          "name": "Butta",
+          "townhallLevel": 16,
+          "mapPosition": 14,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LJVQUPU",
+          "name": "jisn",
+          "townhallLevel": 17,
+          "mapPosition": 15,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#L2G82LUYG",
+          "name": "❤Alpha❤",
+          "townhallLevel": 15,
+          "mapPosition": 16,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#28LJL9YJ8",
+          "name": "Alpha",
+          "townhallLevel": 15,
+          "mapPosition": 17,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8J8VLY28",
+          "name": "SkyHigh",
+          "townhallLevel": 15,
+          "mapPosition": 18,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q809PLLC",
+          "name": "cosmicity",
+          "townhallLevel": 14,
+          "mapPosition": 19,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QG0VGQLR8",
+          "name": "Jackson Red",
+          "townhallLevel": 14,
+          "mapPosition": 20,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#L8GL8GG",
+          "name": "STL_Braden",
+          "townhallLevel": 14,
+          "mapPosition": 21,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8RLG2UL9",
+          "name": "MagillaJr",
+          "townhallLevel": 14,
+          "mapPosition": 22,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#9L2VVLUL9",
+          "name": "bloodhunter",
+          "townhallLevel": 12,
+          "mapPosition": 23,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#GVURPVRLJ",
+          "name": "RIFQI COC",
+          "townhallLevel": 10,
+          "mapPosition": 24,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#GLUYY802J",
+          "name": "⚕ fauzan",
+          "townhallLevel": 10,
+          "mapPosition": 25,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#20UC0JP8U",
+          "name": "Guerrero C-H",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#R9QVRJV8",
+          "name": "EL TURBO GT",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QCCLY2G",
+          "name": "EL TURBO #2",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#20CR092JG",
+          "name": "EL TURBO #1",
+          "townhallLevel": 18,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2PQVLUJP8",
+          "name": "EL TURBO GT 2",
+          "townhallLevel": 18,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#Y0C9880P",
+          "name": "TURBO MAXXX",
+          "townhallLevel": 18,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#R8G02PGQ",
+          "name": "x-men",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2PV8CYR22",
+          "name": "queen ana",
+          "townhallLevel": 17,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G92PLRY9",
+          "name": "cortez",
+          "townhallLevel": 17,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2VPP2YL29",
+          "name": "EL TURBO GT #3",
+          "townhallLevel": 18,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#8Q8VLC0U2",
+          "name": "100% EL TURBO",
+          "townhallLevel": 17,
+          "mapPosition": 11,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2YLLLC2VL",
+          "name": "TURBO FLASH",
+          "townhallLevel": 17,
+          "mapPosition": 12,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2PQR9GUU",
+          "name": "SPIDER MAN TURB",
+          "townhallLevel": 17,
+          "mapPosition": 13,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#9Y0VJGJYL",
+          "name": "TARZAN TURBO",
+          "townhallLevel": 17,
+          "mapPosition": 14,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#28V98RJ02",
+          "name": "EL TURBO POWER",
+          "townhallLevel": 17,
+          "mapPosition": 15,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2VY9VQQQU",
+          "name": "EL TWIN TURBO",
+          "townhallLevel": 17,
+          "mapPosition": 16,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#VGRG9G8L",
+          "name": "#EL CORONEL#",
+          "townhallLevel": 16,
+          "mapPosition": 17,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#P98R9PRQ0",
+          "name": "EL TURBO JUNIOR",
+          "townhallLevel": 15,
+          "mapPosition": 18,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#RU9YPGJU",
+          "name": "#LA SULTANA#",
+          "townhallLevel": 15,
+          "mapPosition": 19,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2G9QCV8UU",
+          "name": "EL TURBO CORTEZ",
+          "townhallLevel": 15,
+          "mapPosition": 20,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#PG89RUJ8",
+          "name": "el turbo # 3",
+          "townhallLevel": 15,
+          "mapPosition": 21,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2YLVY2CQG",
+          "name": "GARAÑON TURBO",
+          "townhallLevel": 15,
+          "mapPosition": 22,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2G2VYQ8CU",
+          "name": "TURBIÑO40",
+          "townhallLevel": 15,
+          "mapPosition": 23,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#L8CCU82V2",
+          "name": "EL TURBO CLASH",
+          "townhallLevel": 14,
+          "mapPosition": 24,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QJRYR2UPY",
+          "name": "EL ALCON TURBO",
+          "townhallLevel": 14,
+          "mapPosition": 25,
+          "attacksUsed": 2,
+          "isOurClan": false
+        }
+      ],
+      "attacks": [
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#LU9LVLYG",
+          "attackerName": "Grizzly Reaper",
+          "defenderTag": "#2YLLLC2VL",
+          "defenderName": "TURBO FLASH",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 1,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#LU9LVLYG",
+          "attackerName": "Grizzly Reaper",
+          "defenderTag": "#2PQR9GUU",
+          "defenderName": "SPIDER MAN TURB",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 2,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#R8G02PGQ",
+          "defenderName": "x-men",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 3,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#P98R9PRQ0",
+          "defenderName": "EL TURBO JUNIOR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#QJRYR2UPY",
+          "attackerName": "EL ALCON TURBO",
+          "defenderTag": "#GLUYY802J",
+          "defenderName": "⚕ fauzan",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#QJRYR2UPY",
+          "attackerName": "EL ALCON TURBO",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#L8CCU82V2",
+          "attackerName": "EL TURBO CLASH",
+          "defenderTag": "#9L2VVLUL9",
+          "defenderName": "bloodhunter",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#L8CCU82V2",
+          "attackerName": "EL TURBO CLASH",
+          "defenderTag": "#G8RLG2UL9",
+          "defenderName": "MagillaJr",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 8,
           "isOurClan": false
         }
       ]
