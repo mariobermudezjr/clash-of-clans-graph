@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-27T04:00:07.922Z",
+  "lastUpdated": "2025-12-27T06:00:08.477Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1594,11 +1594,11 @@
       "opponentTag": "#J0282JR",
       "opponentName": "jutiapa u22",
       "teamSize": 25,
-      "state": "inWar",
+      "state": "warEnded",
       "preparationStartTime": "20251225T053250.000Z",
       "startTime": "20251226T043250.000Z",
       "endTime": "20251227T043250.000Z",
-      "collectedAt": "2025-12-27T04:00:07.906Z",
+      "collectedAt": "2025-12-27T06:00:08.458Z",
       "clanStats": {
         "totalAttacks": 32,
         "totalStars": 68,
@@ -1607,10 +1607,10 @@
         "attacksAvailable": 50
       },
       "opponentStats": {
-        "totalAttacks": 42,
-        "totalStars": 89,
-        "destructionPercentage": 81.19047619047619,
-        "attacksUsed": 42,
+        "totalAttacks": 48,
+        "totalStars": 103,
+        "destructionPercentage": 82.02083333333333,
+        "attacksUsed": 48,
         "attacksAvailable": 50
       },
       "members": [
@@ -1819,7 +1819,7 @@
           "name": "Guerrero C-H",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1827,7 +1827,7 @@
           "name": "EL TURBO GT",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1883,7 +1883,7 @@
           "name": "cortez",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -2829,6 +2829,72 @@
           "destructionPercentage": 100,
           "order": 74,
           "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#G92PLRY9",
+          "attackerName": "cortez",
+          "defenderTag": "#LU9LVLYG",
+          "defenderName": "Grizzly Reaper",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 75,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#G92PLRY9",
+          "attackerName": "cortez",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 76,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#20UC0JP8U",
+          "attackerName": "Guerrero C-H",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#R9QVRJV8",
+          "attackerName": "EL TURBO GT",
+          "defenderTag": "#LU9LVLYG",
+          "defenderName": "Grizzly Reaper",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 78,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#R9QVRJV8",
+          "attackerName": "EL TURBO GT",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 79,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#20UC0JP8U",
+          "attackerName": "Guerrero C-H",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "isOurClan": false
         }
       ]
     }
