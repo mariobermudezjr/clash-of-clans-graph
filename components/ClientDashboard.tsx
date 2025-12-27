@@ -94,7 +94,7 @@ function DashboardContent() {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <Header clanName={clanName} totalWars={wars.length} />
+      <Header clanName={clanName} />
 
       <TabNavigation defaultTab="graphs">
         {(activeTab) => (
@@ -116,6 +116,12 @@ function DashboardContent() {
           </>
         )}
       </TabNavigation>
+
+      {wars.length > 0 && (
+        <div className="mt-8 mb-4 text-center text-xs text-textMuted">
+          Total wars tracked: {wars.length}
+        </div>
+      )}
     </div>
   );
 }

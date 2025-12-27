@@ -3,10 +3,9 @@ import { CLAN_TAG } from '@/lib/constants';
 
 interface HeaderProps {
   clanName?: string;
-  totalWars?: number;
 }
 
-export function Header({ clanName, totalWars = 0 }: HeaderProps) {
+export function Header({ clanName }: HeaderProps) {
   return (
     <header className="mb-8">
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
@@ -26,12 +25,6 @@ export function Header({ clanName, totalWars = 0 }: HeaderProps) {
             )}
           </p>
         </div>
-        {totalWars > 0 && (
-          <div className="bg-surface border border-border rounded-lg px-4 py-2">
-            <div className="text-textMuted text-sm">Total Wars Tracked</div>
-            <div className="text-2xl font-semibold text-primary">{totalWars}</div>
-          </div>
-        )}
       </div>
     </header>
   );
