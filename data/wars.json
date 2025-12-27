@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-26T22:00:07.440Z",
+  "lastUpdated": "2025-12-27T00:00:08.265Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -1598,19 +1598,19 @@
       "preparationStartTime": "20251225T053250.000Z",
       "startTime": "20251226T043250.000Z",
       "endTime": "20251227T043250.000Z",
-      "collectedAt": "2025-12-26T22:00:07.419Z",
+      "collectedAt": "2025-12-27T00:00:08.246Z",
       "clanStats": {
-        "totalAttacks": 29,
-        "totalStars": 62,
-        "destructionPercentage": 84.55172413793103,
-        "attacksUsed": 29,
+        "totalAttacks": 31,
+        "totalStars": 65,
+        "destructionPercentage": 83.29032258064517,
+        "attacksUsed": 31,
         "attacksAvailable": 50
       },
       "opponentStats": {
-        "totalAttacks": 22,
-        "totalStars": 56,
-        "destructionPercentage": 91.77272727272727,
-        "attacksUsed": 22,
+        "totalAttacks": 36,
+        "totalStars": 81,
+        "destructionPercentage": 84.83333333333333,
+        "attacksUsed": 36,
         "attacksAvailable": 50
       },
       "members": [
@@ -1627,7 +1627,7 @@
           "name": "Pig Grease 2.3",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -1867,7 +1867,7 @@
           "name": "x-men",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1875,7 +1875,7 @@
           "name": "queen ana",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1891,7 +1891,7 @@
           "name": "EL TURBO GT #3",
           "townhallLevel": 18,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1899,7 +1899,7 @@
           "name": "100% EL TURBO",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1907,7 +1907,7 @@
           "name": "TURBO FLASH",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1915,7 +1915,7 @@
           "name": "SPIDER MAN TURB",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -1923,7 +1923,7 @@
           "name": "TARZAN TURBO",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -2575,6 +2575,182 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 51,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#9Y0VJGJYL",
+          "attackerName": "TARZAN TURBO",
+          "defenderTag": "#Q8GPPQ98U",
+          "defenderName": "Mr. Frodo",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#9Y0VJGJYL",
+          "attackerName": "TARZAN TURBO",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 1,
+          "destructionPercentage": 55,
+          "order": 53,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2PQR9GUU",
+          "attackerName": "SPIDER MAN TURB",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 54,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2PQR9GUU",
+          "attackerName": "SPIDER MAN TURB",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 55,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2YLLLC2VL",
+          "attackerName": "TURBO FLASH",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 56,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2YLLLC2VL",
+          "attackerName": "TURBO FLASH",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 57,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#8Q8VLC0U2",
+          "attackerName": "100% EL TURBO",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 1,
+          "destructionPercentage": 48,
+          "order": 58,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#8Q8VLC0U2",
+          "attackerName": "100% EL TURBO",
+          "defenderTag": "#882UYU9P",
+          "defenderName": "Pig Grease 2.3",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 59,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#882UYU9P",
+          "attackerName": "Pig Grease 2.3",
+          "defenderTag": "#R9QVRJV8",
+          "defenderName": "EL TURBO GT",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 60,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#882UYU9P",
+          "attackerName": "Pig Grease 2.3",
+          "defenderTag": "#20UC0JP8U",
+          "defenderName": "Guerrero C-H",
+          "stars": 1,
+          "destructionPercentage": 64,
+          "order": 61,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2VPP2YL29",
+          "attackerName": "EL TURBO GT #3",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 62,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2VPP2YL29",
+          "attackerName": "EL TURBO GT #3",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 63,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2PV8CYR22",
+          "attackerName": "queen ana",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 64,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#2PV8CYR22",
+          "attackerName": "queen ana",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#R8G02PGQ",
+          "attackerName": "x-men",
+          "defenderTag": "#LU9LVLYG",
+          "defenderName": "Grizzly Reaper",
+          "stars": 1,
+          "destructionPercentage": 67,
+          "order": 66,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251227t043250.000z--2yguqgy90--j0282jr",
+          "attackerTag": "#R8G02PGQ",
+          "attackerName": "x-men",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 67,
           "isOurClan": false
         }
       ]
