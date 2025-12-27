@@ -75,7 +75,7 @@ function DashboardContent() {
             <div className="text-6xl mb-4">🎯</div>
             <h2 className="text-2xl font-semibold text-text mb-2">No Wars Yet</h2>
             <p className="text-textMuted mb-2 text-center max-w-md">
-              No war data has been collected yet. Start the data collector to begin tracking your clan's wars.
+              No war data has been collected yet. Start the data collector to begin tracking your clan&apos;s wars.
             </p>
             <div className="bg-surface border border-border rounded-lg p-4 mt-6 max-w-xl">
               <p className="text-sm text-textMuted mb-2">To start collecting data, run:</p>

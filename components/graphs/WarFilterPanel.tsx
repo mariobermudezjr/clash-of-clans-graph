@@ -143,7 +143,7 @@ export function WarFilterPanel({ wars }: WarFilterPanelProps) {
               <div className="max-h-64 overflow-y-auto space-y-2 bg-background border border-border rounded-md p-3">
                 {displayWars.length === 0 ? (
                   <p className="text-textMuted text-sm text-center py-4">
-                    No wars found matching "{localFilters.searchQuery}"
+                    No wars found matching &quot;{localFilters.searchQuery}&quot;
                   </p>
                 ) : (
                   displayWars.map(war => (
