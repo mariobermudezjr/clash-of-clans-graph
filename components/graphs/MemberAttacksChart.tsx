@@ -108,6 +108,15 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
     ourMembers = ourMembers.sort((a, b) => a.attacksUsed - b.attacksUsed || a.mapPosition - b.mapPosition);
   }
 
+  // Split members for mobile two-column view
+  const completedMembers = ourMembers.filter(m => m.attacksUsed === 2);
+  const incompleteMembers = ourMembers.filter(m => m.attacksUsed === 0 || m.attacksUsed === 1);
+
+  // Calculate synchronized heights for mobile view
+  const completedHeight = Math.max(300, completedMembers.length * 40);
+  const incompleteHeight = Math.max(300, incompleteMembers.length * 40);
+  const mobileHeight = Math.max(completedHeight, incompleteHeight);
+
   if (ourMembers.length === 0) {
     return (
       <Card title="Member Attack Participation">
@@ -139,6 +148,48 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
     }
     return null;
   };
+
+  // Mobile chart column component
+  interface MobileChartColumnProps {
+    data: typeof ourMembers;
+    title: string;
+  }
+
+  const MobileChartColumn = ({ data, title }: MobileChartColumnProps) => (
+    <div className="flex flex-col h-full">
+      <h3 className="text-xs font-medium text-textMuted mb-2 text-center">
+        {title} ({data.length})
+      </h3>
+      <ResponsiveContainer width="100%" height="100%">
+        <BarChart
+          data={data}
+          layout="vertical"
+          margin={{ top: 10, right: 10, left: 60, bottom: 10 }}
+        >
+          <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
+          <XAxis
+            type="number"
+            domain={[0, 2]}
+            ticks={[0, 1, 2]}
+            tick={{ fill: colors.textMuted, fontSize: 10 }}
+          />
+          <YAxis
+            type="category"
+            dataKey="name"
+            tick={{ fill: colors.textMuted, fontSize: 9 }}
+            width={55}
+          />
+          <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
+          <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
+            <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={10} />
+            {data.map((entry, index) => (
+              <Cell key={`cell-${index}`} fill={getBarColor(entry.attacksUsed)} />
+            ))}
+          </Bar>
+        </BarChart>
+      </ResponsiveContainer>
+    </div>
+  );
 
   // Color bars based on attack count
   const getBarColor = (attacksUsed: number) => {
@@ -184,7 +235,8 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
           <span className="text-textMuted">0 attacks</span>
         </div>
       </div>
-      <div style={{ height: Math.max(400, ourMembers.length * 40) }}>
+      {/* Desktop View - Single Column */}
+      <div className="hidden md:block" style={{ height: Math.max(400, ourMembers.length * 40) }}>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={ourMembers}
@@ -219,6 +271,29 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
             </Bar>
           </BarChart>
         </ResponsiveContainer>
+      </div>
+      {/* Mobile View - Two Columns */}
+      <div className="block md:hidden" style={{ height: mobileHeight }}>
+        {completedMembers.length === 0 ? (
+          <div>
+            <p className="text-center text-textMuted text-sm mb-3">
+              No members have completed all attacks yet
+            </p>
+            <MobileChartColumn data={incompleteMembers} title="Incomplete" />
+          </div>
+        ) : incompleteMembers.length === 0 ? (
+          <div>
+            <p className="text-center text-primary text-sm mb-3 font-medium">
+              All members completed their attacks!
+            </p>
+            <MobileChartColumn data={completedMembers} title="Completed" />
+          </div>
+        ) : (
+          <div className="grid grid-cols-2 gap-2 h-full">
+            <MobileChartColumn data={completedMembers} title="Completed (2/2)" />
+            <MobileChartColumn data={incompleteMembers} title="Incomplete (0-1/2)" />
+          </div>
+        )}
       </div>
     </Card>
   );
