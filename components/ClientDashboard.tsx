@@ -69,7 +69,7 @@ function DashboardContent() {
   if (!loading && wars.length === 0) {
     return (
       <div className="max-w-7xl mx-auto">
-        <Header clanName={clanName} totalWars={wars.length} />
+        <Header clanName={clanName} />
         <Card>
           <div className="flex flex-col items-center justify-center py-12">
             <div className="text-6xl mb-4">🎯</div>
