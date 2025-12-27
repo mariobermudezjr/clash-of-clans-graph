@@ -11,7 +11,7 @@ export function Header({ clanName, totalWars = 0 }: HeaderProps) {
     <header className="mb-8">
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
-          <h1 className="text-3xl font-semibold text-text mb-2">
+          <h1 className="text-2xl font-semibold text-text mb-2">
             Clash of Clans War Analytics
           </h1>
           <p className="text-textMuted">
