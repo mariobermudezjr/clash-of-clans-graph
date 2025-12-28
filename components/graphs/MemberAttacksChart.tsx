@@ -180,6 +180,38 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
       );
     };
 
+    // Custom tooltip for mobile that handles positioning
+    const MobileCustomTooltip = ({ active, payload, coordinate }: any) => {
+      if (active && payload && payload.length) {
+        const data = payload[0].payload;
+        const xOffset = isRightColumn ? -150 : 10;
+
+        return (
+          <div
+            className="bg-surface border border-border rounded-lg p-3 shadow-lg"
+            style={{
+              position: 'absolute',
+              left: `${xOffset}px`,
+              top: '-50px',
+              pointerEvents: 'none'
+            }}
+          >
+            <p className="text-text font-medium mb-1">{data.name}</p>
+            <p className="text-textMuted text-sm mb-1">
+              Town Hall Level: {data.townhallLevel}
+            </p>
+            <p className="text-textMuted text-sm mb-1">
+              Position: #{data.mapPosition}
+            </p>
+            <p className="text-primary text-sm">
+              Attacks Used: <span className="font-semibold">{data.attacksUsed}</span> / 2
+            </p>
+          </div>
+        );
+      }
+      return null;
+    };
+
     return (
       <div className="flex flex-col h-full">
         <h3 className="text-xs font-medium text-textMuted mb-2 text-center">
@@ -205,13 +237,9 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
               width={55}
             />
           <Tooltip
-            content={<CustomTooltip />}
+            content={<MobileCustomTooltip />}
             cursor={{ fill: colors.surface }}
             isAnimationActive={false}
-            wrapperStyle={isRightColumn ? {
-              transform: 'translateX(-140px)',
-              pointerEvents: 'none'
-            } : {}}
           />
           <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
             <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={10} />
