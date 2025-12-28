@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-28T20:00:10.543Z",
+  "lastUpdated": "2025-12-28T20:34:47.714Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,7 +2909,7 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-28T20:00:10.524Z",
+      "collectedAt": "2025-12-28T20:34:47.667Z",
       "clanStats": {
         "totalAttacks": 3,
         "totalStars": 5,
@@ -2918,10 +2918,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 1,
-        "totalStars": 2,
-        "destructionPercentage": 52,
-        "attacksUsed": 1,
+        "totalAttacks": 2,
+        "totalStars": 4,
+        "destructionPercentage": 53.5,
+        "attacksUsed": 2,
         "attacksAvailable": 30
       },
       "members": [
@@ -3066,7 +3066,7 @@
           "name": "dorizen",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -3210,6 +3210,17 @@
           "destructionPercentage": 70,
           "order": 4,
           "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#PLURJVLQ",
+          "attackerName": "dorizen",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 5,
+          "isOurClan": false
         }
       ]
     }
