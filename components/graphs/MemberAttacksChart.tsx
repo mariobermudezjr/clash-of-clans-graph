@@ -155,30 +155,54 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
     title: string;
   }
 
-  const MobileChartColumn = ({ data, title }: MobileChartColumnProps) => (
-    <div className="flex flex-col h-full">
-      <h3 className="text-xs font-medium text-textMuted mb-2 text-center">
-        {title} ({data.length})
-      </h3>
-      <ResponsiveContainer width="100%" height="100%">
-        <BarChart
-          data={data}
-          layout="vertical"
-          margin={{ top: 10, right: 10, left: 60, bottom: 10 }}
-        >
-          <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
-          <XAxis
-            type="number"
-            domain={[0, 2]}
-            ticks={[0, 1, 2]}
-            tick={{ fill: colors.textMuted, fontSize: 10 }}
-          />
-          <YAxis
-            type="category"
-            dataKey="name"
-            tick={{ fill: colors.textMuted, fontSize: 9 }}
-            width={55}
-          />
+  const MobileChartColumn = ({ data, title }: MobileChartColumnProps) => {
+    // Custom tick renderer for mobile
+    const renderMobileTick = (props: any) => {
+      const { x, y, payload } = props;
+      const member = data.find(m => m.name === payload.value);
+      const isNonAttacker = member?.attacksUsed === 0;
+
+      return (
+        <g transform={`translate(${x},${y})`}>
+          <text
+            x={0}
+            y={0}
+            dy={3}
+            textAnchor="end"
+            fill={isNonAttacker ? '#ff3b3b' : colors.textMuted}
+            fontSize={9}
+            fontWeight={isNonAttacker ? 600 : 400}
+          >
+            {payload.value}
+          </text>
+        </g>
+      );
+    };
+
+    return (
+      <div className="flex flex-col h-full">
+        <h3 className="text-xs font-medium text-textMuted mb-2 text-center">
+          {title} ({data.length})
+        </h3>
+        <ResponsiveContainer width="100%" height="100%">
+          <BarChart
+            data={data}
+            layout="vertical"
+            margin={{ top: 10, right: 10, left: 60, bottom: 10 }}
+          >
+            <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
+            <XAxis
+              type="number"
+              domain={[0, 2]}
+              ticks={[0, 1, 2]}
+              tick={{ fill: colors.textMuted, fontSize: 10 }}
+            />
+            <YAxis
+              type="category"
+              dataKey="name"
+              tick={renderMobileTick}
+              width={55}
+            />
           <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
           <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
             <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={10} />
@@ -189,13 +213,37 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
         </BarChart>
       </ResponsiveContainer>
     </div>
-  );
+    );
+  };
 
   // Color bars based on attack count
   const getBarColor = (attacksUsed: number) => {
     if (attacksUsed === 0) return '#ef4444'; // Red for no attacks
     if (attacksUsed === 1) return colors.secondary; // Amber for 1 attack
     return colors.primary; // Emerald for 2 attacks
+  };
+
+  // Custom Y-axis tick to highlight non-attackers
+  const renderCustomTick = (props: any) => {
+    const { x, y, payload } = props;
+    const member = ourMembers.find(m => m.name === payload.value);
+    const isNonAttacker = member?.attacksUsed === 0;
+
+    return (
+      <g transform={`translate(${x},${y})`}>
+        <text
+          x={0}
+          y={0}
+          dy={4}
+          textAnchor="end"
+          fill={isNonAttacker ? '#ff3b3b' : colors.textMuted}
+          fontSize={11}
+          fontWeight={isNonAttacker ? 600 : 400}
+        >
+          {payload.value}
+        </text>
+      </g>
+    );
   };
 
   return (
@@ -259,7 +307,7 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
             <YAxis
               type="category"
               dataKey="name"
-              tick={{ fill: colors.textMuted, fontSize: 11 }}
+              tick={renderCustomTick}
               width={110}
             />
             <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
