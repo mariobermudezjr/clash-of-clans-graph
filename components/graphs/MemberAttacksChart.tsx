@@ -207,8 +207,11 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
           <Tooltip
             content={<CustomTooltip />}
             cursor={{ fill: colors.surface }}
-            offset={isRightColumn ? -120 : 10}
-            allowEscapeViewBox={{ x: false, y: true }}
+            isAnimationActive={false}
+            wrapperStyle={isRightColumn ? {
+              transform: 'translateX(-140px)',
+              pointerEvents: 'none'
+            } : {}}
           />
           <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
             <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={10} />
