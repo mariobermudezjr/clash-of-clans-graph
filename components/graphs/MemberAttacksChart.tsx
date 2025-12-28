@@ -153,9 +153,10 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
   interface MobileChartColumnProps {
     data: typeof ourMembers;
     title: string;
+    isRightColumn?: boolean;
   }
 
-  const MobileChartColumn = ({ data, title }: MobileChartColumnProps) => {
+  const MobileChartColumn = ({ data, title, isRightColumn = false }: MobileChartColumnProps) => {
     // Custom tick renderer for mobile
     const renderMobileTick = (props: any) => {
       const { x, y, payload } = props;
@@ -203,7 +204,12 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
               tick={renderMobileTick}
               width={55}
             />
-          <Tooltip content={<CustomTooltip />} cursor={{ fill: colors.surface }} />
+          <Tooltip
+            content={<CustomTooltip />}
+            cursor={{ fill: colors.surface }}
+            offset={isRightColumn ? -120 : 10}
+            allowEscapeViewBox={{ x: false, y: true }}
+          />
           <Bar dataKey="attacksUsed" radius={[0, 4, 4, 0]}>
             <LabelList dataKey="attacksUsed" position="right" fill={colors.text} fontSize={10} />
             {data.map((entry, index) => (
@@ -339,7 +345,7 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
         ) : (
           <div className="grid grid-cols-2 gap-2 h-full">
             <MobileChartColumn data={completedMembers} title="Completed (2/2)" />
-            <MobileChartColumn data={incompleteMembers} title="Incomplete (0-1/2)" />
+            <MobileChartColumn data={incompleteMembers} title="Incomplete (0-1/2)" isRightColumn={true} />
           </div>
         )}
       </div>
