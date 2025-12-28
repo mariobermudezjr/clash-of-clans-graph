@@ -15,6 +15,7 @@ function DashboardContent() {
   const [wars, setWars] = useState<War[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [lastUpdated, setLastUpdated] = useState<string | undefined>(undefined);
 
   // Fetch wars from API
   useEffect(() => {
@@ -26,6 +27,7 @@ function DashboardContent() {
 
         if (data.success) {
           setWars(data.wars);
+          setLastUpdated(data.stats?.lastUpdated);
         } else {
           setError(data.error || 'Failed to fetch wars');
         }
@@ -47,7 +49,7 @@ function DashboardContent() {
   if (error && !loading) {
     return (
       <div className="max-w-7xl mx-auto">
-        <Header />
+        <Header lastUpdated={lastUpdated} />
         <Card>
           <div className="flex flex-col items-center justify-center py-12">
             <div className="text-6xl mb-4">⚠️</div>
@@ -69,7 +71,7 @@ function DashboardContent() {
   if (!loading && wars.length === 0) {
     return (
       <div className="max-w-7xl mx-auto">
-        <Header clanName={clanName} totalWars={wars.length} />
+        <Header clanName={clanName} lastUpdated={lastUpdated} />
         <Card>
           <div className="flex flex-col items-center justify-center py-12">
             <div className="text-6xl mb-4">🎯</div>
@@ -94,7 +96,7 @@ function DashboardContent() {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <Header clanName={clanName} totalWars={wars.length} />
+      <Header clanName={clanName} lastUpdated={lastUpdated} />
 
       <TabNavigation defaultTab="graphs">
         {(activeTab) => (
@@ -116,6 +118,12 @@ function DashboardContent() {
           </>
         )}
       </TabNavigation>
+
+      {wars.length > 0 && (
+        <div className="mt-8 mb-4 text-center text-xs text-textMuted">
+          Total wars tracked: {wars.length}
+        </div>
+      )}
     </div>
   );
 }

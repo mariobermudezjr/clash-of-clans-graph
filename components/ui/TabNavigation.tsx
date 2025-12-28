@@ -18,7 +18,7 @@ interface TabNavigationProps {
 
 const tabs: Tab[] = [
   { id: 'graphs', label: 'Graphs', icon: '📈' },
-  { id: 'stats', label: 'Stats', icon: '📊' }
+  { id: 'stats', label: 'Stats', icon: '📊' },
 ];
 
 export function TabNavigation({ defaultTab = 'graphs', onTabChange, children }: TabNavigationProps) {
