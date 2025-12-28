@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-28T20:34:47.714Z",
+  "lastUpdated": "2025-12-28T22:00:08.186Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,19 +2909,19 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-28T20:34:47.667Z",
+      "collectedAt": "2025-12-28T22:00:08.167Z",
       "clanStats": {
-        "totalAttacks": 3,
-        "totalStars": 5,
-        "destructionPercentage": 72.66666666666667,
-        "attacksUsed": 3,
+        "totalAttacks": 7,
+        "totalStars": 16,
+        "destructionPercentage": 87.57142857142857,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 2,
-        "totalStars": 4,
-        "destructionPercentage": 53.5,
-        "attacksUsed": 2,
+        "totalAttacks": 9,
+        "totalStars": 20,
+        "destructionPercentage": 81.66666666666667,
+        "attacksUsed": 9,
         "attacksAvailable": 30
       },
       "members": [
@@ -2970,7 +2970,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3010,7 +3010,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3082,7 +3082,7 @@
           "name": "shaked hessel",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3106,7 +3106,7 @@
           "name": "ben goshen",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3154,7 +3154,7 @@
           "name": "yuda",
           "townhallLevel": 14,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3162,7 +3162,7 @@
           "name": "ity",
           "townhallLevel": 13,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         }
       ],
@@ -3220,6 +3220,127 @@
           "stars": 2,
           "destructionPercentage": 55,
           "order": 5,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#P0JY2PLG",
+          "attackerName": "yuda",
+          "defenderTag": "#G8RLG2UL9",
+          "defenderName": "MagillaJr",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#P0JY2PLG",
+          "attackerName": "yuda",
+          "defenderTag": "#L8GL8GG",
+          "defenderName": "STL_Braden",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#QVCQLCPQV",
+          "defenderName": "ARiZU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#G9982CVP2",
+          "defenderName": "XWT",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#9LQC0RQJ",
+          "defenderName": "ben goshen",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 10,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#LUUYLL2Q0",
+          "defenderName": "TOM3",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#9LQC0RQJ",
+          "attackerName": "ben goshen",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#L0YR09LQP",
+          "attackerName": "shaked hessel",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#9LQC0RQJ",
+          "attackerName": "ben goshen",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#LR0CRVJYC",
+          "attackerName": "ity",
+          "defenderTag": "#L8GL8GG",
+          "defenderName": "STL_Braden",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#L0YR09LQP",
+          "attackerName": "shaked hessel",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 1,
+          "destructionPercentage": 93,
+          "order": 16,
           "isOurClan": false
         }
       ]
