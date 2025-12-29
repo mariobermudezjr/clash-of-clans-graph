@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-29T04:00:08.277Z",
+  "lastUpdated": "2025-12-29T06:00:08.001Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,19 +2909,19 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-29T04:00:08.256Z",
+      "collectedAt": "2025-12-29T06:00:07.979Z",
       "clanStats": {
-        "totalAttacks": 11,
-        "totalStars": 26,
-        "destructionPercentage": 89.36363636363636,
-        "attacksUsed": 11,
+        "totalAttacks": 13,
+        "totalStars": 29,
+        "destructionPercentage": 84.3076923076923,
+        "attacksUsed": 13,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 11,
-        "totalStars": 25,
-        "destructionPercentage": 84.63636363636364,
-        "attacksUsed": 11,
+        "totalAttacks": 12,
+        "totalStars": 27,
+        "destructionPercentage": 83.66666666666667,
+        "attacksUsed": 12,
         "attacksAvailable": 30
       },
       "members": [
@@ -3026,7 +3026,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3058,7 +3058,7 @@
           "name": "Roni",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -3408,6 +3408,39 @@
           "destructionPercentage": 100,
           "order": 22,
           "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#GURYLQLJG",
+          "defenderName": "Didi_M",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#YCVUR9YPJ",
+          "defenderName": "the wolf killer",
+          "stars": 1,
+          "destructionPercentage": 34,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#2R9ULURQ",
+          "attackerName": "Roni",
+          "defenderTag": "#882UYU9P",
+          "defenderName": "Pig Grease 2.3",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 25,
+          "isOurClan": false
         }
       ]
     }
