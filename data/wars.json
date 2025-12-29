@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-29T06:00:08.001Z",
+  "lastUpdated": "2025-12-29T08:00:12.700Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,7 +2909,7 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-29T06:00:07.979Z",
+      "collectedAt": "2025-12-29T08:00:12.681Z",
       "clanStats": {
         "totalAttacks": 13,
         "totalStars": 29,
@@ -2918,10 +2918,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 12,
-        "totalStars": 27,
-        "destructionPercentage": 83.66666666666667,
-        "attacksUsed": 12,
+        "totalAttacks": 15,
+        "totalStars": 32,
+        "destructionPercentage": 82.6,
+        "attacksUsed": 15,
         "attacksAvailable": 30
       },
       "members": [
@@ -3058,7 +3058,7 @@
           "name": "Roni",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3114,7 +3114,7 @@
           "name": "ARiZU",
           "townhallLevel": 16,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3440,6 +3440,39 @@
           "stars": 2,
           "destructionPercentage": 73,
           "order": 25,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#2R9ULURQ",
+          "attackerName": "Roni",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 59,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#QVCQLCPQV",
+          "attackerName": "ARiZU",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#QVCQLCPQV",
+          "attackerName": "ARiZU",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 28,
           "isOurClan": false
         }
       ]
