@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-29T08:00:12.700Z",
+  "lastUpdated": "2025-12-29T10:00:07.413Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,7 +2909,7 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-29T08:00:12.681Z",
+      "collectedAt": "2025-12-29T10:00:07.393Z",
       "clanStats": {
         "totalAttacks": 13,
         "totalStars": 29,
@@ -2918,10 +2918,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 15,
-        "totalStars": 32,
-        "destructionPercentage": 82.6,
-        "attacksUsed": 15,
+        "totalAttacks": 16,
+        "totalStars": 34,
+        "destructionPercentage": 82.5,
+        "attacksUsed": 16,
         "attacksAvailable": 30
       },
       "members": [
@@ -3130,7 +3130,7 @@
           "name": "XWT",
           "townhallLevel": 15,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -3473,6 +3473,17 @@
           "stars": 1,
           "destructionPercentage": 80,
           "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#G9982CVP2",
+          "attackerName": "XWT",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 29,
           "isOurClan": false
         }
       ]
