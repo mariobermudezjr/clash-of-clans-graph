@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-12-28T22:00:08.186Z",
+  "lastUpdated": "2025-12-29T00:00:08.681Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -2909,19 +2909,19 @@
       "preparationStartTime": "20251227T175729.000Z",
       "startTime": "20251228T165729.000Z",
       "endTime": "20251229T165729.000Z",
-      "collectedAt": "2025-12-28T22:00:08.167Z",
+      "collectedAt": "2025-12-29T00:00:08.659Z",
       "clanStats": {
-        "totalAttacks": 7,
-        "totalStars": 16,
-        "destructionPercentage": 87.57142857142857,
-        "attacksUsed": 7,
+        "totalAttacks": 9,
+        "totalStars": 21,
+        "destructionPercentage": 87.55555555555556,
+        "attacksUsed": 9,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 9,
-        "totalStars": 20,
-        "destructionPercentage": 81.66666666666667,
-        "attacksUsed": 9,
+        "totalAttacks": 11,
+        "totalStars": 25,
+        "destructionPercentage": 84.63636363636364,
+        "attacksUsed": 11,
         "attacksAvailable": 30
       },
       "members": [
@@ -3018,7 +3018,7 @@
           "name": "cosmicity",
           "townhallLevel": 14,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3122,7 +3122,7 @@
           "name": "TOM3",
           "townhallLevel": 15,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3341,6 +3341,50 @@
           "stars": 1,
           "destructionPercentage": 93,
           "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#GURYLQLJG",
+          "defenderName": "Didi_M",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 17,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#Q0G8JQUQU",
+          "defenderName": "eliz",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "isOurClan": true
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#LUUYLL2Q0",
+          "attackerName": "TOM3",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20251229t165729.000z--2yguqgy90--22gc9c9r0",
+          "attackerTag": "#LUUYLL2Q0",
+          "attackerName": "TOM3",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 20,
           "isOurClan": false
         }
       ]
