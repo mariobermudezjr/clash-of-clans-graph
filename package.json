@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "collect": "tsx scripts/collector.ts",
+    "collect-cwl": "tsx scripts/league-collector.ts",
     "scheduler": "tsx scripts/scheduler.ts",
     "test-sample": "tsx scripts/test-with-sample-data.ts",
     "add-samples": "tsx scripts/add-more-samples.ts",

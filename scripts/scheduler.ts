@@ -1,6 +1,7 @@
 import cron from 'node-cron';
 import { scheduleJob, Job } from 'node-schedule';
 import { collectWarData } from './collector';
+import { collectLeagueWarData } from './league-collector';
 import { parseCoCTimestamp, formatDate } from '../lib/date-utils';
 
 // Track scheduled jobs
@@ -73,30 +74,56 @@ async function scheduleSmartCollection() {
 }
 
 /**
+ * Schedule CWL collection - runs on days 1-8 of each month, every 6 hours
+ */
+async function scheduleCWLCollection() {
+  try {
+    console.log('Running CWL collection check...');
+    await collectLeagueWarData();
+  } catch (error) {
+    console.error('Error during CWL collection:', error);
+  }
+}
+
+/**
  * Start the scheduler
  */
 export function startScheduler() {
   console.log('Starting Clash of Clans War Data Scheduler...');
   console.log('');
 
-  // Daily check at 9 AM
-  console.log('Setting up daily check at 9:00 AM...');
+  // Daily check at 9 AM for regular wars
+  console.log('Setting up daily check at 9:00 AM for regular wars...');
   cron.schedule('0 9 * * *', async () => {
     console.log('\n' + '='.repeat(60));
-    console.log('DAILY SCHEDULED CHECK');
+    console.log('DAILY SCHEDULED CHECK - REGULAR WARS');
     console.log('='.repeat(60));
     await scheduleSmartCollection();
   });
 
-  // Also run immediately on startup
-  console.log('Running initial collection...');
+  // CWL collection: Every 6 hours on days 1-8 of each month
+  // Cron pattern: "0 */6 1-8 * *" = At minute 0 past every 6th hour on days 1-8
+  console.log('Setting up CWL check: Every 6 hours on days 1-8 of each month...');
+  cron.schedule('0 */6 1-8 * *', async () => {
+    console.log('\n' + '='.repeat(60));
+    console.log('CWL SCHEDULED CHECK');
+    console.log('='.repeat(60));
+    await scheduleCWLCollection();
+  });
+
+  // Run initial collections on startup
+  console.log('Running initial collections...');
+  console.log('\n--- Regular Wars ---');
   scheduleSmartCollection();
+
+  console.log('\n--- CWL Wars ---');
+  scheduleCWLCollection();
 
   // Keep the process alive
   console.log('');
   console.log('Scheduler is running. Press Ctrl+C to stop.');
-  console.log('Daily checks: Every day at 9:00 AM');
-  console.log('Smart scheduling: Automatically schedules after war detection');
+  console.log('Regular wars: Daily checks at 9:00 AM + smart scheduling');
+  console.log('CWL: Every 6 hours on days 1-8 of each month');
 }
 
 // Handle graceful shutdown
