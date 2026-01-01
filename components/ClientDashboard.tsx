@@ -10,6 +10,7 @@ import { MemberAttacksChart } from './graphs/MemberAttacksChart';
 import { MemberStarsChart } from './graphs/MemberStarsChart';
 import { Card } from './ui/Card';
 import { TabNavigation } from './ui/TabNavigation';
+import { LeagueWarsDashboard } from './LeagueWarsDashboard';
 
 function DashboardContent() {
   const [wars, setWars] = useState<War[]>([]);
@@ -98,7 +99,7 @@ function DashboardContent() {
     <div className="max-w-7xl mx-auto">
       <Header clanName={clanName} lastUpdated={lastUpdated} />
 
-      <TabNavigation defaultTab="graphs">
+      <TabNavigation defaultTab="league-wars">
         {(activeTab) => (
           <>
             {activeTab === 'stats' && (
@@ -114,6 +115,10 @@ function DashboardContent() {
                 <AttacksPerWarChart wars={wars} loading={loading} />
                 <StarsPerAttackChart wars={wars} loading={loading} />
               </div>
+            )}
+
+            {activeTab === 'league-wars' && (
+              <LeagueWarsDashboard />
             )}
           </>
         )}
