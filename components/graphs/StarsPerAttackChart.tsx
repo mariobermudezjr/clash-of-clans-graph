@@ -104,7 +104,7 @@ export function StarsPerAttackChart({ wars, loading = false }: StarsPerAttackCha
         </div>
         <div className="flex items-center gap-1 ml-4">
           <div className="w-8 h-0.5 bg-primary border-t-2 border-dashed" />
-          <span>Best (2.5)</span>
+          <span>Best (3.0)</span>
         </div>
       </div>
       <div className="h-80">
@@ -146,12 +146,12 @@ export function StarsPerAttackChart({ wars, loading = false }: StarsPerAttackCha
               }}
             />
             <ReferenceLine
-              y={2.5}
+              y={3.0}
               stroke={colors.primary}
               strokeDasharray="6 4"
               strokeWidth={2}
               label={{
-                value: 'Best (2.5)',
+                value: 'Best (3.0)',
                 position: 'right',
                 fill: colors.primary,
                 fontSize: 12,
