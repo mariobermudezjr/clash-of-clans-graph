@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-02T10:00:14.807Z",
+  "lastUpdated": "2026-01-02T12:00:14.669Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-02T10:00:14.800Z",
+      "collectedAt": "2026-01-02T12:00:14.662Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-02T10:00:14.799Z",
+          "collectedAt": "2026-01-02T12:00:14.661Z",
           "clanStats": {
-            "totalAttacks": 4,
-            "totalStars": 12,
+            "totalAttacks": 6,
+            "totalStars": 18,
             "destructionPercentage": 100,
-            "attacksUsed": 4,
+            "attacksUsed": 6,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 5,
-            "destructionPercentage": 66,
-            "attacksUsed": 3,
+            "totalAttacks": 8,
+            "totalStars": 14,
+            "destructionPercentage": 65.875,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "members": [
@@ -195,7 +195,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -299,7 +299,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -339,7 +339,7 @@
               "name": "六王更替",
               "townhallLevel": 17,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -371,7 +371,7 @@
               "name": "林小亮",
               "townhallLevel": 15,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -395,7 +395,7 @@
               "name": "abcdefg",
               "townhallLevel": 15,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -443,7 +443,7 @@
               "name": "法術公場",
               "townhallLevel": 15,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -467,7 +467,7 @@
               "name": "Season5046",
               "townhallLevel": 14,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -636,6 +636,83 @@
               "destructionPercentage": 100,
               "order": 7,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#LRQLY9J",
+              "attackerName": "Season5046",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 2,
+              "destructionPercentage": 53,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#G890YVCL9",
+              "attackerName": "法術公場",
+              "defenderTag": "#G2LJVQUPU",
+              "defenderName": "jisn",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#L0PUYGVCJ",
+              "defenderName": "華本營",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#8P0RJ9RGV",
+              "attackerName": "林小亮",
+              "defenderTag": "#8PRPV9U8J",
+              "defenderName": "DoubleTap00",
+              "stars": 2,
+              "destructionPercentage": 55,
+              "order": 11,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#PYL8QYU9R",
+              "attackerName": "abcdefg",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 2,
+              "destructionPercentage": 64,
+              "order": 12,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#GGU2UP80V",
+              "defenderName": "5468",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#Q9L8UPUR2",
+              "attackerName": "六王更替",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 1,
+              "destructionPercentage": 89,
+              "order": 14,
+              "isOurClan": false
             }
           ]
         },
@@ -652,7 +729,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-02T10:00:14.800Z",
+          "collectedAt": "2026-01-02T12:00:14.662Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
