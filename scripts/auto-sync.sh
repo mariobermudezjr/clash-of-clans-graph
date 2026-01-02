@@ -22,6 +22,7 @@ fi
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_FILE="$PROJECT_DIR/logs/auto-sync.log"
 DATA_FILE="$PROJECT_DIR/data/wars.json"
+CWL_DATA_FILE="$PROJECT_DIR/data/leaguewars.json"
 
 # Create logs directory if it doesn't exist
 mkdir -p "$PROJECT_DIR/logs"
@@ -46,35 +47,73 @@ else
     log "WARNING: Git pull failed or had conflicts"
 fi
 
-# Run the collector
+# Run the regular war collector
 log "Running war data collector..."
 if npm run collect 2>&1 | tee -a "$LOG_FILE"; then
-    log "Data collection completed successfully"
+    log "Regular war data collection completed successfully"
 else
-    log "ERROR: Data collection failed"
+    log "ERROR: Regular war data collection failed"
     exit 1
 fi
 
-# Check if wars.json has changed
-if git diff --quiet "$DATA_FILE"; then
-    log "No changes detected in wars.json - skipping commit"
+# Run the CWL collector
+log "Running CWL data collector..."
+if npm run collect-cwl 2>&1 | tee -a "$LOG_FILE"; then
+    log "CWL data collection completed successfully"
+else
+    log "ERROR: CWL data collection failed"
+    exit 1
+fi
+
+# Check if either wars.json or leaguewars.json has changed
+WARS_CHANGED=false
+CWL_CHANGED=false
+
+if ! git diff --quiet "$DATA_FILE"; then
+    WARS_CHANGED=true
+    log "Changes detected in wars.json"
+fi
+
+if ! git diff --quiet "$CWL_DATA_FILE"; then
+    CWL_CHANGED=true
+    log "Changes detected in leaguewars.json"
+fi
+
+if [ "$WARS_CHANGED" = false ] && [ "$CWL_CHANGED" = false ]; then
+    log "No changes detected in data files - skipping commit"
     log "Auto-sync completed (no changes)"
     exit 0
 fi
 
-log "Changes detected in wars.json"
-
 # Stage the changes
 log "Staging changes..."
-git add "$DATA_FILE"
+if [ "$WARS_CHANGED" = true ]; then
+    git add "$DATA_FILE"
+fi
+if [ "$CWL_CHANGED" = true ]; then
+    git add "$CWL_DATA_FILE"
+fi
 
-# Get war stats for commit message
-TOTAL_WARS=$(jq '.wars | length' "$DATA_FILE" 2>/dev/null || echo "unknown")
-LAST_UPDATED=$(jq -r '.lastUpdated' "$DATA_FILE" 2>/dev/null || date -Iseconds)
+# Get stats for commit message
+COMMIT_MSG_PARTS=()
 
-# Create commit
-COMMIT_MSG="Update war data - $TOTAL_WARS total wars
+if [ "$WARS_CHANGED" = true ]; then
+    TOTAL_WARS=$(jq '.wars | length' "$DATA_FILE" 2>/dev/null || echo "unknown")
+    COMMIT_MSG_PARTS+=("Regular wars: $TOTAL_WARS total")
+fi
 
+if [ "$CWL_CHANGED" = true ]; then
+    TOTAL_CWL_SEASONS=$(jq '.seasons | length' "$CWL_DATA_FILE" 2>/dev/null || echo "unknown")
+    TOTAL_CWL_WARS=$(jq '.totalWars' "$CWL_DATA_FILE" 2>/dev/null || echo "unknown")
+    COMMIT_MSG_PARTS+=("CWL: $TOTAL_CWL_SEASONS seasons, $TOTAL_CWL_WARS wars")
+fi
+
+LAST_UPDATED=$(date -Iseconds)
+
+# Create commit message
+COMMIT_MSG="Update war data
+
+${COMMIT_MSG_PARTS[*]}
 Data collected at: $LAST_UPDATED
 
 🤖 Auto-synced from Raspberry Pi"

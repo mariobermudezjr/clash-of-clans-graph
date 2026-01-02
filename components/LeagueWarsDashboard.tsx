@@ -166,7 +166,7 @@ function LeagueWarsDashboardContent() {
       </Card>
 
       {/* Reuse existing chart components */}
-      <MemberAttacksChart wars={warsForCharts} loading={loading} />
+      <MemberAttacksChart wars={warsForCharts} loading={loading} isCWL={true} />
       <MemberStarsChart wars={warsForCharts} loading={loading} />
       <AttacksPerWarChart wars={warsForCharts} loading={loading} />
       <StarsPerAttackChart wars={warsForCharts} loading={loading} />
