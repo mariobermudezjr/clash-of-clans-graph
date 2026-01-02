@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-02T12:00:14.669Z",
+  "lastUpdated": "2026-01-02T14:00:15.661Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-02T12:00:14.662Z",
+      "collectedAt": "2026-01-02T14:00:15.653Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-02T12:00:14.661Z",
+          "collectedAt": "2026-01-02T14:00:15.653Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 18,
+            "totalAttacks": 7,
+            "totalStars": 21,
             "destructionPercentage": 100,
-            "attacksUsed": 6,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 8,
-            "totalStars": 14,
-            "destructionPercentage": 65.875,
-            "attacksUsed": 8,
+            "totalAttacks": 11,
+            "totalStars": 16,
+            "destructionPercentage": 62.81818181818182,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "members": [
@@ -163,7 +163,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -387,7 +387,7 @@
               "name": "Kuan",
               "townhallLevel": 15,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -419,7 +419,7 @@
               "name": "W.W",
               "townhallLevel": 15,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -555,7 +555,7 @@
               "name": "年愁的今夜",
               "townhallLevel": 12,
               "mapPosition": 50,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -713,6 +713,50 @@
               "destructionPercentage": 89,
               "order": 14,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#GYURCGJRC",
+              "attackerName": "年愁的今夜",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 0,
+              "destructionPercentage": 31,
+              "order": 15,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#8GRU08QJ9",
+              "attackerName": "Kuan",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 16,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#Q9YP2V80U",
+              "defenderName": "xuan",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#Q2V8RG98R",
+              "attackerName": "W.W",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 0,
+              "destructionPercentage": 39,
+              "order": 18,
+              "isOurClan": false
             }
           ]
         },
@@ -729,7 +773,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-02T12:00:14.662Z",
+          "collectedAt": "2026-01-02T14:00:15.653Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
