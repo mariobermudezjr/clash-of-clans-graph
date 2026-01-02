@@ -93,14 +93,18 @@ export function StarsPerAttackChart({ wars, loading = false }: StarsPerAttackCha
 
   return (
     <Card title="Average Stars Per Attack">
-      <div className="mb-3 flex items-center gap-2 text-sm text-textMuted">
+      <div className="mb-3 flex flex-wrap items-center gap-2 text-sm text-textMuted">
         <div className="flex items-center gap-1">
           <div className="w-3 h-3 bg-secondary rounded-full" />
           <span>Your Performance</span>
         </div>
         <div className="flex items-center gap-1 ml-4">
           <div className="w-8 h-0.5 bg-textMuted border-t-2 border-dashed" />
-          <span>2.0 Benchmark</span>
+          <span>Good (2.0)</span>
+        </div>
+        <div className="flex items-center gap-1 ml-4">
+          <div className="w-8 h-0.5 bg-primary border-t-2 border-dashed" />
+          <span>Best (2.5)</span>
         </div>
       </div>
       <div className="h-80">
@@ -138,6 +142,18 @@ export function StarsPerAttackChart({ wars, loading = false }: StarsPerAttackCha
                 value: 'Good (2.0)',
                 position: 'right',
                 fill: colors.textMuted,
+                fontSize: 12,
+              }}
+            />
+            <ReferenceLine
+              y={2.5}
+              stroke={colors.primary}
+              strokeDasharray="6 4"
+              strokeWidth={2}
+              label={{
+                value: 'Best (2.5)',
+                position: 'right',
+                fill: colors.primary,
                 fontSize: 12,
               }}
             />
