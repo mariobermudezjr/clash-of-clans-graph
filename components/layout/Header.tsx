@@ -4,9 +4,11 @@ import { CLAN_TAG } from '@/lib/constants';
 interface HeaderProps {
   clanName?: string;
   lastUpdated?: string;
+  cwlLastUpdated?: string;
+  activeTab?: string;
 }
 
-export function Header({ clanName, lastUpdated }: HeaderProps) {
+export function Header({ clanName, lastUpdated, cwlLastUpdated, activeTab }: HeaderProps) {
   const formatLastUpdated = (dateString: string) => {
     const date = new Date(dateString);
     const formattedDate = date.toLocaleDateString('en-US', {
@@ -41,11 +43,17 @@ export function Header({ clanName, lastUpdated }: HeaderProps) {
                 'Loading clan information...'
               )}
             </p>
-            {lastUpdated && (
-              <p className="text-textMuted text-xs">
-                Last updated: {formatLastUpdated(lastUpdated)}
-              </p>
-            )}
+            {(() => {
+              // Show appropriate lastUpdated based on active tab
+              const displayTimestamp = activeTab === 'league-wars' ? cwlLastUpdated : lastUpdated;
+              const tabLabel = activeTab === 'league-wars' ? 'CWL' : 'Wars';
+
+              return displayTimestamp && (
+                <p className="text-textMuted text-xs">
+                  {tabLabel} last updated: {formatLastUpdated(displayTimestamp)}
+                </p>
+              );
+            })()}
           </div>
         </div>
       </div>

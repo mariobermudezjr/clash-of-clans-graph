@@ -17,6 +17,8 @@ function DashboardContent() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<string | undefined>(undefined);
+  const [cwlLastUpdated, setCwlLastUpdated] = useState<string | undefined>(undefined);
+  const [activeTab, setActiveTab] = useState<string>('league-wars');
 
   // Fetch wars from API
   useEffect(() => {
@@ -43,6 +45,24 @@ function DashboardContent() {
     fetchWars();
   }, []);
 
+  // Fetch CWL data for lastUpdated timestamp
+  useEffect(() => {
+    async function fetchCWLData() {
+      try {
+        const response = await fetch('/api/league-wars');
+        const data = await response.json();
+
+        if (data.success && data.stats) {
+          setCwlLastUpdated(data.stats.lastUpdated);
+        }
+      } catch (err) {
+        console.error('Error fetching CWL data:', err);
+      }
+    }
+
+    fetchCWLData();
+  }, []);
+
   // Get clan name from first war
   const clanName = wars.length > 0 ? wars[0].clanName : undefined;
 
@@ -50,7 +70,7 @@ function DashboardContent() {
   if (error && !loading) {
     return (
       <div className="max-w-7xl mx-auto">
-        <Header lastUpdated={lastUpdated} />
+        <Header lastUpdated={lastUpdated} cwlLastUpdated={cwlLastUpdated} activeTab={activeTab} />
         <Card>
           <div className="flex flex-col items-center justify-center py-12">
             <div className="text-6xl mb-4">⚠️</div>
@@ -72,7 +92,7 @@ function DashboardContent() {
   if (!loading && wars.length === 0) {
     return (
       <div className="max-w-7xl mx-auto">
-        <Header clanName={clanName} lastUpdated={lastUpdated} />
+        <Header clanName={clanName} lastUpdated={lastUpdated} cwlLastUpdated={cwlLastUpdated} activeTab={activeTab} />
         <Card>
           <div className="flex flex-col items-center justify-center py-12">
             <div className="text-6xl mb-4">🎯</div>
@@ -97,18 +117,18 @@ function DashboardContent() {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <Header clanName={clanName} lastUpdated={lastUpdated} />
+      <Header clanName={clanName} lastUpdated={lastUpdated} cwlLastUpdated={cwlLastUpdated} activeTab={activeTab} />
 
-      <TabNavigation defaultTab="league-wars">
-        {(activeTab) => (
+      <TabNavigation defaultTab="league-wars" onTabChange={setActiveTab}>
+        {(currentTab) => (
           <>
-            {activeTab === 'stats' && (
+            {currentTab === 'stats' && (
               <div className="py-6">
                 <StatsOverview wars={wars} loading={loading} />
               </div>
             )}
 
-            {activeTab === 'graphs' && (
+            {currentTab === 'graphs' && (
               <div className="space-y-6 py-6">
                 <MemberAttacksChart wars={wars} loading={loading} />
                 <MemberStarsChart wars={wars} loading={loading} />
@@ -117,7 +137,7 @@ function DashboardContent() {
               </div>
             )}
 
-            {activeTab === 'league-wars' && (
+            {currentTab === 'league-wars' && (
               <LeagueWarsDashboard />
             )}
           </>
