@@ -163,7 +163,9 @@ export function transformLeagueWar(
   );
 
   // Use warTag as ID (it's already unique for CWL wars)
-  const warId = apiResponse.warTag || `unknown-${Date.now()}`;
+  // If warTag is not available (e.g., during preparation), create a stable ID
+  // based on season, round, and opponent to prevent duplicates
+  const warId = apiResponse.warTag || `${season}-round${roundNumber}-${opponentClan.tag}`;
 
   const attacks = extractAttacks(
     warId,
