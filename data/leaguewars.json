@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-03T04:00:14.722Z",
+  "lastUpdated": "2026-01-03T06:00:14.661Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-03T04:00:14.713Z",
+      "collectedAt": "2026-01-03T06:00:14.652Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-03T04:00:14.713Z",
+          "collectedAt": "2026-01-03T06:00:14.651Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 46,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-03T04:00:14.713Z",
+          "collectedAt": "2026-01-03T06:00:14.652Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
