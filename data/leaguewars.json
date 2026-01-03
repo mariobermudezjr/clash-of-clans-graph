@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-03T18:00:15.259Z",
+  "lastUpdated": "2026-01-03T20:00:14.713Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-03T18:00:15.251Z",
+      "collectedAt": "2026-01-03T20:00:14.704Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-03T18:00:15.250Z",
+          "collectedAt": "2026-01-03T20:00:14.703Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,12 +1048,12 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-03T18:00:15.251Z",
+          "collectedAt": "2026-01-03T20:00:14.703Z",
           "clanStats": {
-            "totalAttacks": 14,
+            "totalAttacks": 15,
             "totalStars": 28,
-            "destructionPercentage": 81.5,
-            "attacksUsed": 14,
+            "destructionPercentage": 79.13333333333334,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -1261,7 +1261,7 @@
               "name": "Alpha",
               "townhallLevel": 15,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2029,6 +2029,17 @@
               "destructionPercentage": 77,
               "order": 44,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#28LJL9YJ8",
+              "attackerName": "Alpha",
+              "defenderTag": "#GPYUCG8Q8",
+              "defenderName": "²⁵967777516767",
+              "stars": 0,
+              "destructionPercentage": 46,
+              "order": 45,
+              "isOurClan": true
             }
           ]
         },
@@ -2045,7 +2056,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-03T18:00:15.251Z",
+          "collectedAt": "2026-01-03T20:00:14.704Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
