@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-03T14:00:15.100Z",
+  "lastUpdated": "2026-01-03T16:00:14.808Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-03T14:00:15.092Z",
+      "collectedAt": "2026-01-03T16:00:14.800Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-03T14:00:15.091Z",
+          "collectedAt": "2026-01-03T16:00:14.799Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,12 +1048,12 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-03T14:00:15.092Z",
+          "collectedAt": "2026-01-03T16:00:14.800Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 13,
-            "destructionPercentage": 97.8,
-            "attacksUsed": 5,
+            "totalAttacks": 11,
+            "totalStars": 22,
+            "destructionPercentage": 83.27272727272727,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -1141,7 +1141,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1149,7 +1149,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1157,7 +1157,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1181,7 +1181,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1285,7 +1285,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1293,7 +1293,7 @@
               "name": "STL_Braden",
               "townhallLevel": 14,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1930,6 +1930,72 @@
               "destructionPercentage": 89,
               "order": 35,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#QRJGG80QP",
+              "defenderName": "ث00967777516767",
+              "stars": 2,
+              "destructionPercentage": 90,
+              "order": 36,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#GPLL9JP09",
+              "defenderName": "¹⁶967777516767",
+              "stars": 1,
+              "destructionPercentage": 67,
+              "order": 37,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#QQ8QGY20J",
+              "defenderName": "ر00967777516767",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 38,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#L8GL8GG",
+              "attackerName": "STL_Braden",
+              "defenderTag": "#GQ20C020Q",
+              "defenderName": "²⁴967777516767",
+              "stars": 1,
+              "destructionPercentage": 46,
+              "order": 39,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#G2CCGC002",
+              "defenderName": "ذ00967777516767",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 40,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#G9GU0LJ82",
+              "defenderName": "²⁸967777516767",
+              "stars": 0,
+              "destructionPercentage": 38,
+              "order": 41,
+              "isOurClan": true
             }
           ]
         },
@@ -1946,7 +2012,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-03T14:00:15.092Z",
+          "collectedAt": "2026-01-03T16:00:14.800Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
