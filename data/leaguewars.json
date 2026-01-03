@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-03T16:00:14.808Z",
+  "lastUpdated": "2026-01-03T18:00:15.259Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-03T16:00:14.800Z",
+      "collectedAt": "2026-01-03T18:00:15.251Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-03T16:00:14.799Z",
+          "collectedAt": "2026-01-03T18:00:15.250Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,12 +1048,12 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-03T16:00:14.800Z",
+          "collectedAt": "2026-01-03T18:00:15.251Z",
           "clanStats": {
-            "totalAttacks": 11,
-            "totalStars": 22,
-            "destructionPercentage": 83.27272727272727,
-            "attacksUsed": 11,
+            "totalAttacks": 14,
+            "totalStars": 28,
+            "destructionPercentage": 81.5,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -1229,7 +1229,7 @@
               "name": "DEVIL KING",
               "townhallLevel": 17,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1269,7 +1269,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1277,7 +1277,7 @@
               "name": "cosmicity",
               "townhallLevel": 14,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1996,6 +1996,39 @@
               "destructionPercentage": 38,
               "order": 41,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#G880P29JC",
+              "defenderName": "²⁷967777516767",
+              "stars": 1,
+              "destructionPercentage": 48,
+              "order": 42,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#PP8GQ9QUJ",
+              "attackerName": "DEVIL KING",
+              "defenderTag": "#GLP0RL92U",
+              "defenderName": "¹⁹967777516767",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 43,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round2-#2GPGRPPJ2",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#GPLQ2UJ2Q",
+              "defenderName": "²⁶967777516767",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 44,
+              "isOurClan": true
             }
           ]
         },
@@ -2012,7 +2045,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-03T16:00:14.800Z",
+          "collectedAt": "2026-01-03T18:00:15.251Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
