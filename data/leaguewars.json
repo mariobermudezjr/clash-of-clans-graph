@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-02T22:00:14.903Z",
+  "lastUpdated": "2026-01-03T00:00:51.470Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-02T22:00:14.894Z",
+      "collectedAt": "2026-01-03T00:00:51.459Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,12 +62,12 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-02T22:00:14.894Z",
+          "collectedAt": "2026-01-03T00:00:51.459Z",
           "clanStats": {
-            "totalAttacks": 11,
-            "totalStars": 32,
-            "destructionPercentage": 98.45454545454545,
-            "attacksUsed": 11,
+            "totalAttacks": 15,
+            "totalStars": 42,
+            "destructionPercentage": 98,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -83,7 +83,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -187,7 +187,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -275,7 +275,7 @@
               "name": "Alpha",
               "townhallLevel": 15,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -291,7 +291,7 @@
               "name": "cosmicity",
               "townhallLevel": 14,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -911,6 +911,50 @@
               "destructionPercentage": 100,
               "order": 32,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#89QCQPJR2",
+              "defenderName": "Ihshshdjdj",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 33,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#28LJL9YJ8",
+              "attackerName": "Alpha",
+              "defenderTag": "#L0LJPPCQ0",
+              "defenderName": "夢幻地獄死神",
+              "stars": 2,
+              "destructionPercentage": 95,
+              "order": 34,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#G888C9P2G",
+              "defenderName": "瑪頤2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 35,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round1-#2G8PJR2GP",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#2JJ2QYUCV",
+              "defenderName": "三歲",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 36,
+              "isOurClan": true
             }
           ]
         },
@@ -927,7 +971,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-02T22:00:14.894Z",
+          "collectedAt": "2026-01-03T00:00:51.459Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
