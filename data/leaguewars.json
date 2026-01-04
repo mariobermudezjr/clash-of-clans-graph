@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-04T18:00:20.591Z",
+  "lastUpdated": "2026-01-04T20:00:15.213Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-04T18:00:20.581Z",
+      "collectedAt": "2026-01-04T20:00:15.204Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-04T18:00:20.580Z",
+          "collectedAt": "2026-01-04T20:00:15.203Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-04T18:00:20.581Z",
+          "collectedAt": "2026-01-04T20:00:15.203Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,19 +2100,19 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-04T18:00:20.581Z",
+          "collectedAt": "2026-01-04T20:00:15.204Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 15,
-            "destructionPercentage": 94.66666666666667,
-            "attacksUsed": 6,
+            "totalAttacks": 7,
+            "totalStars": 17,
+            "destructionPercentage": 93.14285714285714,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 25,
-            "totalStars": 51,
-            "destructionPercentage": 75.12,
-            "attacksUsed": 25,
+            "totalAttacks": 26,
+            "totalStars": 53,
+            "destructionPercentage": 74.92307692307692,
+            "attacksUsed": 26,
             "attacksAvailable": 30
           },
           "members": [
@@ -2177,7 +2177,7 @@
               "name": "Magilla",
               "townhallLevel": 17,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2537,7 +2537,7 @@
               "name": "TheNewFreshMeat",
               "townhallLevel": 14,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2938,6 +2938,28 @@
               "destructionPercentage": 45,
               "order": 31,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#GQQJ29LGG",
+              "defenderName": "Haydos",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 32,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#GC8QYJUPP",
+              "attackerName": "TheNewFreshMeat",
+              "defenderTag": "#V08YRP2V",
+              "defenderName": "Rajab",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 33,
+              "isOurClan": false
             }
           ]
         },
@@ -2954,7 +2976,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-04T18:00:20.581Z",
+          "collectedAt": "2026-01-04T20:00:15.204Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
