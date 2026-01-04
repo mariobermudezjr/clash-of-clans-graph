@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-04T16:00:19.953Z",
+  "lastUpdated": "2026-01-04T18:00:20.591Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-04T16:00:19.944Z",
+      "collectedAt": "2026-01-04T18:00:20.581Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-04T16:00:19.943Z",
+          "collectedAt": "2026-01-04T18:00:20.580Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-04T16:00:19.944Z",
+          "collectedAt": "2026-01-04T18:00:20.581Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,19 +2100,19 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-04T16:00:19.944Z",
+          "collectedAt": "2026-01-04T18:00:20.581Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 13,
-            "destructionPercentage": 93.8,
-            "attacksUsed": 5,
+            "totalAttacks": 6,
+            "totalStars": 15,
+            "destructionPercentage": 94.66666666666667,
+            "attacksUsed": 6,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 24,
-            "totalStars": 50,
-            "destructionPercentage": 76.375,
-            "attacksUsed": 24,
+            "totalAttacks": 25,
+            "totalStars": 51,
+            "destructionPercentage": 75.12,
+            "attacksUsed": 25,
             "attacksAvailable": 30
           },
           "members": [
@@ -2233,7 +2233,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2473,7 +2473,7 @@
               "name": "Sobmaster",
               "townhallLevel": 16,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2916,6 +2916,28 @@
               "destructionPercentage": 100,
               "order": 29,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#GCJ8CCL9U",
+              "defenderName": "Sobmaster",
+              "stars": 2,
+              "destructionPercentage": 99,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#GCJ8CCL9U",
+              "attackerName": "Sobmaster",
+              "defenderTag": "#8CUYLRL0",
+              "defenderName": "B-A-M-C-I-S",
+              "stars": 1,
+              "destructionPercentage": 45,
+              "order": 31,
+              "isOurClan": false
             }
           ]
         },
@@ -2932,7 +2954,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-04T16:00:19.944Z",
+          "collectedAt": "2026-01-04T18:00:20.581Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
