@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-04T20:00:15.213Z",
+  "lastUpdated": "2026-01-04T22:00:14.947Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-04T20:00:15.204Z",
+      "collectedAt": "2026-01-04T22:00:14.938Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-04T20:00:15.203Z",
+          "collectedAt": "2026-01-04T22:00:14.937Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-04T20:00:15.203Z",
+          "collectedAt": "2026-01-04T22:00:14.938Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,12 +2100,12 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-04T20:00:15.204Z",
+          "collectedAt": "2026-01-04T22:00:14.938Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 17,
-            "destructionPercentage": 93.14285714285714,
-            "attacksUsed": 7,
+            "totalAttacks": 11,
+            "totalStars": 29,
+            "destructionPercentage": 95.63636363636364,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -2281,7 +2281,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2289,7 +2289,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 15,
               "mapPosition": 27,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2321,7 +2321,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2337,7 +2337,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2960,6 +2960,50 @@
               "destructionPercentage": 70,
               "order": 33,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#Q0QV00LLY",
+              "defenderName": "silent",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 34,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#QCV92ULLP",
+              "defenderName": "Bhullar Gurbir",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 35,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#YR9QGRCG9",
+              "defenderName": "TransGenderHo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 36,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#R28QCR9V0",
+              "defenderName": "sixseven",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 37,
+              "isOurClan": true
             }
           ]
         },
@@ -2976,7 +3020,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-04T20:00:15.204Z",
+          "collectedAt": "2026-01-04T22:00:14.938Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
