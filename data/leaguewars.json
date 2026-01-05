@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T18:00:15.374Z",
+  "lastUpdated": "2026-01-05T20:00:15.748Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T18:00:15.362Z",
+      "collectedAt": "2026-01-05T20:00:15.738Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T18:00:15.361Z",
+          "collectedAt": "2026-01-05T20:00:15.737Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T18:00:15.361Z",
+          "collectedAt": "2026-01-05T20:00:15.737Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T18:00:15.362Z",
+          "collectedAt": "2026-01-05T20:00:15.738Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,12 +3141,12 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T18:00:15.362Z",
+          "collectedAt": "2026-01-05T20:00:15.738Z",
           "clanStats": {
-            "totalAttacks": 12,
-            "totalStars": 35,
-            "destructionPercentage": 99.58333333333333,
-            "attacksUsed": 12,
+            "totalAttacks": 14,
+            "totalStars": 41,
+            "destructionPercentage": 99.64285714285714,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -3282,7 +3282,7 @@
               "name": "DEVIL KING",
               "townhallLevel": 17,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3362,7 +3362,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3858,6 +3858,28 @@
               "destructionPercentage": 73,
               "order": 20,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#PP8GQ9QUJ",
+              "attackerName": "DEVIL KING",
+              "defenderTag": "#29RQ2UYUG",
+              "defenderName": "TiGrE",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#GU002UGLQ",
+              "defenderName": "tobots",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": true
             }
           ]
         },
@@ -3874,7 +3896,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T18:00:15.362Z",
+          "collectedAt": "2026-01-05T20:00:15.738Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
