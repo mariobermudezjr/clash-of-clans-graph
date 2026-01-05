@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T12:00:17.633Z",
+  "lastUpdated": "2026-01-05T14:00:16.534Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T12:00:17.611Z",
+      "collectedAt": "2026-01-05T14:00:16.525Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T12:00:17.607Z",
+          "collectedAt": "2026-01-05T14:00:16.524Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T12:00:17.608Z",
+          "collectedAt": "2026-01-05T14:00:16.524Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T12:00:17.609Z",
+          "collectedAt": "2026-01-05T14:00:16.525Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,19 +3141,19 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T12:00:17.610Z",
+          "collectedAt": "2026-01-05T14:00:16.525Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 14,
-            "destructionPercentage": 99,
-            "attacksUsed": 5,
+            "totalAttacks": 7,
+            "totalStars": 20,
+            "destructionPercentage": 99.28571428571429,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 4,
-            "totalStars": 6,
-            "destructionPercentage": 63,
-            "attacksUsed": 4,
+            "totalAttacks": 5,
+            "totalStars": 9,
+            "destructionPercentage": 70.4,
+            "attacksUsed": 5,
             "attacksAvailable": 30
           },
           "members": [
@@ -3218,7 +3218,7 @@
               "name": "Magilla",
               "townhallLevel": 17,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3242,7 +3242,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3402,7 +3402,7 @@
               "name": "akashi",
               "townhallLevel": 17,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3737,6 +3737,39 @@
               "destructionPercentage": 95,
               "order": 9,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#G88YY0LLU",
+              "attackerName": "akashi",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#LRRC8JRVP",
+              "defenderName": "June5_7:00pm",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#2Y02VRRU0",
+              "defenderName": "CÑVRL09",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "isOurClan": true
             }
           ]
         },
@@ -3753,7 +3786,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T12:00:17.611Z",
+          "collectedAt": "2026-01-05T14:00:16.525Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
