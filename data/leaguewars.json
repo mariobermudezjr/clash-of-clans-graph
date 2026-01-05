@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T06:00:20.207Z",
+  "lastUpdated": "2026-01-05T08:00:15.675Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T06:00:20.199Z",
+      "collectedAt": "2026-01-05T08:00:15.665Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T06:00:20.198Z",
+          "collectedAt": "2026-01-05T08:00:15.664Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T06:00:20.198Z",
+          "collectedAt": "2026-01-05T08:00:15.664Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T06:00:20.198Z",
+          "collectedAt": "2026-01-05T08:00:15.665Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -2109,10 +2109,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 27,
-            "totalStars": 55,
-            "destructionPercentage": 75.18518518518519,
-            "attacksUsed": 27,
+            "totalAttacks": 29,
+            "totalStars": 59,
+            "destructionPercentage": 74.72413793103448,
+            "attacksUsed": 29,
             "attacksAvailable": 30
           },
           "members": [
@@ -2433,7 +2433,7 @@
               "name": "DionDreQuinSky",
               "townhallLevel": 16,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2449,7 +2449,7 @@
               "name": "AveryGray Villa",
               "townhallLevel": 16,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3103,6 +3103,28 @@
               "destructionPercentage": 97,
               "order": 46,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#2CQV8YUGR",
+              "attackerName": "AveryGray Villa",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 47,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#292RLRPVQ",
+              "attackerName": "DionDreQuinSky",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 48,
+              "isOurClan": false
             }
           ]
         },
@@ -3119,7 +3141,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T06:00:20.199Z",
+          "collectedAt": "2026-01-05T08:00:15.665Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
