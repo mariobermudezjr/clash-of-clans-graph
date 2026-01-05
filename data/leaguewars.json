@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T20:00:15.748Z",
+  "lastUpdated": "2026-01-05T22:00:16.336Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T20:00:15.738Z",
+      "collectedAt": "2026-01-05T22:00:16.326Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T20:00:15.737Z",
+          "collectedAt": "2026-01-05T22:00:16.325Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T20:00:15.737Z",
+          "collectedAt": "2026-01-05T22:00:16.325Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T20:00:15.738Z",
+          "collectedAt": "2026-01-05T22:00:16.326Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,12 +3141,12 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T20:00:15.738Z",
+          "collectedAt": "2026-01-05T22:00:16.326Z",
           "clanStats": {
-            "totalAttacks": 14,
-            "totalStars": 41,
-            "destructionPercentage": 99.64285714285714,
-            "attacksUsed": 14,
+            "totalAttacks": 15,
+            "totalStars": 44,
+            "destructionPercentage": 99.66666666666667,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -3234,7 +3234,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3880,6 +3880,17 @@
               "destructionPercentage": 100,
               "order": 22,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#GLQQV0QP9",
+              "defenderName": "Instinct 911",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": true
             }
           ]
         },
@@ -3896,7 +3907,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T20:00:15.738Z",
+          "collectedAt": "2026-01-05T22:00:16.326Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
