@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T14:00:16.534Z",
+  "lastUpdated": "2026-01-05T16:00:16.126Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T14:00:16.525Z",
+      "collectedAt": "2026-01-05T16:00:16.117Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T14:00:16.524Z",
+          "collectedAt": "2026-01-05T16:00:16.115Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T14:00:16.524Z",
+          "collectedAt": "2026-01-05T16:00:16.116Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T14:00:16.525Z",
+          "collectedAt": "2026-01-05T16:00:16.116Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,19 +3141,19 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T14:00:16.525Z",
+          "collectedAt": "2026-01-05T16:00:16.117Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 20,
-            "destructionPercentage": 99.28571428571429,
-            "attacksUsed": 7,
+            "totalAttacks": 9,
+            "totalStars": 26,
+            "destructionPercentage": 99.44444444444444,
+            "attacksUsed": 9,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 5,
-            "totalStars": 9,
-            "destructionPercentage": 70.4,
-            "attacksUsed": 5,
+            "totalAttacks": 7,
+            "totalStars": 12,
+            "destructionPercentage": 75.28571428571429,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "members": [
@@ -3250,7 +3250,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3370,7 +3370,7 @@
               "name": "cosmicity",
               "townhallLevel": 14,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3466,7 +3466,7 @@
               "name": "Baboy",
               "townhallLevel": 15,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3514,7 +3514,7 @@
               "name": "❤️Sweety Lors❤️",
               "townhallLevel": 13,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3770,6 +3770,50 @@
               "destructionPercentage": 100,
               "order": 12,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#G9R2QVPJ2",
+              "attackerName": "❤️Sweety Lors❤️",
+              "defenderTag": "#8CUYLRL0",
+              "defenderName": "B-A-M-C-I-S",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 13,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#QVQCYPR9Y",
+              "defenderName": "ZyloH",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#GVYJPPULV",
+              "defenderName": "Zorro",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#QUVV82",
+              "attackerName": "Baboy",
+              "defenderTag": "#GYQ9JYYLY",
+              "defenderName": "nickd⁴th",
+              "stars": 1,
+              "destructionPercentage": 98,
+              "order": 16,
+              "isOurClan": false
             }
           ]
         },
@@ -3786,7 +3830,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T14:00:16.525Z",
+          "collectedAt": "2026-01-05T16:00:16.117Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
