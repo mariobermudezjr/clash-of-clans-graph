@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T10:00:21.433Z",
+  "lastUpdated": "2026-01-05T12:00:17.633Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T10:00:21.425Z",
+      "collectedAt": "2026-01-05T12:00:17.611Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T10:00:21.423Z",
+          "collectedAt": "2026-01-05T12:00:17.607Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T10:00:21.424Z",
+          "collectedAt": "2026-01-05T12:00:17.608Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T10:00:21.424Z",
+          "collectedAt": "2026-01-05T12:00:17.609Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,19 +3141,19 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T10:00:21.424Z",
+          "collectedAt": "2026-01-05T12:00:17.610Z",
           "clanStats": {
-            "totalAttacks": 4,
-            "totalStars": 12,
-            "destructionPercentage": 100,
-            "attacksUsed": 4,
+            "totalAttacks": 5,
+            "totalStars": 14,
+            "destructionPercentage": 99,
+            "attacksUsed": 5,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 4,
-            "destructionPercentage": 75.5,
-            "attacksUsed": 2,
+            "totalAttacks": 4,
+            "totalStars": 6,
+            "destructionPercentage": 63,
+            "attacksUsed": 4,
             "attacksAvailable": 30
           },
           "members": [
@@ -3226,7 +3226,7 @@
               "name": "saeid",
               "townhallLevel": 17,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3482,7 +3482,7 @@
               "name": "June5_7:00pm",
               "townhallLevel": 14,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3586,7 +3586,7 @@
               "name": "Dr. Chopper",
               "townhallLevel": 11,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3704,6 +3704,39 @@
               "destructionPercentage": 100,
               "order": 6,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#LRRC8JRVP",
+              "attackerName": "June5_7:00pm",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 1,
+              "destructionPercentage": 64,
+              "order": 7,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#LU2URPY80",
+              "attackerName": "Dr. Chopper",
+              "defenderTag": "#L8GL8GG",
+              "defenderName": "STL_Braden",
+              "stars": 1,
+              "destructionPercentage": 37,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#QUVV82",
+              "defenderName": "Baboy",
+              "stars": 2,
+              "destructionPercentage": 95,
+              "order": 9,
+              "isOurClan": true
             }
           ]
         },
@@ -3720,7 +3753,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T10:00:21.425Z",
+          "collectedAt": "2026-01-05T12:00:17.611Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
