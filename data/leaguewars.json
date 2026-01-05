@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T04:00:20.529Z",
+  "lastUpdated": "2026-01-05T06:00:20.207Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T04:00:20.521Z",
+      "collectedAt": "2026-01-05T06:00:20.199Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T04:00:20.519Z",
+          "collectedAt": "2026-01-05T06:00:20.198Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T04:00:20.520Z",
+          "collectedAt": "2026-01-05T06:00:20.198Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,12 +2100,12 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T04:00:20.520Z",
+          "collectedAt": "2026-01-05T06:00:20.198Z",
           "clanStats": {
-            "totalAttacks": 17,
-            "totalStars": 46,
-            "destructionPercentage": 96.52941176470588,
-            "attacksUsed": 17,
+            "totalAttacks": 19,
+            "totalStars": 50,
+            "destructionPercentage": 95.52631578947368,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -2121,7 +2121,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2153,7 +2153,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3081,6 +3081,28 @@
               "destructionPercentage": 100,
               "order": 44,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#2VQG222Q8",
+              "defenderName": "Briski",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 45,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round3-#28YJG00VL",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#99YCV2JG",
+              "defenderName": "drewski",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 46,
+              "isOurClan": true
             }
           ]
         },
@@ -3097,7 +3119,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T04:00:20.521Z",
+          "collectedAt": "2026-01-05T06:00:20.199Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -3458,14 +3480,6 @@
               "isOurClan": false
             },
             {
-              "tag": "#Q2LR0U0CV",
-              "name": "Juanito",
-              "townhallLevel": 14,
-              "mapPosition": 16,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
               "tag": "#P888JLV0V",
               "name": "MOGU MOGU",
               "townhallLevel": 14,
@@ -3574,6 +3588,14 @@
               "name": "Zorro",
               "townhallLevel": 9,
               "mapPosition": 37,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GLULG280L",
+              "name": "Dahyun",
+              "townhallLevel": 9,
+              "mapPosition": 38,
               "attacksUsed": 0,
               "isOurClan": false
             },
