@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-05T16:00:16.126Z",
+  "lastUpdated": "2026-01-05T18:00:15.374Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-05T16:00:16.117Z",
+      "collectedAt": "2026-01-05T18:00:15.362Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-05T16:00:16.115Z",
+          "collectedAt": "2026-01-05T18:00:15.361Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-05T16:00:16.116Z",
+          "collectedAt": "2026-01-05T18:00:15.361Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-05T16:00:16.116Z",
+          "collectedAt": "2026-01-05T18:00:15.362Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,19 +3141,19 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-05T16:00:16.117Z",
+          "collectedAt": "2026-01-05T18:00:15.362Z",
           "clanStats": {
-            "totalAttacks": 9,
-            "totalStars": 26,
-            "destructionPercentage": 99.44444444444444,
-            "attacksUsed": 9,
+            "totalAttacks": 12,
+            "totalStars": 35,
+            "destructionPercentage": 99.58333333333333,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 7,
-            "totalStars": 12,
-            "destructionPercentage": 75.28571428571429,
-            "attacksUsed": 7,
+            "totalAttacks": 8,
+            "totalStars": 14,
+            "destructionPercentage": 75,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "members": [
@@ -3178,7 +3178,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3202,7 +3202,7 @@
               "name": "***anabelle***",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3354,7 +3354,7 @@
               "name": "Alpha",
               "townhallLevel": 15,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3506,7 +3506,7 @@
               "name": "MOGU MOGU",
               "townhallLevel": 14,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3814,6 +3814,50 @@
               "destructionPercentage": 98,
               "order": 16,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#28LJL9YJ8",
+              "attackerName": "Alpha",
+              "defenderTag": "#G28C99CUU",
+              "defenderName": "worstnightmare",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#QLLJUUCP2",
+              "attackerName": "***anabelle***",
+              "defenderTag": "#2JPCV0GUP",
+              "defenderName": "♠️♥️AIRON 01♦️♣",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#2LRJPLVC8",
+              "defenderName": "~EspartRon_21~",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#P888JLV0V",
+              "attackerName": "MOGU MOGU",
+              "defenderTag": "#PCLLC0JVQ",
+              "defenderName": "Takeshi (ម៉េង)",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 20,
+              "isOurClan": false
             }
           ]
         },
@@ -3830,7 +3874,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-05T16:00:16.117Z",
+          "collectedAt": "2026-01-05T18:00:15.362Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
