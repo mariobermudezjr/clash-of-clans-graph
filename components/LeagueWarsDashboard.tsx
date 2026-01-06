@@ -9,6 +9,7 @@ import { MemberAttacksChart } from './graphs/MemberAttacksChart';
 import { MemberStarsChart } from './graphs/MemberStarsChart';
 import { AttacksPerWarChart } from './graphs/AttacksPerWarChart';
 import { StarsPerAttackChart } from './graphs/StarsPerAttackChart';
+import { CWLParticipationGrid } from './graphs/CWLParticipationGrid';
 
 function LeagueWarsDashboardContent() {
   const [leagueWars, setLeagueWars] = useState<LeagueWar[]>([]);
@@ -185,6 +186,9 @@ function LeagueWarsDashboardContent() {
           </p>
         </div>
       </Card>
+
+      {/* CWL Participation Grid - shows all player attacks across rounds */}
+      <CWLParticipationGrid wars={filteredWars} loading={loading} />
 
       {/* Reuse existing chart components */}
       <MemberAttacksChart wars={warsForCharts} loading={loading} isCWL={true} />

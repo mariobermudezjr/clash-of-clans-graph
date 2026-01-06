@@ -24,6 +24,16 @@ export const colors = {
   error: '#ef4444',          // Red
 };
 
+// CWL Participation Grid Colors
+export const gridColors = {
+  missed: '#ef4444',         // Red - missed attack (stands out)
+  notInRoster: '#1e293b',    // Dark surface - not participating
+  stars0: '#78350f',         // Dark amber - 0 stars
+  stars1: '#b45309',         // Amber-700 - 1 star
+  stars2: '#f59e0b',         // Amber - 2 stars
+  stars3: '#10b981',         // Emerald - 3 stars (perfect)
+};
+
 // Storage Keys
 export const STORAGE_KEY = 'coc-war-analytics-v1';
 export const DATA_FILE_PATH = 'data/wars.json';
