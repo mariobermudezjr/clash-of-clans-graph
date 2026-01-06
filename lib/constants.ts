@@ -34,6 +34,14 @@ export const gridColors = {
   stars3: '#10b981',         // Emerald - 3 stars (perfect)
 };
 
+// Attack Prediction Colors
+export const predictionColors = {
+  high: '#10b981',           // Green - reliable (>= 80%)
+  medium: '#f59e0b',         // Amber - moderate (50-79%)
+  low: '#ef4444',            // Red - unreliable (< 50%)
+  background: '#334155',     // Slate-700 - progress bar background
+};
+
 // Storage Keys
 export const STORAGE_KEY = 'coc-war-analytics-v1';
 export const DATA_FILE_PATH = 'data/wars.json';

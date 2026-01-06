@@ -2,45 +2,60 @@
 
 import React, { useEffect, useState } from 'react';
 import { War } from '@/lib/types';
+import { LeagueWar } from '@/lib/league-types';
 import { Header } from './layout/Header';
 import { StatsOverview } from './layout/StatsOverview';
 import { AttacksPerWarChart } from './graphs/AttacksPerWarChart';
 import { StarsPerAttackChart } from './graphs/StarsPerAttackChart';
 import { MemberAttacksChart } from './graphs/MemberAttacksChart';
 import { MemberStarsChart } from './graphs/MemberStarsChart';
+import { AttackPredictionCard } from './graphs/AttackPredictionCard';
 import { Card } from './ui/Card';
 import { TabNavigation } from './ui/TabNavigation';
 import { LeagueWarsDashboard } from './LeagueWarsDashboard';
 
 function DashboardContent() {
   const [wars, setWars] = useState<War[]>([]);
+  const [leagueWars, setLeagueWars] = useState<LeagueWar[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<string | undefined>(undefined);
 
-  // Fetch wars from API
+  // Fetch wars and league wars from API
   useEffect(() => {
-    async function fetchWars() {
+    async function fetchAllData() {
       try {
         setLoading(true);
-        const response = await fetch('/api/wars');
-        const data = await response.json();
 
-        if (data.success) {
-          setWars(data.wars);
-          setLastUpdated(data.stats?.lastUpdated);
+        // Fetch both regular wars and league wars in parallel
+        const [warsResponse, leagueResponse] = await Promise.all([
+          fetch('/api/wars'),
+          fetch('/api/league-wars'),
+        ]);
+
+        const warsData = await warsResponse.json();
+        const leagueData = await leagueResponse.json();
+
+        if (warsData.success) {
+          setWars(warsData.wars);
+          setLastUpdated(warsData.stats?.lastUpdated);
         } else {
-          setError(data.error || 'Failed to fetch wars');
+          setError(warsData.error || 'Failed to fetch wars');
         }
+
+        if (leagueData.success) {
+          setLeagueWars(leagueData.wars || []);
+        }
+        // Don't set error for league wars - they may not exist yet
       } catch (err) {
-        console.error('Error fetching wars:', err);
+        console.error('Error fetching data:', err);
         setError('Failed to fetch war data');
       } finally {
         setLoading(false);
       }
     }
 
-    fetchWars();
+    fetchAllData();
   }, []);
 
   // Get clan name from first war
@@ -119,6 +134,16 @@ function DashboardContent() {
 
             {activeTab === 'league-wars' && (
               <LeagueWarsDashboard />
+            )}
+
+            {activeTab === 'predictions' && (
+              <div className="py-6">
+                <AttackPredictionCard
+                  regularWars={wars}
+                  leagueWars={leagueWars}
+                  loading={loading}
+                />
+              </div>
             )}
           </>
         )}
