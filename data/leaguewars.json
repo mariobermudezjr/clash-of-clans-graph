@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-06T00:01:06.849Z",
+  "lastUpdated": "2026-01-06T02:00:15.837Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-06T00:01:06.839Z",
+      "collectedAt": "2026-01-06T02:00:15.827Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-06T00:01:06.838Z",
+          "collectedAt": "2026-01-06T02:00:15.825Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-06T00:01:06.838Z",
+          "collectedAt": "2026-01-06T02:00:15.826Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-06T00:01:06.839Z",
+          "collectedAt": "2026-01-06T02:00:15.826Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,7 +3141,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-06T00:01:06.839Z",
+          "collectedAt": "2026-01-06T02:00:15.826Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 53,
@@ -3150,10 +3150,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 8,
-            "totalStars": 14,
-            "destructionPercentage": 75,
-            "attacksUsed": 8,
+            "totalAttacks": 10,
+            "totalStars": 17,
+            "destructionPercentage": 73.1,
+            "attacksUsed": 10,
             "attacksAvailable": 30
           },
           "members": [
@@ -3426,7 +3426,7 @@
               "name": "RTWELVE26",
               "townhallLevel": 16,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3546,7 +3546,7 @@
               "name": "R K EMPIRE",
               "townhallLevel": 12,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3924,6 +3924,28 @@
               "destructionPercentage": 100,
               "order": 26,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#LJ9Y22RJ9",
+              "attackerName": "RTWELVE26",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 1,
+              "destructionPercentage": 69,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round4-#2JR0VVVVG",
+              "attackerTag": "#P2JGUPGQP",
+              "attackerName": "R K EMPIRE",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 28,
+              "isOurClan": false
             }
           ]
         },
@@ -3940,7 +3962,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-06T00:01:06.839Z",
+          "collectedAt": "2026-01-06T02:00:15.827Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
