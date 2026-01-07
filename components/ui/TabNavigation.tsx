@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 
-export type TabId = 'stats' | 'graphs' | 'league-wars' | 'predictions';
+export type TabId = 'graphs' | 'league-wars' | 'predictions';
 
 interface Tab {
   id: TabId;
@@ -20,7 +20,6 @@ const tabs: Tab[] = [
   { id: 'league-wars', label: 'CWL', icon: '🏆' },
   { id: 'predictions', label: 'Predict', icon: '🎯' },
   { id: 'graphs', label: 'Wars', icon: '📈' },
-  { id: 'stats', label: 'Stats', icon: '📊' },
 ];
 
 export function TabNavigation({ defaultTab = 'league-wars', onTabChange, children }: TabNavigationProps) {

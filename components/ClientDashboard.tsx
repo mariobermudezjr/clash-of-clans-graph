@@ -117,18 +117,13 @@ function DashboardContent() {
       <TabNavigation defaultTab="league-wars">
         {(activeTab) => (
           <>
-            {activeTab === 'stats' && (
-              <div className="py-6">
-                <StatsOverview wars={wars} loading={loading} />
-              </div>
-            )}
-
             {activeTab === 'graphs' && (
               <div className="space-y-6 py-6">
                 <MemberAttacksChart wars={wars} loading={loading} />
                 <MemberStarsChart wars={wars} loading={loading} />
                 <AttacksPerWarChart wars={wars} loading={loading} />
                 <StarsPerAttackChart wars={wars} loading={loading} />
+                <StatsOverview wars={wars} loading={loading} />
               </div>
             )}
 
