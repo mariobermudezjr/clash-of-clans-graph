@@ -22,9 +22,13 @@ import { parseCoCTimestamp } from '@/lib/date-utils';
 interface MemberAttacksChartProps {
   wars: War[];
   loading?: boolean;
+  isCWL?: boolean; // True for CWL wars (1 attack max), false for regular wars (2 attacks max)
 }
 
-export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChartProps) {
+export function MemberAttacksChart({ wars, loading = false, isCWL = false }: MemberAttacksChartProps) {
+  // Determine max attacks per member based on war type
+  const maxAttacks = isCWL ? 1 : 2;
+
   // Find the most recent war by date
   const getDefaultWarId = (wars: War[]): string => {
     if (wars.length === 0) return '';
@@ -109,8 +113,8 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
   }
 
   // Split members for mobile two-column view
-  const completedMembers = ourMembers.filter(m => m.attacksUsed === 2);
-  const incompleteMembers = ourMembers.filter(m => m.attacksUsed === 0 || m.attacksUsed === 1);
+  const completedMembers = ourMembers.filter(m => m.attacksUsed === maxAttacks);
+  const incompleteMembers = ourMembers.filter(m => m.attacksUsed < maxAttacks);
 
   // Calculate synchronized heights for mobile view
   const completedHeight = Math.max(300, completedMembers.length * 40);
@@ -141,7 +145,7 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
             Position: #{data.mapPosition}
           </p>
           <p className="text-primary text-sm">
-            Attacks Used: <span className="font-semibold">{data.attacksUsed}</span> / 2
+            Attacks Used: <span className="font-semibold">{data.attacksUsed}</span> / {maxAttacks}
           </p>
         </div>
       );
@@ -204,7 +208,7 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
               Position: #{data.mapPosition}
             </p>
             <p className="text-primary text-sm">
-              Attacks Used: <span className="font-semibold">{data.attacksUsed}</span> / 2
+              Attacks Used: <span className="font-semibold">{data.attacksUsed}</span> / {maxAttacks}
             </p>
           </div>
         );
@@ -226,8 +230,8 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
             <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
             <XAxis
               type="number"
-              domain={[0, 2]}
-              ticks={[0, 1, 2]}
+              domain={[0, maxAttacks]}
+              ticks={isCWL ? [0, 1] : [0, 1, 2]}
               tick={{ fill: colors.textMuted, fontSize: 10 }}
             />
             <YAxis
@@ -256,6 +260,11 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
   // Color bars based on attack count
   const getBarColor = (attacksUsed: number) => {
     if (attacksUsed === 0) return '#ef4444'; // Red for no attacks
+    if (isCWL) {
+      // CWL: 1 attack is max, so it's green
+      return attacksUsed === 1 ? colors.primary : '#ef4444';
+    }
+    // Regular wars: 1 attack is partial (orange), 2 attacks is complete (green)
     if (attacksUsed === 1) return colors.secondary; // Amber for 1 attack
     return colors.primary; // Emerald for 2 attacks
   };
@@ -307,18 +316,33 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
         />
       </div>
       <div className="mb-4 flex gap-4 text-sm">
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded" style={{ backgroundColor: colors.primary }}></div>
-          <span className="text-textMuted">2 attacks</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded" style={{ backgroundColor: colors.secondary }}></div>
-          <span className="text-textMuted">1 attack</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="w-4 h-4 rounded" style={{ backgroundColor: '#ef4444' }}></div>
-          <span className="text-textMuted">0 attacks</span>
-        </div>
+        {isCWL ? (
+          <>
+            <div className="flex items-center gap-2">
+              <div className="w-4 h-4 rounded" style={{ backgroundColor: colors.primary }}></div>
+              <span className="text-textMuted">1 attack (complete)</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-4 h-4 rounded" style={{ backgroundColor: '#ef4444' }}></div>
+              <span className="text-textMuted">0 attacks</span>
+            </div>
+          </>
+        ) : (
+          <>
+            <div className="flex items-center gap-2">
+              <div className="w-4 h-4 rounded" style={{ backgroundColor: colors.primary }}></div>
+              <span className="text-textMuted">2 attacks</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-4 h-4 rounded" style={{ backgroundColor: colors.secondary }}></div>
+              <span className="text-textMuted">1 attack</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-4 h-4 rounded" style={{ backgroundColor: '#ef4444' }}></div>
+              <span className="text-textMuted">0 attacks</span>
+            </div>
+          </>
+        )}
       </div>
       {/* Desktop View - Single Column */}
       <div className="hidden md:block" style={{ height: Math.max(400, ourMembers.length * 40) }}>
@@ -331,8 +355,8 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
             <CartesianGrid strokeDasharray="3 3" stroke={colors.border} />
             <XAxis
               type="number"
-              domain={[0, 2]}
-              ticks={[0, 1, 2]}
+              domain={[0, maxAttacks]}
+              ticks={isCWL ? [0, 1] : [0, 1, 2]}
               tick={{ fill: colors.textMuted }}
               label={{
                 value: 'Attacks Used',
@@ -375,8 +399,15 @@ export function MemberAttacksChart({ wars, loading = false }: MemberAttacksChart
           </div>
         ) : (
           <div className="grid grid-cols-2 gap-2 h-full">
-            <MobileChartColumn data={completedMembers} title="Completed (2/2)" />
-            <MobileChartColumn data={incompleteMembers} title="Incomplete (0-1/2)" isRightColumn={true} />
+            <MobileChartColumn
+              data={completedMembers}
+              title={isCWL ? "Completed (1/1)" : "Completed (2/2)"}
+            />
+            <MobileChartColumn
+              data={incompleteMembers}
+              title={isCWL ? "Incomplete (0/1)" : "Incomplete (0-1/2)"}
+              isRightColumn={true}
+            />
           </div>
         )}
       </div>

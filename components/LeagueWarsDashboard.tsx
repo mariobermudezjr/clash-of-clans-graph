@@ -93,10 +93,31 @@ function LeagueWarsDashboardContent() {
   // Get unique seasons from league wars
   const seasons = Array.from(new Set(leagueWars.map(w => w.season))).sort().reverse();
 
-  // Filter wars by selected season
+  // Filter wars by selected season and exclude preparation wars
+  // Only show wars that are in active states (inWar or warEnded)
   const filteredWars = selectedSeason
-    ? leagueWars.filter(w => w.season === selectedSeason)
-    : leagueWars;
+    ? leagueWars.filter(w => w.season === selectedSeason && w.state !== 'preparation')
+    : leagueWars.filter(w => w.state !== 'preparation');
+
+  // Check if there are wars in preparation for the selected season
+  const preparationWars = selectedSeason
+    ? leagueWars.filter(w => w.season === selectedSeason && w.state === 'preparation')
+    : leagueWars.filter(w => w.state === 'preparation');
+
+  // Show message if only preparation wars exist
+  if (!loading && filteredWars.length === 0 && preparationWars.length > 0) {
+    return (
+      <Card>
+        <div className="flex flex-col items-center justify-center py-12">
+          <div className="text-6xl mb-4">⏳</div>
+          <h2 className="text-2xl font-semibold text-text mb-2">Wars in Preparation</h2>
+          <p className="text-textMuted mb-2 text-center max-w-md">
+            {preparationWars.length} CWL war{preparationWars.length > 1 ? 's are' : ' is'} currently in preparation. Active and completed wars will appear here once they start.
+          </p>
+        </div>
+      </Card>
+    );
+  }
 
   // Convert LeagueWar[] to War[] for chart compatibility
   // LeagueWar extends/matches War structure, so we map the fields
@@ -142,7 +163,7 @@ function LeagueWarsDashboardContent() {
         {/* Season Summary */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-4">
           <div className="bg-surface border border-border rounded-lg p-3">
-            <div className="text-xs text-textMuted mb-1">Wars Played</div>
+            <div className="text-xs text-textMuted mb-1">Active/Completed Wars</div>
             <div className="text-2xl font-bold text-text">{filteredWars.length}</div>
           </div>
           <div className="bg-surface border border-border rounded-lg p-3">
@@ -161,7 +182,7 @@ function LeagueWarsDashboardContent() {
 
         <div className="text-sm text-textMuted mt-4">
           <p>
-            CWL consists of 7 rounds, with each clan playing up to 7 wars total. Wars are played with 1 attack per member.
+            CWL consists of 7 rounds, with each clan playing up to 7 wars total. Wars are played with 1 attack per member. Only active and completed wars are displayed.
           </p>
         </div>
       </Card>
@@ -170,14 +191,14 @@ function LeagueWarsDashboardContent() {
       <CWLParticipationGrid wars={filteredWars} loading={loading} />
 
       {/* Reuse existing chart components */}
-      <MemberAttacksChart wars={warsForCharts} loading={loading} />
-      <MemberStarsChart wars={warsForCharts} loading={loading} />
+      <MemberAttacksChart wars={warsForCharts} loading={loading} isCWL={true} />
+      <MemberStarsChart wars={warsForCharts} loading={loading} isCWL={true} />
       <AttacksPerWarChart wars={warsForCharts} loading={loading} />
       <StarsPerAttackChart wars={warsForCharts} loading={loading} />
 
       {filteredWars.length > 0 && (
         <div className="text-center text-xs text-textMuted">
-          Total CWL wars tracked: {leagueWars.length} across {seasons.length} season(s)
+          Active/Completed CWL wars: {filteredWars.length} • Total tracked (all states): {leagueWars.filter(w => selectedSeason ? w.season === selectedSeason : true).length} • Seasons: {seasons.length}
         </div>
       )}
     </div>

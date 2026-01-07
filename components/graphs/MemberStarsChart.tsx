@@ -21,6 +21,7 @@ import { parseCoCTimestamp } from '@/lib/date-utils';
 interface MemberStarsChartProps {
   wars: War[];
   loading?: boolean;
+  isCWL?: boolean; // True for CWL wars (1 attack max = 3 stars max)
 }
 
 interface MemberStarsData {
@@ -31,7 +32,7 @@ interface MemberStarsData {
   mapPosition: number;
 }
 
-export function MemberStarsChart({ wars, loading = false }: MemberStarsChartProps) {
+export function MemberStarsChart({ wars, loading = false, isCWL = false }: MemberStarsChartProps) {
   // Find the most recent war by date
   const getDefaultWarId = (wars: War[]): string => {
     if (wars.length === 0) return '';
@@ -161,8 +162,11 @@ export function MemberStarsChart({ wars, loading = false }: MemberStarsChartProp
     return null;
   };
 
-  // Determine max value for Y-axis (should be at least 6 for 2 attacks * 3 stars)
-  const maxStars = Math.max(...memberStarsData.map(m => m.totalStars), 6);
+  // Determine max value for X-axis
+  // CWL: 1 attack * 3 stars = 3 max
+  // Regular wars: 2 attacks * 3 stars = 6 max
+  const defaultMax = isCWL ? 3 : 6;
+  const maxStars = Math.max(...memberStarsData.map(m => m.totalStars), defaultMax);
 
   return (
     <Card title="Member Stars Earned">
