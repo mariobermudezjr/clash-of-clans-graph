@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-08T16:00:16.986Z",
+  "lastUpdated": "2026-01-08T18:00:16.882Z",
   "seasons": [
     {
       "season": "2026-01",
       "state": "inWar",
-      "collectedAt": "2026-01-08T16:00:16.961Z",
+      "collectedAt": "2026-01-08T18:00:16.856Z",
       "participatingClans": [
         {
           "tag": "#2J9ULLYY8",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260101T083108.000Z",
           "startTime": "20260102T083106.000Z",
           "endTime": "20260103T083106.000Z",
-          "collectedAt": "2026-01-08T16:00:16.955Z",
+          "collectedAt": "2026-01-08T18:00:16.849Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 49,
@@ -1048,7 +1048,7 @@
           "preparationStartTime": "20260102T083113.000Z",
           "startTime": "20260103T083111.000Z",
           "endTime": "20260104T083111.000Z",
-          "collectedAt": "2026-01-08T16:00:16.957Z",
+          "collectedAt": "2026-01-08T18:00:16.850Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 36,
@@ -2100,7 +2100,7 @@
           "preparationStartTime": "20260103T083727.000Z",
           "startTime": "20260104T083724.000Z",
           "endTime": "20260105T083724.000Z",
-          "collectedAt": "2026-01-08T16:00:16.958Z",
+          "collectedAt": "2026-01-08T18:00:16.851Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 50,
@@ -3141,7 +3141,7 @@
           "preparationStartTime": "20260104T083831.000Z",
           "startTime": "20260105T083729.000Z",
           "endTime": "20260106T083729.000Z",
-          "collectedAt": "2026-01-08T16:00:16.958Z",
+          "collectedAt": "2026-01-08T18:00:16.852Z",
           "clanStats": {
             "totalAttacks": 20,
             "totalStars": 59,
@@ -4017,7 +4017,7 @@
           "preparationStartTime": "20260105T085021.000Z",
           "startTime": "20260106T085019.000Z",
           "endTime": "20260107T085019.000Z",
-          "collectedAt": "2026-01-08T16:00:16.959Z",
+          "collectedAt": "2026-01-08T18:00:16.855Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 60,
@@ -5080,7 +5080,7 @@
           "preparationStartTime": "20260106T085033.000Z",
           "startTime": "20260107T085029.000Z",
           "endTime": "20260108T085029.000Z",
-          "collectedAt": "2026-01-08T16:00:16.960Z",
+          "collectedAt": "2026-01-08T18:00:16.855Z",
           "clanStats": {
             "totalAttacks": 20,
             "totalStars": 58,
@@ -6121,19 +6121,19 @@
           "preparationStartTime": "20260107T091328.000Z",
           "startTime": "20260108T091325.000Z",
           "endTime": "20260109T091325.000Z",
-          "collectedAt": "2026-01-08T16:00:16.961Z",
+          "collectedAt": "2026-01-08T18:00:16.856Z",
           "clanStats": {
-            "totalAttacks": 11,
-            "totalStars": 28,
-            "destructionPercentage": 96.27272727272727,
-            "attacksUsed": 11,
+            "totalAttacks": 14,
+            "totalStars": 36,
+            "destructionPercentage": 96.64285714285714,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 15,
-            "totalStars": 29,
-            "destructionPercentage": 69.4,
-            "attacksUsed": 15,
+            "totalAttacks": 17,
+            "totalStars": 32,
+            "destructionPercentage": 68.82352941176471,
+            "attacksUsed": 17,
             "attacksAvailable": 30
           },
           "members": [
@@ -6142,7 +6142,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6214,7 +6214,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6342,7 +6342,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6422,7 +6422,7 @@
               "name": "#RESPECT",
               "townhallLevel": 16,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6598,7 +6598,7 @@
               "name": "Taner 65",
               "townhallLevel": 13,
               "mapPosition": 41,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6903,6 +6903,61 @@
               "stars": 3,
               "destructionPercentage": 100,
               "order": 26,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round7-#2J9ULLYY8",
+              "attackerTag": "#2Q0YL2G8Y",
+              "attackerName": "#RESPECT",
+              "defenderTag": "#QLLJUUCP2",
+              "defenderName": "***anabelle***",
+              "stars": 2,
+              "destructionPercentage": 60,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-01-round7-#2J9ULLYY8",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#P0U8YP090",
+              "defenderName": "the ottoman",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 28,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round7-#2J9ULLYY8",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#9PCLVUGGL",
+              "defenderName": "azrailin",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 29,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round7-#2J9ULLYY8",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#R090CJUGJ",
+              "defenderName": "muzoxL",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-01-round7-#2J9ULLYY8",
+              "attackerTag": "#QPLU0JLQG",
+              "attackerName": "Taner 65",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 1,
+              "destructionPercentage": 69,
+              "order": 31,
               "isOurClan": false
             }
           ]
