@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-12T12:00:08.028Z",
+  "lastUpdated": "2026-01-12T14:00:08.010Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -4254,19 +4254,19 @@
       "preparationStartTime": "20260111T032950.000Z",
       "startTime": "20260112T022950.000Z",
       "endTime": "20260113T025908.000Z",
-      "collectedAt": "2026-01-12T12:00:08.008Z",
+      "collectedAt": "2026-01-12T14:00:07.990Z",
       "clanStats": {
-        "totalAttacks": 14,
-        "totalStars": 32,
-        "destructionPercentage": 84.07142857142857,
-        "attacksUsed": 14,
+        "totalAttacks": 15,
+        "totalStars": 33,
+        "destructionPercentage": 82.33333333333333,
+        "attacksUsed": 15,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 21,
-        "totalStars": 47,
-        "destructionPercentage": 78.42857142857143,
-        "attacksUsed": 21,
+        "totalAttacks": 23,
+        "totalStars": 53,
+        "destructionPercentage": 80.30434782608695,
+        "attacksUsed": 23,
         "attacksAvailable": 30
       },
       "members": [
@@ -4355,7 +4355,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -4427,7 +4427,7 @@
           "name": "우현님",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -4475,7 +4475,7 @@
           "name": "banpojeawon",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -4896,6 +4896,39 @@
           "destructionPercentage": 63,
           "order": 35,
           "isOurClan": true
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#C0R8LC0J",
+          "attackerName": "우현님",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#QC9RV9R2Q",
+          "defenderName": "YSDH",
+          "stars": 1,
+          "destructionPercentage": 58,
+          "order": 37,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#20VC99UVJ",
+          "attackerName": "banpojeawon",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "isOurClan": false
         }
       ]
     }
