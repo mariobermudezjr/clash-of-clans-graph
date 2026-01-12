@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-12T04:00:07.456Z",
+  "lastUpdated": "2026-01-12T06:00:08.300Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -3620,19 +3620,19 @@
       "preparationStartTime": "20260111T032950.000Z",
       "startTime": "20260112T022950.000Z",
       "endTime": "20260113T022950.000Z",
-      "collectedAt": "2026-01-12T04:00:07.435Z",
+      "collectedAt": "2026-01-12T06:00:08.279Z",
       "clanStats": {
-        "totalAttacks": 2,
-        "totalStars": 3,
-        "destructionPercentage": 69.5,
-        "attacksUsed": 2,
+        "totalAttacks": 5,
+        "totalStars": 10,
+        "destructionPercentage": 80.6,
+        "attacksUsed": 5,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 10,
-        "destructionPercentage": 90,
-        "attacksUsed": 4,
+        "totalAttacks": 11,
+        "totalStars": 28,
+        "destructionPercentage": 87.54545454545455,
+        "attacksUsed": 11,
         "attacksAvailable": 30
       },
       "members": [
@@ -3713,7 +3713,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3745,7 +3745,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -3761,7 +3761,7 @@
           "name": "쿠마",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3809,7 +3809,7 @@
           "name": "YSDH",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3825,7 +3825,7 @@
           "name": "진이산이",
           "townhallLevel": 18,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3865,7 +3865,7 @@
           "name": "재연",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3942,6 +3942,116 @@
           "stars": 2,
           "destructionPercentage": 79,
           "order": 6,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#PUCUR88Y0",
+          "attackerName": "재연",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#PUCUR88Y0",
+          "attackerName": "재연",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#VL29P2LC",
+          "attackerName": "쿠마",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#VL29P2LC",
+          "attackerName": "쿠마",
+          "defenderTag": "#882UYU9P",
+          "defenderName": "Pig Grease 2.3",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#8UVUJJQ8J",
+          "defenderName": "참이술",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#GCQRQ0J22",
+          "defenderName": "쿔바리안",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 12,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#QC9RV9R2Q",
+          "attackerName": "YSDH",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#G9V9GLGVC",
+          "attackerName": "진이산이",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#PRVL28889",
+          "defenderName": "kinven",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#G9V9GLGVC",
+          "attackerName": "진이산이",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 16,
           "isOurClan": false
         }
       ]
