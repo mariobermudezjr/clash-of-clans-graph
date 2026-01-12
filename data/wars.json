@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-12T06:00:08.300Z",
+  "lastUpdated": "2026-01-12T08:00:08.167Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -3620,19 +3620,19 @@
       "preparationStartTime": "20260111T032950.000Z",
       "startTime": "20260112T022950.000Z",
       "endTime": "20260113T022950.000Z",
-      "collectedAt": "2026-01-12T06:00:08.279Z",
+      "collectedAt": "2026-01-12T08:00:08.147Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 10,
-        "destructionPercentage": 80.6,
-        "attacksUsed": 5,
+        "totalAttacks": 7,
+        "totalStars": 14,
+        "destructionPercentage": 80.57142857142857,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 11,
-        "totalStars": 28,
-        "destructionPercentage": 87.54545454545455,
-        "attacksUsed": 11,
+        "totalAttacks": 16,
+        "totalStars": 36,
+        "destructionPercentage": 76.6875,
+        "attacksUsed": 16,
         "attacksAvailable": 30
       },
       "members": [
@@ -3641,7 +3641,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -3745,7 +3745,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -3793,7 +3793,7 @@
           "name": "우현님",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -3857,7 +3857,7 @@
           "name": "후덕골",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -3873,7 +3873,7 @@
           "name": "쿔바리안",
           "townhallLevel": 15,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         }
       ],
@@ -4052,6 +4052,83 @@
           "stars": 2,
           "destructionPercentage": 50,
           "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#PUCUR88Y0",
+          "defenderName": "재연",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 17,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#UUQJRQGV",
+          "attackerName": "후덕골",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#C0R8LC0J",
+          "attackerName": "우현님",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#GCQRQ0J22",
+          "attackerName": "쿔바리안",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 1,
+          "destructionPercentage": 23,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#GCQRQ0J22",
+          "attackerName": "쿔바리안",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 1,
+          "destructionPercentage": 22,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#VL29P2LC",
+          "defenderName": "쿠마",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260113t022950.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#UUQJRQGV",
+          "attackerName": "후덕골",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 58,
+          "order": 23,
           "isOurClan": false
         }
       ]
