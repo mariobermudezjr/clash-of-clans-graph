@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-12T22:00:07.556Z",
+  "lastUpdated": "2026-01-13T00:01:20.168Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -4254,19 +4254,19 @@
       "preparationStartTime": "20260111T032950.000Z",
       "startTime": "20260112T022950.000Z",
       "endTime": "20260113T025908.000Z",
-      "collectedAt": "2026-01-12T22:00:07.536Z",
+      "collectedAt": "2026-01-13T00:01:20.148Z",
       "clanStats": {
-        "totalAttacks": 24,
-        "totalStars": 53,
-        "destructionPercentage": 83.5,
-        "attacksUsed": 24,
+        "totalAttacks": 25,
+        "totalStars": 56,
+        "destructionPercentage": 84.16,
+        "attacksUsed": 25,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 26,
-        "totalStars": 61,
-        "destructionPercentage": 82.46153846153847,
-        "attacksUsed": 26,
+        "totalAttacks": 28,
+        "totalStars": 66,
+        "destructionPercentage": 83.5,
+        "attacksUsed": 28,
         "attacksAvailable": 30
       },
       "members": [
@@ -4275,7 +4275,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -4403,7 +4403,7 @@
           "name": "푸우",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5061,6 +5061,39 @@
           "destructionPercentage": 100,
           "order": 50,
           "isOurClan": false
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#209GRJC8Y",
+          "attackerName": "푸우",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#209GRJC8Y",
+          "attackerName": "푸우",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 52,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260113t025908.000z--2yguqgy90--288vvy8rj",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#209GRJC8Y",
+          "defenderName": "푸우",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "isOurClan": true
         }
       ]
     }
