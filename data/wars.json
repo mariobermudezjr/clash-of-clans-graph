@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-14T17:00:01.393Z",
+  "lastUpdated": "2026-01-15T18:00:08.544Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5105,6 +5105,263 @@
           "destructionPercentage": 52,
           "order": 54,
           "isOurClan": false
+        }
+      ]
+    },
+    {
+      "id": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#YUQYJ00J",
+      "opponentName": "FaB Ricard 33",
+      "teamSize": 10,
+      "state": "inWar",
+      "preparationStartTime": "20260114T175603.000Z",
+      "startTime": "20260115T165603.000Z",
+      "endTime": "20260116T165603.000Z",
+      "collectedAt": "2026-01-15T18:00:08.526Z",
+      "clanStats": {
+        "totalAttacks": 5,
+        "totalStars": 13,
+        "destructionPercentage": 88.6,
+        "attacksUsed": 5,
+        "attacksAvailable": 20
+      },
+      "opponentStats": {
+        "totalAttacks": 1,
+        "totalStars": 3,
+        "destructionPercentage": 100,
+        "attacksUsed": 1,
+        "attacksAvailable": 20
+      },
+      "members": [
+        {
+          "tag": "#9PU99J8",
+          "name": "Mist",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 1,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LUQCQR",
+          "name": "Magilla",
+          "townhallLevel": 17,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 17,
+          "mapPosition": 3,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2GCQJVLL",
+          "name": "slingblade",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#LRRGGPV2",
+          "name": "coicoi",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q809PLLC",
+          "name": "cosmicity",
+          "townhallLevel": 15,
+          "mapPosition": 7,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8J8VLY28",
+          "name": "SkyHigh",
+          "townhallLevel": 15,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QG0VGQLR8",
+          "name": "Jackson Red",
+          "townhallLevel": 14,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#GVURPVRLJ",
+          "name": "RIFQI COC",
+          "townhallLevel": 10,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#VGR9U28R",
+          "name": "Loup-blanc-8",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#RQ0RVV0R",
+          "name": "agc007007",
+          "townhallLevel": 17,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#99CY0GQ",
+          "name": "Wazaa_54",
+          "townhallLevel": 17,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#GG298VVQ",
+          "name": "doudou",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2RYLGY8UL",
+          "name": "Sam",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#P9RQY88R",
+          "name": "cachou",
+          "townhallLevel": 16,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YP92LPJU",
+          "name": "fox6259",
+          "townhallLevel": 15,
+          "mapPosition": 7,
+          "attacksUsed": 1,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G9J8QCR8V",
+          "name": "fifou",
+          "townhallLevel": 14,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YGQ0PU0RC",
+          "name": "alex33",
+          "townhallLevel": 14,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#LJ8RRQ8VG",
+          "name": "moustique",
+          "townhallLevel": 17,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": false
+        }
+      ],
+      "attacks": [
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#YP92LPJU",
+          "defenderName": "fox6259",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 1,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#G9J8QCR8V",
+          "defenderName": "fifou",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#99CY0GQ",
+          "defenderName": "Wazaa_54",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#YP92LPJU",
+          "attackerName": "fox6259",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#RQ0RVV0R",
+          "defenderName": "agc007007",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 5,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#VGR9U28R",
+          "defenderName": "Loup-blanc-8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "isOurClan": true
         }
       ]
     }
