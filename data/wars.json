@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-15T18:00:08.544Z",
+  "lastUpdated": "2026-01-15T20:00:07.437Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5119,19 +5119,19 @@
       "preparationStartTime": "20260114T175603.000Z",
       "startTime": "20260115T165603.000Z",
       "endTime": "20260116T165603.000Z",
-      "collectedAt": "2026-01-15T18:00:08.526Z",
+      "collectedAt": "2026-01-15T20:00:07.415Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 13,
-        "destructionPercentage": 88.6,
-        "attacksUsed": 5,
+        "totalAttacks": 9,
+        "totalStars": 22,
+        "destructionPercentage": 85.77777777777777,
+        "attacksUsed": 9,
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 1,
-        "totalStars": 3,
+        "totalAttacks": 3,
+        "totalStars": 9,
         "destructionPercentage": 100,
-        "attacksUsed": 1,
+        "attacksUsed": 3,
         "attacksAvailable": 20
       },
       "members": [
@@ -5148,7 +5148,7 @@
           "name": "Magilla",
           "townhallLevel": 17,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5196,7 +5196,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5236,7 +5236,7 @@
           "name": "Wazaa_54",
           "townhallLevel": 17,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5276,7 +5276,7 @@
           "name": "fifou",
           "townhallLevel": 14,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5362,6 +5362,72 @@
           "destructionPercentage": 100,
           "order": 6,
           "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#YGQ0PU0RC",
+          "defenderName": "alex33",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#YP92LPJU",
+          "defenderName": "fox6259",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 8,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#G9J8QCR8V",
+          "attackerName": "fifou",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#2RYLGY8UL",
+          "defenderName": "Sam",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 10,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#P9RQY88R",
+          "defenderName": "cachou",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#99CY0GQ",
+          "attackerName": "Wazaa_54",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "isOurClan": false
         }
       ]
     }
