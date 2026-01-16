@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-16T04:00:08.291Z",
+  "lastUpdated": "2026-01-16T06:00:07.813Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5119,12 +5119,12 @@
       "preparationStartTime": "20260114T175603.000Z",
       "startTime": "20260115T165603.000Z",
       "endTime": "20260116T165603.000Z",
-      "collectedAt": "2026-01-16T04:00:08.271Z",
+      "collectedAt": "2026-01-16T06:00:07.792Z",
       "clanStats": {
-        "totalAttacks": 15,
-        "totalStars": 33,
-        "destructionPercentage": 79.6,
-        "attacksUsed": 15,
+        "totalAttacks": 16,
+        "totalStars": 36,
+        "destructionPercentage": 80.875,
+        "attacksUsed": 16,
         "attacksAvailable": 20
       },
       "opponentStats": {
@@ -5140,7 +5140,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5526,6 +5526,17 @@
           "stars": 1,
           "destructionPercentage": 47,
           "order": 21,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#RQ0RVV0R",
+          "defenderName": "agc007007",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
           "isOurClan": true
         }
       ]
