@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-16T12:00:07.972Z",
+  "lastUpdated": "2026-01-16T14:00:07.577Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5119,19 +5119,19 @@
       "preparationStartTime": "20260114T175603.000Z",
       "startTime": "20260115T165603.000Z",
       "endTime": "20260116T165603.000Z",
-      "collectedAt": "2026-01-16T12:00:07.952Z",
+      "collectedAt": "2026-01-16T14:00:07.558Z",
       "clanStats": {
-        "totalAttacks": 18,
-        "totalStars": 36,
-        "destructionPercentage": 73.66666666666667,
-        "attacksUsed": 18,
+        "totalAttacks": 19,
+        "totalStars": 39,
+        "destructionPercentage": 75.05263157894737,
+        "attacksUsed": 19,
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 6,
-        "totalStars": 16,
-        "destructionPercentage": 90.16666666666667,
-        "attacksUsed": 6,
+        "totalAttacks": 10,
+        "totalStars": 24,
+        "destructionPercentage": 87.4,
+        "attacksUsed": 10,
         "attacksAvailable": 20
       },
       "members": [
@@ -5172,7 +5172,7 @@
           "name": "coicoi",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -5220,7 +5220,7 @@
           "name": "Loup-blanc-8",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5252,7 +5252,7 @@
           "name": "Sam",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5260,7 +5260,7 @@
           "name": "cachou",
           "townhallLevel": 16,
           "mapPosition": 6,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5292,7 +5292,7 @@
           "name": "moustique",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         }
       ],
@@ -5560,6 +5560,61 @@
           "destructionPercentage": 20,
           "order": 24,
           "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#LJ8RRQ8VG",
+          "attackerName": "moustique",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 1,
+          "destructionPercentage": 67,
+          "order": 25,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#2RYLGY8UL",
+          "attackerName": "Sam",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#LRRGGPV2",
+          "attackerName": "coicoi",
+          "defenderTag": "#P9RQY88R",
+          "defenderName": "cachou",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#VGR9U28R",
+          "attackerName": "Loup-blanc-8",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 1,
+          "destructionPercentage": 66,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#P9RQY88R",
+          "attackerName": "cachou",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "isOurClan": false
         }
       ]
     }
