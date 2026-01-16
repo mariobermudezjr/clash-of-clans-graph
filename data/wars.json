@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-16T08:00:12.374Z",
+  "lastUpdated": "2026-01-16T10:00:08.423Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5119,12 +5119,12 @@
       "preparationStartTime": "20260114T175603.000Z",
       "startTime": "20260115T165603.000Z",
       "endTime": "20260116T165603.000Z",
-      "collectedAt": "2026-01-16T08:00:12.354Z",
+      "collectedAt": "2026-01-16T10:00:08.402Z",
       "clanStats": {
-        "totalAttacks": 16,
+        "totalAttacks": 18,
         "totalStars": 36,
-        "destructionPercentage": 80.875,
-        "attacksUsed": 16,
+        "destructionPercentage": 73.66666666666667,
+        "attacksUsed": 18,
         "attacksAvailable": 20
       },
       "opponentStats": {
@@ -5212,7 +5212,7 @@
           "name": "RIFQI COC",
           "townhallLevel": 10,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5537,6 +5537,28 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#GVURPVRLJ",
+          "attackerName": "RIFQI COC",
+          "defenderTag": "#YP92LPJU",
+          "defenderName": "fox6259",
+          "stars": 0,
+          "destructionPercentage": 12,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#GVURPVRLJ",
+          "attackerName": "RIFQI COC",
+          "defenderTag": "#P9RQY88R",
+          "defenderName": "cachou",
+          "stars": 0,
+          "destructionPercentage": 20,
+          "order": 24,
           "isOurClan": true
         }
       ]
