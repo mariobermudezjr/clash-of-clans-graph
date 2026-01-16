@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-15T22:00:07.955Z",
+  "lastUpdated": "2026-01-16T00:00:07.696Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5119,19 +5119,19 @@
       "preparationStartTime": "20260114T175603.000Z",
       "startTime": "20260115T165603.000Z",
       "endTime": "20260116T165603.000Z",
-      "collectedAt": "2026-01-15T22:00:07.935Z",
+      "collectedAt": "2026-01-16T00:00:07.674Z",
       "clanStats": {
-        "totalAttacks": 10,
-        "totalStars": 24,
-        "destructionPercentage": 85.3,
-        "attacksUsed": 10,
+        "totalAttacks": 13,
+        "totalStars": 31,
+        "destructionPercentage": 84.23076923076923,
+        "attacksUsed": 13,
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 11,
-        "destructionPercentage": 92.25,
-        "attacksUsed": 4,
+        "totalAttacks": 6,
+        "totalStars": 16,
+        "destructionPercentage": 90.16666666666667,
+        "attacksUsed": 6,
         "attacksAvailable": 20
       },
       "members": [
@@ -5164,7 +5164,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5180,7 +5180,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5260,7 +5260,7 @@
           "name": "cachou",
           "townhallLevel": 16,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5284,7 +5284,7 @@
           "name": "alex33",
           "townhallLevel": 14,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5449,6 +5449,61 @@
           "stars": 2,
           "destructionPercentage": 81,
           "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#YGQ0PU0RC",
+          "attackerName": "alex33",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#LJ8RRQ8VG",
+          "defenderName": "moustique",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#P9RQY88R",
+          "attackerName": "cachou",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#P9RQY88R",
+          "defenderName": "cachou",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 18,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260116t165603.000z--2yguqgy90--yuqyj00j",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#YP92LPJU",
+          "defenderName": "fox6259",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 19,
           "isOurClan": true
         }
       ]
