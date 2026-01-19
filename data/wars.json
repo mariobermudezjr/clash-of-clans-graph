@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-19T10:00:08.105Z",
+  "lastUpdated": "2026-01-19T12:00:08.084Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,19 +5717,19 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-19T10:00:08.085Z",
+      "collectedAt": "2026-01-19T12:00:08.062Z",
       "clanStats": {
-        "totalAttacks": 6,
-        "totalStars": 12,
-        "destructionPercentage": 76.66666666666667,
-        "attacksUsed": 6,
+        "totalAttacks": 9,
+        "totalStars": 18,
+        "destructionPercentage": 78.11111111111111,
+        "attacksUsed": 9,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 7,
-        "destructionPercentage": 78.5,
-        "attacksUsed": 4,
+        "totalAttacks": 8,
+        "totalStars": 16,
+        "destructionPercentage": 81.75,
+        "attacksUsed": 8,
         "attacksAvailable": 30
       },
       "members": [
@@ -5762,7 +5762,7 @@
           "name": "ang",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -5786,7 +5786,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5890,7 +5890,7 @@
           "name": "cippy",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5914,7 +5914,7 @@
           "name": "diostufu",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5970,7 +5970,7 @@
           "name": "kaka",
           "townhallLevel": 14,
           "mapPosition": 15,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         }
       ],
@@ -6084,6 +6084,83 @@
           "destructionPercentage": 70,
           "order": 10,
           "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QP0RJLC00",
+          "attackerName": "ang",
+          "defenderTag": "#888P0Y0GP",
+          "defenderName": "SERGIO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#GQRQRQUCU",
+          "attackerName": "kaka",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#L00V8UCGJ",
+          "defenderName": "cippy",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 13,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#2YJ2VRJQ8",
+          "defenderName": "mister",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#GVU8C0QV",
+          "attackerName": "diostufu",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#L00V8UCGJ",
+          "attackerName": "cippy",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#L00V8UCGJ",
+          "attackerName": "cippy",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": false
         }
       ]
     }
