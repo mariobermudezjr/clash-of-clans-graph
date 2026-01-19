@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React from 'react';
 
 export type TabId = 'graphs' | 'league-wars' | 'predictions';
 
@@ -11,8 +11,8 @@ interface Tab {
 }
 
 interface TabNavigationProps {
-  defaultTab?: TabId;
-  onTabChange?: (tab: TabId) => void;
+  activeTab: TabId;
+  onTabChange: (tab: TabId) => void;
   children: (activeTab: TabId) => React.ReactNode;
 }
 
@@ -22,12 +22,9 @@ const tabs: Tab[] = [
   { id: 'graphs', label: 'Wars', icon: '📈' },
 ];
 
-export function TabNavigation({ defaultTab = 'league-wars', onTabChange, children }: TabNavigationProps) {
-  const [activeTab, setActiveTab] = useState<TabId>(defaultTab);
-
+export function TabNavigation({ activeTab, onTabChange, children }: TabNavigationProps) {
   const handleTabChange = (tabId: TabId) => {
-    setActiveTab(tabId);
-    onTabChange?.(tabId);
+    onTabChange(tabId);
   };
 
   return (

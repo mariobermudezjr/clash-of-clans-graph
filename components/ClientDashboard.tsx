@@ -11,7 +11,7 @@ import { MemberAttacksChart } from './graphs/MemberAttacksChart';
 import { MemberStarsChart } from './graphs/MemberStarsChart';
 import { AttackPredictionCard } from './graphs/AttackPredictionCard';
 import { Card } from './ui/Card';
-import { TabNavigation } from './ui/TabNavigation';
+import { TabNavigation, TabId } from './ui/TabNavigation';
 import { LeagueWarsDashboard } from './LeagueWarsDashboard';
 
 function DashboardContent() {
@@ -21,7 +21,20 @@ function DashboardContent() {
   const [error, setError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<string | undefined>(undefined);
   const [cwlLastUpdated, setCwlLastUpdated] = useState<string | undefined>(undefined);
-  const [activeTab, setActiveTab] = useState<string>('league-wars');
+  const [activeTab, setActiveTab] = useState<TabId>('league-wars');
+
+  // Determine default tab based on most recently updated data
+  function determineDefaultTab(warsTimestamp: string | undefined, cwlTimestamp: string | undefined): TabId {
+    if (!warsTimestamp && !cwlTimestamp) return 'league-wars';
+    if (!warsTimestamp) return 'league-wars';
+    if (!cwlTimestamp) return 'graphs';
+
+    const warsDate = new Date(warsTimestamp).getTime();
+    const cwlDate = new Date(cwlTimestamp).getTime();
+
+    if (warsDate > cwlDate) return 'graphs';
+    return 'league-wars';
+  }
 
   // Fetch wars and league wars from API
   useEffect(() => {
@@ -47,8 +60,18 @@ function DashboardContent() {
 
         if (leagueData.success) {
           setLeagueWars(leagueData.wars || []);
+          if (leagueData.stats?.lastUpdated) {
+            setCwlLastUpdated(leagueData.stats.lastUpdated);
+          }
         }
         // Don't set error for league wars - they may not exist yet
+
+        // Set default tab based on most recently updated data
+        const defaultTab = determineDefaultTab(
+          warsData.stats?.lastUpdated,
+          leagueData.stats?.lastUpdated
+        );
+        setActiveTab(defaultTab);
       } catch (err) {
         console.error('Error fetching data:', err);
         setError('Failed to fetch war data');
@@ -58,24 +81,6 @@ function DashboardContent() {
     }
 
     fetchAllData();
-  }, []);
-
-  // Fetch CWL data for lastUpdated timestamp
-  useEffect(() => {
-    async function fetchCWLData() {
-      try {
-        const response = await fetch('/api/league-wars');
-        const data = await response.json();
-
-        if (data.success && data.stats) {
-          setCwlLastUpdated(data.stats.lastUpdated);
-        }
-      } catch (err) {
-        console.error('Error fetching CWL data:', err);
-      }
-    }
-
-    fetchCWLData();
   }, []);
 
   // Get clan name from first war
@@ -134,7 +139,7 @@ function DashboardContent() {
     <div className="max-w-7xl mx-auto">
       <Header clanName={clanName} lastUpdated={lastUpdated} cwlLastUpdated={cwlLastUpdated} activeTab={activeTab} />
 
-      <TabNavigation defaultTab="league-wars" onTabChange={setActiveTab}>
+      <TabNavigation activeTab={activeTab} onTabChange={setActiveTab}>
         {(currentTab) => (
           <>
             {currentTab === 'graphs' && (
