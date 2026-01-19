@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-19T14:00:08.147Z",
+  "lastUpdated": "2026-01-19T16:00:07.598Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,12 +5717,12 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-19T14:00:08.125Z",
+      "collectedAt": "2026-01-19T16:00:07.577Z",
       "clanStats": {
-        "totalAttacks": 9,
-        "totalStars": 18,
-        "destructionPercentage": 78.11111111111111,
-        "attacksUsed": 9,
+        "totalAttacks": 11,
+        "totalStars": 21,
+        "destructionPercentage": 77.45454545454545,
+        "attacksUsed": 11,
         "attacksAvailable": 30
       },
       "opponentStats": {
@@ -5778,7 +5778,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -6227,6 +6227,28 @@
           "destructionPercentage": 60,
           "order": 23,
           "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#RJQ98LUP",
+          "defenderName": "iapo",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#2YJ2VRJQ8",
+          "defenderName": "mister",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 25,
+          "isOurClan": true
         }
       ]
     }
