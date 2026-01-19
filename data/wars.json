@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-19T08:00:08.476Z",
+  "lastUpdated": "2026-01-19T10:00:08.105Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,19 +5717,19 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-19T08:00:08.456Z",
+      "collectedAt": "2026-01-19T10:00:08.085Z",
       "clanStats": {
-        "totalAttacks": 3,
-        "totalStars": 5,
+        "totalAttacks": 6,
+        "totalStars": 12,
         "destructionPercentage": 76.66666666666667,
-        "attacksUsed": 3,
+        "attacksUsed": 6,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 2,
-        "totalStars": 3,
-        "destructionPercentage": 69,
-        "attacksUsed": 2,
+        "totalAttacks": 4,
+        "totalStars": 7,
+        "destructionPercentage": 78.5,
+        "attacksUsed": 4,
         "attacksAvailable": 30
       },
       "members": [
@@ -5746,7 +5746,7 @@
           "name": "ichigo korusaki",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -5842,7 +5842,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5858,7 +5858,7 @@
           "name": "Gawen",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5970,7 +5970,7 @@
           "name": "kaka",
           "townhallLevel": 14,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         }
       ],
@@ -6029,6 +6029,61 @@
           "destructionPercentage": 58,
           "order": 5,
           "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#YJ80YRQV9",
+          "attackerName": "Gawen",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 6,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#GQRQRQUCU",
+          "attackerName": "kaka",
+          "defenderTag": "#G8RLG2UL9",
+          "defenderName": "MagillaJr",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#8JRC2L02C",
+          "attackerName": "ichigo korusaki",
+          "defenderTag": "#LU0UC9UUG",
+          "defenderName": "Fabio",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#YR2GJ8G9J",
+          "defenderName": "bruceketta",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 9,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#GQRQRQUCU",
+          "defenderName": "kaka",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 10,
+          "isOurClan": true
         }
       ]
     }
