@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-19T20:00:07.831Z",
+  "lastUpdated": "2026-01-19T22:00:07.658Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,7 +5717,7 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-19T20:00:07.811Z",
+      "collectedAt": "2026-01-19T22:00:07.639Z",
       "clanStats": {
         "totalAttacks": 13,
         "totalStars": 27,
@@ -5726,10 +5726,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 14,
-        "totalStars": 29,
-        "destructionPercentage": 80.42857142857143,
-        "attacksUsed": 14,
+        "totalAttacks": 18,
+        "totalStars": 38,
+        "destructionPercentage": 82.44444444444444,
+        "attacksUsed": 18,
         "attacksAvailable": 30
       },
       "members": [
@@ -5858,7 +5858,7 @@
           "name": "Gawen",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5898,7 +5898,7 @@
           "name": "iapo",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5906,7 +5906,7 @@
           "name": "mister",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -5930,7 +5930,7 @@
           "name": "pinna",
           "townhallLevel": 16,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6271,6 +6271,50 @@
           "destructionPercentage": 100,
           "order": 27,
           "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#2YJ2VRJQ8",
+          "attackerName": "mister",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#C9U8J9VC",
+          "attackerName": "pinna",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#RJQ98LUP",
+          "attackerName": "iapo",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 30,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#YJ80YRQV9",
+          "attackerName": "Gawen",
+          "defenderTag": "#882UYU9P",
+          "defenderName": "Pig Grease 2.3",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 31,
+          "isOurClan": false
         }
       ]
     }
