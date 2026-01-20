@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-20T04:00:08.050Z",
+  "lastUpdated": "2026-01-20T06:00:07.881Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,12 +5717,12 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-20T04:00:08.030Z",
+      "collectedAt": "2026-01-20T06:00:07.861Z",
       "clanStats": {
-        "totalAttacks": 16,
-        "totalStars": 34,
-        "destructionPercentage": 82.4375,
-        "attacksUsed": 16,
+        "totalAttacks": 22,
+        "totalStars": 50,
+        "destructionPercentage": 84.31818181818181,
+        "attacksUsed": 22,
         "attacksAvailable": 30
       },
       "opponentStats": {
@@ -5738,7 +5738,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5746,7 +5746,7 @@
           "name": "ichigo korusaki",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5762,7 +5762,7 @@
           "name": "ang",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5802,7 +5802,7 @@
           "name": "UZUMAKI NARUTO",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5818,7 +5818,7 @@
           "name": "Alpha",
           "townhallLevel": 15,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -6402,6 +6402,72 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 39,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QP0RJLC00",
+          "attackerName": "ang",
+          "defenderTag": "#C9U8J9VC",
+          "defenderName": "pinna",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#8JRC2L02C",
+          "attackerName": "ichigo korusaki",
+          "defenderTag": "#2P8JYJ2U0",
+          "defenderName": "salva70",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#28LJL9YJ8",
+          "attackerName": "Alpha",
+          "defenderTag": "#YR2GJ8G9J",
+          "defenderName": "bruceketta",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 42,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QLLPGJL29",
+          "attackerName": "UZUMAKI NARUTO",
+          "defenderTag": "#YR2GJ8G9J",
+          "defenderName": "bruceketta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#QLLPGJL29",
+          "attackerName": "UZUMAKI NARUTO",
+          "defenderTag": "#GVU8C0QV",
+          "defenderName": "diostufu",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 44,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#RJQ98LUP",
+          "defenderName": "iapo",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
           "isOurClan": true
         }
       ]
