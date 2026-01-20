@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-19T22:00:07.658Z",
+  "lastUpdated": "2026-01-20T00:00:08.418Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5717,7 +5717,7 @@
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-19T22:00:07.639Z",
+      "collectedAt": "2026-01-20T00:00:08.397Z",
       "clanStats": {
         "totalAttacks": 13,
         "totalStars": 27,
@@ -5726,10 +5726,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 18,
-        "totalStars": 38,
-        "destructionPercentage": 82.44444444444444,
-        "attacksUsed": 18,
+        "totalAttacks": 23,
+        "totalStars": 50,
+        "destructionPercentage": 82.04347826086956,
+        "attacksUsed": 23,
         "attacksAvailable": 30
       },
       "members": [
@@ -5866,7 +5866,7 @@
           "name": "Fabio",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5882,7 +5882,7 @@
           "name": "SERGIO",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5906,7 +5906,7 @@
           "name": "mister",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -5922,7 +5922,7 @@
           "name": "comander",
           "townhallLevel": 18,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6314,6 +6314,61 @@
           "stars": 2,
           "destructionPercentage": 99,
           "order": 31,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#LU0UC9UUG",
+          "attackerName": "Fabio",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#888P0Y0GP",
+          "attackerName": "SERGIO",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#CRVQQGGJ",
+          "attackerName": "comander",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 34,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#CRVQQGGJ",
+          "attackerName": "comander",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 35,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#2YJ2VRJQ8",
+          "attackerName": "mister",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 36,
           "isOurClan": false
         }
       ]
