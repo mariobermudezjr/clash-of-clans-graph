@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-20T06:00:07.881Z",
+  "lastUpdated": "2026-01-20T08:00:07.759Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -5713,23 +5713,23 @@
       "opponentTag": "#29GYGULJR",
       "opponentName": "DarkSouls",
       "teamSize": 15,
-      "state": "inWar",
+      "state": "warEnded",
       "preparationStartTime": "20260118T083335.000Z",
       "startTime": "20260119T073335.000Z",
       "endTime": "20260120T073335.000Z",
-      "collectedAt": "2026-01-20T06:00:07.861Z",
+      "collectedAt": "2026-01-20T08:00:07.738Z",
       "clanStats": {
-        "totalAttacks": 22,
-        "totalStars": 50,
-        "destructionPercentage": 84.31818181818181,
-        "attacksUsed": 22,
+        "totalAttacks": 25,
+        "totalStars": 57,
+        "destructionPercentage": 84.16,
+        "attacksUsed": 25,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 23,
-        "totalStars": 50,
-        "destructionPercentage": 82.04347826086956,
-        "attacksUsed": 23,
+        "totalAttacks": 24,
+        "totalStars": 52,
+        "destructionPercentage": 82,
+        "attacksUsed": 24,
         "attacksAvailable": 30
       },
       "members": [
@@ -5754,7 +5754,7 @@
           "name": "Pig Grease 2.3",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5794,7 +5794,7 @@
           "name": "coicoi",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -5898,7 +5898,7 @@
           "name": "iapo",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6468,6 +6468,50 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 45,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#882UYU9P",
+          "attackerName": "Pig Grease 2.3",
+          "defenderTag": "#QQ0RVU2UV",
+          "defenderName": "ER NANO PAZZO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#882UYU9P",
+          "attackerName": "Pig Grease 2.3",
+          "defenderTag": "#CRVQQGGJ",
+          "defenderName": "comander",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 47,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#RJQ98LUP",
+          "attackerName": "iapo",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 48,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260120t073335.000z--2yguqgy90--29gyguljr",
+          "attackerTag": "#LRRGGPV2",
+          "attackerName": "coicoi",
+          "defenderTag": "#CRVQQGGJ",
+          "defenderName": "comander",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 49,
           "isOurClan": true
         }
       ]
