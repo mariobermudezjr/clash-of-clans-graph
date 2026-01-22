@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-22T16:00:07.679Z",
+  "lastUpdated": "2026-01-22T18:00:07.705Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,19 +6527,19 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-22T16:00:07.659Z",
+      "collectedAt": "2026-01-22T18:00:07.684Z",
       "clanStats": {
-        "totalAttacks": 0,
-        "totalStars": 0,
-        "destructionPercentage": 0,
-        "attacksUsed": 0,
+        "totalAttacks": 2,
+        "totalStars": 4,
+        "destructionPercentage": 74,
+        "attacksUsed": 2,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 0,
-        "totalStars": 0,
-        "destructionPercentage": 0,
-        "attacksUsed": 0,
+        "totalAttacks": 3,
+        "totalStars": 9,
+        "destructionPercentage": 100,
+        "attacksUsed": 3,
         "attacksAvailable": 30
       },
       "members": [
@@ -6636,7 +6636,7 @@
           "name": "cosmicity",
           "townhallLevel": 15,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -6668,7 +6668,7 @@
           "name": "jimee",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6724,7 +6724,7 @@
           "name": "Roshan.k",
           "townhallLevel": 16,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6784,7 +6784,63 @@
           "isOurClan": false
         }
       ],
-      "attacks": []
+      "attacks": [
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#P0Y8YU8VY",
+          "attackerName": "Roshan.k",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#G20YGQL9J",
+          "defenderName": "#Solti",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 2,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#P0Y8YU8VY",
+          "attackerName": "Roshan.k",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#G2YV00Y98",
+          "defenderName": "Leader Soltee 3",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 4,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#82Q828PJ0",
+          "attackerName": "jimee",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "isOurClan": false
+        }
+      ]
     }
   ]
 }
