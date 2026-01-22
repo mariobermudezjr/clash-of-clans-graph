@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-22T20:00:07.502Z",
+  "lastUpdated": "2026-01-22T22:00:08.234Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,7 +6527,7 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-22T20:00:07.483Z",
+      "collectedAt": "2026-01-22T22:00:08.212Z",
       "clanStats": {
         "totalAttacks": 4,
         "totalStars": 7,
@@ -6536,10 +6536,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 3,
-        "totalStars": 9,
-        "destructionPercentage": 100,
-        "attacksUsed": 3,
+        "totalAttacks": 6,
+        "totalStars": 17,
+        "destructionPercentage": 94.66666666666667,
+        "attacksUsed": 6,
         "attacksAvailable": 30
       },
       "members": [
@@ -6732,7 +6732,7 @@
           "name": "Gursewak hundal",
           "townhallLevel": 16,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6772,7 +6772,7 @@
           "name": "दिपेश ³",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6861,6 +6861,39 @@
           "destructionPercentage": 92,
           "order": 7,
           "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#2QQ8Q0YVC",
+          "attackerName": "Gursewak hundal",
+          "defenderTag": "#L2G82LUYG",
+          "defenderName": "❤Alpha❤",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 8,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#QGCVGPUQJ",
+          "attackerName": "दिपेश ³",
+          "defenderTag": "#L2G82LUYG",
+          "defenderName": "❤Alpha❤",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#QGCVGPUQJ",
+          "attackerName": "दिपेश ³",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "isOurClan": false
         }
       ]
     }
