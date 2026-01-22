@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-21T16:00:07.429Z",
+  "lastUpdated": "2026-01-22T16:00:07.679Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6515,6 +6515,276 @@
           "isOurClan": true
         }
       ]
+    },
+    {
+      "id": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#2QRV8GU28",
+      "opponentName": "TEAM • SOLTEE ✊",
+      "teamSize": 15,
+      "state": "inWar",
+      "preparationStartTime": "20260121T165514.000Z",
+      "startTime": "20260122T155514.000Z",
+      "endTime": "20260123T155514.000Z",
+      "collectedAt": "2026-01-22T16:00:07.659Z",
+      "clanStats": {
+        "totalAttacks": 0,
+        "totalStars": 0,
+        "destructionPercentage": 0,
+        "attacksUsed": 0,
+        "attacksAvailable": 30
+      },
+      "opponentStats": {
+        "totalAttacks": 0,
+        "totalStars": 0,
+        "destructionPercentage": 0,
+        "attacksUsed": 0,
+        "attacksAvailable": 30
+      },
+      "members": [
+        {
+          "tag": "#9PU99J8",
+          "name": "Mist",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QYUJ2YCU",
+          "name": "*General*Tange*",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#PULY82YUL",
+          "name": "heyd",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LUQCQR",
+          "name": "Magilla",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2GCQJVLL",
+          "name": "slingblade",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QLLPGJL29",
+          "name": "UZUMAKI NARUTO",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#28PQVGGQ8",
+          "name": "Butta",
+          "townhallLevel": 16,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#L2G82LUYG",
+          "name": "❤Alpha❤",
+          "townhallLevel": 15,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#28LJL9YJ8",
+          "name": "Alpha",
+          "townhallLevel": 15,
+          "mapPosition": 11,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q809PLLC",
+          "name": "cosmicity",
+          "townhallLevel": 15,
+          "mapPosition": 12,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8J8VLY28",
+          "name": "SkyHigh",
+          "townhallLevel": 15,
+          "mapPosition": 13,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QG0VGQLR8",
+          "name": "Jackson Red",
+          "townhallLevel": 14,
+          "mapPosition": 14,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#GVURPVRLJ",
+          "name": "RIFQI COC",
+          "townhallLevel": 10,
+          "mapPosition": 15,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#82Q828PJ0",
+          "name": "jimee",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QC8GYR0LG",
+          "name": "Dyeelip",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YQQPUU088",
+          "name": "Leader Soltee",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#RRPUC2U2",
+          "name": "Arpan",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G0QL299C9",
+          "name": "KarkeeSagar",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#8GQPVRV8",
+          "name": "mamawalibreaker",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YCCVGLPCY",
+          "name": "RuPeSh »",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#P0Y8YU8VY",
+          "name": "Roshan.k",
+          "townhallLevel": 16,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2QQ8Q0YVC",
+          "name": "Gursewak hundal",
+          "townhallLevel": 16,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QCJ9RJ9QL",
+          "name": "dilip",
+          "townhallLevel": 16,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QCQ2R2CQP",
+          "name": "Leader Soltee 2",
+          "townhallLevel": 16,
+          "mapPosition": 11,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G20YGQL9J",
+          "name": "#Solti",
+          "townhallLevel": 15,
+          "mapPosition": 12,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G2YV00Y98",
+          "name": "Leader Soltee 3",
+          "townhallLevel": 15,
+          "mapPosition": 13,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QGCVGPUQJ",
+          "name": "दिपेश ³",
+          "townhallLevel": 15,
+          "mapPosition": 14,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#L09GQ9CL9",
+          "name": "bishal",
+          "townhallLevel": 14,
+          "mapPosition": 15,
+          "attacksUsed": 0,
+          "isOurClan": false
+        }
+      ],
+      "attacks": []
     }
   ]
 }
