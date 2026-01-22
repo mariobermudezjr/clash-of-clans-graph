@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-22T18:00:07.705Z",
+  "lastUpdated": "2026-01-22T20:00:07.502Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,12 +6527,12 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-22T18:00:07.684Z",
+      "collectedAt": "2026-01-22T20:00:07.483Z",
       "clanStats": {
-        "totalAttacks": 2,
-        "totalStars": 4,
-        "destructionPercentage": 74,
-        "attacksUsed": 2,
+        "totalAttacks": 4,
+        "totalStars": 7,
+        "destructionPercentage": 73.25,
+        "attacksUsed": 4,
         "attacksAvailable": 30
       },
       "opponentStats": {
@@ -6572,7 +6572,7 @@
           "name": "Magilla",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -6839,6 +6839,28 @@
           "destructionPercentage": 100,
           "order": 5,
           "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#RRPUC2U2",
+          "defenderName": "Arpan",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 6,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#QCQ2R2CQP",
+          "defenderName": "Leader Soltee 2",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 7,
+          "isOurClan": true
         }
       ]
     }
