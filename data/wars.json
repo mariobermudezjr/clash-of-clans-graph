@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-23T00:00:08.141Z",
+  "lastUpdated": "2026-01-23T02:00:07.616Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,19 +6527,19 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-23T00:00:08.119Z",
+      "collectedAt": "2026-01-23T02:00:07.597Z",
       "clanStats": {
-        "totalAttacks": 7,
-        "totalStars": 14,
-        "destructionPercentage": 77.85714285714286,
-        "attacksUsed": 7,
+        "totalAttacks": 9,
+        "totalStars": 18,
+        "destructionPercentage": 77.55555555555556,
+        "attacksUsed": 9,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 7,
-        "totalStars": 19,
-        "destructionPercentage": 91.57142857142857,
-        "attacksUsed": 7,
+        "totalAttacks": 10,
+        "totalStars": 28,
+        "destructionPercentage": 94.1,
+        "attacksUsed": 10,
         "attacksAvailable": 30
       },
       "members": [
@@ -6588,7 +6588,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -6684,7 +6684,7 @@
           "name": "Leader Soltee",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6716,7 +6716,7 @@
           "name": "RuPeSh »",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6748,7 +6748,7 @@
           "name": "Leader Soltee 2",
           "townhallLevel": 16,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6938,6 +6938,61 @@
           "destructionPercentage": 71,
           "order": 14,
           "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#8GQPVRV8",
+          "defenderName": "mamawalibreaker",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#YCCVGLPCY",
+          "defenderName": "RuPeSh »",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#YQQPUU088",
+          "attackerName": "Leader Soltee",
+          "defenderTag": "#9PU99J8",
+          "defenderName": "Mist",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#YCCVGLPCY",
+          "attackerName": "RuPeSh »",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#QCQ2R2CQP",
+          "attackerName": "Leader Soltee 2",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "isOurClan": false
         }
       ]
     }
