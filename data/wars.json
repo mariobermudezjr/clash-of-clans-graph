@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-23T04:00:08.088Z",
+  "lastUpdated": "2026-01-23T06:00:08.190Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,19 +6527,19 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-23T04:00:08.067Z",
+      "collectedAt": "2026-01-23T06:00:08.173Z",
       "clanStats": {
-        "totalAttacks": 11,
-        "totalStars": 21,
-        "destructionPercentage": 78.63636363636364,
-        "attacksUsed": 11,
+        "totalAttacks": 13,
+        "totalStars": 27,
+        "destructionPercentage": 81.92307692307692,
+        "attacksUsed": 13,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 14,
-        "totalStars": 40,
-        "destructionPercentage": 95.78571428571429,
-        "attacksUsed": 14,
+        "totalAttacks": 19,
+        "totalStars": 54,
+        "destructionPercentage": 95.42105263157895,
+        "attacksUsed": 19,
         "attacksAvailable": 30
       },
       "members": [
@@ -6548,7 +6548,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -6644,7 +6644,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -6676,7 +6676,7 @@
           "name": "Dyeelip",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6716,7 +6716,7 @@
           "name": "RuPeSh »",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -6756,7 +6756,7 @@
           "name": "#Solti",
           "townhallLevel": 15,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7059,6 +7059,83 @@
           "destructionPercentage": 94,
           "order": 25,
           "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#QC8GYR0LG",
+          "attackerName": "Dyeelip",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#QC8GYR0LG",
+          "attackerName": "Dyeelip",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#L09GQ9CL9",
+          "defenderName": "bishal",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#YCCVGLPCY",
+          "attackerName": "RuPeSh »",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#82Q828PJ0",
+          "defenderName": "jimee",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G20YGQL9J",
+          "attackerName": "#Solti",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 31,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G20YGQL9J",
+          "attackerName": "#Solti",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "isOurClan": false
         }
       ]
     }
