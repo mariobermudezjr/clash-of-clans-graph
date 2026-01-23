@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-22T22:00:08.234Z",
+  "lastUpdated": "2026-01-23T00:00:08.141Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -6527,19 +6527,19 @@
       "preparationStartTime": "20260121T165514.000Z",
       "startTime": "20260122T155514.000Z",
       "endTime": "20260123T155514.000Z",
-      "collectedAt": "2026-01-22T22:00:08.212Z",
+      "collectedAt": "2026-01-23T00:00:08.119Z",
       "clanStats": {
-        "totalAttacks": 4,
-        "totalStars": 7,
-        "destructionPercentage": 73.25,
-        "attacksUsed": 4,
+        "totalAttacks": 7,
+        "totalStars": 14,
+        "destructionPercentage": 77.85714285714286,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 6,
-        "totalStars": 17,
-        "destructionPercentage": 94.66666666666667,
-        "attacksUsed": 6,
+        "totalAttacks": 7,
+        "totalStars": 19,
+        "destructionPercentage": 91.57142857142857,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "members": [
@@ -6564,7 +6564,7 @@
           "name": "heyd",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -6604,7 +6604,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -6764,7 +6764,7 @@
           "name": "Leader Soltee 3",
           "townhallLevel": 15,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -6894,6 +6894,50 @@
           "destructionPercentage": 100,
           "order": 10,
           "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#G2YV00Y98",
+          "attackerName": "Leader Soltee 3",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#P0Y8YU8VY",
+          "defenderName": "Roshan.k",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 12,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#QCQ2R2CQP",
+          "defenderName": "Leader Soltee 2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260123t155514.000z--2yguqgy90--2qrv8gu28",
+          "attackerTag": "#PULY82YUL",
+          "attackerName": "heyd",
+          "defenderTag": "#YQQPUU088",
+          "defenderName": "Leader Soltee",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 14,
+          "isOurClan": true
         }
       ]
     }
