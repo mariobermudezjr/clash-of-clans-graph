@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-25T02:00:08.656Z",
+  "lastUpdated": "2026-01-25T04:00:07.797Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -7227,19 +7227,19 @@
       "preparationStartTime": "20260123T203021.000Z",
       "startTime": "20260124T193021.000Z",
       "endTime": "20260125T193021.000Z",
-      "collectedAt": "2026-01-25T02:00:08.634Z",
+      "collectedAt": "2026-01-25T04:00:07.776Z",
       "clanStats": {
-        "totalAttacks": 11,
-        "totalStars": 19,
-        "destructionPercentage": 77.36363636363636,
-        "attacksUsed": 11,
+        "totalAttacks": 14,
+        "totalStars": 25,
+        "destructionPercentage": 74.78571428571429,
+        "attacksUsed": 14,
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 19,
-        "totalStars": 55,
-        "destructionPercentage": 98.15789473684211,
-        "attacksUsed": 19,
+        "totalAttacks": 22,
+        "totalStars": 62,
+        "destructionPercentage": 95.95454545454545,
+        "attacksUsed": 22,
         "attacksAvailable": 40
       },
       "members": [
@@ -7272,7 +7272,7 @@
           "name": "saeid",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -7376,7 +7376,7 @@
           "name": "Alpha",
           "townhallLevel": 15,
           "mapPosition": 17,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -7496,7 +7496,7 @@
           "name": "IQ.W.ABOYUSIF",
           "townhallLevel": 16,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7504,7 +7504,7 @@
           "name": "سيف الامارة",
           "townhallLevel": 16,
           "mapPosition": 13,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7894,6 +7894,72 @@
           "destructionPercentage": 100,
           "order": 30,
           "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QVYV8VJ2Y",
+          "attackerName": "سيف الامارة",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#28LJL9YJ8",
+          "attackerName": "Alpha",
+          "defenderTag": "#YL82VYP9C",
+          "defenderName": "مهدي الاسدي",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 32,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#LGCQU288L",
+          "defenderName": "بـلـيـبـل",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 33,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#8R0JYRCJP",
+          "attackerName": "IQ.W.ABOYUSIF",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#8R0JYRCJP",
+          "attackerName": "IQ.W.ABOYUSIF",
+          "defenderTag": "#8JRC2L02C",
+          "defenderName": "ichigo korusaki",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 35,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#228J9CQ0J",
+          "defenderName": "Negan",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 36,
+          "isOurClan": true
         }
       ]
     }
