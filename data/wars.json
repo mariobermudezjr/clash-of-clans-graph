@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-24T22:00:08.002Z",
+  "lastUpdated": "2026-01-25T00:00:08.318Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -7227,19 +7227,19 @@
       "preparationStartTime": "20260123T203021.000Z",
       "startTime": "20260124T193021.000Z",
       "endTime": "20260125T193021.000Z",
-      "collectedAt": "2026-01-24T22:00:07.979Z",
+      "collectedAt": "2026-01-25T00:00:08.297Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 10,
-        "destructionPercentage": 72.2,
-        "attacksUsed": 5,
+        "totalAttacks": 9,
+        "totalStars": 16,
+        "destructionPercentage": 78,
+        "attacksUsed": 9,
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 10,
-        "totalStars": 30,
-        "destructionPercentage": 100,
-        "attacksUsed": 10,
+        "totalAttacks": 15,
+        "totalStars": 43,
+        "destructionPercentage": 97.66666666666667,
+        "attacksUsed": 15,
         "attacksAvailable": 40
       },
       "members": [
@@ -7304,7 +7304,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -7312,7 +7312,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -7480,7 +7480,7 @@
           "name": "سيوفي الامير",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7520,7 +7520,7 @@
           "name": "《دوشكا》",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7552,7 +7552,7 @@
           "name": "ابو غضب",
           "townhallLevel": 14,
           "mapPosition": 19,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -7729,6 +7729,105 @@
           "destructionPercentage": 100,
           "order": 15,
           "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#Q0L0QR9QL",
+          "defenderName": "قاسم",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#YY2JQVR2J",
+          "attackerName": "ابو غضب",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 1,
+          "destructionPercentage": 65,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#PRCRVJR8V",
+          "defenderName": "☠️Kielwa☠️",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 18,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#LUG9JPRPC",
+          "attackerName": "《دوشكا》",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#LUG9JPRPC",
+          "attackerName": "《دوشكا》",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#PL2R8VRCQ",
+          "attackerName": "سيوفي الامير",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#PL2R8VRCQ",
+          "attackerName": "سيوفي الامير",
+          "defenderTag": "#PP8GQ9QUJ",
+          "defenderName": "DEVIL KING",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#G0Y0PG9C2",
+          "defenderName": "foben",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#Q0L0QR9QL",
+          "defenderName": "قاسم",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 24,
+          "isOurClan": true
         }
       ]
     }
