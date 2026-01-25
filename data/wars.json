@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-25T18:00:07.572Z",
+  "lastUpdated": "2026-01-25T20:00:08.229Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -7223,16 +7223,16 @@
       "opponentTag": "#2G9JJ80GY",
       "opponentName": "CR7",
       "teamSize": 20,
-      "state": "inWar",
+      "state": "warEnded",
       "preparationStartTime": "20260123T203021.000Z",
       "startTime": "20260124T193021.000Z",
       "endTime": "20260125T193021.000Z",
-      "collectedAt": "2026-01-25T18:00:07.550Z",
+      "collectedAt": "2026-01-25T20:00:08.205Z",
       "clanStats": {
-        "totalAttacks": 24,
-        "totalStars": 46,
-        "destructionPercentage": 77.875,
-        "attacksUsed": 24,
+        "totalAttacks": 27,
+        "totalStars": 50,
+        "destructionPercentage": 75.22222222222223,
+        "attacksUsed": 27,
         "attacksAvailable": 40
       },
       "opponentStats": {
@@ -7280,7 +7280,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -7328,7 +7328,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -8136,6 +8136,39 @@
           "destructionPercentage": 29,
           "order": 52,
           "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#8R0JYRCJP",
+          "defenderName": "IQ.W.ABOYUSIF",
+          "stars": 1,
+          "destructionPercentage": 44,
+          "order": 53,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#2P9CQR9UV",
+          "defenderName": "Wael Hadi 1",
+          "stars": 1,
+          "destructionPercentage": 53,
+          "order": 54,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#9P029Y0RV",
+          "defenderName": "ÇUKUR<•••>",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 55,
+          "isOurClan": true
         }
       ]
     }
