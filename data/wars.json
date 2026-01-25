@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-25T00:00:08.318Z",
+  "lastUpdated": "2026-01-25T02:00:08.656Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -7227,19 +7227,19 @@
       "preparationStartTime": "20260123T203021.000Z",
       "startTime": "20260124T193021.000Z",
       "endTime": "20260125T193021.000Z",
-      "collectedAt": "2026-01-25T00:00:08.297Z",
+      "collectedAt": "2026-01-25T02:00:08.634Z",
       "clanStats": {
-        "totalAttacks": 9,
-        "totalStars": 16,
-        "destructionPercentage": 78,
-        "attacksUsed": 9,
+        "totalAttacks": 11,
+        "totalStars": 19,
+        "destructionPercentage": 77.36363636363636,
+        "attacksUsed": 11,
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 15,
-        "totalStars": 43,
-        "destructionPercentage": 97.66666666666667,
-        "attacksUsed": 15,
+        "totalAttacks": 19,
+        "totalStars": 55,
+        "destructionPercentage": 98.15789473684211,
+        "attacksUsed": 19,
         "attacksAvailable": 40
       },
       "members": [
@@ -7400,7 +7400,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -7432,7 +7432,7 @@
           "name": "بـلـيـبـل",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -7488,7 +7488,7 @@
           "name": "kooka",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -7504,7 +7504,7 @@
           "name": "سيف الامارة",
           "townhallLevel": 16,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -7828,6 +7828,72 @@
           "destructionPercentage": 77,
           "order": 24,
           "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#LGCQU288L",
+          "attackerName": "بـلـيـبـل",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#LGCQU288L",
+          "attackerName": "بـلـيـبـل",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#L8VCV92GQ",
+          "attackerName": "kooka",
+          "defenderTag": "#8QCRYPQC",
+          "defenderName": "Roland",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#YP8GJYPJP",
+          "defenderName": "درعہوميہ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#YL82VYP9C",
+          "defenderName": "مهدي الاسدي",
+          "stars": 0,
+          "destructionPercentage": 49,
+          "order": 29,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260125t193021.000z--2yguqgy90--2g9jj80gy",
+          "attackerTag": "#QVYV8VJ2Y",
+          "attackerName": "سيف الامارة",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "isOurClan": false
         }
       ]
     }
