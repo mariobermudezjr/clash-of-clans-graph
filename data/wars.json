@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-27T08:00:07.767Z",
+  "lastUpdated": "2026-01-28T10:00:07.284Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8169,6 +8169,219 @@
           "destructionPercentage": 65,
           "order": 55,
           "isOurClan": true
+        }
+      ]
+    },
+    {
+      "id": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#2LRR2UU00",
+      "opponentName": "NPN",
+      "teamSize": 10,
+      "state": "inWar",
+      "preparationStartTime": "20260127T085331.000Z",
+      "startTime": "20260128T075331.000Z",
+      "endTime": "20260129T081646.000Z",
+      "collectedAt": "2026-01-28T10:00:07.261Z",
+      "clanStats": {
+        "totalAttacks": 0,
+        "totalStars": 0,
+        "destructionPercentage": 0,
+        "attacksUsed": 0,
+        "attacksAvailable": 20
+      },
+      "opponentStats": {
+        "totalAttacks": 2,
+        "totalStars": 5,
+        "destructionPercentage": 89.5,
+        "attacksUsed": 2,
+        "attacksAvailable": 20
+      },
+      "members": [
+        {
+          "tag": "#8JRC2L02C",
+          "name": "ichigo korusaki",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QYUJ2YCU",
+          "name": "*General*Tange*",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LUQCQR",
+          "name": "Magilla",
+          "townhallLevel": 17,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2GCQJVLL",
+          "name": "slingblade",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q809PLLC",
+          "name": "cosmicity",
+          "townhallLevel": 15,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#28LJL9YJ8",
+          "name": "Alpha",
+          "townhallLevel": 15,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8J8VLY28",
+          "name": "SkyHigh",
+          "townhallLevel": 15,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QG0VGQLR8",
+          "name": "Jackson Red",
+          "townhallLevel": 14,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#LJ8GGYVUJ",
+          "name": "「VN」Tiến Dono❤️",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#Y2JPQRLY",
+          "name": "ABCD",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#LJCYVVPU",
+          "name": "PHONG THAN",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#LYQQC9LQ9",
+          "name": "MA TĂNG",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QR2C00CJ2",
+          "name": "hhahHhaha",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#G9JYRL9VG",
+          "name": "duycano",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QRRY8YPG0",
+          "name": "Nghiaday",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#LUC08VV2Q",
+          "name": "king-pile",
+          "townhallLevel": 16,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YCRCPYLQU",
+          "name": "nguyen",
+          "townhallLevel": 15,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QYGY8QYR9",
+          "name": "Sunny",
+          "townhallLevel": 15,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": false
+        }
+      ],
+      "attacks": [
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#LYQQC9LQ9",
+          "attackerName": "MA TĂNG",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 1,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#LYQQC9LQ9",
+          "attackerName": "MA TĂNG",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "isOurClan": false
         }
       ]
     }
