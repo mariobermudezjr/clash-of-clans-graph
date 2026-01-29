@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-28T22:00:08.284Z",
+  "lastUpdated": "2026-01-29T00:00:08.194Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8183,12 +8183,12 @@
       "preparationStartTime": "20260127T085331.000Z",
       "startTime": "20260128T075331.000Z",
       "endTime": "20260129T081646.000Z",
-      "collectedAt": "2026-01-28T22:00:08.261Z",
+      "collectedAt": "2026-01-29T00:00:08.170Z",
       "clanStats": {
-        "totalAttacks": 6,
-        "totalStars": 11,
-        "destructionPercentage": 72.66666666666667,
-        "attacksUsed": 6,
+        "totalAttacks": 8,
+        "totalStars": 15,
+        "destructionPercentage": 73.875,
+        "attacksUsed": 8,
         "attacksAvailable": 20
       },
       "opponentStats": {
@@ -8212,7 +8212,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -8252,7 +8252,7 @@
           "name": "cosmicity",
           "townhallLevel": 15,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -8590,6 +8590,28 @@
           "stars": 2,
           "destructionPercentage": 81,
           "order": 21,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#Y2JPQRLY",
+          "defenderName": "ABCD",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#YCRCPYLQU",
+          "defenderName": "nguyen",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 23,
           "isOurClan": true
         }
       ]
