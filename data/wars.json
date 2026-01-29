@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-29T00:00:08.194Z",
+  "lastUpdated": "2026-01-29T02:00:07.806Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8183,19 +8183,19 @@
       "preparationStartTime": "20260127T085331.000Z",
       "startTime": "20260128T075331.000Z",
       "endTime": "20260129T081646.000Z",
-      "collectedAt": "2026-01-29T00:00:08.170Z",
+      "collectedAt": "2026-01-29T02:00:07.786Z",
       "clanStats": {
-        "totalAttacks": 8,
-        "totalStars": 15,
-        "destructionPercentage": 73.875,
-        "attacksUsed": 8,
+        "totalAttacks": 11,
+        "totalStars": 19,
+        "destructionPercentage": 72.72727272727273,
+        "attacksUsed": 11,
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 15,
-        "totalStars": 38,
-        "destructionPercentage": 93.53333333333333,
-        "attacksUsed": 15,
+        "totalAttacks": 17,
+        "totalStars": 44,
+        "destructionPercentage": 94.29411764705883,
+        "attacksUsed": 17,
         "attacksAvailable": 20
       },
       "members": [
@@ -8228,7 +8228,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -8252,7 +8252,7 @@
           "name": "cosmicity",
           "townhallLevel": 15,
           "mapPosition": 7,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -8276,7 +8276,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -8284,7 +8284,7 @@
           "name": "「VN」Tiến Dono❤️",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -8348,7 +8348,7 @@
           "name": "nguyen",
           "townhallLevel": 15,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -8612,6 +8612,61 @@
           "stars": 2,
           "destructionPercentage": 65,
           "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#QYGY8QYR9",
+          "defenderName": "Sunny",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#LYQQC9LQ9",
+          "defenderName": "MA TĂNG",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#LJ8GGYVUJ",
+          "attackerName": "「VN」Tiến Dono❤️",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#YCRCPYLQU",
+          "attackerName": "nguyen",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260129t081646.000z--2yguqgy90--2lrr2uu00",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#QYGY8QYR9",
+          "defenderName": "Sunny",
+          "stars": 0,
+          "destructionPercentage": 31,
+          "order": 28,
           "isOurClan": true
         }
       ]
