@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-29T22:00:09.169Z",
+  "lastUpdated": "2026-01-30T00:00:08.037Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8183,7 +8183,7 @@
       "preparationStartTime": "20260127T085331.000Z",
       "startTime": "20260128T075331.000Z",
       "endTime": "20260129T081646.000Z",
-      "collectedAt": "2026-01-29T22:00:09.148Z",
+      "collectedAt": "2026-01-30T00:00:08.016Z",
       "clanStats": {
         "totalAttacks": 15,
         "totalStars": 28,
