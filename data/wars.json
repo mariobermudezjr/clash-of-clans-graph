@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-31T08:00:07.621Z",
+  "lastUpdated": "2026-01-31T10:00:07.968Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8737,7 +8737,7 @@
       "preparationStartTime": "20260130T085923.000Z",
       "startTime": "20260131T075923.000Z",
       "endTime": "20260201T075923.000Z",
-      "collectedAt": "2026-01-31T08:00:07.601Z",
+      "collectedAt": "2026-01-31T10:00:07.949Z",
       "clanStats": {
         "totalAttacks": 0,
         "totalStars": 0,
@@ -8746,10 +8746,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 0,
-        "totalStars": 0,
-        "destructionPercentage": 0,
-        "attacksUsed": 0,
+        "totalAttacks": 5,
+        "totalStars": 13,
+        "destructionPercentage": 91.4,
+        "attacksUsed": 5,
         "attacksAvailable": 30
       },
       "members": [
@@ -8910,7 +8910,7 @@
           "name": "drux",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -8926,7 +8926,7 @@
           "name": "pip",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -8974,7 +8974,7 @@
           "name": "lightweightbaby",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -8994,7 +8994,63 @@
           "isOurClan": false
         }
       ],
-      "attacks": []
+      "attacks": [
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#8L0RUYJY",
+          "attackerName": "pip",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#8L0RUYJY",
+          "attackerName": "pip",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#8QJ288PJP",
+          "attackerName": "drux",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 3,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#9G88JVLQU",
+          "attackerName": "lightweightbaby",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#8QJ288PJP",
+          "attackerName": "drux",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 5,
+          "isOurClan": false
+        }
+      ]
     }
   ]
 }
