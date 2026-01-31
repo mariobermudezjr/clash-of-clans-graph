@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-31T18:00:08.141Z",
+  "lastUpdated": "2026-01-31T20:00:07.296Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8737,7 +8737,7 @@
       "preparationStartTime": "20260130T085923.000Z",
       "startTime": "20260131T075923.000Z",
       "endTime": "20260201T075923.000Z",
-      "collectedAt": "2026-01-31T18:00:08.120Z",
+      "collectedAt": "2026-01-31T20:00:07.273Z",
       "clanStats": {
         "totalAttacks": 1,
         "totalStars": 1,
@@ -8746,10 +8746,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 11,
-        "totalStars": 27,
-        "destructionPercentage": 93.45454545454545,
-        "attacksUsed": 11,
+        "totalAttacks": 14,
+        "totalStars": 35,
+        "destructionPercentage": 93.5,
+        "attacksUsed": 14,
         "attacksAvailable": 30
       },
       "members": [
@@ -8878,7 +8878,7 @@
           "name": "joe",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -8886,7 +8886,7 @@
           "name": "Nasty Nick",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -9125,6 +9125,39 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#90GYYQGC",
+          "attackerName": "Nasty Nick",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#PJVCPY2CL",
+          "attackerName": "joe",
+          "defenderTag": "#8JRC2L02C",
+          "defenderName": "ichigo korusaki",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#PJVCPY2CL",
+          "attackerName": "joe",
+          "defenderTag": "#YCY9LRV08",
+          "defenderName": "saeid",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
           "isOurClan": false
         }
       ]
