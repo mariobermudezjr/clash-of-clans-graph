@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-01T06:00:07.532Z",
+  "lastUpdated": "2026-02-01T08:00:08.159Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -8737,7 +8737,7 @@
       "preparationStartTime": "20260130T085923.000Z",
       "startTime": "20260131T075923.000Z",
       "endTime": "20260201T075923.000Z",
-      "collectedAt": "2026-02-01T06:00:07.509Z",
+      "collectedAt": "2026-02-01T08:00:08.136Z",
       "clanStats": {
         "totalAttacks": 6,
         "totalStars": 14,
@@ -8746,10 +8746,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 19,
-        "totalStars": 45,
-        "destructionPercentage": 90.42105263157895,
-        "attacksUsed": 19,
+        "totalAttacks": 23,
+        "totalStars": 54,
+        "destructionPercentage": 88.43478260869566,
+        "attacksUsed": 23,
         "attacksAvailable": 30
       },
       "members": [
@@ -8950,7 +8950,7 @@
           "name": "Apples",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -8982,7 +8982,7 @@
           "name": "Apples 1.5",
           "townhallLevel": 16,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9268,6 +9268,50 @@
           "stars": 2,
           "destructionPercentage": 80,
           "order": 25,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#2L8Q802CY",
+          "attackerName": "Apples",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#2L8Q802CY",
+          "attackerName": "Apples",
+          "defenderTag": "#8PRPV9U8J",
+          "defenderName": "DoubleTap00",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#22P99GYPR",
+          "attackerName": "Apples 1.5",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260201t075923.000z--2yguqgy90--8yu8lr99",
+          "attackerTag": "#22P99GYPR",
+          "attackerName": "Apples 1.5",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 29,
           "isOurClan": false
         }
       ]
