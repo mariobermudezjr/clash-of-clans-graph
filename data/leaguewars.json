@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-01T18:00:12.773Z",
+  "lastUpdated": "2026-02-01T20:00:13.075Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "preparation",
-      "collectedAt": "2026-02-01T18:00:12.763Z",
+      "collectedAt": "2026-02-01T20:00:13.064Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-01T18:00:12.763Z",
+          "collectedAt": "2026-02-01T20:00:13.064Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -163,6 +163,14 @@
               "name": "DoubleTap00",
               "townhallLevel": 18,
               "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G2LUQCQR",
+              "name": "Magilla",
+              "townhallLevel": 18,
+              "mapPosition": 12,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -279,14 +287,6 @@
               "isOurClan": true
             },
             {
-              "tag": "#GYQ9JYYLY",
-              "name": "nickd⁴th",
-              "townhallLevel": 15,
-              "mapPosition": 32,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#Q809PLLC",
               "name": "cosmicity",
               "townhallLevel": 15,
@@ -303,18 +303,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#G8RLG2UL9",
-              "name": "MagillaJr",
-              "townhallLevel": 14,
-              "mapPosition": 38,
+              "tag": "#G8J8VLY28",
+              "name": "SkyHigh",
+              "townhallLevel": 15,
+              "mapPosition": 35,
               "attacksUsed": 0,
               "isOurClan": true
             },
             {
-              "tag": "#GVURPVRLJ",
-              "name": "RIFQI COC",
-              "townhallLevel": 10,
-              "mapPosition": 41,
+              "tag": "#G8RLG2UL9",
+              "name": "MagillaJr",
+              "townhallLevel": 14,
+              "mapPosition": 38,
               "attacksUsed": 0,
               "isOurClan": true
             },
