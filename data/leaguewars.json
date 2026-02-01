@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-01T12:00:13.285Z",
+  "lastUpdated": "2026-02-01T14:00:13.365Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "preparation",
-      "collectedAt": "2026-02-01T12:00:13.274Z",
+      "collectedAt": "2026-02-01T14:00:13.354Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-01T12:00:13.274Z",
+          "collectedAt": "2026-02-01T14:00:13.354Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -171,6 +171,14 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#2GCQJVLL",
+              "name": "slingblade",
+              "townhallLevel": 17,
+              "mapPosition": 15,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -299,14 +307,6 @@
               "name": "MagillaJr",
               "townhallLevel": 14,
               "mapPosition": 38,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#9L2VVLUL9",
-              "name": "bloodhunter",
-              "townhallLevel": 12,
-              "mapPosition": 39,
               "attacksUsed": 0,
               "isOurClan": true
             },
