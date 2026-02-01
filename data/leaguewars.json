@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-01T20:00:13.075Z",
+  "lastUpdated": "2026-02-01T22:00:13.835Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "preparation",
-      "collectedAt": "2026-02-01T20:00:13.064Z",
+      "collectedAt": "2026-02-01T22:00:13.825Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-01T20:00:13.064Z",
+          "collectedAt": "2026-02-01T22:00:13.825Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
