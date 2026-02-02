@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-02T12:00:13.841Z",
+  "lastUpdated": "2026-02-02T14:00:13.627Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-02T12:00:13.829Z",
+      "collectedAt": "2026-02-02T14:00:13.615Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-02T12:00:13.829Z",
+          "collectedAt": "2026-02-02T14:00:13.615Z",
           "clanStats": {
-            "totalAttacks": 1,
-            "totalStars": 3,
-            "destructionPercentage": 100,
-            "attacksUsed": 1,
+            "totalAttacks": 7,
+            "totalStars": 20,
+            "destructionPercentage": 99.85714285714286,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 3,
-            "destructionPercentage": 44,
-            "attacksUsed": 3,
+            "totalAttacks": 7,
+            "totalStars": 7,
+            "destructionPercentage": 47.857142857142854,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "members": [
@@ -131,7 +131,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -171,7 +171,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -195,7 +195,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -235,7 +235,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -259,7 +259,7 @@
               "name": "Remuism",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -315,7 +315,7 @@
               "name": "MagillaJr",
               "townhallLevel": 14,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -347,7 +347,7 @@
               "name": "supernyundnyond",
               "townhallLevel": 15,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -363,7 +363,7 @@
               "name": "super",
               "townhallLevel": 15,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -411,7 +411,7 @@
               "name": "Iting ‡",
               "townhallLevel": 14,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -507,7 +507,7 @@
               "name": "RECOUNER29",
               "townhallLevel": 14,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -603,6 +603,116 @@
               "destructionPercentage": 100,
               "order": 4,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GRRGLJUV8",
+              "attackerName": "super",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 0,
+              "destructionPercentage": 27,
+              "order": 5,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GGVL8QGQ8",
+              "attackerName": "Iting ‡",
+              "defenderTag": "#G2LUQCQR",
+              "defenderName": "Magilla",
+              "stars": 2,
+              "destructionPercentage": 65,
+              "order": 6,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GQPU8U2CL",
+              "attackerName": "supernyundnyond",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 1,
+              "destructionPercentage": 31,
+              "order": 7,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#GQLQLQGR8",
+              "defenderName": "wenk",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#QJPP2YR0V",
+              "defenderName": "DonJi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#Q28U9C0UG",
+              "attackerName": "RECOUNER29",
+              "defenderTag": "#G8RLG2UL9",
+              "defenderName": "MagillaJr",
+              "stars": 1,
+              "destructionPercentage": 80,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#G8RLG2UL9",
+              "attackerName": "MagillaJr",
+              "defenderTag": "#R00VQU209",
+              "defenderName": "Zoldyck",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#G900RLCQV",
+              "defenderName": "cahaya347",
+              "stars": 2,
+              "destructionPercentage": 99,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#GGVL8QGQ8",
+              "defenderName": "Iting ‡",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#8J8P0UL0J",
+              "defenderName": "V.O.N",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "isOurClan": true
             }
           ]
         },
@@ -619,7 +729,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-02T12:00:13.829Z",
+          "collectedAt": "2026-02-02T14:00:13.615Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
