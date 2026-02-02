@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-02T16:00:13.936Z",
+  "lastUpdated": "2026-02-02T18:00:13.892Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-02T16:00:13.924Z",
+      "collectedAt": "2026-02-02T18:00:13.880Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,12 +62,12 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-02T16:00:13.924Z",
+          "collectedAt": "2026-02-02T18:00:13.880Z",
           "clanStats": {
-            "totalAttacks": 8,
-            "totalStars": 23,
-            "destructionPercentage": 99.875,
-            "attacksUsed": 8,
+            "totalAttacks": 9,
+            "totalStars": 26,
+            "destructionPercentage": 99.88888888888889,
+            "attacksUsed": 9,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -227,7 +227,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 17,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -735,6 +735,17 @@
               "destructionPercentage": 28,
               "order": 16,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#QVGJU0V8R",
+              "defenderName": "Charmy",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
             }
           ]
         },
@@ -751,7 +762,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-02T16:00:13.924Z",
+          "collectedAt": "2026-02-02T18:00:13.880Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
