@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-02T14:00:13.627Z",
+  "lastUpdated": "2026-02-02T16:00:13.936Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-02T14:00:13.615Z",
+      "collectedAt": "2026-02-02T16:00:13.924Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-02T14:00:13.615Z",
+          "collectedAt": "2026-02-02T16:00:13.924Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 20,
-            "destructionPercentage": 99.85714285714286,
-            "attacksUsed": 7,
+            "totalAttacks": 8,
+            "totalStars": 23,
+            "destructionPercentage": 99.875,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 7,
+            "totalAttacks": 8,
             "totalStars": 7,
-            "destructionPercentage": 47.857142857142854,
-            "attacksUsed": 7,
+            "destructionPercentage": 45.375,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "members": [
@@ -187,7 +187,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -387,7 +387,7 @@
               "name": "iwan cbs",
               "townhallLevel": 14,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -713,6 +713,28 @@
               "destructionPercentage": 100,
               "order": 14,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#99L9LR0JY",
+              "defenderName": "M.FADHIL IHSAN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GYRLRJJV",
+              "attackerName": "iwan cbs",
+              "defenderTag": "#PULY82YUL",
+              "defenderName": "heyd",
+              "stars": 0,
+              "destructionPercentage": 28,
+              "order": 16,
+              "isOurClan": false
             }
           ]
         },
@@ -729,7 +751,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-02T14:00:13.615Z",
+          "collectedAt": "2026-02-02T16:00:13.924Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
