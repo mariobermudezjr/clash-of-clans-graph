@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-02T10:00:17.677Z",
+  "lastUpdated": "2026-02-02T12:00:13.841Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-02T10:00:17.646Z",
+      "collectedAt": "2026-02-02T12:00:13.829Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-02T10:00:17.645Z",
+          "collectedAt": "2026-02-02T12:00:13.829Z",
           "clanStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 1,
+            "totalStars": 3,
+            "destructionPercentage": 100,
+            "attacksUsed": 1,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 3,
+            "totalStars": 3,
+            "destructionPercentage": 44,
+            "attacksUsed": 3,
             "attacksAvailable": 30
           },
           "members": [
@@ -219,7 +219,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -355,7 +355,7 @@
               "name": "♛ｓｕｐｅｒ • Boy",
               "townhallLevel": 15,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -515,7 +515,7 @@
               "name": "EARTRAP",
               "townhallLevel": 14,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -531,7 +531,7 @@
               "name": "jarwo",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -559,7 +559,52 @@
               "isOurClan": false
             }
           ],
-          "attacks": []
+          "attacks": [
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#Y8GPJC08J",
+              "attackerName": "♛ｓｕｐｅｒ • Boy",
+              "defenderTag": "#Q9UPPQJ92",
+              "defenderName": "iambogik",
+              "stars": 2,
+              "destructionPercentage": 50,
+              "order": 1,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GLGGUV8GP",
+              "attackerName": "jarwo",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 0,
+              "destructionPercentage": 32,
+              "order": 2,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#QLRJL0PC0",
+              "attackerName": "EARTRAP",
+              "defenderTag": "#P82YPRQCG",
+              "defenderName": "Pearce",
+              "stars": 1,
+              "destructionPercentage": 50,
+              "order": 3,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#G0JYULYQY",
+              "defenderName": "black king",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "isOurClan": true
+            }
+          ]
         },
         {
           "id": "2026-02-round2-#2J9PCQ2G2",
@@ -574,7 +619,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-02T10:00:17.646Z",
+          "collectedAt": "2026-02-02T12:00:13.829Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
