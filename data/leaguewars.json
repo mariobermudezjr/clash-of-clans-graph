@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-02T08:00:13.851Z",
+  "lastUpdated": "2026-02-02T10:00:17.677Z",
   "seasons": [
     {
       "season": "2026-02",
-      "state": "preparation",
-      "collectedAt": "2026-02-02T08:00:13.841Z",
+      "state": "inWar",
+      "collectedAt": "2026-02-02T10:00:17.646Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -58,11 +58,11 @@
           "opponentTag": "#2RQ2L0L80",
           "opponentName": "amfibi",
           "teamSize": 30,
-          "state": "preparation",
+          "state": "inWar",
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-02T08:00:13.841Z",
+          "collectedAt": "2026-02-02T10:00:17.645Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -555,6 +555,518 @@
               "name": "Zoldyck",
               "townhallLevel": 9,
               "mapPosition": 37,
+              "attacksUsed": 0,
+              "isOurClan": false
+            }
+          ],
+          "attacks": []
+        },
+        {
+          "id": "2026-02-round2-#2J9PCQ2G2",
+          "season": "2026-02",
+          "roundNumber": 2,
+          "clanTag": "#2YGUQGY90",
+          "clanName": "Alpha",
+          "opponentTag": "#2J9PCQ2G2",
+          "opponentName": "同盟会",
+          "teamSize": 30,
+          "state": "preparation",
+          "preparationStartTime": "20260202T094919.000Z",
+          "startTime": "20260203T094916.000Z",
+          "endTime": "20260204T094916.000Z",
+          "collectedAt": "2026-02-02T10:00:17.646Z",
+          "clanStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 30
+          },
+          "opponentStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 30
+          },
+          "members": [
+            {
+              "tag": "#9PU99J8",
+              "name": "Mist",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8JRC2L02C",
+              "name": "ichigo korusaki",
+              "townhallLevel": 18,
+              "mapPosition": 2,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#882UYU9P",
+              "name": "Pig Grease 2.3",
+              "townhallLevel": 18,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L0CCUYYVQ",
+              "name": "iishikaori",
+              "townhallLevel": 18,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q9UPPQJ92",
+              "name": "iambogik",
+              "townhallLevel": 18,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QP0RJLC00",
+              "name": "ang",
+              "townhallLevel": 18,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#YCY9LRV08",
+              "name": "saeid",
+              "townhallLevel": 18,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QYUJ2YCU",
+              "name": "*General*Tange*",
+              "townhallLevel": 18,
+              "mapPosition": 8,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#PULY82YUL",
+              "name": "heyd",
+              "townhallLevel": 18,
+              "mapPosition": 9,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLJUUCP2",
+              "name": "***anabelle***",
+              "townhallLevel": 18,
+              "mapPosition": 10,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8PRPV9U8J",
+              "name": "DoubleTap00",
+              "townhallLevel": 18,
+              "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G2LUQCQR",
+              "name": "Magilla",
+              "townhallLevel": 18,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#89G9JQJP",
+              "name": "Oculus Rift™",
+              "townhallLevel": 17,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q8GPPQ98U",
+              "name": "Mr. Frodo",
+              "townhallLevel": 17,
+              "mapPosition": 14,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#2GCQJVLL",
+              "name": "slingblade",
+              "townhallLevel": 17,
+              "mapPosition": 15,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#LRRGGPV2",
+              "name": "coicoi",
+              "townhallLevel": 17,
+              "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#RJR808GU",
+              "name": "mjello32",
+              "townhallLevel": 17,
+              "mapPosition": 17,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#LU9LVLYG",
+              "name": "Grizzly Reaper",
+              "townhallLevel": 17,
+              "mapPosition": 18,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLPGJL29",
+              "name": "UZUMAKI NARUTO",
+              "townhallLevel": 17,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8CUYLRL0",
+              "name": "B-A-M-C-I-S",
+              "townhallLevel": 17,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#PP8GQ9QUJ",
+              "name": "DEVIL KING",
+              "townhallLevel": 17,
+              "mapPosition": 22,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G2LJVQUPU",
+              "name": "jisn",
+              "townhallLevel": 18,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#20Y9C8V22",
+              "name": "Remuism",
+              "townhallLevel": 16,
+              "mapPosition": 25,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8QCRYPQC",
+              "name": "Roland",
+              "townhallLevel": 16,
+              "mapPosition": 26,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#P82YPRQCG",
+              "name": "Pearce",
+              "townhallLevel": 17,
+              "mapPosition": 28,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L2G82LUYG",
+              "name": "❤Alpha❤",
+              "townhallLevel": 16,
+              "mapPosition": 29,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q809PLLC",
+              "name": "cosmicity",
+              "townhallLevel": 15,
+              "mapPosition": 33,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#28LJL9YJ8",
+              "name": "Alpha",
+              "townhallLevel": 15,
+              "mapPosition": 34,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G8J8VLY28",
+              "name": "SkyHigh",
+              "townhallLevel": 15,
+              "mapPosition": 35,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G8RLG2UL9",
+              "name": "MagillaJr",
+              "townhallLevel": 14,
+              "mapPosition": 38,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#80UR8GGG",
+              "name": "jacky mkh",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#JLGLJQCP",
+              "name": "救命啊！我需要增援部队！",
+              "townhallLevel": 18,
+              "mapPosition": 2,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QC909JLP",
+              "name": "sooooofat",
+              "townhallLevel": 16,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QQVGYJGVV",
+              "name": "风色幻想",
+              "townhallLevel": 17,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#G8GQJRL9L",
+              "name": "两袖清风怎敢误佳人",
+              "townhallLevel": 16,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GG0JQ8UPL",
+              "name": "黑狱亡魂",
+              "townhallLevel": 16,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QQ0CYGL",
+              "name": "乱魔麒零【凰】",
+              "townhallLevel": 15,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GR8220G0J",
+              "name": "刘情",
+              "townhallLevel": 16,
+              "mapPosition": 8,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GYQ8C8R0Y",
+              "name": "小雨王国",
+              "townhallLevel": 15,
+              "mapPosition": 9,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GGVRLL2JJ",
+              "name": "雀儿",
+              "townhallLevel": 15,
+              "mapPosition": 10,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#RRCVUUY",
+              "name": "APR",
+              "townhallLevel": 15,
+              "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#G2UCURR28",
+              "name": "想要的名",
+              "townhallLevel": 15,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GJJ9PU2GP",
+              "name": "active",
+              "townhallLevel": 15,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QQRPPC9GV",
+              "name": "名字",
+              "townhallLevel": 15,
+              "mapPosition": 15,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GG0LYJGGP",
+              "name": "铃铛",
+              "townhallLevel": 17,
+              "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GLQ9LG829",
+              "name": "szg",
+              "townhallLevel": 14,
+              "mapPosition": 17,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GQCJRYV9U",
+              "name": "Yap",
+              "townhallLevel": 14,
+              "mapPosition": 18,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#Q29YU0UC8",
+              "name": "梦屿如初.白狐",
+              "townhallLevel": 14,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#G8G2U92GQ",
+              "name": "萨喀纳",
+              "townhallLevel": 14,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#G2JRPUYJ8",
+              "name": "一池星光",
+              "townhallLevel": 14,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GLJLQ9JYQ",
+              "name": "嘿嘿嘿",
+              "townhallLevel": 15,
+              "mapPosition": 22,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GG9GCRRRY",
+              "name": "xiex",
+              "townhallLevel": 15,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GR2GP8JPY",
+              "name": "魅力之城",
+              "townhallLevel": 16,
+              "mapPosition": 26,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GUQ8V2R8Q",
+              "name": "赵之云丁辰",
+              "townhallLevel": 16,
+              "mapPosition": 28,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#G9L02VR29",
+              "name": "狂肝",
+              "townhallLevel": 15,
+              "mapPosition": 29,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GJ8LU9Q8U",
+              "name": "山顶黑毒蛇",
+              "townhallLevel": 13,
+              "mapPosition": 30,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GYJY9LP2R",
+              "name": "阿尔瓦雷斯",
+              "townhallLevel": 13,
+              "mapPosition": 31,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QPL99J9Y2",
+              "name": "tamako",
+              "townhallLevel": 13,
+              "mapPosition": 32,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GC90C8PUU",
+              "name": "Miller",
+              "townhallLevel": 13,
+              "mapPosition": 33,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GUPY8PCQU",
+              "name": "企鹅小镇",
+              "townhallLevel": 12,
+              "mapPosition": 34,
               "attacksUsed": 0,
               "isOurClan": false
             }
