@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T06:00:18.951Z",
+  "lastUpdated": "2026-02-03T08:00:14.323Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-03T06:00:18.941Z",
+      "collectedAt": "2026-02-03T08:00:14.312Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-03T06:00:18.940Z",
+          "collectedAt": "2026-02-03T08:00:14.311Z",
           "clanStats": {
-            "totalAttacks": 16,
-            "totalStars": 46,
-            "destructionPercentage": 99.875,
-            "attacksUsed": 16,
+            "totalAttacks": 17,
+            "totalStars": 49,
+            "destructionPercentage": 99.88235294117646,
+            "attacksUsed": 17,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 15,
-            "totalStars": 17,
-            "destructionPercentage": 55,
-            "attacksUsed": 15,
+            "totalAttacks": 17,
+            "totalStars": 20,
+            "destructionPercentage": 57.294117647058826,
+            "attacksUsed": 17,
             "attacksAvailable": 30
           },
           "members": [
@@ -267,7 +267,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -419,7 +419,7 @@
               "name": "the rev",
               "townhallLevel": 14,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -467,7 +467,7 @@
               "name": "Charmy",
               "townhallLevel": 14,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -900,6 +900,39 @@
               "destructionPercentage": 100,
               "order": 31,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#GQJ2CPUJ",
+              "attackerName": "the rev",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 0,
+              "destructionPercentage": 49,
+              "order": 32,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#QVGJU0V8R",
+              "attackerName": "Charmy",
+              "defenderTag": "#G8RLG2UL9",
+              "defenderName": "MagillaJr",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 33,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#Q28U9C0UG",
+              "defenderName": "RECOUNER29",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 34,
+              "isOurClan": true
             }
           ]
         },
@@ -916,7 +949,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-03T06:00:18.941Z",
+          "collectedAt": "2026-02-03T08:00:14.311Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
