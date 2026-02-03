@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T16:00:14.052Z",
+  "lastUpdated": "2026-02-03T18:00:15.737Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-03T16:00:14.040Z",
+      "collectedAt": "2026-02-03T18:00:15.726Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-03T16:00:14.039Z",
+          "collectedAt": "2026-02-03T18:00:15.726Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,19 +960,19 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-03T16:00:14.040Z",
+          "collectedAt": "2026-02-03T18:00:15.726Z",
           "clanStats": {
-            "totalAttacks": 12,
-            "totalStars": 35,
-            "destructionPercentage": 98.08333333333333,
-            "attacksUsed": 12,
+            "totalAttacks": 15,
+            "totalStars": 44,
+            "destructionPercentage": 98.46666666666667,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 11,
-            "totalStars": 21,
-            "destructionPercentage": 77.45454545454545,
-            "attacksUsed": 11,
+            "totalAttacks": 12,
+            "totalStars": 22,
+            "destructionPercentage": 75,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "members": [
@@ -981,7 +981,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1005,7 +1005,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1053,7 +1053,7 @@
               "name": "***anabelle***",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1357,7 +1357,7 @@
               "name": "梦屿如初.白狐",
               "townhallLevel": 14,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1710,6 +1710,50 @@
               "destructionPercentage": 80,
               "order": 23,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#Q29YU0UC8",
+              "attackerName": "梦屿如初.白狐",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 1,
+              "destructionPercentage": 48,
+              "order": 24,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#QQVGYJGVV",
+              "defenderName": "风色幻想",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#QLLJUUCP2",
+              "attackerName": "***anabelle***",
+              "defenderTag": "#GGVRLL2JJ",
+              "defenderName": "雀儿",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#80UR8GGG",
+              "defenderName": "jacky mkh",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": true
             }
           ]
         },
@@ -1726,7 +1770,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-03T16:00:14.040Z",
+          "collectedAt": "2026-02-03T18:00:15.726Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
