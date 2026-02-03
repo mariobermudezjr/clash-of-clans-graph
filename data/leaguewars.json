@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T18:00:15.737Z",
+  "lastUpdated": "2026-02-03T20:00:15.652Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-03T18:00:15.726Z",
+      "collectedAt": "2026-02-03T20:00:15.640Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-03T18:00:15.726Z",
+          "collectedAt": "2026-02-03T20:00:15.640Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,12 +960,12 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-03T18:00:15.726Z",
+          "collectedAt": "2026-02-03T20:00:15.640Z",
           "clanStats": {
-            "totalAttacks": 15,
-            "totalStars": 44,
-            "destructionPercentage": 98.46666666666667,
-            "attacksUsed": 15,
+            "totalAttacks": 16,
+            "totalStars": 47,
+            "destructionPercentage": 98.5625,
+            "attacksUsed": 16,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -1061,7 +1061,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1754,6 +1754,17 @@
               "destructionPercentage": 100,
               "order": 27,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#RRCVUUY",
+              "defenderName": "APR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "isOurClan": true
             }
           ]
         },
@@ -1770,7 +1781,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-03T18:00:15.726Z",
+          "collectedAt": "2026-02-03T20:00:15.640Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
