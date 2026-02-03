@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T08:00:14.323Z",
+  "lastUpdated": "2026-02-03T10:00:13.223Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-03T08:00:14.312Z",
+      "collectedAt": "2026-02-03T10:00:13.212Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -58,11 +58,11 @@
           "opponentTag": "#2RQ2L0L80",
           "opponentName": "amfibi",
           "teamSize": 30,
-          "state": "inWar",
+          "state": "warEnded",
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-03T08:00:14.311Z",
+          "collectedAt": "2026-02-03T10:00:13.212Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -71,10 +71,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 17,
-            "totalStars": 20,
-            "destructionPercentage": 57.294117647058826,
-            "attacksUsed": 17,
+            "totalAttacks": 18,
+            "totalStars": 22,
+            "destructionPercentage": 57.55555555555556,
+            "attacksUsed": 18,
             "attacksAvailable": 30
           },
           "members": [
@@ -451,7 +451,7 @@
               "name": "Jendral",
               "townhallLevel": 14,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -933,6 +933,17 @@
               "destructionPercentage": 100,
               "order": 34,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round1-#2RQ2L0L80",
+              "attackerTag": "#QQCVV0PJR",
+              "attackerName": "Jendral",
+              "defenderTag": "#RJR808GU",
+              "defenderName": "mjello32",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 35,
+              "isOurClan": false
             }
           ]
         },
@@ -945,16 +956,16 @@
           "opponentTag": "#2J9PCQ2G2",
           "opponentName": "同盟会",
           "teamSize": 30,
-          "state": "preparation",
+          "state": "inWar",
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-03T08:00:14.311Z",
+          "collectedAt": "2026-02-03T10:00:13.212Z",
           "clanStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 2,
+            "totalStars": 6,
+            "destructionPercentage": 100,
+            "attacksUsed": 2,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -1002,7 +1013,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1010,7 +1021,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1042,14 +1053,6 @@
               "name": "***anabelle***",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#8PRPV9U8J",
-              "name": "DoubleTap00",
-              "townhallLevel": 18,
-              "mapPosition": 11,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -1118,6 +1121,14 @@
               "isOurClan": true
             },
             {
+              "tag": "#2J2PRRCL",
+              "name": "Aral",
+              "townhallLevel": 17,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
               "tag": "#8CUYLRL0",
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
@@ -1142,6 +1153,14 @@
               "isOurClan": true
             },
             {
+              "tag": "#28PQVGGQ8",
+              "name": "Butta",
+              "townhallLevel": 16,
+              "mapPosition": 24,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
               "tag": "#20Y9C8V22",
               "name": "Remuism",
               "townhallLevel": 16,
@@ -1154,14 +1173,6 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#P82YPRQCG",
-              "name": "Pearce",
-              "townhallLevel": 17,
-              "mapPosition": 28,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -1182,18 +1193,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#28LJL9YJ8",
-              "name": "Alpha",
-              "townhallLevel": 15,
-              "mapPosition": 34,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#G8J8VLY28",
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 35,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QG0VGQLR8",
+              "name": "Jackson Red",
+              "townhallLevel": 14,
+              "mapPosition": 36,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -1446,7 +1457,30 @@
               "isOurClan": false
             }
           ],
-          "attacks": []
+          "attacks": [
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#GG0JQ8UPL",
+              "defenderName": "黑狱亡魂",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#G8GQJRL9L",
+              "defenderName": "两袖清风怎敢误佳人",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 2,
+              "isOurClan": true
+            }
+          ]
         }
       ]
     },
