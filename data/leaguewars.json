@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T14:00:14.197Z",
+  "lastUpdated": "2026-02-03T16:00:14.052Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-03T14:00:14.185Z",
+      "collectedAt": "2026-02-03T16:00:14.040Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-03T14:00:14.185Z",
+          "collectedAt": "2026-02-03T16:00:14.039Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,19 +960,19 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-03T14:00:14.185Z",
+          "collectedAt": "2026-02-03T16:00:14.040Z",
           "clanStats": {
-            "totalAttacks": 10,
-            "totalStars": 29,
-            "destructionPercentage": 97.7,
-            "attacksUsed": 10,
+            "totalAttacks": 12,
+            "totalStars": 35,
+            "destructionPercentage": 98.08333333333333,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 7,
-            "totalStars": 14,
-            "destructionPercentage": 82.85714285714286,
-            "attacksUsed": 7,
+            "totalAttacks": 11,
+            "totalStars": 21,
+            "destructionPercentage": 77.45454545454545,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "members": [
@@ -1085,7 +1085,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1165,7 +1165,7 @@
               "name": "Remuism",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1221,7 +1221,7 @@
               "name": "jacky mkh",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1229,7 +1229,7 @@
               "name": "救命啊！我需要增援部队！",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1253,7 +1253,7 @@
               "name": "两袖清风怎敢误佳人",
               "townhallLevel": 16,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1301,7 +1301,7 @@
               "name": "APR",
               "townhallLevel": 15,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1644,6 +1644,72 @@
               "destructionPercentage": 100,
               "order": 17,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#JLGLJQCP",
+              "attackerName": "救命啊！我需要增援部队！",
+              "defenderTag": "#8JRC2L02C",
+              "defenderName": "ichigo korusaki",
+              "stars": 1,
+              "destructionPercentage": 42,
+              "order": 18,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#80UR8GGG",
+              "attackerName": "jacky mkh",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#QQRPPC9GV",
+              "defenderName": "名字",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#RRCVUUY",
+              "attackerName": "APR",
+              "defenderTag": "#G2LUQCQR",
+              "defenderName": "Magilla",
+              "stars": 1,
+              "destructionPercentage": 50,
+              "order": 21,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#GUQ8V2R8Q",
+              "defenderName": "赵之云丁辰",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#G8GQJRL9L",
+              "attackerName": "两袖清风怎敢误佳人",
+              "defenderTag": "#8CUYLRL0",
+              "defenderName": "B-A-M-C-I-S",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 23,
+              "isOurClan": false
             }
           ]
         },
@@ -1660,7 +1726,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-03T14:00:14.185Z",
+          "collectedAt": "2026-02-03T16:00:14.040Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
