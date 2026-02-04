@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-04T12:00:14.969Z",
+  "lastUpdated": "2026-02-04T14:00:20.470Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-04T12:00:14.956Z",
+      "collectedAt": "2026-02-04T14:00:20.457Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-04T12:00:14.955Z",
+          "collectedAt": "2026-02-04T14:00:20.456Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-04T12:00:14.956Z",
+          "collectedAt": "2026-02-04T14:00:20.456Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,19 +1902,19 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-04T12:00:14.956Z",
+          "collectedAt": "2026-02-04T14:00:20.456Z",
           "clanStats": {
-            "totalAttacks": 2,
-            "totalStars": 5,
-            "destructionPercentage": 98.5,
-            "attacksUsed": 2,
+            "totalAttacks": 7,
+            "totalStars": 19,
+            "destructionPercentage": 98.71428571428571,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 2,
+            "totalStars": 3,
+            "destructionPercentage": 63,
+            "attacksUsed": 2,
             "attacksAvailable": 30
           },
           "members": [
@@ -2019,7 +2019,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2035,7 +2035,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2051,7 +2051,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2075,7 +2075,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2155,7 +2155,7 @@
               "name": "MagillaJr",
               "townhallLevel": 14,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2251,7 +2251,7 @@
               "name": "sri",
               "townhallLevel": 15,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2387,7 +2387,7 @@
               "name": "Kedrick",
               "townhallLevel": 11,
               "mapPosition": 42,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2421,6 +2421,83 @@
               "destructionPercentage": 100,
               "order": 2,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#QQ00QL00Q",
+              "defenderName": "Quadro",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#QRRR9RGCU",
+              "defenderName": "Dinesh",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#GPCPU2PLJ",
+              "defenderName": "boss’aj",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#GGPYYCGLQ",
+              "attackerName": "Kedrick",
+              "defenderTag": "#G8RLG2UL9",
+              "defenderName": "MagillaJr",
+              "stars": 1,
+              "destructionPercentage": 53,
+              "order": 6,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#G8RLG2UL9",
+              "attackerName": "MagillaJr",
+              "defenderTag": "#R0LQVGR8R",
+              "defenderName": "vip_555",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#98JYVL2QR",
+              "defenderName": "Aʝαу",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 8,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#GG9QU2298",
+              "attackerName": "sri",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 9,
+              "isOurClan": false
             }
           ]
         },
@@ -2437,7 +2514,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-04T12:00:14.956Z",
+          "collectedAt": "2026-02-04T14:00:20.456Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
