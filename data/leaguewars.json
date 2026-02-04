@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-04T14:00:20.470Z",
+  "lastUpdated": "2026-02-04T16:00:15.688Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-04T14:00:20.457Z",
+      "collectedAt": "2026-02-04T16:00:15.676Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-04T14:00:20.456Z",
+          "collectedAt": "2026-02-04T16:00:15.675Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-04T14:00:20.456Z",
+          "collectedAt": "2026-02-04T16:00:15.675Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,19 +1902,19 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-04T14:00:20.456Z",
+          "collectedAt": "2026-02-04T16:00:15.675Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 19,
-            "destructionPercentage": 98.71428571428571,
-            "attacksUsed": 7,
+            "totalAttacks": 9,
+            "totalStars": 25,
+            "destructionPercentage": 99,
+            "attacksUsed": 9,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 3,
-            "destructionPercentage": 63,
-            "attacksUsed": 2,
+            "totalAttacks": 3,
+            "totalStars": 5,
+            "destructionPercentage": 71.33333333333333,
+            "attacksUsed": 3,
             "attacksAvailable": 30
           },
           "members": [
@@ -2107,7 +2107,7 @@
               "name": "Remuism",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2131,7 +2131,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2171,7 +2171,7 @@
               "name": "❤neth#29❤",
               "townhallLevel": 17,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2498,6 +2498,39 @@
               "destructionPercentage": 73,
               "order": 9,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#LYGULV0RU",
+              "attackerName": "❤neth#29❤",
+              "defenderTag": "#G2LJVQUPU",
+              "defenderName": "jisn",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#G8P2JCCYP",
+              "defenderName": "Cjamesngpinas",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#GLJQQ0V08",
+              "defenderName": "Salman",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "isOurClan": true
             }
           ]
         },
@@ -2514,7 +2547,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-04T14:00:20.456Z",
+          "collectedAt": "2026-02-04T16:00:15.676Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -2803,14 +2836,6 @@
               "isOurClan": false
             },
             {
-              "tag": "#PPLGL0VLL",
-              "name": "Onga Reyy",
-              "townhallLevel": 17,
-              "mapPosition": 5,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
               "tag": "#29V9Y8QRC",
               "name": "♠ahmad♣sukri♦21",
               "townhallLevel": 17,
@@ -2975,6 +3000,14 @@
               "name": "khambalee2",
               "townhallLevel": 13,
               "mapPosition": 33,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GJLQUL82U",
+              "name": "Fathan mp",
+              "townhallLevel": 13,
+              "mapPosition": 36,
               "attacksUsed": 0,
               "isOurClan": false
             },
