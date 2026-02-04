@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-04T06:00:14.625Z",
+  "lastUpdated": "2026-02-04T08:00:22.411Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-04T06:00:14.612Z",
+      "collectedAt": "2026-02-04T08:00:22.399Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-04T06:00:14.611Z",
+          "collectedAt": "2026-02-04T08:00:22.398Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,19 +960,19 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-04T06:00:14.612Z",
+          "collectedAt": "2026-02-04T08:00:22.399Z",
           "clanStats": {
-            "totalAttacks": 20,
-            "totalStars": 59,
-            "destructionPercentage": 98.85,
-            "attacksUsed": 20,
+            "totalAttacks": 21,
+            "totalStars": 62,
+            "destructionPercentage": 98.9047619047619,
+            "attacksUsed": 21,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 17,
-            "totalStars": 30,
-            "destructionPercentage": 69.58823529411765,
-            "attacksUsed": 17,
+            "totalAttacks": 18,
+            "totalStars": 31,
+            "destructionPercentage": 68.72222222222223,
+            "attacksUsed": 18,
             "attacksAvailable": 30
           },
           "members": [
@@ -997,7 +997,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1429,7 +1429,7 @@
               "name": "阿尔瓦雷斯",
               "townhallLevel": 13,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1864,6 +1864,28 @@
               "destructionPercentage": 100,
               "order": 37,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#QC909JLP",
+              "defenderName": "sooooofat",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 38,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round2-#2J9PCQ2G2",
+              "attackerTag": "#GYJY9LP2R",
+              "attackerName": "阿尔瓦雷斯",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 1,
+              "destructionPercentage": 54,
+              "order": 39,
+              "isOurClan": false
             }
           ]
         },
@@ -1880,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-04T06:00:14.612Z",
+          "collectedAt": "2026-02-04T08:00:22.399Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
