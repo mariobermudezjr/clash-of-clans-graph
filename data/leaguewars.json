@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-04T16:00:15.688Z",
+  "lastUpdated": "2026-02-04T18:00:14.937Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-04T16:00:15.676Z",
+      "collectedAt": "2026-02-04T18:00:14.924Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-04T16:00:15.675Z",
+          "collectedAt": "2026-02-04T18:00:14.923Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-04T16:00:15.675Z",
+          "collectedAt": "2026-02-04T18:00:14.923Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-04T16:00:15.675Z",
+          "collectedAt": "2026-02-04T18:00:14.924Z",
           "clanStats": {
             "totalAttacks": 9,
             "totalStars": 25,
@@ -1911,10 +1911,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 5,
-            "destructionPercentage": 71.33333333333333,
-            "attacksUsed": 3,
+            "totalAttacks": 5,
+            "totalStars": 8,
+            "destructionPercentage": 72.4,
+            "attacksUsed": 5,
             "attacksAvailable": 30
           },
           "members": [
@@ -2235,7 +2235,7 @@
               "name": "^KING_TIGRE^",
               "townhallLevel": 15,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2347,7 +2347,7 @@
               "name": "Salman",
               "townhallLevel": 13,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2531,6 +2531,28 @@
               "destructionPercentage": 100,
               "order": 12,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#2RRLJGGV8",
+              "attackerName": "^KING_TIGRE^",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 98,
+              "order": 13,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#GLJQQ0V08",
+              "attackerName": "Salman",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 1,
+              "destructionPercentage": 50,
+              "order": 14,
+              "isOurClan": false
             }
           ]
         },
@@ -2547,7 +2569,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-04T16:00:15.676Z",
+          "collectedAt": "2026-02-04T18:00:14.924Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
