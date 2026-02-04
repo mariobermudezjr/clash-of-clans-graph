@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-04T20:00:15.130Z",
+  "lastUpdated": "2026-02-04T22:00:15.498Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-04T20:00:15.117Z",
+      "collectedAt": "2026-02-04T22:00:15.484Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-04T20:00:15.116Z",
+          "collectedAt": "2026-02-04T22:00:15.483Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-04T20:00:15.116Z",
+          "collectedAt": "2026-02-04T22:00:15.484Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,12 +1902,12 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-04T20:00:15.116Z",
+          "collectedAt": "2026-02-04T22:00:15.484Z",
           "clanStats": {
-            "totalAttacks": 9,
-            "totalStars": 25,
-            "destructionPercentage": 99,
-            "attacksUsed": 9,
+            "totalAttacks": 13,
+            "totalStars": 36,
+            "destructionPercentage": 98.23076923076923,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -2003,7 +2003,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2027,7 +2027,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2123,7 +2123,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2147,7 +2147,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 36,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2553,6 +2553,50 @@
               "destructionPercentage": 50,
               "order": 14,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#GPR8UYCLJ",
+              "defenderName": "bean",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#90JLGQJ2V",
+              "defenderName": "KaRiKaLaN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#G2UUJ2LP2",
+              "defenderName": "Mou",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#GGPYYCGLQ",
+              "defenderName": "Kedrick",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
             }
           ]
         },
@@ -2569,7 +2613,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-04T20:00:15.116Z",
+          "collectedAt": "2026-02-04T22:00:15.484Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
