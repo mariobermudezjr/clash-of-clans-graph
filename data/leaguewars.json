@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-05T12:00:15.890Z",
+  "lastUpdated": "2026-02-05T14:00:15.718Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-05T12:00:15.874Z",
+      "collectedAt": "2026-02-05T14:00:15.704Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-05T12:00:15.873Z",
+          "collectedAt": "2026-02-05T14:00:15.703Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-05T12:00:15.874Z",
+          "collectedAt": "2026-02-05T14:00:15.703Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-05T12:00:15.874Z",
+          "collectedAt": "2026-02-05T14:00:15.704Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,19 +2822,19 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-05T12:00:15.874Z",
+          "collectedAt": "2026-02-05T14:00:15.704Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 17,
-            "destructionPercentage": 99.5,
-            "attacksUsed": 6,
+            "totalAttacks": 8,
+            "totalStars": 23,
+            "destructionPercentage": 99.625,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 5,
-            "destructionPercentage": 77,
-            "attacksUsed": 2,
+            "totalAttacks": 8,
+            "totalStars": 15,
+            "destructionPercentage": 73.375,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "members": [
@@ -3035,7 +3035,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3075,7 +3075,7 @@
               "name": "MagillaJr",
               "townhallLevel": 14,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3107,7 +3107,7 @@
               "name": "xio lee",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3115,7 +3115,7 @@
               "name": "♠ahmad♣sukri♦21",
               "townhallLevel": 17,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3195,7 +3195,7 @@
               "name": "Apandi",
               "townhallLevel": 14,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3235,7 +3235,7 @@
               "name": "VAIBHAV KHANDE",
               "townhallLevel": 13,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3275,7 +3275,7 @@
               "name": "khambalee2",
               "townhallLevel": 13,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3283,7 +3283,7 @@
               "name": "Fathan mp",
               "townhallLevel": 13,
               "mapPosition": 36,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3407,6 +3407,94 @@
               "destructionPercentage": 100,
               "order": 8,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#Q2VJ9JP8Y",
+              "attackerName": "VAIBHAV KHANDE",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 1,
+              "destructionPercentage": 69,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#GPVGR9QUL",
+              "defenderName": "khambalee2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#GJLQUL82U",
+              "attackerName": "Fathan mp",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 1,
+              "destructionPercentage": 43,
+              "order": 11,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#29V9Y8QRC",
+              "attackerName": "♠ahmad♣sukri♦21",
+              "defenderTag": "#Q9UPPQJ92",
+              "defenderName": "iambogik",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 12,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#G8RLG2UL9",
+              "attackerName": "MagillaJr",
+              "defenderTag": "#GJ8RCVGRV",
+              "defenderName": "LITTLE ZO",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#GPVGR9QUL",
+              "attackerName": "khambalee2",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#QUJQGU8VV",
+              "attackerName": "Apandi",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 15,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#Y2RPU29PJ",
+              "attackerName": "xio lee",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 16,
+              "isOurClan": false
             }
           ]
         },
@@ -3423,7 +3511,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-05T12:00:15.874Z",
+          "collectedAt": "2026-02-05T14:00:15.704Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
