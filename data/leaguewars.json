@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-05T06:00:14.810Z",
+  "lastUpdated": "2026-02-05T08:00:14.677Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-05T06:00:14.798Z",
+      "collectedAt": "2026-02-05T08:00:14.661Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-05T06:00:14.797Z",
+          "collectedAt": "2026-02-05T08:00:14.655Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-05T06:00:14.797Z",
+          "collectedAt": "2026-02-05T08:00:14.656Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,19 +1902,19 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-05T06:00:14.797Z",
+          "collectedAt": "2026-02-05T08:00:14.656Z",
           "clanStats": {
-            "totalAttacks": 23,
-            "totalStars": 63,
-            "destructionPercentage": 97.65217391304348,
-            "attacksUsed": 23,
+            "totalAttacks": 24,
+            "totalStars": 64,
+            "destructionPercentage": 97.29166666666667,
+            "attacksUsed": 24,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 10,
-            "totalStars": 18,
-            "destructionPercentage": 81.8,
-            "attacksUsed": 10,
+            "totalAttacks": 13,
+            "totalStars": 24,
+            "destructionPercentage": 80,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "members": [
@@ -1971,7 +1971,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2163,7 +2163,7 @@
               "name": "ThÁLà",
               "townhallLevel": 17,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2283,7 +2283,7 @@
               "name": "thala bala",
               "townhallLevel": 14,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2307,7 +2307,7 @@
               "name": "Balaji",
               "townhallLevel": 14,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2762,6 +2762,50 @@
               "destructionPercentage": 100,
               "order": 33,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#9LQG2GC8U",
+              "attackerName": "ThÁLà",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 72,
+              "order": 34,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#PRYVP2QVY",
+              "attackerName": "thala bala",
+              "defenderTag": "#RJR808GU",
+              "defenderName": "mjello32",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 35,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#GPG22GPL9",
+              "attackerName": "Balaji",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 36,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round3-#GQGRG8G9",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#LCPV9U2C8",
+              "defenderName": "JEXI",
+              "stars": 1,
+              "destructionPercentage": 89,
+              "order": 37,
+              "isOurClan": true
             }
           ]
         },
@@ -2778,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-05T06:00:14.798Z",
+          "collectedAt": "2026-02-05T08:00:14.661Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
