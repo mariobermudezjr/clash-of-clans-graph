@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-06T14:00:16.087Z",
+  "lastUpdated": "2026-02-06T16:00:16.536Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-06T14:00:16.073Z",
+      "collectedAt": "2026-02-06T16:00:16.522Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-06T14:00:16.070Z",
+          "collectedAt": "2026-02-06T16:00:16.521Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-06T14:00:16.071Z",
+          "collectedAt": "2026-02-06T16:00:16.521Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-06T14:00:16.071Z",
+          "collectedAt": "2026-02-06T16:00:16.522Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-06T14:00:16.072Z",
+          "collectedAt": "2026-02-06T16:00:16.522Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-06T14:00:16.073Z",
+          "collectedAt": "2026-02-06T16:00:16.522Z",
           "clanStats": {
             "totalAttacks": 7,
             "totalStars": 12,
@@ -3806,10 +3806,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 7,
-            "destructionPercentage": 77.66666666666667,
-            "attacksUsed": 3,
+            "totalAttacks": 4,
+            "totalStars": 9,
+            "destructionPercentage": 75.5,
+            "attacksUsed": 4,
             "attacksAvailable": 30
           },
           "members": [
@@ -4154,7 +4154,7 @@
               "name": "BullDoJear04",
               "townhallLevel": 18,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4404,6 +4404,17 @@
               "destructionPercentage": 57,
               "order": 10,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#8CY9PY8U",
+              "attackerName": "BullDoJear04",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 2,
+              "destructionPercentage": 69,
+              "order": 11,
+              "isOurClan": false
             }
           ]
         },
@@ -4420,7 +4431,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-06T14:00:16.073Z",
+          "collectedAt": "2026-02-06T16:00:16.522Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
