@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-06T12:00:16.596Z",
+  "lastUpdated": "2026-02-06T14:00:16.087Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-06T12:00:16.582Z",
+      "collectedAt": "2026-02-06T14:00:16.073Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-06T12:00:16.580Z",
+          "collectedAt": "2026-02-06T14:00:16.070Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-06T12:00:16.580Z",
+          "collectedAt": "2026-02-06T14:00:16.071Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-06T12:00:16.581Z",
+          "collectedAt": "2026-02-06T14:00:16.071Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-06T12:00:16.581Z",
+          "collectedAt": "2026-02-06T14:00:16.072Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,12 +3797,12 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-06T12:00:16.581Z",
+          "collectedAt": "2026-02-06T14:00:16.073Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 8,
-            "destructionPercentage": 71.6,
-            "attacksUsed": 5,
+            "totalAttacks": 7,
+            "totalStars": 12,
+            "destructionPercentage": 70.42857142857143,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -3898,7 +3898,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3946,7 +3946,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4382,6 +4382,28 @@
               "destructionPercentage": 56,
               "order": 8,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#2PLJPCL8G",
+              "defenderName": "바람의파이터",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 9,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#L8LQ09UV",
+              "defenderName": "한국이",
+              "stars": 2,
+              "destructionPercentage": 57,
+              "order": 10,
+              "isOurClan": true
             }
           ]
         },
@@ -4398,7 +4420,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-06T12:00:16.581Z",
+          "collectedAt": "2026-02-06T14:00:16.073Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
