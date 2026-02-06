@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-06T04:00:16.012Z",
+  "lastUpdated": "2026-02-06T06:00:15.911Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-06T04:00:15.998Z",
+      "collectedAt": "2026-02-06T06:00:15.897Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-06T04:00:15.997Z",
+          "collectedAt": "2026-02-06T06:00:15.896Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-06T04:00:15.997Z",
+          "collectedAt": "2026-02-06T06:00:15.896Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-06T04:00:15.997Z",
+          "collectedAt": "2026-02-06T06:00:15.897Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,12 +2822,12 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-06T04:00:15.998Z",
+          "collectedAt": "2026-02-06T06:00:15.897Z",
           "clanStats": {
-            "totalAttacks": 17,
-            "totalStars": 50,
-            "destructionPercentage": 99.82352941176471,
-            "attacksUsed": 17,
+            "totalAttacks": 20,
+            "totalStars": 59,
+            "destructionPercentage": 99.85,
+            "attacksUsed": 20,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -2891,7 +2891,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2931,7 +2931,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3059,7 +3059,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3715,6 +3715,39 @@
               "destructionPercentage": 48,
               "order": 36,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#GV9LRPVLC",
+              "defenderName": "BILAUI",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 37,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#QQCQ02R0Y",
+              "defenderName": "C. W UYYIN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 38,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#GU20UG2UU",
+              "defenderName": "Salubita",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 39,
+              "isOurClan": true
             }
           ]
         },
@@ -3731,7 +3764,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-06T04:00:15.998Z",
+          "collectedAt": "2026-02-06T06:00:15.897Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
