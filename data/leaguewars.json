@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-05T22:00:16.121Z",
+  "lastUpdated": "2026-02-06T00:00:57.400Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-05T22:00:16.108Z",
+      "collectedAt": "2026-02-06T00:00:57.385Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-05T22:00:16.107Z",
+          "collectedAt": "2026-02-06T00:00:57.384Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-05T22:00:16.107Z",
+          "collectedAt": "2026-02-06T00:00:57.384Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-05T22:00:16.107Z",
+          "collectedAt": "2026-02-06T00:00:57.384Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,19 +2822,19 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-05T22:00:16.108Z",
+          "collectedAt": "2026-02-06T00:00:57.385Z",
           "clanStats": {
-            "totalAttacks": 11,
-            "totalStars": 32,
-            "destructionPercentage": 99.72727272727273,
-            "attacksUsed": 11,
+            "totalAttacks": 13,
+            "totalStars": 38,
+            "destructionPercentage": 99.76923076923077,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 16,
-            "totalStars": 28,
-            "destructionPercentage": 67.9375,
-            "attacksUsed": 16,
+            "totalAttacks": 18,
+            "totalStars": 30,
+            "destructionPercentage": 67.44444444444444,
+            "attacksUsed": 18,
             "attacksAvailable": 30
           },
           "members": [
@@ -2843,7 +2843,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2923,7 +2923,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3139,7 +3139,7 @@
               "name": "Iblis surga",
               "townhallLevel": 17,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3219,7 +3219,7 @@
               "name": "intan sayong",
               "townhallLevel": 13,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3616,6 +3616,50 @@
               "destructionPercentage": 100,
               "order": 27,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#GCRG0QRJ0",
+              "defenderName": "Hamizan",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#G9P9C9JLU",
+              "attackerName": "intan sayong",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 0,
+              "destructionPercentage": 47,
+              "order": 29,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#Y2L0GR2L0",
+              "defenderName": "IYAN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round4-#2R2QJCPJ0",
+              "attackerTag": "#QQGJ9RLJC",
+              "attackerName": "Iblis surga",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 31,
+              "isOurClan": false
             }
           ]
         },
@@ -3632,7 +3676,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-05T22:00:16.108Z",
+          "collectedAt": "2026-02-06T00:00:57.385Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
