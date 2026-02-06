@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-06T16:00:16.536Z",
+  "lastUpdated": "2026-02-06T18:00:16.005Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-06T16:00:16.522Z",
+      "collectedAt": "2026-02-06T18:00:15.991Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-06T16:00:16.521Z",
+          "collectedAt": "2026-02-06T18:00:15.990Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-06T16:00:16.521Z",
+          "collectedAt": "2026-02-06T18:00:15.990Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-06T16:00:16.522Z",
+          "collectedAt": "2026-02-06T18:00:15.991Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-06T16:00:16.522Z",
+          "collectedAt": "2026-02-06T18:00:15.991Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,12 +3797,12 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-06T16:00:16.522Z",
+          "collectedAt": "2026-02-06T18:00:15.991Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 12,
-            "destructionPercentage": 70.42857142857143,
-            "attacksUsed": 7,
+            "totalAttacks": 16,
+            "totalStars": 36,
+            "destructionPercentage": 86.3125,
+            "attacksUsed": 16,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -3826,7 +3826,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3842,7 +3842,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3850,7 +3850,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3858,7 +3858,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3890,7 +3890,7 @@
               "name": "***anabelle***",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3906,7 +3906,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4018,7 +4018,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4034,7 +4034,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4042,7 +4042,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 36,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4415,6 +4415,105 @@
               "destructionPercentage": 69,
               "order": 11,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#22V2P0P28",
+              "defenderName": "똔똔",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#PRCUQ9Y00",
+              "defenderName": "창녕 조씨 조유리",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#RQLRJQRV",
+              "defenderName": "sung min",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#8UJUG0Q90",
+              "defenderName": "피융피융",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#VQRCV00U",
+              "defenderName": "최강군단",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#Q0V8LCC",
+              "defenderName": "FIND.E.P",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#922V8Y0LU",
+              "defenderName": "FIND2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#VJR2LCJG",
+              "defenderName": "상유니짱짱",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#QLLJUUCP2",
+              "attackerName": "***anabelle***",
+              "defenderTag": "#UJ9U8GV0",
+              "defenderName": "Athena",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 20,
+              "isOurClan": true
             }
           ]
         },
@@ -4431,7 +4530,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-06T16:00:16.522Z",
+          "collectedAt": "2026-02-06T18:00:15.991Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
