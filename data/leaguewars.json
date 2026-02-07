@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-07T06:00:16.538Z",
+  "lastUpdated": "2026-02-07T08:00:16.068Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-07T06:00:16.523Z",
+      "collectedAt": "2026-02-07T08:00:16.052Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-07T06:00:16.521Z",
+          "collectedAt": "2026-02-07T08:00:16.050Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-07T06:00:16.522Z",
+          "collectedAt": "2026-02-07T08:00:16.050Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-07T06:00:16.522Z",
+          "collectedAt": "2026-02-07T08:00:16.051Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-07T06:00:16.522Z",
+          "collectedAt": "2026-02-07T08:00:16.051Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,19 +3797,19 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-07T06:00:16.523Z",
+          "collectedAt": "2026-02-07T08:00:16.052Z",
           "clanStats": {
-            "totalAttacks": 22,
-            "totalStars": 45,
-            "destructionPercentage": 84.0909090909091,
-            "attacksUsed": 22,
+            "totalAttacks": 25,
+            "totalStars": 50,
+            "destructionPercentage": 83.36,
+            "attacksUsed": 25,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 15,
-            "totalStars": 31,
-            "destructionPercentage": 75.73333333333333,
-            "attacksUsed": 15,
+            "totalAttacks": 17,
+            "totalStars": 35,
+            "destructionPercentage": 73.82352941176471,
+            "attacksUsed": 17,
             "attacksAvailable": 30
           },
           "members": [
@@ -3866,7 +3866,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3930,7 +3930,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4002,7 +4002,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4058,7 +4058,7 @@
               "name": "루이1th",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4130,7 +4130,7 @@
               "name": "Athena",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4701,6 +4701,61 @@
               "destructionPercentage": 81,
               "order": 37,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#CGJRG9YR",
+              "attackerName": "루이1th",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 53,
+              "order": 38,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#9LJ08CULR",
+              "defenderName": "Eagles",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 39,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#9QY8R2ULY",
+              "defenderName": "카르마16",
+              "stars": 1,
+              "destructionPercentage": 75,
+              "order": 40,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#UJ9U8GV0",
+              "attackerName": "Athena",
+              "defenderTag": "#QLLJUUCP2",
+              "defenderName": "***anabelle***",
+              "stars": 2,
+              "destructionPercentage": 66,
+              "order": 41,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#LG90CJJ0G",
+              "defenderName": "psycopomp",
+              "stars": 2,
+              "destructionPercentage": 66,
+              "order": 42,
+              "isOurClan": true
             }
           ]
         },
@@ -4717,7 +4772,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-07T06:00:16.523Z",
+          "collectedAt": "2026-02-07T08:00:16.052Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -4990,34 +5045,10 @@
               "isOurClan": false
             },
             {
-              "tag": "#YVJ20QP2R",
-              "name": "Edison4ik",
-              "townhallLevel": 15,
-              "mapPosition": 3,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
-              "tag": "#90PU90JVU",
-              "name": "AЗOВ",
-              "townhallLevel": 15,
-              "mapPosition": 4,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
               "tag": "#GU8PRJYUQ",
               "name": "Manko",
               "townhallLevel": 15,
               "mapPosition": 5,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
-              "tag": "#GCPQJVGRG",
-              "name": "miko",
-              "townhallLevel": 15,
-              "mapPosition": 6,
               "attacksUsed": 0,
               "isOurClan": false
             },
@@ -5058,14 +5089,6 @@
               "name": "kvo",
               "townhallLevel": 14,
               "mapPosition": 11,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
-              "tag": "#LGP8PR20C",
-              "name": "SeMi",
-              "townhallLevel": 14,
-              "mapPosition": 12,
               "attacksUsed": 0,
               "isOurClan": false
             },
@@ -5126,6 +5149,14 @@
               "isOurClan": false
             },
             {
+              "tag": "#QULLQJY2P",
+              "name": "аога",
+              "townhallLevel": 13,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
               "tag": "#GQCP02CQL",
               "name": "Jozef Jostar",
               "townhallLevel": 13,
@@ -5138,6 +5169,30 @@
               "name": "ihor",
               "townhallLevel": 13,
               "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QJPUGYVV0",
+              "name": "Ералы",
+              "townhallLevel": 13,
+              "mapPosition": 24,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GJGV8Y2PC",
+              "name": "chelohyja2010",
+              "townhallLevel": 13,
+              "mapPosition": 25,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#YPPCRLUQG",
+              "name": "Brent",
+              "townhallLevel": 13,
+              "mapPosition": 26,
               "attacksUsed": 0,
               "isOurClan": false
             },
