@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-07T00:01:18.235Z",
+  "lastUpdated": "2026-02-07T02:00:16.640Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-07T00:01:18.210Z",
+      "collectedAt": "2026-02-07T02:00:16.625Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-07T00:01:18.202Z",
+          "collectedAt": "2026-02-07T02:00:16.623Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-07T00:01:18.204Z",
+          "collectedAt": "2026-02-07T02:00:16.623Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-07T00:01:18.205Z",
+          "collectedAt": "2026-02-07T02:00:16.624Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-07T00:01:18.206Z",
+          "collectedAt": "2026-02-07T02:00:16.624Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-07T00:01:18.210Z",
+          "collectedAt": "2026-02-07T02:00:16.625Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 41,
@@ -3806,10 +3806,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 7,
-            "totalStars": 15,
-            "destructionPercentage": 78.28571428571429,
-            "attacksUsed": 7,
+            "totalAttacks": 10,
+            "totalStars": 20,
+            "destructionPercentage": 76.6,
+            "attacksUsed": 10,
             "attacksAvailable": 30
           },
           "members": [
@@ -4098,7 +4098,7 @@
               "name": "상유니짱짱",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4146,7 +4146,7 @@
               "name": "fm1.3",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4242,7 +4242,7 @@
               "name": "psycopomp",
               "townhallLevel": 15,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4580,6 +4580,39 @@
               "destructionPercentage": 47,
               "order": 26,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#VJR2LCJG",
+              "attackerName": "상유니짱짱",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 2,
+              "destructionPercentage": 50,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#LG90CJJ0G",
+              "attackerName": "psycopomp",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 1,
+              "destructionPercentage": 77,
+              "order": 28,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round5-#8QLPUVY9",
+              "attackerTag": "#GV8GR9VU",
+              "attackerName": "fm1.3",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 29,
+              "isOurClan": false
             }
           ]
         },
@@ -4596,7 +4629,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-07T00:01:18.210Z",
+          "collectedAt": "2026-02-07T02:00:16.625Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
