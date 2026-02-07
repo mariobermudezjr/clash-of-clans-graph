@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-07T20:00:17.139Z",
+  "lastUpdated": "2026-02-07T22:00:17.466Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-07T20:00:17.125Z",
+      "collectedAt": "2026-02-07T22:00:17.433Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-07T20:00:17.120Z",
+          "collectedAt": "2026-02-07T22:00:17.422Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-07T20:00:17.120Z",
+          "collectedAt": "2026-02-07T22:00:17.423Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-07T20:00:17.120Z",
+          "collectedAt": "2026-02-07T22:00:17.424Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-07T20:00:17.121Z",
+          "collectedAt": "2026-02-07T22:00:17.425Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-07T20:00:17.124Z",
+          "collectedAt": "2026-02-07T22:00:17.431Z",
           "clanStats": {
             "totalAttacks": 25,
             "totalStars": 50,
@@ -4772,19 +4772,19 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-07T20:00:17.124Z",
+          "collectedAt": "2026-02-07T22:00:17.432Z",
           "clanStats": {
-            "totalAttacks": 16,
-            "totalStars": 48,
+            "totalAttacks": 21,
+            "totalStars": 63,
             "destructionPercentage": 100,
-            "attacksUsed": 16,
+            "attacksUsed": 21,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 8,
-            "totalStars": 7,
-            "destructionPercentage": 50.125,
-            "attacksUsed": 8,
+            "totalAttacks": 12,
+            "totalStars": 11,
+            "destructionPercentage": 48.25,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "members": [
@@ -4801,7 +4801,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4817,7 +4817,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4825,7 +4825,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4833,7 +4833,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4873,7 +4873,7 @@
               "name": "***anabelle***",
               "townhallLevel": 18,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5041,7 +5041,7 @@
               "name": "kanabisssss",
               "townhallLevel": 15,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5081,7 +5081,7 @@
               "name": "immortal.",
               "townhallLevel": 14,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5105,7 +5105,7 @@
               "name": "NorthSkater",
               "townhallLevel": 15,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5161,7 +5161,7 @@
               "name": "Jozef Jostar",
               "townhallLevel": 13,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5533,6 +5533,105 @@
               "destructionPercentage": 47,
               "order": 24,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#QLLJUUCP2",
+              "attackerName": "***anabelle***",
+              "defenderTag": "#P9P0YV2YC",
+              "defenderName": "-ВеСеЛыЙ_КоТ-",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#92ULJULC9",
+              "defenderName": "Марс",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#2YYJJQV8G",
+              "defenderName": "kanabisssss",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#L92PR9R99",
+              "defenderName": "immortal.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#2YYJJQV8G",
+              "attackerName": "kanabisssss",
+              "defenderTag": "#8JRC2L02C",
+              "defenderName": "ichigo korusaki",
+              "stars": 1,
+              "destructionPercentage": 44,
+              "order": 29,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#8QUC8CQCL",
+              "defenderName": "TurboMen100",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#L92PR9R99",
+              "attackerName": "immortal.",
+              "defenderTag": "#QYUJ2YCU",
+              "defenderName": "*General*Tange*",
+              "stars": 1,
+              "destructionPercentage": 41,
+              "order": 31,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#YPRGLGY8R",
+              "attackerName": "NorthSkater",
+              "defenderTag": "#G2LUQCQR",
+              "defenderName": "Magilla",
+              "stars": 0,
+              "destructionPercentage": 34,
+              "order": 32,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#GQCP02CQL",
+              "attackerName": "Jozef Jostar",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 59,
+              "order": 33,
+              "isOurClan": false
             }
           ]
         },
@@ -5549,7 +5648,7 @@
           "preparationStartTime": "20260207T104035.000Z",
           "startTime": "20260208T104033.000Z",
           "endTime": "20260209T104033.000Z",
-          "collectedAt": "2026-02-07T20:00:17.125Z",
+          "collectedAt": "2026-02-07T22:00:17.432Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
