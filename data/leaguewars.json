@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-07T22:00:17.466Z",
+  "lastUpdated": "2026-02-08T00:01:00.692Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-07T22:00:17.433Z",
+      "collectedAt": "2026-02-08T00:01:00.659Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-07T22:00:17.422Z",
+          "collectedAt": "2026-02-08T00:01:00.654Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-07T22:00:17.423Z",
+          "collectedAt": "2026-02-08T00:01:00.655Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-07T22:00:17.424Z",
+          "collectedAt": "2026-02-08T00:01:00.656Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-07T22:00:17.425Z",
+          "collectedAt": "2026-02-08T00:01:00.657Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-07T22:00:17.431Z",
+          "collectedAt": "2026-02-08T00:01:00.657Z",
           "clanStats": {
             "totalAttacks": 25,
             "totalStars": 50,
@@ -4772,7 +4772,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-07T22:00:17.432Z",
+          "collectedAt": "2026-02-08T00:01:00.658Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 63,
@@ -4781,10 +4781,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 12,
-            "totalStars": 11,
-            "destructionPercentage": 48.25,
-            "attacksUsed": 12,
+            "totalAttacks": 13,
+            "totalStars": 14,
+            "destructionPercentage": 52.23076923076923,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "members": [
@@ -5065,7 +5065,7 @@
               "name": "Марс",
               "townhallLevel": 14,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5632,6 +5632,17 @@
               "destructionPercentage": 59,
               "order": 33,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#92ULJULC9",
+              "attackerName": "Марс",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 34,
+              "isOurClan": false
             }
           ]
         },
@@ -5648,7 +5659,7 @@
           "preparationStartTime": "20260207T104035.000Z",
           "startTime": "20260208T104033.000Z",
           "endTime": "20260209T104033.000Z",
-          "collectedAt": "2026-02-07T22:00:17.432Z",
+          "collectedAt": "2026-02-08T00:01:00.659Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
