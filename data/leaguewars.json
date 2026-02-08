@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-08T12:00:16.524Z",
+  "lastUpdated": "2026-02-08T14:00:16.374Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-08T12:00:16.510Z",
+      "collectedAt": "2026-02-08T14:00:16.357Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-08T12:00:16.508Z",
+          "collectedAt": "2026-02-08T14:00:16.355Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-08T12:00:16.509Z",
+          "collectedAt": "2026-02-08T14:00:16.356Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-08T12:00:16.509Z",
+          "collectedAt": "2026-02-08T14:00:16.356Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-08T12:00:16.509Z",
+          "collectedAt": "2026-02-08T14:00:16.356Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-08T12:00:16.510Z",
+          "collectedAt": "2026-02-08T14:00:16.357Z",
           "clanStats": {
             "totalAttacks": 25,
             "totalStars": 50,
@@ -4772,7 +4772,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-08T12:00:16.510Z",
+          "collectedAt": "2026-02-08T14:00:16.357Z",
           "clanStats": {
             "totalAttacks": 26,
             "totalStars": 78,
@@ -5791,19 +5791,19 @@
           "preparationStartTime": "20260207T104035.000Z",
           "startTime": "20260208T104033.000Z",
           "endTime": "20260209T104033.000Z",
-          "collectedAt": "2026-02-08T12:00:16.510Z",
+          "collectedAt": "2026-02-08T14:00:16.357Z",
           "clanStats": {
-            "totalAttacks": 3,
-            "totalStars": 9,
+            "totalAttacks": 7,
+            "totalStars": 21,
             "destructionPercentage": 100,
-            "attacksUsed": 3,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 1,
+            "totalStars": 2,
+            "destructionPercentage": 80,
+            "attacksUsed": 1,
             "attacksAvailable": 30
           },
           "members": [
@@ -5916,7 +5916,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5948,7 +5948,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5980,7 +5980,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5988,7 +5988,7 @@
               "name": "Remuism",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6068,7 +6068,7 @@
               "name": "ronjo_",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6320,6 +6320,61 @@
               "stars": 3,
               "destructionPercentage": 100,
               "order": 3,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#282Q9QR2",
+              "defenderName": "R̵e̶y̸ ⁵",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#YP9UQQRQR",
+              "defenderName": "ondek mak oii",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#GGGQUY0C9",
+              "attackerName": "ronjo_",
+              "defenderTag": "#882UYU9P",
+              "defenderName": "Pig Grease 2.3",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 6,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#QL9RPY9QV",
+              "defenderName": "Asu gaming",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#PYJQY9980",
+              "defenderName": "CenCen squad",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
               "isOurClan": true
             }
           ]
