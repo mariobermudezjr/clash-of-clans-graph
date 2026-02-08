@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-08T10:00:16.657Z",
+  "lastUpdated": "2026-02-08T12:00:16.524Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-08T10:00:16.643Z",
+      "collectedAt": "2026-02-08T12:00:16.510Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-08T10:00:16.641Z",
+          "collectedAt": "2026-02-08T12:00:16.508Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-08T10:00:16.642Z",
+          "collectedAt": "2026-02-08T12:00:16.509Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-08T10:00:16.642Z",
+          "collectedAt": "2026-02-08T12:00:16.509Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-08T10:00:16.642Z",
+          "collectedAt": "2026-02-08T12:00:16.509Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-08T10:00:16.643Z",
+          "collectedAt": "2026-02-08T12:00:16.510Z",
           "clanStats": {
             "totalAttacks": 25,
             "totalStars": 50,
@@ -4768,23 +4768,23 @@
           "opponentTag": "#2G20R8UC8",
           "opponentName": "СВУ",
           "teamSize": 30,
-          "state": "inWar",
+          "state": "warEnded",
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-08T10:00:16.643Z",
+          "collectedAt": "2026-02-08T12:00:16.510Z",
           "clanStats": {
-            "totalAttacks": 25,
-            "totalStars": 75,
+            "totalAttacks": 26,
+            "totalStars": 78,
             "destructionPercentage": 100,
-            "attacksUsed": 25,
+            "attacksUsed": 26,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 19,
-            "totalStars": 25,
-            "destructionPercentage": 58.26315789473684,
-            "attacksUsed": 19,
+            "totalAttacks": 20,
+            "totalStars": 27,
+            "destructionPercentage": 59,
+            "attacksUsed": 20,
             "attacksAvailable": 30
           },
           "members": [
@@ -4793,7 +4793,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5073,7 +5073,7 @@
               "name": "TurboMen100",
               "townhallLevel": 14,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5753,6 +5753,28 @@
               "destructionPercentage": 70,
               "order": 44,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#Y8JRJ2GY9",
+              "defenderName": "_SOKOL_",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 45,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round6-#2G20R8UC8",
+              "attackerTag": "#8QUC8CQCL",
+              "attackerName": "TurboMen100",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 46,
+              "isOurClan": false
             }
           ]
         },
@@ -5765,16 +5787,16 @@
           "opponentTag": "#2RP8YV2LV",
           "opponentName": "KAMPUNG BOYS",
           "teamSize": 30,
-          "state": "preparation",
+          "state": "inWar",
           "preparationStartTime": "20260207T104035.000Z",
           "startTime": "20260208T104033.000Z",
           "endTime": "20260209T104033.000Z",
-          "collectedAt": "2026-02-08T10:00:16.643Z",
+          "collectedAt": "2026-02-08T12:00:16.510Z",
           "clanStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 3,
+            "totalStars": 9,
+            "destructionPercentage": 100,
+            "attacksUsed": 3,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -5846,7 +5868,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5934,7 +5956,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5942,7 +5964,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6266,7 +6288,41 @@
               "isOurClan": false
             }
           ],
-          "attacks": []
+          "attacks": [
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#LLPYLJLCC",
+              "defenderName": "R̴e̶y̸ ¹",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#YJR0CY99C",
+              "defenderName": "RinaTen",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 2,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#YVRJ988Q8",
+              "defenderName": "SHINCAN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "isOurClan": true
+            }
+          ]
         }
       ]
     },
