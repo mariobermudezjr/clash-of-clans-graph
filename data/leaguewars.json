@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-08T14:00:16.374Z",
+  "lastUpdated": "2026-02-08T16:00:16.339Z",
   "seasons": [
     {
       "season": "2026-02",
       "state": "inWar",
-      "collectedAt": "2026-02-08T14:00:16.357Z",
+      "collectedAt": "2026-02-08T16:00:16.324Z",
       "participatingClans": [
         {
           "tag": "#2R2QJCPJ0",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260201T094910.000Z",
           "startTime": "20260202T094908.000Z",
           "endTime": "20260203T094908.000Z",
-          "collectedAt": "2026-02-08T14:00:16.355Z",
+          "collectedAt": "2026-02-08T16:00:16.322Z",
           "clanStats": {
             "totalAttacks": 17,
             "totalStars": 49,
@@ -960,7 +960,7 @@
           "preparationStartTime": "20260202T094919.000Z",
           "startTime": "20260203T094916.000Z",
           "endTime": "20260204T094916.000Z",
-          "collectedAt": "2026-02-08T14:00:16.356Z",
+          "collectedAt": "2026-02-08T16:00:16.322Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 62,
@@ -1902,7 +1902,7 @@
           "preparationStartTime": "20260203T102615.000Z",
           "startTime": "20260204T102542.000Z",
           "endTime": "20260205T102542.000Z",
-          "collectedAt": "2026-02-08T14:00:16.356Z",
+          "collectedAt": "2026-02-08T16:00:16.323Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 64,
@@ -2822,7 +2822,7 @@
           "preparationStartTime": "20260204T102551.000Z",
           "startTime": "20260205T102549.000Z",
           "endTime": "20260206T102549.000Z",
-          "collectedAt": "2026-02-08T14:00:16.356Z",
+          "collectedAt": "2026-02-08T16:00:16.323Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 62,
@@ -3797,7 +3797,7 @@
           "preparationStartTime": "20260205T103827.000Z",
           "startTime": "20260206T103825.000Z",
           "endTime": "20260207T103825.000Z",
-          "collectedAt": "2026-02-08T14:00:16.357Z",
+          "collectedAt": "2026-02-08T16:00:16.323Z",
           "clanStats": {
             "totalAttacks": 25,
             "totalStars": 50,
@@ -4772,7 +4772,7 @@
           "preparationStartTime": "20260206T104113.000Z",
           "startTime": "20260207T104024.000Z",
           "endTime": "20260208T104024.000Z",
-          "collectedAt": "2026-02-08T14:00:16.357Z",
+          "collectedAt": "2026-02-08T16:00:16.324Z",
           "clanStats": {
             "totalAttacks": 26,
             "totalStars": 78,
@@ -5791,19 +5791,19 @@
           "preparationStartTime": "20260207T104035.000Z",
           "startTime": "20260208T104033.000Z",
           "endTime": "20260209T104033.000Z",
-          "collectedAt": "2026-02-08T14:00:16.357Z",
+          "collectedAt": "2026-02-08T16:00:16.324Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 21,
+            "totalAttacks": 11,
+            "totalStars": 33,
             "destructionPercentage": 100,
-            "attacksUsed": 7,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 1,
-            "totalStars": 2,
-            "destructionPercentage": 80,
-            "attacksUsed": 1,
+            "totalAttacks": 4,
+            "totalStars": 8,
+            "destructionPercentage": 62,
+            "attacksUsed": 4,
             "attacksAvailable": 30
           },
           "members": [
@@ -5828,7 +5828,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5884,7 +5884,7 @@
               "name": "Magilla",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5908,7 +5908,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6044,7 +6044,7 @@
               "name": "MagillaJr",
               "townhallLevel": 14,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6052,7 +6052,7 @@
               "name": "dilffa",
               "townhallLevel": 17,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6148,7 +6148,7 @@
               "name": "Love asuka",
               "townhallLevel": 14,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6220,7 +6220,7 @@
               "name": "R̵e̶y̸ ⁵",
               "townhallLevel": 13,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6376,6 +6376,83 @@
               "destructionPercentage": 100,
               "order": 8,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#QC2028Y0P",
+              "attackerName": "Love asuka",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 2,
+              "destructionPercentage": 50,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#QC2028Y0P",
+              "defenderName": "Love asuka",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#GGGQUY0C9",
+              "defenderName": "ronjo_",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#G8RLG2UL9",
+              "attackerName": "MagillaJr",
+              "defenderTag": "#QVRYV0GYP",
+              "defenderName": "R̵e̶y̸ ⁶",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#G2LUQCQR",
+              "attackerName": "Magilla",
+              "defenderTag": "#LLJPQJUPR",
+              "defenderName": "P O J O R O J O",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#282Q9QR2",
+              "attackerName": "R̵e̶y̸ ⁵",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-02-round7-#2RP8YV2LV",
+              "attackerTag": "#GGG2C0QP0",
+              "attackerName": "dilffa",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 56,
+              "order": 15,
+              "isOurClan": false
             }
           ]
         }
