@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-11T16:00:08.112Z",
+  "lastUpdated": "2026-02-11T18:00:07.320Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -9327,7 +9327,7 @@
       "preparationStartTime": "20260210T160628.000Z",
       "startTime": "20260211T150628.000Z",
       "endTime": "20260212T150628.000Z",
-      "collectedAt": "2026-02-11T16:00:08.088Z",
+      "collectedAt": "2026-02-11T18:00:07.296Z",
       "clanStats": {
         "totalAttacks": 1,
         "totalStars": 3,
@@ -9336,10 +9336,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 6,
-        "totalStars": 14,
-        "destructionPercentage": 91.5,
-        "attacksUsed": 6,
+        "totalAttacks": 19,
+        "totalStars": 49,
+        "destructionPercentage": 93.89473684210526,
+        "attacksUsed": 19,
         "attacksAvailable": 30
       },
       "members": [
@@ -9476,7 +9476,7 @@
           "name": "hulk",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9492,7 +9492,7 @@
           "name": "Zander",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9516,7 +9516,7 @@
           "name": "his Lloydship",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -9524,7 +9524,7 @@
           "name": "UI Goku",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9532,7 +9532,7 @@
           "name": "Ford",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9564,7 +9564,7 @@
           "name": "kcbillm",
           "townhallLevel": 15,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9572,7 +9572,7 @@
           "name": "Harry",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -9660,6 +9660,149 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#GR0P889PC",
+          "attackerName": "Ford",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#GR0P889PC",
+          "attackerName": "Ford",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#YL9V8V9L",
+          "attackerName": "Zander",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#Q8CG8RCLL",
+          "attackerName": "Harry",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#YL9V8V9L",
+          "attackerName": "Zander",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#Q8CG8RCLL",
+          "attackerName": "Harry",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#80LL8Y0CY",
+          "attackerName": "kcbillm",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#8J902RLQ",
+          "attackerName": "hulk",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#8J902RLQ",
+          "attackerName": "hulk",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#80LL8Y0CY",
+          "attackerName": "kcbillm",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#G8LGYRY9",
+          "attackerName": "his Lloydship",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#GJQ99LCC",
+          "attackerName": "UI Goku",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#GJQ99LCC",
+          "attackerName": "UI Goku",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
           "isOurClan": false
         }
       ]
