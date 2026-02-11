@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-11T20:00:07.875Z",
+  "lastUpdated": "2026-02-11T22:00:07.533Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -9327,12 +9327,12 @@
       "preparationStartTime": "20260210T160628.000Z",
       "startTime": "20260211T150628.000Z",
       "endTime": "20260212T150628.000Z",
-      "collectedAt": "2026-02-11T20:00:07.852Z",
+      "collectedAt": "2026-02-11T22:00:07.506Z",
       "clanStats": {
-        "totalAttacks": 1,
-        "totalStars": 3,
-        "destructionPercentage": 100,
-        "attacksUsed": 1,
+        "totalAttacks": 7,
+        "totalStars": 19,
+        "destructionPercentage": 94.85714285714286,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "opponentStats": {
@@ -9364,7 +9364,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -9380,7 +9380,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -9436,7 +9436,7 @@
           "name": "cosmicity",
           "townhallLevel": 15,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -9452,7 +9452,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -9804,6 +9804,72 @@
           "destructionPercentage": 100,
           "order": 20,
           "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#UQLCL2",
+          "defenderName": "TheGamesrus",
+          "stars": 1,
+          "destructionPercentage": 64,
+          "order": 21,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#Q8CG8RCLL",
+          "defenderName": "Harry",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#JVR0Y98Q",
+          "defenderName": "yates1245",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#G0Q09CQL",
+          "defenderName": "bill",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#QC8Y228CP",
+          "defenderName": "OneNut",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#8VR8U2R",
+          "defenderName": "Ironclyde",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": true
         }
       ]
     }
