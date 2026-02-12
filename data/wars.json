@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-11T22:00:07.533Z",
+  "lastUpdated": "2026-02-12T00:00:22.793Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -9327,19 +9327,19 @@
       "preparationStartTime": "20260210T160628.000Z",
       "startTime": "20260211T150628.000Z",
       "endTime": "20260212T150628.000Z",
-      "collectedAt": "2026-02-11T22:00:07.506Z",
+      "collectedAt": "2026-02-12T00:00:22.771Z",
       "clanStats": {
-        "totalAttacks": 7,
-        "totalStars": 19,
-        "destructionPercentage": 94.85714285714286,
-        "attacksUsed": 7,
+        "totalAttacks": 10,
+        "totalStars": 24,
+        "destructionPercentage": 88.4,
+        "attacksUsed": 10,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 19,
-        "totalStars": 49,
-        "destructionPercentage": 93.89473684210526,
-        "attacksUsed": 19,
+        "totalAttacks": 21,
+        "totalStars": 53,
+        "destructionPercentage": 90.66666666666667,
+        "attacksUsed": 21,
         "attacksAvailable": 30
       },
       "members": [
@@ -9380,7 +9380,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -9388,7 +9388,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -9548,7 +9548,7 @@
           "name": "Ironclyde",
           "townhallLevel": 15,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -9556,7 +9556,7 @@
           "name": "yates1245",
           "townhallLevel": 15,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -9870,6 +9870,61 @@
           "destructionPercentage": 100,
           "order": 26,
           "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#G8LGYRY9",
+          "defenderName": "his Lloydship",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#GJQ99LCC",
+          "defenderName": "UI Goku",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 28,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#Y8LQ2GGJ",
+          "defenderName": "PatRioT",
+          "stars": 1,
+          "destructionPercentage": 57,
+          "order": 29,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#8VR8U2R",
+          "attackerName": "Ironclyde",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 30,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260212t150628.000z--2yguqgy90--20vqyy9vj",
+          "attackerTag": "#JVR0Y98Q",
+          "attackerName": "yates1245",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 31,
+          "isOurClan": false
         }
       ]
     }
