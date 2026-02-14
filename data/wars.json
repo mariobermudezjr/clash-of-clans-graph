@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T12:00:07.419Z",
+  "lastUpdated": "2026-02-14T14:00:08.072Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,12 +10104,12 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T12:00:07.393Z",
+      "collectedAt": "2026-02-14T14:00:08.047Z",
       "clanStats": {
-        "totalAttacks": 25,
-        "totalStars": 63,
-        "destructionPercentage": 91.4,
-        "attacksUsed": 25,
+        "totalAttacks": 26,
+        "totalStars": 65,
+        "destructionPercentage": 90.34615384615384,
+        "attacksUsed": 26,
         "attacksAvailable": 60
       },
       "opponentStats": {
@@ -10253,7 +10253,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 17,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -11040,6 +11040,17 @@
           "stars": 2,
           "destructionPercentage": 83,
           "order": 40,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#2UQUQJVPJ",
+          "defenderName": "스드",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 41,
           "isOurClan": true
         }
       ]
