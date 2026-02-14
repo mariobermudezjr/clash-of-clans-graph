@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T10:00:07.691Z",
+  "lastUpdated": "2026-02-14T12:00:07.419Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,19 +10104,19 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T10:00:07.663Z",
+      "collectedAt": "2026-02-14T12:00:07.393Z",
       "clanStats": {
-        "totalAttacks": 22,
-        "totalStars": 55,
-        "destructionPercentage": 91,
-        "attacksUsed": 22,
+        "totalAttacks": 25,
+        "totalStars": 63,
+        "destructionPercentage": 91.4,
+        "attacksUsed": 25,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 13,
-        "totalStars": 29,
-        "destructionPercentage": 82.76923076923077,
-        "attacksUsed": 13,
+        "totalAttacks": 15,
+        "totalStars": 33,
+        "destructionPercentage": 81.73333333333333,
+        "attacksUsed": 15,
         "attacksAvailable": 60
       },
       "members": [
@@ -10229,7 +10229,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10317,7 +10317,7 @@
           "name": "cosmicity",
           "townhallLevel": 15,
           "mapPosition": 25,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10477,7 +10477,7 @@
           "name": "빅마우스",
           "townhallLevel": 18,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -10986,6 +10986,61 @@
           "destructionPercentage": 77,
           "order": 35,
           "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#YV2PCJJY9",
+          "defenderName": "동군동",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QYR29VLY",
+          "attackerName": "빅마우스",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 37,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#RRP09CYC",
+          "defenderName": "THEREDSKY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QYR29VLY",
+          "attackerName": "빅마우스",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 39,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#U9C9CC9Y",
+          "defenderName": "동군동동",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 40,
+          "isOurClan": true
         }
       ]
     }
