@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T20:00:07.703Z",
+  "lastUpdated": "2026-02-14T22:00:07.679Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,19 +10104,19 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T20:00:07.677Z",
+      "collectedAt": "2026-02-14T22:00:07.657Z",
       "clanStats": {
-        "totalAttacks": 31,
-        "totalStars": 76,
-        "destructionPercentage": 90.12903225806451,
-        "attacksUsed": 31,
+        "totalAttacks": 32,
+        "totalStars": 79,
+        "destructionPercentage": 90.4375,
+        "attacksUsed": 32,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 17,
-        "totalStars": 38,
-        "destructionPercentage": 83.47058823529412,
-        "attacksUsed": 17,
+        "totalAttacks": 19,
+        "totalStars": 41,
+        "destructionPercentage": 83.36842105263158,
+        "attacksUsed": 19,
         "attacksAvailable": 60
       },
       "members": [
@@ -10245,7 +10245,7 @@
           "name": "Aral",
           "townhallLevel": 17,
           "mapPosition": 16,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -10589,7 +10589,7 @@
           "name": "Day Light",
           "townhallLevel": 14,
           "mapPosition": 29,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11128,6 +11128,39 @@
           "stars": 2,
           "destructionPercentage": 86,
           "order": 48,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#2JRGPVLCP",
+          "attackerName": "Day Light",
+          "defenderTag": "#G0GY89YJU",
+          "defenderName": "geeth",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 49,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#2JRGPVLCP",
+          "attackerName": "Day Light",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 50,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#2J2PRRCL",
+          "attackerName": "Aral",
+          "defenderTag": "#LR9V2Y9GC",
+          "defenderName": "wlrwkddls",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
           "isOurClan": true
         }
       ]
