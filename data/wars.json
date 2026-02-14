@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T06:00:07.761Z",
+  "lastUpdated": "2026-02-14T08:00:12.533Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,19 +10104,19 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T06:00:07.735Z",
+      "collectedAt": "2026-02-14T08:00:12.506Z",
       "clanStats": {
-        "totalAttacks": 7,
-        "totalStars": 17,
-        "destructionPercentage": 90.71428571428571,
-        "attacksUsed": 7,
+        "totalAttacks": 11,
+        "totalStars": 25,
+        "destructionPercentage": 85.36363636363636,
+        "attacksUsed": 11,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 10,
-        "destructionPercentage": 89.5,
-        "attacksUsed": 4,
+        "totalAttacks": 5,
+        "totalStars": 12,
+        "destructionPercentage": 88.6,
+        "attacksUsed": 5,
         "attacksAvailable": 60
       },
       "members": [
@@ -10125,7 +10125,7 @@
           "name": "Mist",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10173,7 +10173,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10501,7 +10501,7 @@
           "name": "준호",
           "townhallLevel": 17,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -10721,6 +10721,61 @@
           "stars": 1,
           "destructionPercentage": 55,
           "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#UGL2UP20",
+          "attackerName": "준호",
+          "defenderTag": "#QUJR009C",
+          "defenderName": "worn",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#U0UJQV0U",
+          "defenderName": "크레용쑨",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 13,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#PQ8R2G2J",
+          "defenderName": "HWANG-GURA",
+          "stars": 1,
+          "destructionPercentage": 49,
+          "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#PPLYQ9C9C",
+          "defenderName": "교봉",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#9PU99J8",
+          "attackerName": "Mist",
+          "defenderTag": "#LPV8YCQRU",
+          "defenderName": "DIN",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 16,
           "isOurClan": true
         }
       ]
