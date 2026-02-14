@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T16:00:07.830Z",
+  "lastUpdated": "2026-02-14T18:00:07.889Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,12 +10104,12 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T16:00:07.806Z",
+      "collectedAt": "2026-02-14T18:00:07.863Z",
       "clanStats": {
-        "totalAttacks": 28,
-        "totalStars": 70,
-        "destructionPercentage": 89.92857142857143,
-        "attacksUsed": 28,
+        "totalAttacks": 29,
+        "totalStars": 71,
+        "destructionPercentage": 89.93103448275862,
+        "attacksUsed": 29,
         "attacksAvailable": 60
       },
       "opponentStats": {
@@ -10277,7 +10277,7 @@
           "name": "Remuism",
           "townhallLevel": 16,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -11096,6 +11096,17 @@
           "destructionPercentage": 100,
           "order": 45,
           "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#LR9V2Y9GC",
+          "defenderName": "wlrwkddls",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 46,
+          "isOurClan": true
         }
       ]
     }
