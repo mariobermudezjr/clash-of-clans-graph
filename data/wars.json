@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T04:00:07.903Z",
+  "lastUpdated": "2026-02-14T06:00:07.761Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,12 +10104,12 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T04:00:07.874Z",
+      "collectedAt": "2026-02-14T06:00:07.735Z",
       "clanStats": {
-        "totalAttacks": 1,
-        "totalStars": 3,
-        "destructionPercentage": 100,
-        "attacksUsed": 1,
+        "totalAttacks": 7,
+        "totalStars": 17,
+        "destructionPercentage": 90.71428571428571,
+        "attacksUsed": 7,
         "attacksAvailable": 60
       },
       "opponentStats": {
@@ -10221,7 +10221,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10237,7 +10237,7 @@
           "name": "UZUMAKI NARUTO",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10285,7 +10285,7 @@
           "name": "Roland",
           "townhallLevel": 16,
           "mapPosition": 21,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -10333,7 +10333,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 27,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -10656,6 +10656,72 @@
           "destructionPercentage": 94,
           "order": 5,
           "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QLLPGJL29",
+          "attackerName": "UZUMAKI NARUTO",
+          "defenderTag": "#LVVG2JU0Y",
+          "defenderName": "@isiux_11",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QLLPGJL29",
+          "attackerName": "UZUMAKI NARUTO",
+          "defenderTag": "#UGL2UP20",
+          "defenderName": "준호",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#R9CPQJ9C",
+          "defenderName": "_*.AR.*_",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#VLUG2VRY",
+          "defenderName": "똘람대왕",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#8QCRYPQC",
+          "attackerName": "Roland",
+          "defenderTag": "#Q80UVCUY",
+          "defenderName": "안상수",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 10,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#2JRGPVLCP",
+          "defenderName": "Day Light",
+          "stars": 1,
+          "destructionPercentage": 55,
+          "order": 11,
+          "isOurClan": true
         }
       ]
     }
