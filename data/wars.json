@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T14:00:08.072Z",
+  "lastUpdated": "2026-02-14T16:00:07.830Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,19 +10104,19 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T14:00:08.047Z",
+      "collectedAt": "2026-02-14T16:00:07.806Z",
       "clanStats": {
-        "totalAttacks": 26,
-        "totalStars": 65,
-        "destructionPercentage": 90.34615384615384,
-        "attacksUsed": 26,
+        "totalAttacks": 28,
+        "totalStars": 70,
+        "destructionPercentage": 89.92857142857143,
+        "attacksUsed": 28,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 15,
-        "totalStars": 33,
-        "destructionPercentage": 81.73333333333333,
-        "attacksUsed": 15,
+        "totalAttacks": 17,
+        "totalStars": 38,
+        "destructionPercentage": 83.47058823529412,
+        "attacksUsed": 17,
         "attacksAvailable": 60
       },
       "members": [
@@ -10181,7 +10181,7 @@
           "name": "Magilla",
           "townhallLevel": 18,
           "mapPosition": 8,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10333,7 +10333,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 27,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10437,7 +10437,7 @@
           "name": "mongoh",
           "townhallLevel": 18,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11052,6 +11052,50 @@
           "destructionPercentage": 64,
           "order": 41,
           "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#PRYVL0QYP",
+          "defenderName": "로건",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 42,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#2JRGPVLCP",
+          "defenderName": "Day Light",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#29GRY2L28",
+          "attackerName": "mongoh",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 44,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#29GRY2L28",
+          "attackerName": "mongoh",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "isOurClan": false
         }
       ]
     }
