@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-14T22:00:07.679Z",
+  "lastUpdated": "2026-02-15T00:00:07.495Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -10104,19 +10104,19 @@
       "preparationStartTime": "20260213T030501.000Z",
       "startTime": "20260214T020501.000Z",
       "endTime": "20260215T020501.000Z",
-      "collectedAt": "2026-02-14T22:00:07.657Z",
+      "collectedAt": "2026-02-15T00:00:07.469Z",
       "clanStats": {
-        "totalAttacks": 32,
-        "totalStars": 79,
-        "destructionPercentage": 90.4375,
-        "attacksUsed": 32,
+        "totalAttacks": 33,
+        "totalStars": 81,
+        "destructionPercentage": 90.42424242424242,
+        "attacksUsed": 33,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 19,
-        "totalStars": 41,
-        "destructionPercentage": 83.36842105263158,
-        "attacksUsed": 19,
+        "totalAttacks": 22,
+        "totalStars": 49,
+        "destructionPercentage": 85.04545454545455,
+        "attacksUsed": 22,
         "attacksAvailable": 60
       },
       "members": [
@@ -10253,7 +10253,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 17,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -10373,7 +10373,7 @@
           "name": "교봉",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -10413,7 +10413,7 @@
           "name": "크레용쑨",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11162,6 +11162,50 @@
           "destructionPercentage": 100,
           "order": 51,
           "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#Q80UVCUY",
+          "defenderName": "안상수",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 52,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#U0UJQV0U",
+          "attackerName": "크레용쑨",
+          "defenderTag": "#GYQ9JYYLY",
+          "defenderName": "nickd⁴th",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#U0UJQV0U",
+          "attackerName": "크레용쑨",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260215t020501.000z--2yguqgy90--py9pvpgj",
+          "attackerTag": "#PPLYQ9C9C",
+          "attackerName": "교봉",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 55,
+          "isOurClan": false
         }
       ]
     }
