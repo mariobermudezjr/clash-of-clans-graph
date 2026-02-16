@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-16T12:00:07.387Z",
+  "lastUpdated": "2026-02-16T14:00:08.027Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -11297,12 +11297,12 @@
       "preparationStartTime": "20260215T051053.000Z",
       "startTime": "20260216T041053.000Z",
       "endTime": "20260217T041053.000Z",
-      "collectedAt": "2026-02-16T12:00:07.363Z",
+      "collectedAt": "2026-02-16T14:00:08.001Z",
       "clanStats": {
-        "totalAttacks": 12,
-        "totalStars": 31,
-        "destructionPercentage": 90.16666666666667,
-        "attacksUsed": 12,
+        "totalAttacks": 15,
+        "totalStars": 39,
+        "destructionPercentage": 90.6,
+        "attacksUsed": 15,
         "attacksAvailable": 60
       },
       "opponentStats": {
@@ -11406,7 +11406,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -11422,7 +11422,7 @@
           "name": "Aral",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12057,6 +12057,39 @@
           "stars": 2,
           "destructionPercentage": 84,
           "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2J2PRRCL",
+          "attackerName": "Aral",
+          "defenderTag": "#8GG0URLRU",
+          "defenderName": "EXODO I",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2J2PRRCL",
+          "attackerName": "Aral",
+          "defenderTag": "#9YU8V9Y22",
+          "defenderName": "Jonatan",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#9GYRYLGLU",
+          "defenderName": "(*P@ND@*)",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
           "isOurClan": true
         }
       ]
