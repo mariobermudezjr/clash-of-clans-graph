@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-17T02:00:07.731Z",
+  "lastUpdated": "2026-02-17T04:00:07.267Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -11297,19 +11297,19 @@
       "preparationStartTime": "20260215T051053.000Z",
       "startTime": "20260216T041053.000Z",
       "endTime": "20260217T041053.000Z",
-      "collectedAt": "2026-02-17T02:00:07.704Z",
+      "collectedAt": "2026-02-17T04:00:07.245Z",
       "clanStats": {
-        "totalAttacks": 27,
-        "totalStars": 61,
-        "destructionPercentage": 83.92592592592592,
-        "attacksUsed": 27,
+        "totalAttacks": 28,
+        "totalStars": 64,
+        "destructionPercentage": 84.5,
+        "attacksUsed": 28,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 18,
-        "totalStars": 49,
-        "destructionPercentage": 95.55555555555556,
-        "attacksUsed": 18,
+        "totalAttacks": 46,
+        "totalStars": 120,
+        "destructionPercentage": 94.43478260869566,
+        "attacksUsed": 46,
         "attacksAvailable": 60
       },
       "members": [
@@ -11462,7 +11462,7 @@
           "name": "Remuism",
           "townhallLevel": 16,
           "mapPosition": 19,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -11558,7 +11558,7 @@
           "name": "Golden Eagle$$$",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11566,7 +11566,7 @@
           "name": "Zamet",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11574,7 +11574,7 @@
           "name": "《☆WEL♧4C☆》",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11582,7 +11582,7 @@
           "name": "⚡ZEUS⚡",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11590,7 +11590,7 @@
           "name": "rossy",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11606,7 +11606,7 @@
           "name": "rossy",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11622,7 +11622,7 @@
           "name": "Diosa de Fuego",
           "townhallLevel": 18,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11646,7 +11646,7 @@
           "name": "(*P@ND@*)",
           "townhallLevel": 18,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -11662,7 +11662,7 @@
           "name": "⚡⚡Goon1950 ⚡⚡",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11670,7 +11670,7 @@
           "name": "EXODO I",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11686,7 +11686,7 @@
           "name": "EXODO II",
           "townhallLevel": 17,
           "mapPosition": 17,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11702,7 +11702,7 @@
           "name": "Jonatan",
           "townhallLevel": 16,
           "mapPosition": 19,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11710,7 +11710,7 @@
           "name": "A.Barbaro",
           "townhallLevel": 17,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11726,7 +11726,7 @@
           "name": "3ROS",
           "townhallLevel": 16,
           "mapPosition": 22,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -11742,7 +11742,7 @@
           "name": "⚡⚡GuN RocK⚡⚡",
           "townhallLevel": 15,
           "mapPosition": 24,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -12288,6 +12288,325 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 45,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#9YU8V9Y22",
+          "attackerName": "Jonatan",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 46,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#CYCL8CQV",
+          "attackerName": "⚡⚡Goon1950 ⚡⚡",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 47,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#PJPQY9UC",
+          "attackerName": "⚡⚡GuN RocK⚡⚡",
+          "defenderTag": "#GYQ9JYYLY",
+          "defenderName": "nickd⁴th",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#CYCL8CQV",
+          "attackerName": "⚡⚡Goon1950 ⚡⚡",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 49,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#PJPQY9UC",
+          "attackerName": "⚡⚡GuN RocK⚡⚡",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 50,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#98Q8J8Q8R",
+          "attackerName": "EXODO II",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#98Q8J8Q8R",
+          "attackerName": "EXODO II",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#9U8PG8GP0",
+          "attackerName": "3ROS",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#9U8PG8GP0",
+          "attackerName": "3ROS",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#8GG0URLRU",
+          "attackerName": "EXODO I",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#8GG0URLRU",
+          "attackerName": "EXODO I",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#YRVRJV9G",
+          "attackerName": "Golden Eagle$$$",
+          "defenderTag": "#8JRC2L02C",
+          "defenderName": "ichigo korusaki",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#YRVRJV9G",
+          "attackerName": "Golden Eagle$$$",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 58,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#RJJ000Q9",
+          "attackerName": "rossy",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#RJJ000Q9",
+          "attackerName": "rossy",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2UCGL92YQ",
+          "attackerName": "A.Barbaro",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 61,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2UCGL92YQ",
+          "attackerName": "A.Barbaro",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 1,
+          "destructionPercentage": 85,
+          "order": 62,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#8QJCUG2L9",
+          "attackerName": "Diosa de Fuego",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#8P88GPUYU",
+          "defenderName": "HULK",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#8QJCUG2L9",
+          "attackerName": "Diosa de Fuego",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#LU9J09JU",
+          "attackerName": "Zamet",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 66,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#LU9J09JU",
+          "attackerName": "Zamet",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 67,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#U00J8CC0",
+          "attackerName": "rossy",
+          "defenderTag": "#8PRPV9U8J",
+          "defenderName": "DoubleTap00",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#U00J8CC0",
+          "attackerName": "rossy",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#9GYRYLGLU",
+          "attackerName": "(*P@ND@*)",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#82G9LYV8L",
+          "attackerName": "⚡ZEUS⚡",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 71,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#82G9LYV8L",
+          "attackerName": "⚡ZEUS⚡",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 72,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#88GRU0PJQ",
+          "attackerName": "《☆WEL♧4C☆》",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 73,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#88GRU0PJQ",
+          "attackerName": "《☆WEL♧4C☆》",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
           "isOurClan": false
         }
       ]
