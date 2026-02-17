@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-16T22:00:08.011Z",
+  "lastUpdated": "2026-02-17T00:00:07.902Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -11297,19 +11297,19 @@
       "preparationStartTime": "20260215T051053.000Z",
       "startTime": "20260216T041053.000Z",
       "endTime": "20260217T041053.000Z",
-      "collectedAt": "2026-02-16T22:00:07.988Z",
+      "collectedAt": "2026-02-17T00:00:07.877Z",
       "clanStats": {
-        "totalAttacks": 21,
-        "totalStars": 50,
-        "destructionPercentage": 86.85714285714286,
-        "attacksUsed": 21,
+        "totalAttacks": 25,
+        "totalStars": 58,
+        "destructionPercentage": 84.8,
+        "attacksUsed": 25,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 16,
-        "totalStars": 43,
-        "destructionPercentage": 95,
-        "attacksUsed": 16,
+        "totalAttacks": 17,
+        "totalStars": 46,
+        "destructionPercentage": 95.29411764705883,
+        "attacksUsed": 17,
         "attacksAvailable": 60
       },
       "members": [
@@ -11350,7 +11350,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -11406,7 +11406,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -11454,7 +11454,7 @@
           "name": "Butta",
           "townhallLevel": 16,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -11718,7 +11718,7 @@
           "name": "Musclemania",
           "townhallLevel": 16,
           "mapPosition": 21,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -12201,6 +12201,61 @@
           "destructionPercentage": 97,
           "order": 37,
           "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#2GUUPCUQU",
+          "defenderName": "BRIAN JOEL",
+          "stars": 1,
+          "destructionPercentage": 39,
+          "order": 38,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#GJ8P2LL8G",
+          "defenderName": "SANSOM",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#2P0008QRJ",
+          "defenderName": "CARLOS GARAY",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 40,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#28PQVGGQ8",
+          "attackerName": "Butta",
+          "defenderTag": "#9U8PG8GP0",
+          "defenderName": "3ROS",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 41,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260217t041053.000z--2yguqgy90--qlv2l0lj",
+          "attackerTag": "#9R220L2JC",
+          "attackerName": "Musclemania",
+          "defenderTag": "#P82YPRQCG",
+          "defenderName": "Pearce",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "isOurClan": false
         }
       ]
     }
