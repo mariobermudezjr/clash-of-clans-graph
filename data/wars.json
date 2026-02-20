@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T12:00:08.342Z",
+  "lastUpdated": "2026-02-20T14:00:08.063Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,7 +12644,7 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T12:00:08.319Z",
+      "collectedAt": "2026-02-20T14:00:08.036Z",
       "clanStats": {
         "totalAttacks": 18,
         "totalStars": 34,
@@ -12653,10 +12653,10 @@
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 22,
-        "totalStars": 53,
-        "destructionPercentage": 87.86363636363636,
-        "attacksUsed": 22,
+        "totalAttacks": 25,
+        "totalStars": 58,
+        "destructionPercentage": 85.04,
+        "attacksUsed": 25,
         "attacksAvailable": 60
       },
       "members": [
@@ -12953,7 +12953,7 @@
           "name": "Hero",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -12961,7 +12961,7 @@
           "name": "Tamanna",
           "townhallLevel": 18,
           "mapPosition": 8,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -13581,6 +13581,39 @@
           "destructionPercentage": 75,
           "order": 40,
           "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q20LYQ0PV",
+          "attackerName": "Tamanna",
+          "defenderTag": "#8QCRYPQC",
+          "defenderName": "Roland",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 41,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#82GVCJL0P",
+          "attackerName": "Hero",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 1,
+          "destructionPercentage": 58,
+          "order": 42,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#82GVCJL0P",
+          "attackerName": "Hero",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 43,
+          "isOurClan": false
         }
       ]
     }
