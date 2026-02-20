@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T04:00:07.335Z",
+  "lastUpdated": "2026-02-20T06:00:08.375Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,19 +12644,19 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T04:00:07.310Z",
+      "collectedAt": "2026-02-20T06:00:08.348Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 10,
-        "destructionPercentage": 87,
-        "attacksUsed": 5,
+        "totalAttacks": 7,
+        "totalStars": 15,
+        "destructionPercentage": 88.14285714285714,
+        "attacksUsed": 7,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 11,
-        "destructionPercentage": 98,
-        "attacksUsed": 4,
+        "totalAttacks": 12,
+        "totalStars": 27,
+        "destructionPercentage": 86.75,
+        "attacksUsed": 12,
         "attacksAvailable": 60
       },
       "members": [
@@ -12705,7 +12705,7 @@
           "name": "saeid",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12817,7 +12817,7 @@
           "name": "Roland",
           "townhallLevel": 16,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -12929,7 +12929,7 @@
           "name": "paul",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -12937,7 +12937,7 @@
           "name": "CRITICAL8013",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -12985,7 +12985,7 @@
           "name": "happy vai",
           "townhallLevel": 17,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -13041,7 +13041,7 @@
           "name": "NA SI M☠️",
           "townhallLevel": 17,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -13239,6 +13239,116 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#9LU00GVU0",
+          "attackerName": "CRITICAL8013",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 1,
+          "destructionPercentage": 69,
+          "order": 10,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#9LU00GVU0",
+          "attackerName": "CRITICAL8013",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#P0PGVPQ2U",
+          "attackerName": "paul",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#P0PGVPQ2U",
+          "attackerName": "paul",
+          "defenderTag": "#8PRPV9U8J",
+          "defenderName": "DoubleTap00",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q80LRGPJQ",
+          "attackerName": "happy vai",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q80LRGPJQ",
+          "attackerName": "happy vai",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#Q80LRGPJQ",
+          "defenderName": "happy vai",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#8QCRYPQC",
+          "attackerName": "Roland",
+          "defenderTag": "#PL9GRPQU9",
+          "defenderName": "ansh kalra",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#9G8CCGVRC",
+          "attackerName": "NA SI M☠️",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#9G8CCGVRC",
+          "attackerName": "NA SI M☠️",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 19,
           "isOurClan": false
         }
       ]
