@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T18:00:07.389Z",
+  "lastUpdated": "2026-02-20T20:00:08.353Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,19 +12644,19 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T18:00:07.364Z",
+      "collectedAt": "2026-02-20T20:00:08.330Z",
       "clanStats": {
-        "totalAttacks": 23,
-        "totalStars": 47,
-        "destructionPercentage": 79.08695652173913,
-        "attacksUsed": 23,
+        "totalAttacks": 25,
+        "totalStars": 52,
+        "destructionPercentage": 80.24,
+        "attacksUsed": 25,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 28,
-        "totalStars": 65,
-        "destructionPercentage": 84.75,
-        "attacksUsed": 28,
+        "totalAttacks": 29,
+        "totalStars": 67,
+        "destructionPercentage": 83.65517241379311,
+        "attacksUsed": 29,
         "attacksAvailable": 60
       },
       "members": [
@@ -12673,7 +12673,7 @@
           "name": "iishikaori",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -13073,7 +13073,7 @@
           "name": "Maazzie",
           "townhallLevel": 15,
           "mapPosition": 22,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -13701,6 +13701,39 @@
           "stars": 2,
           "destructionPercentage": 91,
           "order": 51,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#9QPUV2VC9",
+          "attackerName": "Maazzie",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 52,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#L0CCUYYVQ",
+          "attackerName": "iishikaori",
+          "defenderTag": "#99Y80C9YU",
+          "defenderName": "MD MITHUN",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 53,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#L0CCUYYVQ",
+          "attackerName": "iishikaori",
+          "defenderTag": "#9G8CCGVRC",
+          "defenderName": "NA SI M☠️",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
           "isOurClan": true
         }
       ]
