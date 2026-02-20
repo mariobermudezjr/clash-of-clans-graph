@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T14:00:08.063Z",
+  "lastUpdated": "2026-02-20T16:00:07.956Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,19 +12644,19 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T14:00:08.036Z",
+      "collectedAt": "2026-02-20T16:00:07.933Z",
       "clanStats": {
-        "totalAttacks": 18,
-        "totalStars": 34,
-        "destructionPercentage": 76.11111111111111,
-        "attacksUsed": 18,
+        "totalAttacks": 23,
+        "totalStars": 47,
+        "destructionPercentage": 79.08695652173913,
+        "attacksUsed": 23,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 25,
-        "totalStars": 58,
-        "destructionPercentage": 85.04,
-        "attacksUsed": 25,
+        "totalAttacks": 28,
+        "totalStars": 65,
+        "destructionPercentage": 84.75,
+        "attacksUsed": 28,
         "attacksAvailable": 60
       },
       "members": [
@@ -12713,7 +12713,7 @@
           "name": "Magilla",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12721,7 +12721,7 @@
           "name": "heyd",
           "townhallLevel": 18,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12753,7 +12753,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12913,7 +12913,7 @@
           "name": "MD MITHUN",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -13065,7 +13065,7 @@
           "name": "sojib biswas",
           "townhallLevel": 15,
           "mapPosition": 21,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -13614,6 +13614,94 @@
           "destructionPercentage": 61,
           "order": 43,
           "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#99Y80C9YU",
+          "attackerName": "MD MITHUN",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 44,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#9YU88YYPY",
+          "defenderName": "Samad",
+          "stars": 2,
+          "destructionPercentage": 58,
+          "order": 45,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#9V29VPVPU",
+          "defenderName": "SUME",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#P82C29R2V",
+          "defenderName": "MDASAK",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q9VU2L0UP",
+          "attackerName": "sojib biswas",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 48,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q9VU2L0UP",
+          "attackerName": "sojib biswas",
+          "defenderTag": "#GVURPVRLJ",
+          "defenderName": "RIFQI COC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#PULY82YUL",
+          "attackerName": "heyd",
+          "defenderTag": "#Q20LYQ0PV",
+          "defenderName": "Tamanna",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#PULY82YUL",
+          "attackerName": "heyd",
+          "defenderTag": "#Y0GU8R2Y0",
+          "defenderName": "subu",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 51,
+          "isOurClan": true
         }
       ]
     }
