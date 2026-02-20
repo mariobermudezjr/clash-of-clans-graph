@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T10:00:07.252Z",
+  "lastUpdated": "2026-02-20T12:00:08.342Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,19 +12644,19 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T10:00:07.229Z",
+      "collectedAt": "2026-02-20T12:00:08.319Z",
       "clanStats": {
-        "totalAttacks": 14,
-        "totalStars": 30,
-        "destructionPercentage": 86.71428571428571,
-        "attacksUsed": 14,
+        "totalAttacks": 18,
+        "totalStars": 34,
+        "destructionPercentage": 76.11111111111111,
+        "attacksUsed": 18,
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 21,
-        "totalStars": 51,
-        "destructionPercentage": 88.52380952380952,
-        "attacksUsed": 21,
+        "totalAttacks": 22,
+        "totalStars": 53,
+        "destructionPercentage": 87.86363636363636,
+        "attacksUsed": 22,
         "attacksAvailable": 60
       },
       "members": [
@@ -12753,7 +12753,7 @@
           "name": "slingblade",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -12777,7 +12777,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -12889,7 +12889,7 @@
           "name": "TEAMS WARRIORS",
           "townhallLevel": 10,
           "mapPosition": 29,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -12961,7 +12961,7 @@
           "name": "Tamanna",
           "townhallLevel": 18,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -13525,6 +13525,61 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 35,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#Q20LYQ0PV",
+          "attackerName": "Tamanna",
+          "defenderTag": "#P82YPRQCG",
+          "defenderName": "Pearce",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 36,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#R080G2PL9",
+          "attackerName": "TEAMS WARRIORS",
+          "defenderTag": "#9QPUV2VC9",
+          "defenderName": "Maazzie",
+          "stars": 0,
+          "destructionPercentage": 3,
+          "order": 37,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#R080G2PL9",
+          "attackerName": "TEAMS WARRIORS",
+          "defenderTag": "#GLPJU2V09",
+          "defenderName": "DEMONSLAYER",
+          "stars": 0,
+          "destructionPercentage": 12,
+          "order": 38,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#98Q80C82L",
+          "defenderName": "shorov",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 39,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#800VJ9LC2",
+          "defenderName": "ABU SIDDIK",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 40,
           "isOurClan": true
         }
       ]
