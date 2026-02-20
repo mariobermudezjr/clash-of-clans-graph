@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T20:00:08.353Z",
+  "lastUpdated": "2026-02-20T22:00:07.393Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,12 +12644,12 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T20:00:08.330Z",
+      "collectedAt": "2026-02-20T22:00:07.369Z",
       "clanStats": {
-        "totalAttacks": 25,
-        "totalStars": 52,
-        "destructionPercentage": 80.24,
-        "attacksUsed": 25,
+        "totalAttacks": 26,
+        "totalStars": 54,
+        "destructionPercentage": 79.5,
+        "attacksUsed": 26,
         "attacksAvailable": 60
       },
       "opponentStats": {
@@ -12777,7 +12777,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -13734,6 +13734,17 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 54,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#98QJVRRJ0",
+          "defenderName": "pankaj",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 55,
           "isOurClan": true
         }
       ]
