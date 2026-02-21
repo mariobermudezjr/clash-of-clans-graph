@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-20T22:00:07.393Z",
+  "lastUpdated": "2026-02-21T00:00:08.130Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -12644,7 +12644,7 @@
       "preparationStartTime": "20260219T031609.000Z",
       "startTime": "20260220T021609.000Z",
       "endTime": "20260221T021609.000Z",
-      "collectedAt": "2026-02-20T22:00:07.369Z",
+      "collectedAt": "2026-02-21T00:00:08.107Z",
       "clanStats": {
         "totalAttacks": 26,
         "totalStars": 54,
@@ -12653,10 +12653,10 @@
         "attacksAvailable": 60
       },
       "opponentStats": {
-        "totalAttacks": 29,
-        "totalStars": 67,
-        "destructionPercentage": 83.65517241379311,
-        "attacksUsed": 29,
+        "totalAttacks": 31,
+        "totalStars": 70,
+        "destructionPercentage": 83.25806451612904,
+        "attacksUsed": 31,
         "attacksAvailable": 60
       },
       "members": [
@@ -12905,7 +12905,7 @@
           "name": "Dom",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -13017,7 +13017,7 @@
           "name": "ABU SIDDIK",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -13746,6 +13746,28 @@
           "destructionPercentage": 61,
           "order": 55,
           "isOurClan": true
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#800VJ9LC2",
+          "attackerName": "ABU SIDDIK",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 1,
+          "destructionPercentage": 78,
+          "order": 56,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260221t021609.000z--2yguqgy90--jr28uyrc",
+          "attackerTag": "#PG9L220Q2",
+          "attackerName": "Dom",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 57,
+          "isOurClan": false
         }
       ]
     }
