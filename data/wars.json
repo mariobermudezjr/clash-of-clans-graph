@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-22T22:00:10.054Z",
+  "lastUpdated": "2026-02-23T00:00:07.697Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -13804,12 +13804,12 @@
       "preparationStartTime": "20260221T034005.000Z",
       "startTime": "20260222T024005.000Z",
       "endTime": "20260223T024005.000Z",
-      "collectedAt": "2026-02-22T22:00:10.021Z",
+      "collectedAt": "2026-02-23T00:00:07.672Z",
       "clanStats": {
-        "totalAttacks": 15,
-        "totalStars": 33,
-        "destructionPercentage": 87,
-        "attacksUsed": 15,
+        "totalAttacks": 16,
+        "totalStars": 35,
+        "destructionPercentage": 86.6875,
+        "attacksUsed": 16,
         "attacksAvailable": 20
       },
       "opponentStats": {
@@ -13825,7 +13825,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -14245,6 +14245,17 @@
           "destructionPercentage": 100,
           "order": 24,
           "isOurClan": false
+        },
+        {
+          "warId": "20260223t024005.000z--2yguqgy90--rq8ylplg",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#8PQY0R0V2",
+          "defenderName": "coc hunter",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 25,
+          "isOurClan": true
         }
       ]
     }
