@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T14:00:06.954Z",
+  "lastUpdated": "2026-02-24T16:00:08.021Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,12 +14281,12 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T14:00:06.931Z",
+      "collectedAt": "2026-02-24T16:00:07.997Z",
       "clanStats": {
-        "totalAttacks": 21,
-        "totalStars": 44,
-        "destructionPercentage": 84.04761904761905,
-        "attacksUsed": 21,
+        "totalAttacks": 23,
+        "totalStars": 48,
+        "destructionPercentage": 83,
+        "attacksUsed": 23,
         "attacksAvailable": 40
       },
       "opponentStats": {
@@ -14342,7 +14342,7 @@
           "name": "Magilla",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14903,6 +14903,28 @@
           "stars": 2,
           "destructionPercentage": 93,
           "order": 26,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#PGQ9JP988",
+          "defenderName": "max",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#G2LUQCQR",
+          "attackerName": "Magilla",
+          "defenderTag": "#P9RLCVLQP",
+          "defenderName": "سنيور موله",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 28,
           "isOurClan": true
         }
       ]
