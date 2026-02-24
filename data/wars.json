@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T12:00:07.329Z",
+  "lastUpdated": "2026-02-24T14:00:06.954Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,12 +14281,12 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T12:00:07.303Z",
+      "collectedAt": "2026-02-24T14:00:06.931Z",
       "clanStats": {
-        "totalAttacks": 19,
-        "totalStars": 39,
-        "destructionPercentage": 82.73684210526316,
-        "attacksUsed": 19,
+        "totalAttacks": 21,
+        "totalStars": 44,
+        "destructionPercentage": 84.04761904761905,
+        "attacksUsed": 21,
         "attacksAvailable": 40
       },
       "opponentStats": {
@@ -14406,7 +14406,7 @@
           "name": "Remuism",
           "townhallLevel": 16,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14881,6 +14881,28 @@
           "stars": 0,
           "destructionPercentage": 11,
           "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#QGY2G2R8P",
+          "defenderName": "زول دسيس",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#G99UU0CQQ",
+          "defenderName": "wolf Man",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 26,
           "isOurClan": true
         }
       ]
