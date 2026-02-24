@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T18:00:07.814Z",
+  "lastUpdated": "2026-02-24T20:00:07.536Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,12 +14281,12 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T18:00:07.789Z",
+      "collectedAt": "2026-02-24T20:00:07.510Z",
       "clanStats": {
-        "totalAttacks": 23,
-        "totalStars": 48,
+        "totalAttacks": 27,
+        "totalStars": 56,
         "destructionPercentage": 83,
-        "attacksUsed": 23,
+        "attacksUsed": 27,
         "attacksAvailable": 40
       },
       "opponentStats": {
@@ -14374,7 +14374,7 @@
           "name": "Aral",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14446,7 +14446,7 @@
           "name": "Jackson Red",
           "townhallLevel": 14,
           "mapPosition": 19,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14948,6 +14948,50 @@
           "destructionPercentage": 100,
           "order": 30,
           "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#P9RLCVLQP",
+          "defenderName": "سنيور موله",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 31,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#QG0VGQLR8",
+          "attackerName": "Jackson Red",
+          "defenderTag": "#PJCJ0CUVJ",
+          "defenderName": "سنيور جون",
+          "stars": 1,
+          "destructionPercentage": 74,
+          "order": 32,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#2J2PRRCL",
+          "attackerName": "Aral",
+          "defenderTag": "#PJCJ0CUVJ",
+          "defenderName": "سنيور جون",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#2J2PRRCL",
+          "attackerName": "Aral",
+          "defenderTag": "#PY9G8UP8R",
+          "defenderName": "الكاسر",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 34,
+          "isOurClan": true
         }
       ]
     }
