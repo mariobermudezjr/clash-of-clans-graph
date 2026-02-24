@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T20:00:07.536Z",
+  "lastUpdated": "2026-02-24T22:00:07.372Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,7 +14281,7 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T20:00:07.510Z",
+      "collectedAt": "2026-02-24T22:00:07.348Z",
       "clanStats": {
         "totalAttacks": 27,
         "totalStars": 56,
@@ -14290,10 +14290,10 @@
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 7,
-        "totalStars": 15,
-        "destructionPercentage": 88.85714285714286,
-        "attacksUsed": 7,
+        "totalAttacks": 10,
+        "totalStars": 22,
+        "destructionPercentage": 85.3,
+        "attacksUsed": 10,
         "attacksAvailable": 40
       },
       "members": [
@@ -14494,7 +14494,7 @@
           "name": "HassKo Pop",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14542,7 +14542,7 @@
           "name": "الكاسر",
           "townhallLevel": 18,
           "mapPosition": 11,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14992,6 +14992,39 @@
           "destructionPercentage": 93,
           "order": 34,
           "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9P9RGCY9G",
+          "attackerName": "HassKo Pop",
+          "defenderTag": "#G2LUQCQR",
+          "defenderName": "Magilla",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PY9G8UP8R",
+          "attackerName": "الكاسر",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 36,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PY9G8UP8R",
+          "attackerName": "الكاسر",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 37,
+          "isOurClan": false
         }
       ]
     }
