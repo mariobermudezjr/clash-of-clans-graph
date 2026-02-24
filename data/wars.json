@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T06:00:07.434Z",
+  "lastUpdated": "2026-02-24T08:00:07.486Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,19 +14281,19 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T06:00:07.411Z",
+      "collectedAt": "2026-02-24T08:00:07.463Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 10,
-        "destructionPercentage": 81.2,
-        "attacksUsed": 5,
+        "totalAttacks": 12,
+        "totalStars": 28,
+        "destructionPercentage": 90.58333333333333,
+        "attacksUsed": 12,
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 1,
-        "totalStars": 2,
-        "destructionPercentage": 85,
-        "attacksUsed": 1,
+        "totalAttacks": 4,
+        "totalStars": 8,
+        "destructionPercentage": 87.25,
+        "attacksUsed": 4,
         "attacksAvailable": 40
       },
       "members": [
@@ -14310,7 +14310,7 @@
           "name": "iambogik",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14334,7 +14334,7 @@
           "name": "saeid",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14350,7 +14350,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14438,7 +14438,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -14590,7 +14590,7 @@
           "name": "ابو مصطفي",
           "townhallLevel": 16,
           "mapPosition": 17,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -14614,7 +14614,7 @@
           "name": "سنيور جون",
           "townhallLevel": 13,
           "mapPosition": 20,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         }
       ],
@@ -14683,6 +14683,116 @@
           "stars": 2,
           "destructionPercentage": 58,
           "order": 6,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#9LLRLQQ99",
+          "defenderName": "ود الاسد",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PJCJ0CUVJ",
+          "attackerName": "سنيور جون",
+          "defenderTag": "#R080G2PL9",
+          "defenderName": "TEAMS WARRIORS",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PJCJ0CUVJ",
+          "attackerName": "سنيور جون",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#Q2VCLR8R",
+          "defenderName": "hmaado",
+          "stars": 1,
+          "destructionPercentage": 84,
+          "order": 10,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#Q9UPPQJ92",
+          "attackerName": "iambogik",
+          "defenderTag": "#PQ9Y900RL",
+          "defenderName": "TOP MAN",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#Q9UPPQJ92",
+          "attackerName": "iambogik",
+          "defenderTag": "#PY8YQ9P8J",
+          "defenderName": "Salih",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 12,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#9PY0GPPL8",
+          "defenderName": "محمد داؤود",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#GL8UYQQQ2",
+          "attackerName": "ابو مصطفي",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#9YQG0G8CU",
+          "defenderName": "كجرون",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#GL8UYQQQ2",
+          "defenderName": "ابو مصطفي",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
           "isOurClan": true
         }
       ]
