@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-24T16:00:08.021Z",
+  "lastUpdated": "2026-02-24T18:00:07.814Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,7 +14281,7 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-24T16:00:07.997Z",
+      "collectedAt": "2026-02-24T18:00:07.789Z",
       "clanStats": {
         "totalAttacks": 23,
         "totalStars": 48,
@@ -14290,10 +14290,10 @@
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 5,
-        "totalStars": 9,
-        "destructionPercentage": 84.4,
-        "attacksUsed": 5,
+        "totalAttacks": 7,
+        "totalStars": 15,
+        "destructionPercentage": 88.85714285714286,
+        "attacksUsed": 7,
         "attacksAvailable": 40
       },
       "members": [
@@ -14502,7 +14502,7 @@
           "name": "max",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14926,6 +14926,28 @@
           "destructionPercentage": 77,
           "order": 28,
           "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PGQ9JP988",
+          "attackerName": "max",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PGQ9JP988",
+          "attackerName": "max",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "isOurClan": false
         }
       ]
     }
