@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-25T02:00:07.709Z",
+  "lastUpdated": "2026-02-25T04:00:07.284Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -14281,7 +14281,7 @@
       "preparationStartTime": "20260223T040558.000Z",
       "startTime": "20260224T041802.000Z",
       "endTime": "20260225T041802.000Z",
-      "collectedAt": "2026-02-25T02:00:07.683Z",
+      "collectedAt": "2026-02-25T04:00:07.258Z",
       "clanStats": {
         "totalAttacks": 28,
         "totalStars": 58,
@@ -14290,10 +14290,10 @@
         "attacksAvailable": 40
       },
       "opponentStats": {
-        "totalAttacks": 16,
-        "totalStars": 38,
-        "destructionPercentage": 89.1875,
-        "attacksUsed": 16,
+        "totalAttacks": 30,
+        "totalStars": 71,
+        "destructionPercentage": 91.9,
+        "attacksUsed": 30,
         "attacksAvailable": 40
       },
       "members": [
@@ -14478,7 +14478,7 @@
           "name": "Salih",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14486,7 +14486,7 @@
           "name": "Walfrin",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14518,7 +14518,7 @@
           "name": "محمد داؤود",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14534,7 +14534,7 @@
           "name": "ود الاسد",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -14566,7 +14566,7 @@
           "name": "زول دسيس",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14574,7 +14574,7 @@
           "name": "TRTg",
           "townhallLevel": 16,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -14582,7 +14582,7 @@
           "name": "moha0kamil",
           "townhallLevel": 17,
           "mapPosition": 16,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14590,7 +14590,7 @@
           "name": "ابو مصطفي",
           "townhallLevel": 16,
           "mapPosition": 17,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -14598,7 +14598,7 @@
           "name": "كجرون",
           "townhallLevel": 16,
           "mapPosition": 18,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -15102,6 +15102,160 @@
           "destructionPercentage": 76,
           "order": 44,
           "isOurClan": true
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#GL8UYQQQ2",
+          "attackerName": "ابو مصطفي",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 45,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#QGY2G2R8P",
+          "attackerName": "زول دسيس",
+          "defenderTag": "#QG0VGQLR8",
+          "defenderName": "Jackson Red",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#QGY2G2R8P",
+          "attackerName": "زول دسيس",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9LLRLQQ99",
+          "attackerName": "ود الاسد",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 48,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9PY0GPPL8",
+          "attackerName": "محمد داؤود",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 49,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9PY0GPPL8",
+          "attackerName": "محمد داؤود",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 50,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9YQG0G8CU",
+          "attackerName": "كجرون",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 51,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9YQG0G8CU",
+          "attackerName": "كجرون",
+          "defenderTag": "#28LJL9YJ8",
+          "defenderName": "Alpha",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 52,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#9QYJ2VRGC",
+          "attackerName": "Walfrin",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#8UVUGVL0U",
+          "attackerName": "moha0kamil",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 54,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#8UVUGVL0U",
+          "attackerName": "moha0kamil",
+          "defenderTag": "#8QCRYPQC",
+          "defenderName": "Roland",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PY8YQ9P8J",
+          "attackerName": "Salih",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 56,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#PY8YQ9P8J",
+          "attackerName": "Salih",
+          "defenderTag": "#YCY9LRV08",
+          "defenderName": "saeid",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260225t041802.000z--2yguqgy90--cr00vg0r",
+          "attackerTag": "#G2JJ2G0C0",
+          "attackerName": "TRTg",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 58,
+          "isOurClan": false
         }
       ]
     }
