@@ -92,11 +92,11 @@ export function startScheduler() {
   console.log('Starting Clash of Clans War Data Scheduler...');
   console.log('');
 
-  // Check every 2 hours for regular wars
-  console.log('Setting up regular war checks every 2 hours...');
-  cron.schedule('0 */2 * * *', async () => {
+  // Daily check at 9 AM for regular wars
+  console.log('Setting up daily check at 9:00 AM for regular wars...');
+  cron.schedule('0 9 * * *', async () => {
     console.log('\n' + '='.repeat(60));
-    console.log('SCHEDULED CHECK - REGULAR WARS');
+    console.log('DAILY SCHEDULED CHECK - REGULAR WARS');
     console.log('='.repeat(60));
     await scheduleSmartCollection();
   });
@@ -122,7 +122,7 @@ export function startScheduler() {
   // Keep the process alive
   console.log('');
   console.log('Scheduler is running. Press Ctrl+C to stop.');
-  console.log('Regular wars: Every 2 hours + smart scheduling');
+  console.log('Regular wars: Daily checks at 9:00 AM + smart scheduling');
   console.log('CWL: Every 6 hours on days 1-8 of each month');
 }
 
