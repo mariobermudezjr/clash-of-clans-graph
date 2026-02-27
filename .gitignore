@@ -42,3 +42,6 @@ next-env.d.ts
 
 # logs
 /logs/*.log
+
+# local setup docs
+LOCAL_SETUP.md
