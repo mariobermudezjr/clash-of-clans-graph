@@ -93,31 +93,21 @@ function LeagueWarsDashboardContent() {
   // Get unique seasons from league wars
   const seasons = Array.from(new Set(leagueWars.map(w => w.season))).sort().reverse();
 
-  // Filter wars by selected season and exclude preparation wars
-  // Only show wars that are in active states (inWar or warEnded)
-  const filteredWars = selectedSeason
-    ? leagueWars.filter(w => w.season === selectedSeason && w.state !== 'preparation')
+  // If the selected season only has preparation wars, fall back to the latest season with real data
+  const activeSeasons = seasons.filter(s =>
+    leagueWars.some(w => w.season === s && w.state !== 'preparation')
+  );
+  const effectiveSeason = selectedSeason && leagueWars.some(w => w.season === selectedSeason && w.state !== 'preparation')
+    ? selectedSeason
+    : activeSeasons[0] || selectedSeason;
+
+  // Check if the current CWL season is in preparation
+  const currentSeasonInPrep = selectedSeason !== effectiveSeason;
+
+  // Filter wars by effective season and exclude preparation wars
+  const filteredWars = effectiveSeason
+    ? leagueWars.filter(w => w.season === effectiveSeason && w.state !== 'preparation')
     : leagueWars.filter(w => w.state !== 'preparation');
-
-  // Check if there are wars in preparation for the selected season
-  const preparationWars = selectedSeason
-    ? leagueWars.filter(w => w.season === selectedSeason && w.state === 'preparation')
-    : leagueWars.filter(w => w.state === 'preparation');
-
-  // Show message if only preparation wars exist
-  if (!loading && filteredWars.length === 0 && preparationWars.length > 0) {
-    return (
-      <Card>
-        <div className="flex flex-col items-center justify-center py-12">
-          <div className="text-6xl mb-4">⏳</div>
-          <h2 className="text-2xl font-semibold text-text mb-2">Wars in Preparation</h2>
-          <p className="text-textMuted mb-2 text-center max-w-md">
-            {preparationWars.length} CWL war{preparationWars.length > 1 ? 's are' : ' is'} currently in preparation. Active and completed wars will appear here once they start.
-          </p>
-        </div>
-      </Card>
-    );
-  }
 
   // Convert LeagueWar[] to War[] for chart compatibility
   // LeagueWar extends/matches War structure, so we map the fields
@@ -146,16 +136,33 @@ function LeagueWarsDashboardContent() {
 
   return (
     <div className="space-y-6 py-6">
+      {/* Preparation Banner */}
+      {currentSeasonInPrep && (
+        <Card>
+          <div className="flex items-center gap-3 py-2">
+            <span className="text-3xl">⏳</span>
+            <div>
+              <p className="text-sm text-text font-medium">
+                CWL {selectedSeason} is in preparation — showing {effectiveSeason} data below.
+              </p>
+              <p className="text-xs text-textMuted">
+                Active wars will appear here once the new season starts.
+              </p>
+            </div>
+          </div>
+        </Card>
+      )}
+
       {/* Season Selector and Stats */}
       <Card title="Clan War League Data">
         <div className="mb-4">
           <Select
             label="Select CWL Season"
-            options={seasons.map(season => ({
+            options={activeSeasons.map(season => ({
               value: season,
               label: season,
             }))}
-            value={selectedSeason}
+            value={effectiveSeason}
             onChange={(e) => setSelectedSeason(e.target.value)}
           />
         </div>
