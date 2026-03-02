@@ -2,10 +2,40 @@ import cron from 'node-cron';
 import { scheduleJob, Job } from 'node-schedule';
 import { collectWarData } from './collector';
 import { collectLeagueWarData } from './league-collector';
+import { gitSync } from './git-sync';
 import { parseCoCTimestamp, formatDate } from '../lib/date-utils';
 
 // Track scheduled jobs
 let dynamicJob: Job | null = null;
+
+/**
+ * Collect data and sync to git if anything changed
+ */
+async function collectAndSync() {
+  try {
+    console.log('\n--- Regular Wars ---');
+    await collectWarData();
+  } catch (error) {
+    console.error('Error during regular war collection:', error);
+  }
+
+  try {
+    console.log('\n--- CWL Wars ---');
+    await collectLeagueWarData();
+  } catch (error) {
+    console.error('Error during CWL collection:', error);
+  }
+
+  try {
+    console.log('\n--- Git Sync ---');
+    const pushed = await gitSync();
+    if (pushed) {
+      console.log('✅ Data synced and pushed — Vercel deploy will trigger automatically');
+    }
+  } catch (error) {
+    console.error('Error during git sync:', error);
+  }
+}
 
 /**
  * Schedule a one-time collection after war ends
@@ -13,6 +43,18 @@ let dynamicJob: Job | null = null;
 async function scheduleSmartCollection() {
   try {
     const result = await collectWarData();
+
+    // Sync immediately if we collected something
+    if (result.collected) {
+      try {
+        const pushed = await gitSync();
+        if (pushed) {
+          console.log('✅ War data synced and pushed');
+        }
+      } catch (error) {
+        console.error('Error during git sync:', error);
+      }
+    }
 
     // If war is in progress, schedule collection for right before it ends
     if (result.state === 'inWar' && result.endTime) {
@@ -33,10 +75,10 @@ async function scheduleSmartCollection() {
         console.log('Cancelled previous dynamic collection job');
       }
 
-      // Schedule new collection
+      // Schedule new collection + sync
       dynamicJob = scheduleJob(collectionTime, async () => {
         console.log('Executing scheduled collection near war end...');
-        await collectWarData();
+        await collectAndSync();
       });
 
       console.log(`✅ Scheduled collection for: ${formatDate(collectionTime)}`);
@@ -60,9 +102,10 @@ async function scheduleSmartCollection() {
         dynamicJob.cancel();
       }
 
+      // Schedule new collection + sync
       dynamicJob = scheduleJob(collectionTime, async () => {
         console.log('Executing scheduled collection near war end...');
-        await collectWarData();
+        await collectAndSync();
       });
 
       console.log(`✅ Scheduled collection for: ${formatDate(collectionTime)}`);
@@ -79,7 +122,17 @@ async function scheduleSmartCollection() {
 async function scheduleCWLCollection() {
   try {
     console.log('Running CWL collection check...');
-    await collectLeagueWarData();
+    const result = await collectLeagueWarData();
+    if (result.collected) {
+      try {
+        const pushed = await gitSync();
+        if (pushed) {
+          console.log('✅ CWL data synced and pushed');
+        }
+      } catch (error) {
+        console.error('Error during git sync:', error);
+      }
+    }
   } catch (error) {
     console.error('Error during CWL collection:', error);
   }
@@ -111,13 +164,12 @@ export function startScheduler() {
     await scheduleCWLCollection();
   });
 
-  // Run initial collections on startup
-  console.log('Running initial collections...');
-  console.log('\n--- Regular Wars ---');
-  scheduleSmartCollection();
-
-  console.log('\n--- CWL Wars ---');
-  scheduleCWLCollection();
+  // Run initial collect + sync on startup
+  console.log('Running initial collection and sync...');
+  collectAndSync().then(() => {
+    // After initial sync, set up smart scheduling for war-end timing
+    scheduleSmartCollection();
+  });
 
   // Keep the process alive
   console.log('');
