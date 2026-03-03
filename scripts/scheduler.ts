@@ -155,9 +155,9 @@ export function startScheduler() {
   });
 
   // CWL collection: Every 6 hours on days 1-8 of each month
-  // Cron pattern: "0 */6 1-8 * *" = At minute 0 past every 6th hour on days 1-8
+  // Cron pattern: "0 */6 1-11 * *" = At minute 0 past every 6th hour on days 1-8
   console.log('Setting up CWL check: Every 6 hours on days 1-8 of each month...');
-  cron.schedule('0 */6 1-8 * *', async () => {
+  cron.schedule('0 */6 1-11 * *', async () => {
     console.log('\n' + '='.repeat(60));
     console.log('CWL SCHEDULED CHECK');
     console.log('='.repeat(60));
