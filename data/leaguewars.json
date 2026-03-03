@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-03T08:00:01.796Z",
+  "lastUpdated": "2026-03-03T14:00:02.398Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-03T08:00:01.792Z",
+      "collectedAt": "2026-03-03T14:00:02.393Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-03T08:00:01.791Z",
+          "collectedAt": "2026-03-03T14:00:02.393Z",
           "clanStats": {
-            "totalAttacks": 4,
-            "totalStars": 11,
-            "destructionPercentage": 97.25,
-            "attacksUsed": 4,
+            "totalAttacks": 15,
+            "totalStars": 41,
+            "destructionPercentage": 97.26666666666667,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 1,
-            "totalStars": 3,
-            "destructionPercentage": 100,
-            "attacksUsed": 1,
+            "totalAttacks": 8,
+            "totalStars": 18,
+            "destructionPercentage": 83.625,
+            "attacksUsed": 8,
             "attacksAvailable": 30
           },
           "members": [
@@ -99,7 +99,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -107,7 +107,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -155,7 +155,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -163,7 +163,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -171,7 +171,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -187,7 +187,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -219,7 +219,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -227,7 +227,7 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -243,7 +243,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -275,7 +275,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -283,7 +283,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -331,7 +331,7 @@
               "name": "markinhhos",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -339,7 +339,7 @@
               "name": "Amit",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -411,7 +411,7 @@
               "name": "Matheus-_-BR_",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -435,7 +435,7 @@
               "name": "Thalia*_*Br",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -475,7 +475,7 @@
               "name": "Lukinha19",
               "townhallLevel": 15,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -539,7 +539,7 @@
               "name": "Matheus silva",
               "townhallLevel": 13,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -547,7 +547,7 @@
               "name": "SaDaN",
               "townhallLevel": 13,
               "mapPosition": 42,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -614,6 +614,204 @@
               "destructionPercentage": 100,
               "order": 5,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#PLU2CJ80C",
+              "attackerName": "Amit",
+              "defenderTag": "#8JRC2L02C",
+              "defenderName": "ichigo korusaki",
+              "stars": 1,
+              "destructionPercentage": 66,
+              "order": 6,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#L02UCQ0UV",
+              "defenderName": "Jptnova",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#9CCJVRQR",
+              "attackerName": "markinhhos",
+              "defenderTag": "#882UYU9P",
+              "defenderName": "Pig Grease 2.3",
+              "stars": 2,
+              "destructionPercentage": 63,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#LU0R8URJL",
+              "defenderName": "joão",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 9,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#GC099VQ8R",
+              "attackerName": "SaDaN",
+              "defenderTag": "#R080G2PL9",
+              "defenderName": "TEAMS WARRIORS",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#PLL2LVVYJ",
+              "defenderName": "Ricardo",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#9QV88Y8Y",
+              "defenderName": "Vieiraaa",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#PLU2CJ80C",
+              "defenderName": "Amit",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#Y90U0Q022",
+              "attackerName": "Matheus silva",
+              "defenderTag": "#9L2VVLUL9",
+              "defenderName": "bloodhunter",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#YU2QYYUCG",
+              "defenderName": "♣️cronos♣️",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#2C98R228Y",
+              "defenderName": "Denis Henrick",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#YRL9PUVV8",
+              "defenderName": "Moi Carvejani",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#QJCJCVUR9",
+              "defenderName": "Hades",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#QCUC2LYY",
+              "defenderName": "joyloko",
+              "stars": 2,
+              "destructionPercentage": 89,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#QRG8899R8",
+              "defenderName": "Matheus-_-BR_",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#LQ0QYL8RL",
+              "attackerName": "Lukinha19",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 21,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#QJJRQUUQP",
+              "attackerName": "Thalia*_*Br",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 22,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#QRG8899R8",
+              "attackerName": "Matheus-_-BR_",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 23,
+              "isOurClan": false
             }
           ]
         },
@@ -630,7 +828,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-03T08:00:01.792Z",
+          "collectedAt": "2026-03-03T14:00:02.393Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -1023,6 +1221,14 @@
               "isOurClan": false
             },
             {
+              "tag": "#L9RRJ2092",
+              "name": "Taya sa!",
+              "townhallLevel": 13,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
               "tag": "#LUGP88JL8",
               "name": "Master",
               "townhallLevel": 12,
@@ -1051,14 +1257,6 @@
               "name": "kid L.A",
               "townhallLevel": 11,
               "mapPosition": 23,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
-              "tag": "#LULCRVVY2",
-              "name": "Hanamichi.",
-              "townhallLevel": 11,
-              "mapPosition": 24,
               "attacksUsed": 0,
               "isOurClan": false
             },
