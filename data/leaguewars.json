@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-03T14:00:02.398Z",
+  "lastUpdated": "2026-03-03T20:00:02.727Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-03T14:00:02.393Z",
+      "collectedAt": "2026-03-03T20:00:02.722Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-03T14:00:02.393Z",
+          "collectedAt": "2026-03-03T20:00:02.722Z",
           "clanStats": {
-            "totalAttacks": 15,
-            "totalStars": 41,
-            "destructionPercentage": 97.26666666666667,
-            "attacksUsed": 15,
+            "totalAttacks": 19,
+            "totalStars": 53,
+            "destructionPercentage": 97.84210526315789,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 8,
-            "totalStars": 18,
-            "destructionPercentage": 83.625,
-            "attacksUsed": 8,
+            "totalAttacks": 14,
+            "totalStars": 29,
+            "destructionPercentage": 78.21428571428571,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "members": [
@@ -115,7 +115,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -131,7 +131,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -259,7 +259,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -267,7 +267,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -323,7 +323,7 @@
               "name": "INTOXIC✨",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -355,7 +355,7 @@
               "name": "shanks",
               "townhallLevel": 17,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -427,7 +427,7 @@
               "name": "Jptnova",
               "townhallLevel": 16,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -467,7 +467,7 @@
               "name": "Ricardo",
               "townhallLevel": 15,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -483,7 +483,7 @@
               "name": "Hades",
               "townhallLevel": 14,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -531,7 +531,7 @@
               "name": "Xandy ✨OI",
               "townhallLevel": 13,
               "mapPosition": 37,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -812,6 +812,116 @@
               "destructionPercentage": 88,
               "order": 23,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#LVUU82C2R",
+              "defenderName": "!m4theuxx",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#PLL2LVVYJ",
+              "attackerName": "Ricardo",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#L02UCQ0UV",
+              "attackerName": "Jptnova",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 1,
+              "destructionPercentage": 92,
+              "order": 26,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#LQCVYPC8P",
+              "defenderName": "FARAÓ✨JABUTI✨OI",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#QJCJCVUR9",
+              "attackerName": "Hades",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 52,
+              "order": 28,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#8URRGUVL",
+              "attackerName": "INTOXIC✨",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 29,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#G2VQUVYPJ",
+              "attackerName": "Xandy ✨OI",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 50,
+              "order": 30,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#LQRC8YY9J",
+              "attackerName": "shanks",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 1,
+              "destructionPercentage": 64,
+              "order": 31,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#C9Q29RVQ",
+              "defenderName": "Walhyson",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 32,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round1-#2LC9QGGR9",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#LQRC8YY9J",
+              "defenderName": "shanks",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 33,
+              "isOurClan": true
             }
           ]
         },
@@ -828,7 +938,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-03T14:00:02.393Z",
+          "collectedAt": "2026-03-03T20:00:02.722Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
