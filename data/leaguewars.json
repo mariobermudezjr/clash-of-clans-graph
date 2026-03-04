@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-04T08:00:02.201Z",
+  "lastUpdated": "2026-03-04T14:00:02.591Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-04T08:00:02.195Z",
+      "collectedAt": "2026-03-04T14:00:02.586Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-04T08:00:02.194Z",
+          "collectedAt": "2026-03-04T14:00:02.585Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,19 +1026,19 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-04T08:00:02.195Z",
+          "collectedAt": "2026-03-04T14:00:02.586Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 17,
-            "destructionPercentage": 97.83333333333333,
-            "attacksUsed": 6,
+            "totalAttacks": 13,
+            "totalStars": 36,
+            "destructionPercentage": 97.53846153846153,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 7,
-            "totalStars": 14,
-            "destructionPercentage": 70,
-            "attacksUsed": 7,
+            "totalAttacks": 11,
+            "totalStars": 17,
+            "destructionPercentage": 58.09090909090909,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "members": [
@@ -1063,7 +1063,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1071,7 +1071,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1151,7 +1151,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1159,7 +1159,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1183,7 +1183,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1207,7 +1207,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1247,7 +1247,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1383,7 +1383,7 @@
               "name": "almeraj",
               "townhallLevel": 13,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1471,7 +1471,7 @@
               "name": "Aki",
               "townhallLevel": 11,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1487,7 +1487,7 @@
               "name": "burnok",
               "townhallLevel": 10,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1511,7 +1511,7 @@
               "name": "CLEARING..",
               "townhallLevel": 10,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1666,6 +1666,127 @@
               "destructionPercentage": 100,
               "order": 13,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#R2YCLUQRL",
+              "attackerName": "Aki",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 1,
+              "destructionPercentage": 27,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#VY980J88",
+              "defenderName": "eyeshield",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 15,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#GYVL02RV2",
+              "defenderName": "jsalvador",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#L9RRJ2092",
+              "defenderName": "Taya sa!",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#R2JR0GPRL",
+              "attackerName": "CLEARING..",
+              "defenderTag": "#R080G2PL9",
+              "defenderName": "TEAMS WARRIORS",
+              "stars": 1,
+              "destructionPercentage": 57,
+              "order": 18,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#GPL8VLRVR",
+              "defenderName": "Sigma",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#G9LCPVLRG",
+              "defenderName": "so sad",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#P002Y928R",
+              "defenderName": "JANELLEGAIL",
+              "stars": 2,
+              "destructionPercentage": 89,
+              "order": 21,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#GCYY0RVJG",
+              "defenderName": "burnok",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#QV8CLG2VR",
+              "attackerName": "almeraj",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 1,
+              "destructionPercentage": 43,
+              "order": 23,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round2-#2JR892U8Q",
+              "attackerTag": "#GCYY0RVJG",
+              "attackerName": "burnok",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 0,
+              "destructionPercentage": 22,
+              "order": 24,
+              "isOurClan": false
             }
           ]
         },
@@ -1682,7 +1803,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-04T08:00:02.195Z",
+          "collectedAt": "2026-03-04T14:00:02.586Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
