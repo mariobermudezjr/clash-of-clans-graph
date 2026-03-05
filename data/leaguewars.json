@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-05T08:00:03.623Z",
+  "lastUpdated": "2026-03-05T14:00:03.654Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-05T08:00:03.618Z",
+      "collectedAt": "2026-03-05T14:00:03.647Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-05T08:00:03.617Z",
+          "collectedAt": "2026-03-05T14:00:03.647Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-05T08:00:03.618Z",
+          "collectedAt": "2026-03-05T14:00:03.647Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,19 +1990,19 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-05T08:00:03.618Z",
+          "collectedAt": "2026-03-05T14:00:03.647Z",
           "clanStats": {
-            "totalAttacks": 4,
-            "totalStars": 12,
-            "destructionPercentage": 100,
-            "attacksUsed": 4,
+            "totalAttacks": 11,
+            "totalStars": 30,
+            "destructionPercentage": 93.36363636363636,
+            "attacksUsed": 11,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 1,
+            "totalStars": 3,
+            "destructionPercentage": 100,
+            "attacksUsed": 1,
             "attacksAvailable": 30
           },
           "members": [
@@ -2035,7 +2035,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2043,7 +2043,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2099,7 +2099,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2115,7 +2115,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2131,7 +2131,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2147,7 +2147,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2171,7 +2171,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2483,7 +2483,7 @@
               "name": "THE BIG BOSS",
               "townhallLevel": 16,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -2531,6 +2531,94 @@
               "destructionPercentage": 100,
               "order": 4,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#P0YRVQG00",
+              "defenderName": "RASTY 2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 5,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#P8PQQU00P",
+              "defenderName": "TOP ALL.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 6,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#P99GQQYU2",
+              "defenderName": "THE JUMP.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#GY8CQ9QUU",
+              "attackerName": "THE BIG BOSS",
+              "defenderTag": "#GVURPVRLJ",
+              "defenderName": "RIFQI COC",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#G09G82CP8",
+              "defenderName": "TROOPERS",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#9QU0LQP0R",
+              "defenderName": "MC GUIVER.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 10,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#98V9UQVQU",
+              "defenderName": "THE FLAMES",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#P2V22JU8Q",
+              "defenderName": "THE HUNGER.",
+              "stars": 0,
+              "destructionPercentage": 27,
+              "order": 12,
+              "isOurClan": true
             }
           ]
         },
@@ -2547,7 +2635,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-05T08:00:03.618Z",
+          "collectedAt": "2026-03-05T14:00:03.647Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
