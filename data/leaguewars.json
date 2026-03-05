@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-05T04:48:23.126Z",
+  "lastUpdated": "2026-03-05T08:00:03.623Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-05T04:48:23.121Z",
+      "collectedAt": "2026-03-05T08:00:03.618Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-05T04:48:23.120Z",
+          "collectedAt": "2026-03-05T08:00:03.617Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1022,11 +1022,11 @@
           "opponentTag": "#2JR892U8Q",
           "opponentName": "GB 2,3,4",
           "teamSize": 30,
-          "state": "inWar",
+          "state": "warEnded",
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-05T04:48:23.121Z",
+          "collectedAt": "2026-03-05T08:00:03.618Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1986,16 +1986,16 @@
           "opponentTag": "#2L820CY9R",
           "opponentName": "BOCAO TOP ALL C",
           "teamSize": 30,
-          "state": "preparation",
+          "state": "inWar",
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-05T04:48:23.121Z",
+          "collectedAt": "2026-03-05T08:00:03.618Z",
           "clanStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 4,
+            "totalStars": 12,
+            "destructionPercentage": 100,
+            "attacksUsed": 4,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -2051,7 +2051,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2067,7 +2067,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2083,7 +2083,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2203,7 +2203,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2483,6 +2483,563 @@
               "name": "THE BIG BOSS",
               "townhallLevel": 16,
               "mapPosition": 38,
+              "attacksUsed": 0,
+              "isOurClan": false
+            }
+          ],
+          "attacks": [
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#P2Y0Q9CQL",
+              "defenderName": "LLADZ A.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 1,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#9UV9JGCLQ",
+              "defenderName": "WILD CAT.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 2,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#9CUV02C0Y",
+              "defenderName": "THE OUT FIELD.",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 3,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round3-#2L820CY9R",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#P0QP20UCV",
+              "defenderName": "WARLORD 2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "isOurClan": true
+            }
+          ]
+        },
+        {
+          "id": "2026-03-round4-#2JVVPJ9VU",
+          "season": "2026-03",
+          "roundNumber": 4,
+          "clanTag": "#2YGUQGY90",
+          "clanName": "Alpha",
+          "opponentTag": "#2JVVPJ9VU",
+          "opponentName": "Clash of C°cks",
+          "teamSize": 30,
+          "state": "preparation",
+          "preparationStartTime": "20260305T073819.000Z",
+          "startTime": "20260306T073818.000Z",
+          "endTime": "20260307T073818.000Z",
+          "collectedAt": "2026-03-05T08:00:03.618Z",
+          "clanStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 30
+          },
+          "opponentStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 30
+          },
+          "members": [
+            {
+              "tag": "#9PU99J8",
+              "name": "Mist",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#882UYU9P",
+              "name": "Pig Grease 2.3",
+              "townhallLevel": 18,
+              "mapPosition": 2,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8JRC2L02C",
+              "name": "ichigo korusaki",
+              "townhallLevel": 18,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q9UPPQJ92",
+              "name": "iambogik",
+              "townhallLevel": 18,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L0CCUYYVQ",
+              "name": "iishikaori",
+              "townhallLevel": 18,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QYUJ2YCU",
+              "name": "*General*Tange*",
+              "townhallLevel": 18,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QP0RJLC00",
+              "name": "ang",
+              "townhallLevel": 18,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#YCY9LRV08",
+              "name": "saeid",
+              "townhallLevel": 18,
+              "mapPosition": 9,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLJUUCP2",
+              "name": "***anabelle***",
+              "townhallLevel": 18,
+              "mapPosition": 10,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#89G9JQJP",
+              "name": "Oculus Rift™",
+              "townhallLevel": 17,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q8GPPQ98U",
+              "name": "Mr. Frodo",
+              "townhallLevel": 17,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#2GCQJVLL",
+              "name": "slingblade",
+              "townhallLevel": 17,
+              "mapPosition": 14,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#LRRGGPV2",
+              "name": "coicoi",
+              "townhallLevel": 17,
+              "mapPosition": 15,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#LU9LVLYG",
+              "name": "Grizzly Reaper",
+              "townhallLevel": 17,
+              "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLPGJL29",
+              "name": "UZUMAKI NARUTO",
+              "townhallLevel": 17,
+              "mapPosition": 18,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#2J2PRRCL",
+              "name": "Aral",
+              "townhallLevel": 17,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G2LJVQUPU",
+              "name": "jisn",
+              "townhallLevel": 18,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8CUYLRL0",
+              "name": "B-A-M-C-I-S",
+              "townhallLevel": 17,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#20Y9C8V22",
+              "name": "Remuism",
+              "townhallLevel": 17,
+              "mapPosition": 22,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#PP8GQ9QUJ",
+              "name": "DEVIL KING",
+              "townhallLevel": 17,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#28PQVGGQ8",
+              "name": "Butta",
+              "townhallLevel": 16,
+              "mapPosition": 24,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8QCRYPQC",
+              "name": "Roland",
+              "townhallLevel": 16,
+              "mapPosition": 25,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L2G82LUYG",
+              "name": "❤Alpha❤",
+              "townhallLevel": 16,
+              "mapPosition": 26,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q809PLLC",
+              "name": "cosmicity",
+              "townhallLevel": 15,
+              "mapPosition": 29,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G8J8VLY28",
+              "name": "SkyHigh",
+              "townhallLevel": 15,
+              "mapPosition": 34,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QG0VGQLR8",
+              "name": "Jackson Red",
+              "townhallLevel": 14,
+              "mapPosition": 35,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G0GY89YJU",
+              "name": "geeth",
+              "townhallLevel": 17,
+              "mapPosition": 36,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#9L2VVLUL9",
+              "name": "bloodhunter",
+              "townhallLevel": 12,
+              "mapPosition": 37,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#R080G2PL9",
+              "name": "TEAMS WARRIORS",
+              "townhallLevel": 10,
+              "mapPosition": 38,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#GVURPVRLJ",
+              "name": "RIFQI COC",
+              "townhallLevel": 10,
+              "mapPosition": 39,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#GP9C8CPJG",
+              "name": "Yhanzky",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QP0GCL0LL",
+              "name": "AREA 24",
+              "townhallLevel": 17,
+              "mapPosition": 2,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QG9VG099Q",
+              "name": "AREA 99",
+              "townhallLevel": 17,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#8UPG0Q2YY",
+              "name": "jhoz_04$",
+              "townhallLevel": 16,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QYGJLPGL",
+              "name": "Area100",
+              "townhallLevel": 15,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#99LU8L2Q9",
+              "name": "cha rea",
+              "townhallLevel": 15,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#9L090PGQV",
+              "name": "☠️don pulubi☠️",
+              "townhallLevel": 16,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#98C8RLR22",
+              "name": "✌♣àñGèL♣✌",
+              "townhallLevel": 16,
+              "mapPosition": 9,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#8YUL0U289",
+              "name": "glykadavid07",
+              "townhallLevel": 16,
+              "mapPosition": 10,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#8VYC0G8UJ",
+              "name": "david07",
+              "townhallLevel": 15,
+              "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#98C9GL2LR",
+              "name": "✌döN püLübï✌",
+              "townhallLevel": 15,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#2Q9R8CRY9",
+              "name": "tatang",
+              "townhallLevel": 15,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GCRPYPPCR",
+              "name": "AREA 26",
+              "townhallLevel": 16,
+              "mapPosition": 14,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#8P0PLRJP8",
+              "name": "♦Ambertoo♦",
+              "townhallLevel": 13,
+              "mapPosition": 15,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#2008RQ89G",
+              "name": "▪️◾️◼️Synergy⬛️",
+              "townhallLevel": 13,
+              "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#22C990YQ0",
+              "name": "•Obito™",
+              "townhallLevel": 13,
+              "mapPosition": 17,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#290C22GYQ",
+              "name": "Fíngølfìn",
+              "townhallLevel": 13,
+              "mapPosition": 18,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#LJU2YY90C",
+              "name": "walakangjowa",
+              "townhallLevel": 13,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#YYVQVJLCJ",
+              "name": "aU rHaE",
+              "townhallLevel": 13,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#9G98CYJCV",
+              "name": "**läst_jöKë\"R**",
+              "townhallLevel": 15,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GQJ098Q9G",
+              "name": "negboruligpas",
+              "townhallLevel": 13,
+              "mapPosition": 22,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#88UP9R9CY",
+              "name": "Choox",
+              "townhallLevel": 13,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#YLU98LY9R",
+              "name": "pReTTy wiTcHh",
+              "townhallLevel": 13,
+              "mapPosition": 24,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#29UU09CU0",
+              "name": "angelyka",
+              "townhallLevel": 14,
+              "mapPosition": 26,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QJYJQYPPY",
+              "name": "☠️don pulubi jr",
+              "townhallLevel": 14,
+              "mapPosition": 27,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GVCY98CJQ",
+              "name": "Planet Namek",
+              "townhallLevel": 12,
+              "mapPosition": 28,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#LR8U0PCQ9",
+              "name": "MrKeneki",
+              "townhallLevel": 12,
+              "mapPosition": 30,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#LV00R8VUV",
+              "name": "I'm nOt DraCula",
+              "townhallLevel": 12,
+              "mapPosition": 31,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GUY92JJQ2",
+              "name": "J-Christ",
+              "townhallLevel": 12,
+              "mapPosition": 32,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GU8GC2U0Y",
+              "name": "J-Christ 02",
+              "townhallLevel": 11,
+              "mapPosition": 37,
               "attacksUsed": 0,
               "isOurClan": false
             }
