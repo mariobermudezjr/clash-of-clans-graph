@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:00:05.013Z",
+  "lastUpdated": "2026-03-08T19:00:07.605Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-08T13:00:05.006Z",
+      "collectedAt": "2026-03-08T19:00:07.598Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-08T13:00:05.005Z",
+          "collectedAt": "2026-03-08T19:00:07.597Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-08T13:00:05.005Z",
+          "collectedAt": "2026-03-08T19:00:07.597Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,7 +1990,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-08T13:00:05.005Z",
+          "collectedAt": "2026-03-08T19:00:07.597Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -3064,7 +3064,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-08T13:00:05.005Z",
+          "collectedAt": "2026-03-08T19:00:07.597Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -4105,7 +4105,7 @@
           "preparationStartTime": "20260306T075407.000Z",
           "startTime": "20260307T075405.000Z",
           "endTime": "20260308T075405.000Z",
-          "collectedAt": "2026-03-08T13:00:05.006Z",
+          "collectedAt": "2026-03-08T19:00:07.598Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 64,
@@ -5157,19 +5157,19 @@
           "preparationStartTime": "20260307T081152.000Z",
           "startTime": "20260308T081150.000Z",
           "endTime": "20260309T081150.000Z",
-          "collectedAt": "2026-03-08T13:00:05.006Z",
+          "collectedAt": "2026-03-08T19:00:07.598Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 18,
-            "destructionPercentage": 93,
-            "attacksUsed": 7,
+            "totalAttacks": 15,
+            "totalStars": 37,
+            "destructionPercentage": 92.93333333333334,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 9,
-            "totalStars": 23,
-            "destructionPercentage": 87.33333333333333,
-            "attacksUsed": 9,
+            "totalAttacks": 14,
+            "totalStars": 34,
+            "destructionPercentage": 82.57142857142857,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "members": [
@@ -5186,7 +5186,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5194,7 +5194,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5202,7 +5202,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5226,7 +5226,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5258,7 +5258,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5322,7 +5322,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5330,7 +5330,7 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5378,7 +5378,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5442,7 +5442,7 @@
               "name": "ginger boy",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5450,7 +5450,7 @@
               "name": "SweetPete1971",
               "townhallLevel": 17,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5490,7 +5490,7 @@
               "name": "FuzzyTummy",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5586,7 +5586,7 @@
               "name": "Derek",
               "townhallLevel": 15,
               "mapPosition": 27,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5634,7 +5634,7 @@
               "name": "prairiedog9821",
               "townhallLevel": 13,
               "mapPosition": 36,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5830,6 +5830,149 @@
               "destructionPercentage": 100,
               "order": 16,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#GVPY9PG8J",
+              "attackerName": "Derek",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 17,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#9JJVGQLQ",
+              "defenderName": "Lord Malgus",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#L9G9JCU",
+              "attackerName": "SweetPete1971",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 2,
+              "destructionPercentage": 64,
+              "order": 19,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#2QQLL9JQ8",
+              "defenderName": "PARMAR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#L9QYGQV8",
+              "defenderName": "WarTooth",
+              "stars": 2,
+              "destructionPercentage": 89,
+              "order": 21,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#9QLQ0RPQ",
+              "defenderName": "speedy0515",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#98JPU8CC8",
+              "defenderName": "Rk",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#99CVV8GP",
+              "defenderName": "ginger boy",
+              "stars": 2,
+              "destructionPercentage": 89,
+              "order": 24,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#22CQY0VCY",
+              "defenderName": "#potato(354)",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#Y082P9CC",
+              "defenderName": "Kid•_•",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#99CVV8GP",
+              "attackerName": "ginger boy",
+              "defenderTag": "#Q9UPPQJ92",
+              "defenderName": "iambogik",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#YVGR9RUP",
+              "attackerName": "prairiedog9821",
+              "defenderTag": "#G0GY89YJU",
+              "defenderName": "geeth",
+              "stars": 2,
+              "destructionPercentage": 66,
+              "order": 28,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#G8GYJLJLY",
+              "attackerName": "FuzzyTummy",
+              "defenderTag": "#QLLJUUCP2",
+              "defenderName": "***anabelle***",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 29,
+              "isOurClan": false
             }
           ]
         },
@@ -5846,7 +5989,7 @@
           "preparationStartTime": "20260308T081159.000Z",
           "startTime": "20260309T081156.000Z",
           "endTime": "20260310T081156.000Z",
-          "collectedAt": "2026-03-08T13:00:05.006Z",
+          "collectedAt": "2026-03-08T19:00:07.598Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
