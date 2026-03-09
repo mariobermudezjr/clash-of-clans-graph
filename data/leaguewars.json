@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:00:05.011Z",
+  "lastUpdated": "2026-03-09T07:00:06.060Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-09T01:00:05.002Z",
+      "collectedAt": "2026-03-09T07:00:06.054Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-09T01:00:05.001Z",
+          "collectedAt": "2026-03-09T07:00:06.053Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-09T01:00:05.001Z",
+          "collectedAt": "2026-03-09T07:00:06.053Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,7 +1990,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-09T01:00:05.001Z",
+          "collectedAt": "2026-03-09T07:00:06.054Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -3064,7 +3064,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-09T01:00:05.002Z",
+          "collectedAt": "2026-03-09T07:00:06.054Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -4105,7 +4105,7 @@
           "preparationStartTime": "20260306T075407.000Z",
           "startTime": "20260307T075405.000Z",
           "endTime": "20260308T075405.000Z",
-          "collectedAt": "2026-03-09T01:00:05.002Z",
+          "collectedAt": "2026-03-09T07:00:06.054Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 64,
@@ -5157,19 +5157,19 @@
           "preparationStartTime": "20260307T081152.000Z",
           "startTime": "20260308T081150.000Z",
           "endTime": "20260309T081150.000Z",
-          "collectedAt": "2026-03-09T01:00:05.002Z",
+          "collectedAt": "2026-03-09T07:00:06.054Z",
           "clanStats": {
-            "totalAttacks": 16,
-            "totalStars": 40,
-            "destructionPercentage": 93.375,
-            "attacksUsed": 16,
+            "totalAttacks": 21,
+            "totalStars": 53,
+            "destructionPercentage": 93.76190476190476,
+            "attacksUsed": 21,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 24,
-            "totalStars": 59,
-            "destructionPercentage": 86.41666666666667,
-            "attacksUsed": 24,
+            "totalAttacks": 27,
+            "totalStars": 67,
+            "destructionPercentage": 87.85185185185185,
+            "attacksUsed": 27,
             "attacksAvailable": 30
           },
           "members": [
@@ -5218,7 +5218,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5242,7 +5242,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5266,7 +5266,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5354,7 +5354,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5386,7 +5386,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -5610,7 +5610,7 @@
               "name": "TOM",
               "townhallLevel": 15,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5618,7 +5618,7 @@
               "name": "Kid•_•",
               "townhallLevel": 14,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5626,7 +5626,7 @@
               "name": "JERRY",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6094,6 +6094,94 @@
               "destructionPercentage": 57,
               "order": 40,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#JR0QVYQG",
+              "attackerName": "TOM",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 41,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#29PRYPGL9",
+              "attackerName": "JERRY",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 42,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#29PRYPGL9",
+              "defenderName": "JERRY",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 43,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#Y082P9CC",
+              "attackerName": "Kid•_•",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 2,
+              "destructionPercentage": 98,
+              "order": 44,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#QV8L9URLR",
+              "defenderName": "Rudo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 45,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#2CP0LQLJL",
+              "defenderName": "Alec212",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 46,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#9Q8PUURQ8",
+              "defenderName": "**PALANGGA**",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 47,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round6-#20GCL8J8P",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#9VJV9JRU8",
+              "defenderName": "ginger boy 2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 48,
+              "isOurClan": true
             }
           ]
         },
@@ -6110,7 +6198,7 @@
           "preparationStartTime": "20260308T081159.000Z",
           "startTime": "20260309T081156.000Z",
           "endTime": "20260310T081156.000Z",
-          "collectedAt": "2026-03-09T01:00:05.002Z",
+          "collectedAt": "2026-03-09T07:00:06.054Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
