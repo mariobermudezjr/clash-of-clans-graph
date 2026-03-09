@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:00:05.084Z",
+  "lastUpdated": "2026-03-09T19:00:05.749Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-09T13:00:05.076Z",
+      "collectedAt": "2026-03-09T19:00:05.741Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-09T13:00:05.075Z",
+          "collectedAt": "2026-03-09T19:00:05.740Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-09T13:00:05.075Z",
+          "collectedAt": "2026-03-09T19:00:05.740Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,7 +1990,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-09T13:00:05.075Z",
+          "collectedAt": "2026-03-09T19:00:05.741Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -3064,7 +3064,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-09T13:00:05.075Z",
+          "collectedAt": "2026-03-09T19:00:05.741Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -4105,7 +4105,7 @@
           "preparationStartTime": "20260306T075407.000Z",
           "startTime": "20260307T075405.000Z",
           "endTime": "20260308T075405.000Z",
-          "collectedAt": "2026-03-09T13:00:05.075Z",
+          "collectedAt": "2026-03-09T19:00:05.741Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 64,
@@ -5157,7 +5157,7 @@
           "preparationStartTime": "20260307T081152.000Z",
           "startTime": "20260308T081150.000Z",
           "endTime": "20260309T081150.000Z",
-          "collectedAt": "2026-03-09T13:00:05.076Z",
+          "collectedAt": "2026-03-09T19:00:05.741Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 53,
@@ -6198,19 +6198,19 @@
           "preparationStartTime": "20260308T081159.000Z",
           "startTime": "20260309T081156.000Z",
           "endTime": "20260310T081156.000Z",
-          "collectedAt": "2026-03-09T13:00:05.076Z",
+          "collectedAt": "2026-03-09T19:00:05.741Z",
           "clanStats": {
-            "totalAttacks": 14,
-            "totalStars": 34,
-            "destructionPercentage": 92,
-            "attacksUsed": 14,
+            "totalAttacks": 19,
+            "totalStars": 47,
+            "destructionPercentage": 91.21052631578948,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 5,
-            "destructionPercentage": 97.5,
-            "attacksUsed": 2,
+            "totalAttacks": 7,
+            "totalStars": 15,
+            "destructionPercentage": 83.71428571428571,
+            "attacksUsed": 7,
             "attacksAvailable": 30
           },
           "members": [
@@ -6315,7 +6315,7 @@
               "name": "slingblade",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6339,7 +6339,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 17,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6371,7 +6371,7 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6411,7 +6411,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6427,7 +6427,7 @@
               "name": "Jackson Red",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6507,7 +6507,7 @@
               "name": "HST!",
               "townhallLevel": 17,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6563,7 +6563,7 @@
               "name": "OverLord",
               "townhallLevel": 16,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6571,7 +6571,7 @@
               "name": "KILLER",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6595,7 +6595,7 @@
               "name": "blade",
               "townhallLevel": 16,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6643,7 +6643,7 @@
               "name": "hdhdhyf",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6870,6 +6870,116 @@
               "stars": 2,
               "destructionPercentage": 89,
               "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#YCU8GLVL0",
+              "defenderName": "Sabo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#89YY80YY0",
+              "attackerName": "blade",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 1,
+              "destructionPercentage": 66,
+              "order": 18,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#QGRURRRV",
+              "defenderName": "killer6735",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#2PVP2PGL9",
+              "attackerName": "HST!",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 20,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#GGY88LL28",
+              "attackerName": "KILLER",
+              "defenderTag": "#G2LJVQUPU",
+              "defenderName": "jisn",
+              "stars": 1,
+              "destructionPercentage": 55,
+              "order": 21,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#Y9CLLQ8G",
+              "defenderName": "Ant",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#LJQLVURUG",
+              "attackerName": "OverLord",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#R8JLCCCJ",
+              "defenderName": "Potatowarrior",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 24,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#2PG2YJY8",
+              "attackerName": "hdhdhyf",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#YLRRJUVUR",
+              "defenderName": "D_Dragon",
+              "stars": 2,
+              "destructionPercentage": 61,
+              "order": 26,
               "isOurClan": true
             }
           ]
