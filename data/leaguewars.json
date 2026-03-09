@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:00:06.060Z",
+  "lastUpdated": "2026-03-09T08:10:55.609Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-09T07:00:06.054Z",
+      "collectedAt": "2026-03-09T08:10:55.601Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-09T07:00:06.053Z",
+          "collectedAt": "2026-03-09T08:10:55.599Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-09T07:00:06.053Z",
+          "collectedAt": "2026-03-09T08:10:55.600Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,7 +1990,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-09T07:00:06.054Z",
+          "collectedAt": "2026-03-09T08:10:55.600Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -3064,7 +3064,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-09T07:00:06.054Z",
+          "collectedAt": "2026-03-09T08:10:55.600Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -4105,7 +4105,7 @@
           "preparationStartTime": "20260306T075407.000Z",
           "startTime": "20260307T075405.000Z",
           "endTime": "20260308T075405.000Z",
-          "collectedAt": "2026-03-09T07:00:06.054Z",
+          "collectedAt": "2026-03-09T08:10:55.600Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 64,
@@ -5157,7 +5157,7 @@
           "preparationStartTime": "20260307T081152.000Z",
           "startTime": "20260308T081150.000Z",
           "endTime": "20260309T081150.000Z",
-          "collectedAt": "2026-03-09T07:00:06.054Z",
+          "collectedAt": "2026-03-09T08:10:55.600Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 53,
@@ -6198,7 +6198,7 @@
           "preparationStartTime": "20260308T081159.000Z",
           "startTime": "20260309T081156.000Z",
           "endTime": "20260310T081156.000Z",
-          "collectedAt": "2026-03-09T07:00:06.054Z",
+          "collectedAt": "2026-03-09T08:10:55.601Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
