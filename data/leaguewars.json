@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:00:05.390Z",
+  "lastUpdated": "2026-03-10T07:00:05.046Z",
   "seasons": [
     {
       "season": "2026-03",
       "state": "inWar",
-      "collectedAt": "2026-03-10T01:00:05.384Z",
+      "collectedAt": "2026-03-10T07:00:05.041Z",
       "participatingClans": [
         {
           "tag": "#2JVVPJ9VU",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260302T044917.000Z",
           "startTime": "20260303T044915.000Z",
           "endTime": "20260304T044915.000Z",
-          "collectedAt": "2026-03-10T01:00:05.383Z",
+          "collectedAt": "2026-03-10T07:00:05.040Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 58,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260303T044924.000Z",
           "startTime": "20260304T044921.000Z",
           "endTime": "20260305T044921.000Z",
-          "collectedAt": "2026-03-10T01:00:05.383Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1990,7 +1990,7 @@
           "preparationStartTime": "20260304T073816.000Z",
           "startTime": "20260305T073814.000Z",
           "endTime": "20260306T073814.000Z",
-          "collectedAt": "2026-03-10T01:00:05.383Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -3064,7 +3064,7 @@
           "preparationStartTime": "20260305T073819.000Z",
           "startTime": "20260306T073818.000Z",
           "endTime": "20260307T073818.000Z",
-          "collectedAt": "2026-03-10T01:00:05.384Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -4105,7 +4105,7 @@
           "preparationStartTime": "20260306T075407.000Z",
           "startTime": "20260307T075405.000Z",
           "endTime": "20260308T075405.000Z",
-          "collectedAt": "2026-03-10T01:00:05.384Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 64,
@@ -5157,7 +5157,7 @@
           "preparationStartTime": "20260307T081152.000Z",
           "startTime": "20260308T081150.000Z",
           "endTime": "20260309T081150.000Z",
-          "collectedAt": "2026-03-10T01:00:05.384Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 53,
@@ -6198,19 +6198,19 @@
           "preparationStartTime": "20260308T081159.000Z",
           "startTime": "20260309T081156.000Z",
           "endTime": "20260310T081156.000Z",
-          "collectedAt": "2026-03-10T01:00:05.384Z",
+          "collectedAt": "2026-03-10T07:00:05.041Z",
           "clanStats": {
-            "totalAttacks": 21,
-            "totalStars": 53,
-            "destructionPercentage": 92.04761904761905,
-            "attacksUsed": 21,
+            "totalAttacks": 24,
+            "totalStars": 60,
+            "destructionPercentage": 91.58333333333333,
+            "attacksUsed": 24,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 16,
-            "totalStars": 32,
-            "destructionPercentage": 75.875,
-            "attacksUsed": 16,
+            "totalAttacks": 21,
+            "totalStars": 43,
+            "destructionPercentage": 76.28571428571429,
+            "attacksUsed": 21,
             "attacksAvailable": 30
           },
           "members": [
@@ -6227,7 +6227,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6259,7 +6259,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6395,7 +6395,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6515,7 +6515,7 @@
               "name": "chasetori",
               "townhallLevel": 17,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6531,7 +6531,7 @@
               "name": "Skol",
               "townhallLevel": 17,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6579,7 +6579,7 @@
               "name": "Ant",
               "townhallLevel": 16,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6619,7 +6619,7 @@
               "name": "Andrew",
               "townhallLevel": 17,
               "mapPosition": 23,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6667,7 +6667,7 @@
               "name": "D_Dragon",
               "townhallLevel": 15,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -7101,6 +7101,94 @@
               "stars": 2,
               "destructionPercentage": 58,
               "order": 37,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#YLRRJUVUR",
+              "attackerName": "D_Dragon",
+              "defenderTag": "#9L2VVLUL9",
+              "defenderName": "bloodhunter",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 38,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#LQQRG8LQ",
+              "attackerName": "Andrew",
+              "defenderTag": "#PP8GQ9QUJ",
+              "defenderName": "DEVIL KING",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 39,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#2P9JQLV2J",
+              "defenderName": "Eowyn",
+              "stars": 2,
+              "destructionPercentage": 81,
+              "order": 40,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#GV0GV8YUL",
+              "defenderName": "Meow",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 41,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#GQ29JC0YG",
+              "defenderName": "Pepper",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 42,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#G20V22JVQ",
+              "attackerName": "chasetori",
+              "defenderTag": "#PULY82YUL",
+              "defenderName": "heyd",
+              "stars": 1,
+              "destructionPercentage": 69,
+              "order": 43,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#Y9CLLQ8G",
+              "attackerName": "Ant",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 57,
+              "order": 44,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-03-round7-#2LVVJ8QYR",
+              "attackerTag": "#90Q2URGL0",
+              "attackerName": "Skol",
+              "defenderTag": "#QLLJUUCP2",
+              "defenderName": "***anabelle***",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 45,
               "isOurClan": false
             }
           ]
