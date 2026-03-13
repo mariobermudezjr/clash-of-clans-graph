@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-01T17:00:00.837Z",
+  "lastUpdated": "2026-03-13T16:00:00.319Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -16399,6 +16399,373 @@
           "destructionPercentage": 70,
           "order": 72,
           "isOurClan": true
+        }
+      ]
+    },
+    {
+      "id": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#YC9RVVRQ",
+      "opponentName": "Sisterhood",
+      "teamSize": 10,
+      "state": "inWar",
+      "preparationStartTime": "20260312T040525.000Z",
+      "startTime": "20260313T030525.000Z",
+      "endTime": "20260314T030525.000Z",
+      "collectedAt": "2026-03-13T16:00:00.313Z",
+      "clanStats": {
+        "totalAttacks": 12,
+        "totalStars": 28,
+        "destructionPercentage": 86.5,
+        "attacksUsed": 12,
+        "attacksAvailable": 20
+      },
+      "opponentStats": {
+        "totalAttacks": 4,
+        "totalStars": 10,
+        "destructionPercentage": 90,
+        "attacksUsed": 4,
+        "attacksAvailable": 20
+      },
+      "members": [
+        {
+          "tag": "#Q9UPPQJ92",
+          "name": "iambogik",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QYUJ2YCU",
+          "name": "*General*Tange*",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 1,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2GCQJVLL",
+          "name": "slingblade",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#LRRGGPV2",
+          "name": "coicoi",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QLLPGJL29",
+          "name": "UZUMAKI NARUTO",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 1,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2J2PRRCL",
+          "name": "Aral",
+          "townhallLevel": 17,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q809PLLC",
+          "name": "cosmicity",
+          "townhallLevel": 15,
+          "mapPosition": 9,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G8J8VLY28",
+          "name": "SkyHigh",
+          "townhallLevel": 15,
+          "mapPosition": 10,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8LQV2CR0R",
+          "name": "Sir Felipe III",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#90GU80809",
+          "name": "jr507",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#VCJUQRRY",
+          "name": "jr507",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2JVJ82JVJ",
+          "name": "Sir Magnific",
+          "townhallLevel": 17,
+          "mapPosition": 4,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2Q9V2LR8R",
+          "name": "niyaz",
+          "townhallLevel": 17,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#VVJ9UV29",
+          "name": "!YADER DXD!",
+          "townhallLevel": 17,
+          "mapPosition": 6,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#Y09LVVLG2",
+          "name": "TATU.JESSIA",
+          "townhallLevel": 16,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#PY8YQ8V8V",
+          "name": "Hiuber",
+          "townhallLevel": 16,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#CRPGUPU8",
+          "name": "Caballero c3",
+          "townhallLevel": 15,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#288RUGJRV",
+          "name": "Max",
+          "townhallLevel": 15,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": false
+        }
+      ],
+      "attacks": [
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#CRPGUPU8",
+          "defenderName": "Caballero c3",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#Q809PLLC",
+          "attackerName": "cosmicity",
+          "defenderTag": "#PY8YQ8V8V",
+          "defenderName": "Hiuber",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#288RUGJRV",
+          "defenderName": "Max",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#2JVJ82JVJ",
+          "defenderName": "Sir Magnific",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 4,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#VCJUQRRY",
+          "defenderName": "jr507",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 5,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#Y09LVVLG2",
+          "defenderName": "TATU.JESSIA",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#LRRGGPV2",
+          "attackerName": "coicoi",
+          "defenderTag": "#2Q9V2LR8R",
+          "defenderName": "niyaz",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#LRRGGPV2",
+          "attackerName": "coicoi",
+          "defenderTag": "#VVJ9UV29",
+          "defenderName": "!YADER DXD!",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 8,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#90GU80809",
+          "defenderName": "jr507",
+          "stars": 2,
+          "destructionPercentage": 57,
+          "order": 9,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#VVJ9UV29",
+          "attackerName": "!YADER DXD!",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#VVJ9UV29",
+          "attackerName": "!YADER DXD!",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#8LQV2CR0R",
+          "defenderName": "Sir Felipe III",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 12,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#VVJ9UV29",
+          "defenderName": "!YADER DXD!",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 13,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#QLLPGJL29",
+          "attackerName": "UZUMAKI NARUTO",
+          "defenderTag": "#2JVJ82JVJ",
+          "defenderName": "Sir Magnific",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#8LQV2CR0R",
+          "attackerName": "Sir Felipe III",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#8LQV2CR0R",
+          "attackerName": "Sir Felipe III",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 16,
+          "isOurClan": false
         }
       ]
     }
