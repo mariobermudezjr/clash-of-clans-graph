@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T16:00:00.319Z",
+  "lastUpdated": "2026-03-14T03:04:25.488Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -16413,7 +16413,7 @@
       "preparationStartTime": "20260312T040525.000Z",
       "startTime": "20260313T030525.000Z",
       "endTime": "20260314T030525.000Z",
-      "collectedAt": "2026-03-13T16:00:00.313Z",
+      "collectedAt": "2026-03-14T03:04:25.484Z",
       "clanStats": {
         "totalAttacks": 12,
         "totalStars": 28,
@@ -16422,10 +16422,10 @@
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 10,
-        "destructionPercentage": 90,
-        "attacksUsed": 4,
+        "totalAttacks": 17,
+        "totalStars": 37,
+        "destructionPercentage": 82,
+        "attacksUsed": 17,
         "attacksAvailable": 20
       },
       "members": [
@@ -16522,7 +16522,7 @@
           "name": "jr507",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16530,7 +16530,7 @@
           "name": "jr507",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16538,7 +16538,7 @@
           "name": "Sir Magnific",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16546,7 +16546,7 @@
           "name": "niyaz",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -16562,7 +16562,7 @@
           "name": "TATU.JESSIA",
           "townhallLevel": 16,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16570,7 +16570,7 @@
           "name": "Hiuber",
           "townhallLevel": 16,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16578,7 +16578,7 @@
           "name": "Caballero c3",
           "townhallLevel": 15,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -16765,6 +16765,149 @@
           "stars": 2,
           "destructionPercentage": 70,
           "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#Y09LVVLG2",
+          "attackerName": "TATU.JESSIA",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#Y09LVVLG2",
+          "attackerName": "TATU.JESSIA",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#90GU80809",
+          "attackerName": "jr507",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#VCJUQRRY",
+          "attackerName": "jr507",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#VCJUQRRY",
+          "attackerName": "jr507",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#2Q9V2LR8R",
+          "attackerName": "niyaz",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 22,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#2JVJ82JVJ",
+          "attackerName": "Sir Magnific",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#PY8YQ8V8V",
+          "attackerName": "Hiuber",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#PY8YQ8V8V",
+          "attackerName": "Hiuber",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#CRPGUPU8",
+          "attackerName": "Caballero c3",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 1,
+          "destructionPercentage": 47,
+          "order": 26,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#CRPGUPU8",
+          "attackerName": "Caballero c3",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 27,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#90GU80809",
+          "attackerName": "jr507",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 1,
+          "destructionPercentage": 74,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260314t030525.000z--2yguqgy90--yc9rvvrq",
+          "attackerTag": "#2JVJ82JVJ",
+          "attackerName": "Sir Magnific",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 0,
+          "destructionPercentage": 29,
+          "order": 29,
           "isOurClan": false
         }
       ]
