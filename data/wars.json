@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-14T03:04:25.488Z",
+  "lastUpdated": "2026-03-15T16:00:00.808Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -16909,6 +16909,464 @@
           "destructionPercentage": 29,
           "order": 29,
           "isOurClan": false
+        }
+      ]
+    },
+    {
+      "id": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+      "clanTag": "#2YGUQGY90",
+      "clanName": "Alpha",
+      "opponentTag": "#Y9J2GLCP",
+      "opponentName": "Barchnado",
+      "teamSize": 15,
+      "state": "inWar",
+      "preparationStartTime": "20260314T032722.000Z",
+      "startTime": "20260315T022722.000Z",
+      "endTime": "20260316T022722.000Z",
+      "collectedAt": "2026-03-15T16:00:00.804Z",
+      "clanStats": {
+        "totalAttacks": 6,
+        "totalStars": 9,
+        "destructionPercentage": 62.5,
+        "attacksUsed": 6,
+        "attacksAvailable": 30
+      },
+      "opponentStats": {
+        "totalAttacks": 11,
+        "totalStars": 27,
+        "destructionPercentage": 86.81818181818181,
+        "attacksUsed": 11,
+        "attacksAvailable": 30
+      },
+      "members": [
+        {
+          "tag": "#8JRC2L02C",
+          "name": "ichigo korusaki",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#Q9UPPQJ92",
+          "name": "iambogik",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#L0CCUYYVQ",
+          "name": "iishikaori",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QYUJ2YCU",
+          "name": "*General*Tange*",
+          "townhallLevel": 18,
+          "mapPosition": 4,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QP0RJLC00",
+          "name": "ang",
+          "townhallLevel": 18,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#YCY9LRV08",
+          "name": "saeid",
+          "townhallLevel": 18,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#PULY82YUL",
+          "name": "heyd",
+          "townhallLevel": 18,
+          "mapPosition": 7,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QLLJUUCP2",
+          "name": "***anabelle***",
+          "townhallLevel": 18,
+          "mapPosition": 8,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#89G9JQJP",
+          "name": "Oculus Rift™",
+          "townhallLevel": 18,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#QLLPGJL29",
+          "name": "UZUMAKI NARUTO",
+          "townhallLevel": 17,
+          "mapPosition": 10,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#2J2PRRCL",
+          "name": "Aral",
+          "townhallLevel": 17,
+          "mapPosition": 11,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#G2LJVQUPU",
+          "name": "jisn",
+          "townhallLevel": 18,
+          "mapPosition": 12,
+          "attacksUsed": 0,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8CUYLRL0",
+          "name": "B-A-M-C-I-S",
+          "townhallLevel": 17,
+          "mapPosition": 13,
+          "attacksUsed": 1,
+          "isOurClan": true
+        },
+        {
+          "tag": "#20Y9C8V22",
+          "name": "Remuism",
+          "townhallLevel": 17,
+          "mapPosition": 14,
+          "attacksUsed": 2,
+          "isOurClan": true
+        },
+        {
+          "tag": "#8QCRYPQC",
+          "name": "Roland",
+          "townhallLevel": 16,
+          "mapPosition": 15,
+          "attacksUsed": 1,
+          "isOurClan": true
+        },
+        {
+          "tag": "#YVP8L0LG",
+          "name": "NewNew",
+          "townhallLevel": 18,
+          "mapPosition": 1,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#QLP80RC9",
+          "name": "Cornflakes",
+          "townhallLevel": 18,
+          "mapPosition": 2,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#RQG899PR",
+          "name": "Musicmaniac2047",
+          "townhallLevel": 18,
+          "mapPosition": 3,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#GR0LPVC0",
+          "name": "freakinnickp",
+          "townhallLevel": 18,
+          "mapPosition": 4,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2UQJ9CRUC",
+          "name": "KK",
+          "townhallLevel": 18,
+          "mapPosition": 5,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#8LRG9LQPY",
+          "name": "GENERAL NAYMYO",
+          "townhallLevel": 18,
+          "mapPosition": 6,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#YVL9UL0JC",
+          "name": "Mo7med909",
+          "townhallLevel": 18,
+          "mapPosition": 7,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#90QJL2VJG",
+          "name": "محمد الأحمري",
+          "townhallLevel": 18,
+          "mapPosition": 8,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#LLP8RLRVQ",
+          "name": "Hashbrown",
+          "townhallLevel": 17,
+          "mapPosition": 9,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#20YV0G8PU",
+          "name": "jeremy",
+          "townhallLevel": 17,
+          "mapPosition": 10,
+          "attacksUsed": 1,
+          "isOurClan": false
+        },
+        {
+          "tag": "#Y9PY9RVU8",
+          "name": "Master of kings",
+          "townhallLevel": 18,
+          "mapPosition": 11,
+          "attacksUsed": 2,
+          "isOurClan": false
+        },
+        {
+          "tag": "#29LQJCRV9",
+          "name": "XIII",
+          "townhallLevel": 17,
+          "mapPosition": 12,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#88R2VP2UR",
+          "name": "dex",
+          "townhallLevel": 17,
+          "mapPosition": 13,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#L0P22C99G",
+          "name": "S khan",
+          "townhallLevel": 17,
+          "mapPosition": 14,
+          "attacksUsed": 0,
+          "isOurClan": false
+        },
+        {
+          "tag": "#2P929RL9R",
+          "name": "hamid",
+          "townhallLevel": 17,
+          "mapPosition": 15,
+          "attacksUsed": 0,
+          "isOurClan": false
+        }
+      ],
+      "attacks": [
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#88R2VP2UR",
+          "defenderName": "dex",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 1,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#YVP8L0LG",
+          "defenderName": "NewNew",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 2,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#8QCRYPQC",
+          "attackerName": "Roland",
+          "defenderTag": "#2P929RL9R",
+          "defenderName": "hamid",
+          "stars": 1,
+          "destructionPercentage": 64,
+          "order": 3,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#QLP80RC9",
+          "defenderName": "Cornflakes",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 4,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#Y9PY9RVU8",
+          "attackerName": "Master of kings",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 5,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#Y9PY9RVU8",
+          "attackerName": "Master of kings",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 6,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YVL9UL0JC",
+          "attackerName": "Mo7med909",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 7,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YVL9UL0JC",
+          "attackerName": "Mo7med909",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 8,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#90QJL2VJG",
+          "attackerName": "محمد الأحمري",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#90QJL2VJG",
+          "attackerName": "محمد الأحمري",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YVP8L0LG",
+          "attackerName": "NewNew",
+          "defenderTag": "#8JRC2L02C",
+          "defenderName": "ichigo korusaki",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YVP8L0LG",
+          "attackerName": "NewNew",
+          "defenderTag": "#Q9UPPQJ92",
+          "defenderName": "iambogik",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#20YV0G8PU",
+          "attackerName": "jeremy",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#GR0LPVC0",
+          "attackerName": "freakinnickp",
+          "defenderTag": "#G2LJVQUPU",
+          "defenderName": "jisn",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#GR0LPVC0",
+          "attackerName": "freakinnickp",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 2,
+          "destructionPercentage": 63,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#2P929RL9R",
+          "defenderName": "hamid",
+          "stars": 1,
+          "destructionPercentage": 51,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#20Y9C8V22",
+          "attackerName": "Remuism",
+          "defenderTag": "#L0P22C99G",
+          "defenderName": "S khan",
+          "stars": 1,
+          "destructionPercentage": 56,
+          "order": 17,
+          "isOurClan": true
         }
       ]
     }
