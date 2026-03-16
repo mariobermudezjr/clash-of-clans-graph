@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-15T16:00:00.808Z",
+  "lastUpdated": "2026-03-16T02:26:22.451Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -16923,19 +16923,19 @@
       "preparationStartTime": "20260314T032722.000Z",
       "startTime": "20260315T022722.000Z",
       "endTime": "20260316T022722.000Z",
-      "collectedAt": "2026-03-15T16:00:00.804Z",
+      "collectedAt": "2026-03-16T02:26:22.446Z",
       "clanStats": {
-        "totalAttacks": 6,
-        "totalStars": 9,
-        "destructionPercentage": 62.5,
-        "attacksUsed": 6,
+        "totalAttacks": 11,
+        "totalStars": 20,
+        "destructionPercentage": 72.72727272727273,
+        "attacksUsed": 11,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 11,
-        "totalStars": 27,
-        "destructionPercentage": 86.81818181818181,
-        "attacksUsed": 11,
+        "totalAttacks": 23,
+        "totalStars": 54,
+        "destructionPercentage": 88.26086956521739,
+        "attacksUsed": 23,
         "attacksAvailable": 30
       },
       "members": [
@@ -16984,7 +16984,7 @@
           "name": "saeid",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17008,7 +17008,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 18,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17040,7 +17040,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 13,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17080,7 +17080,7 @@
           "name": "Musicmaniac2047",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17096,7 +17096,7 @@
           "name": "KK",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17104,7 +17104,7 @@
           "name": "GENERAL NAYMYO",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -17136,7 +17136,7 @@
           "name": "jeremy",
           "townhallLevel": 17,
           "mapPosition": 10,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17152,7 +17152,7 @@
           "name": "XIII",
           "townhallLevel": 17,
           "mapPosition": 12,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17168,7 +17168,7 @@
           "name": "S khan",
           "townhallLevel": 17,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17176,7 +17176,7 @@
           "name": "hamid",
           "townhallLevel": 17,
           "mapPosition": 15,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         }
       ],
@@ -17367,6 +17367,193 @@
           "destructionPercentage": 56,
           "order": 17,
           "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#2P929RL9R",
+          "attackerName": "hamid",
+          "defenderTag": "#8QCRYPQC",
+          "defenderName": "Roland",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#8LRG9LQPY",
+          "attackerName": "GENERAL NAYMYO",
+          "defenderTag": "#YCY9LRV08",
+          "defenderName": "saeid",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#L0P22C99G",
+          "attackerName": "S khan",
+          "defenderTag": "#8QCRYPQC",
+          "defenderName": "Roland",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#L0P22C99G",
+          "attackerName": "S khan",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#20YV0G8PU",
+          "attackerName": "jeremy",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 22,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#2P929RL9R",
+          "attackerName": "hamid",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#LLP8RLRVQ",
+          "defenderName": "Hashbrown",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#20YV0G8PU",
+          "defenderName": "jeremy",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#29LQJCRV9",
+          "defenderName": "XIII",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 26,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#90QJL2VJG",
+          "defenderName": "محمد الأحمري",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#Y9PY9RVU8",
+          "defenderName": "Master of kings",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 28,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#2UQJ9CRUC",
+          "attackerName": "KK",
+          "defenderTag": "#QP0RJLC00",
+          "defenderName": "ang",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 29,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#2UQJ9CRUC",
+          "attackerName": "KK",
+          "defenderTag": "#QLLJUUCP2",
+          "defenderName": "***anabelle***",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#RQG899PR",
+          "attackerName": "Musicmaniac2047",
+          "defenderTag": "#L0CCUYYVQ",
+          "defenderName": "iishikaori",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 31,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#RQG899PR",
+          "attackerName": "Musicmaniac2047",
+          "defenderTag": "#QYUJ2YCU",
+          "defenderName": "*General*Tange*",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 32,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#29LQJCRV9",
+          "attackerName": "XIII",
+          "defenderTag": "#2J2PRRCL",
+          "defenderName": "Aral",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 33,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260316t022722.000z--2yguqgy90--y9j2glcp",
+          "attackerTag": "#29LQJCRV9",
+          "attackerName": "XIII",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 34,
+          "isOurClan": false
         }
       ]
     }
