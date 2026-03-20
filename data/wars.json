@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-19T16:00:01.296Z",
+  "lastUpdated": "2026-03-20T06:15:04.485Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -17568,19 +17568,19 @@
       "preparationStartTime": "20260318T064907.000Z",
       "startTime": "20260319T054907.000Z",
       "endTime": "20260320T061604.000Z",
-      "collectedAt": "2026-03-19T16:00:01.291Z",
+      "collectedAt": "2026-03-20T06:15:04.479Z",
       "clanStats": {
-        "totalAttacks": 8,
-        "totalStars": 17,
-        "destructionPercentage": 77.75,
-        "attacksUsed": 8,
+        "totalAttacks": 18,
+        "totalStars": 37,
+        "destructionPercentage": 78.72222222222223,
+        "attacksUsed": 18,
         "attacksAvailable": 20
       },
       "opponentStats": {
-        "totalAttacks": 3,
-        "totalStars": 8,
-        "destructionPercentage": 90.33333333333333,
-        "attacksUsed": 3,
+        "totalAttacks": 12,
+        "totalStars": 32,
+        "destructionPercentage": 93.75,
+        "attacksUsed": 12,
         "attacksAvailable": 20
       },
       "members": [
@@ -17589,7 +17589,7 @@
           "name": "ichigo korusaki",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17597,7 +17597,7 @@
           "name": "*General*Tange*",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17605,7 +17605,7 @@
           "name": "saeid",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17621,7 +17621,7 @@
           "name": "Oculus Rift™",
           "townhallLevel": 18,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17637,7 +17637,7 @@
           "name": "B-A-M-C-I-S",
           "townhallLevel": 17,
           "mapPosition": 7,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17661,7 +17661,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 10,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -17669,7 +17669,7 @@
           "name": "Cihat Şef",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17677,7 +17677,7 @@
           "name": "gökberi",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -17693,7 +17693,7 @@
           "name": "sansarsalvo",
           "townhallLevel": 17,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -17701,7 +17701,7 @@
           "name": "Eren ç",
           "townhallLevel": 17,
           "mapPosition": 5,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17709,7 +17709,7 @@
           "name": "Ahmet..",
           "townhallLevel": 17,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17725,7 +17725,7 @@
           "name": "yavuzalper80",
           "townhallLevel": 16,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -17865,6 +17865,215 @@
           "stars": 3,
           "destructionPercentage": 100,
           "order": 11,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QPQGVVQ2R",
+          "attackerName": "Cihat Şef",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QQ2UPV2JJ",
+          "attackerName": "sansarsalvo",
+          "defenderTag": "#LRRGGPV2",
+          "defenderName": "coicoi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#8JRC2L02C",
+          "attackerName": "ichigo korusaki",
+          "defenderTag": "#QPQGVVQ2R",
+          "defenderName": "Cihat Şef",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#8JRC2L02C",
+          "attackerName": "ichigo korusaki",
+          "defenderTag": "#Y8CR0J0GP",
+          "defenderName": "gökberi",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#L2PJ9C0UU",
+          "defenderName": "Ahmet..",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 16,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#L2PJ9C0UU",
+          "attackerName": "Ahmet..",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QRUUYV80V",
+          "attackerName": "Eren ç",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QRUUYV80V",
+          "attackerName": "Eren ç",
+          "defenderTag": "#28PQVGGQ8",
+          "defenderName": "Butta",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#YPY8P9UUY",
+          "attackerName": "yavuzalper80",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#YPY8P9UUY",
+          "attackerName": "yavuzalper80",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#YCY9LRV08",
+          "attackerName": "saeid",
+          "defenderTag": "#QQ2UPV2JJ",
+          "defenderName": "sansarsalvo",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 22,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#Y8CR0J0GP",
+          "attackerName": "gökberi",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#8CUYLRL0",
+          "attackerName": "B-A-M-C-I-S",
+          "defenderTag": "#GPRLRG8UR",
+          "defenderName": "hunter",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 24,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#QQ2UPV2JJ",
+          "defenderName": "sansarsalvo",
+          "stars": 1,
+          "destructionPercentage": 57,
+          "order": 25,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#QYUJ2YCU",
+          "attackerName": "*General*Tange*",
+          "defenderTag": "#9UQ0PUUYP",
+          "defenderName": "₺₺₺",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 26,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#89G9JQJP",
+          "attackerName": "Oculus Rift™",
+          "defenderTag": "#P0CQQR2RQ",
+          "defenderName": "yalnız",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 27,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#L2PJ9C0UU",
+          "attackerName": "Ahmet..",
+          "defenderTag": "#8JRC2L02C",
+          "defenderName": "ichigo korusaki",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 28,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#GPRLRG8UR",
+          "defenderName": "hunter",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 29,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260320t061604.000z--2yguqgy90--28ql88pjy",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#YPY8P9UUY",
+          "defenderName": "yavuzalper80",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 30,
           "isOurClan": true
         }
       ]
