@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-02T13:00:01.338Z",
+  "lastUpdated": "2026-04-02T19:00:01.642Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "preparation",
-      "collectedAt": "2026-04-02T13:00:01.330Z",
+      "collectedAt": "2026-04-02T19:00:01.634Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-02T13:00:01.330Z",
+          "collectedAt": "2026-04-02T19:00:01.634Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -215,14 +215,6 @@
               "isOurClan": true
             },
             {
-              "tag": "#RJR808GU",
-              "name": "mjello32",
-              "townhallLevel": 17,
-              "mapPosition": 18,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#G2LJVQUPU",
               "name": "jisn",
               "townhallLevel": 18,
@@ -235,6 +227,14 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8CUYLRL0",
+              "name": "B-A-M-C-I-S",
+              "townhallLevel": 17,
+              "mapPosition": 21,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -295,10 +295,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#GYQ9JYYLY",
-              "name": "nickd⁴th",
+              "tag": "#G8J8VLY28",
+              "name": "SkyHigh",
               "townhallLevel": 15,
-              "mapPosition": 32,
+              "mapPosition": 34,
               "attacksUsed": 0,
               "isOurClan": true
             },
