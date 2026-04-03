@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-02T19:00:01.642Z",
+  "lastUpdated": "2026-04-03T01:00:01.095Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "preparation",
-      "collectedAt": "2026-04-02T19:00:01.634Z",
+      "collectedAt": "2026-04-03T01:00:01.087Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-02T19:00:01.634Z",
+          "collectedAt": "2026-04-03T01:00:01.087Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -107,14 +107,6 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#L0CCUYYVQ",
-              "name": "iishikaori",
-              "townhallLevel": 18,
-              "mapPosition": 5,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -187,14 +179,6 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 18,
               "mapPosition": 14,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#8PRPV9U8J",
-              "name": "DoubleTap00",
-              "townhallLevel": 18,
-              "mapPosition": 15,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -279,18 +263,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#P82YPRQCG",
-              "name": "Pearce",
-              "townhallLevel": 17,
-              "mapPosition": 28,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#Q809PLLC",
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 29,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#28LJL9YJ8",
+              "name": "Alpha",
+              "townhallLevel": 15,
+              "mapPosition": 33,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -315,6 +299,22 @@
               "name": "geeth",
               "townhallLevel": 17,
               "mapPosition": 36,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QUQUVY9Q8",
+              "name": "parth",
+              "townhallLevel": 12,
+              "mapPosition": 38,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QJ2VLGP9U",
+              "name": "prem",
+              "townhallLevel": 11,
+              "mapPosition": 39,
               "attacksUsed": 0,
               "isOurClan": true
             },
