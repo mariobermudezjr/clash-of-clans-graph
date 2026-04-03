@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-03T13:00:01.505Z",
+  "lastUpdated": "2026-04-03T19:00:01.730Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-03T13:00:01.496Z",
+      "collectedAt": "2026-04-03T19:00:01.722Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-03T13:00:01.496Z",
+          "collectedAt": "2026-04-03T19:00:01.722Z",
           "clanStats": {
-            "totalAttacks": 10,
-            "totalStars": 30,
+            "totalAttacks": 13,
+            "totalStars": 39,
             "destructionPercentage": 100,
-            "attacksUsed": 10,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 6,
-            "totalStars": 12,
-            "destructionPercentage": 72.5,
-            "attacksUsed": 6,
+            "totalAttacks": 12,
+            "totalStars": 24,
+            "destructionPercentage": 74.16666666666667,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "members": [
@@ -227,7 +227,7 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -259,7 +259,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -267,7 +267,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -347,7 +347,7 @@
               "name": "Gobi",
               "townhallLevel": 15,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -363,7 +363,7 @@
               "name": "Mahee MSD",
               "townhallLevel": 15,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -387,7 +387,7 @@
               "name": "MUKA TVK",
               "townhallLevel": 15,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -411,7 +411,7 @@
               "name": "naveen",
               "townhallLevel": 13,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -443,7 +443,7 @@
               "name": "hk",
               "townhallLevel": 13,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -491,7 +491,7 @@
               "name": "vicky ram",
               "townhallLevel": 11,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -735,6 +735,105 @@
               "destructionPercentage": 100,
               "order": 16,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#G0YGLPQQ2",
+              "attackerName": "hk",
+              "defenderTag": "#G2LJVQUPU",
+              "defenderName": "jisn",
+              "stars": 1,
+              "destructionPercentage": 50,
+              "order": 17,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#P0LU9YPP2",
+              "defenderName": "T.SASI THARAN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#8QGC9P20U",
+              "attackerName": "MUKA TVK",
+              "defenderTag": "#G0GY89YJU",
+              "defenderName": "geeth",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#LPU2R9YVJ",
+              "defenderName": "Sri Vicky",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#8QYVYLVYQ",
+              "attackerName": "naveen",
+              "defenderTag": "#28LJL9YJ8",
+              "defenderName": "Alpha",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 21,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#9GYYJP8Q8",
+              "attackerName": "Mahee MSD",
+              "defenderTag": "#Q809PLLC",
+              "defenderName": "cosmicity",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#GQ2PLYJ8G",
+              "defenderName": "ArunAriya",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#P8RPLPL9",
+              "attackerName": "Gobi",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#R288QUUP0",
+              "attackerName": "vicky ram",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 0,
+              "destructionPercentage": 30,
+              "order": 25,
+              "isOurClan": false
             }
           ]
         },
@@ -751,7 +850,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-03T13:00:01.496Z",
+          "collectedAt": "2026-04-03T19:00:01.722Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
