@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-03T19:00:01.730Z",
+  "lastUpdated": "2026-04-04T01:00:02.972Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-03T19:00:01.722Z",
+      "collectedAt": "2026-04-04T01:00:02.964Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,19 +62,19 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-03T19:00:01.722Z",
+          "collectedAt": "2026-04-04T01:00:02.964Z",
           "clanStats": {
-            "totalAttacks": 13,
-            "totalStars": 39,
+            "totalAttacks": 14,
+            "totalStars": 42,
             "destructionPercentage": 100,
-            "attacksUsed": 13,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 12,
-            "totalStars": 24,
-            "destructionPercentage": 74.16666666666667,
-            "attacksUsed": 12,
+            "totalAttacks": 13,
+            "totalStars": 25,
+            "destructionPercentage": 72.07692307692308,
+            "attacksUsed": 13,
             "attacksAvailable": 30
           },
           "members": [
@@ -91,7 +91,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -395,7 +395,7 @@
               "name": "Assassin",
               "townhallLevel": 14,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -834,6 +834,28 @@
               "destructionPercentage": 30,
               "order": 25,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#8CCVPV8G0",
+              "attackerName": "Assassin",
+              "defenderTag": "#QLLJUUCP2",
+              "defenderName": "***anabelle***",
+              "stars": 1,
+              "destructionPercentage": 47,
+              "order": 26,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round1-#PCCYQL00",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#2L0Y9QUJ9",
+              "defenderName": "siva",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": true
             }
           ]
         },
@@ -850,7 +872,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-03T19:00:01.722Z",
+          "collectedAt": "2026-04-04T01:00:02.964Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
