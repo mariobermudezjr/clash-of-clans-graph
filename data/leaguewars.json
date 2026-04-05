@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-05T01:00:02.466Z",
+  "lastUpdated": "2026-04-05T07:00:02.783Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-05T01:00:02.456Z",
+      "collectedAt": "2026-04-05T07:00:02.774Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-05T01:00:02.455Z",
+          "collectedAt": "2026-04-05T07:00:02.774Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,19 +1037,19 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-05T01:00:02.456Z",
+          "collectedAt": "2026-04-05T07:00:02.774Z",
           "clanStats": {
-            "totalAttacks": 19,
-            "totalStars": 54,
-            "destructionPercentage": 97,
-            "attacksUsed": 19,
+            "totalAttacks": 21,
+            "totalStars": 59,
+            "destructionPercentage": 96.38095238095238,
+            "attacksUsed": 21,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 12,
-            "totalStars": 27,
-            "destructionPercentage": 79.5,
-            "attacksUsed": 12,
+            "totalAttacks": 17,
+            "totalStars": 32,
+            "destructionPercentage": 72.41176470588235,
+            "attacksUsed": 17,
             "attacksAvailable": 30
           },
           "members": [
@@ -1090,7 +1090,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1170,7 +1170,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1330,7 +1330,7 @@
               "name": "TONY-TONY<!>",
               "townhallLevel": 17,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1402,7 +1402,7 @@
               "name": "HENG",
               "townhallLevel": 15,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1466,7 +1466,7 @@
               "name": "RiTh",
               "townhallLevel": 14,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1474,7 +1474,7 @@
               "name": "Flow Zee",
               "townhallLevel": 14,
               "mapPosition": 23,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1506,7 +1506,7 @@
               "name": "BOY SAD",
               "townhallLevel": 13,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1875,6 +1875,83 @@
               "destructionPercentage": 100,
               "order": 31,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#LUVRY0898",
+              "defenderName": "(っ◔◡◔)っ ♥ Hab ♥",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 32,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#QPU2P2U8R",
+              "defenderName": "Fw⁠(⁠°⁠ｏ⁠°⁠)⁠wZ",
+              "stars": 2,
+              "destructionPercentage": 81,
+              "order": 33,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#Q8Y2QR8UV",
+              "attackerName": "HENG",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 0,
+              "destructionPercentage": 37,
+              "order": 34,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#LUY0GGURY",
+              "attackerName": "RiTh",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 2,
+              "destructionPercentage": 54,
+              "order": 35,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#G2PJLRYQ8",
+              "attackerName": "TONY-TONY<!>",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 1,
+              "destructionPercentage": 70,
+              "order": 36,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#QUYYG80U0",
+              "attackerName": "BOY SAD",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 0,
+              "destructionPercentage": 46,
+              "order": 37,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#QPY822LV9",
+              "attackerName": "Flow Zee",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 38,
+              "isOurClan": false
             }
           ]
         },
@@ -1891,7 +1968,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-05T01:00:02.456Z",
+          "collectedAt": "2026-04-05T07:00:02.774Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
