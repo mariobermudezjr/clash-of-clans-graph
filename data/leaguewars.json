@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-04T19:00:02.638Z",
+  "lastUpdated": "2026-04-05T01:00:02.466Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-04T19:00:02.629Z",
+      "collectedAt": "2026-04-05T01:00:02.456Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-04T19:00:02.628Z",
+          "collectedAt": "2026-04-05T01:00:02.455Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,19 +1037,19 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-04T19:00:02.629Z",
+          "collectedAt": "2026-04-05T01:00:02.456Z",
           "clanStats": {
-            "totalAttacks": 14,
-            "totalStars": 40,
-            "destructionPercentage": 96.21428571428571,
-            "attacksUsed": 14,
+            "totalAttacks": 19,
+            "totalStars": 54,
+            "destructionPercentage": 97,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 9,
-            "totalStars": 19,
-            "destructionPercentage": 73,
-            "attacksUsed": 9,
+            "totalAttacks": 12,
+            "totalStars": 27,
+            "destructionPercentage": 79.5,
+            "attacksUsed": 12,
             "attacksAvailable": 30
           },
           "members": [
@@ -1098,7 +1098,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1138,7 +1138,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1226,7 +1226,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1234,7 +1234,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1258,7 +1258,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1346,7 +1346,7 @@
               "name": "(っ◔◡◔)っ ♥ Andy",
               "townhallLevel": 16,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1410,7 +1410,7 @@
               "name": "(っ◔◡◔)っ ♥ Hab ♥",
               "townhallLevel": 14,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1418,7 +1418,7 @@
               "name": "ImWhaTz",
               "townhallLevel": 14,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1787,6 +1787,94 @@
               "destructionPercentage": 64,
               "order": 23,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#LV0C2U90G",
+              "defenderName": "Neak Pikeat",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 24,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#G8ULV820U",
+              "defenderName": "Nem Tum",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#LPU8C2UU2",
+              "attackerName": "(っ◔◡◔)っ ♥ Andy",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 26,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#LUVRY0898",
+              "attackerName": "(っ◔◡◔)っ ♥ Hab ♥",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#LUY0GGURY",
+              "defenderName": "RiTh",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#QPY822LV9",
+              "defenderName": "Flow Zee",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 29,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#Q2GUQ9VJC",
+              "defenderName": "OBITO",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round2-#2C8JRQUUC",
+              "attackerTag": "#J889Q8V",
+              "attackerName": "ImWhaTz",
+              "defenderTag": "#QG0VGQLR8",
+              "defenderName": "Jackson Red",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 31,
+              "isOurClan": false
             }
           ]
         },
@@ -1803,7 +1891,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-04T19:00:02.629Z",
+          "collectedAt": "2026-04-05T01:00:02.456Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
