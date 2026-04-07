@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-07T13:00:04.454Z",
+  "lastUpdated": "2026-04-07T19:00:04.687Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-07T13:00:04.445Z",
+      "collectedAt": "2026-04-07T19:00:04.677Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.676Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,7 +1037,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.676Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1979,7 +1979,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.677Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 51,
@@ -2976,7 +2976,7 @@
           "preparationStartTime": "20260405T084429.000Z",
           "startTime": "20260406T084426.000Z",
           "endTime": "20260407T084426.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.677Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -3951,19 +3951,19 @@
           "preparationStartTime": "20260406T084851.000Z",
           "startTime": "20260407T084813.000Z",
           "endTime": "20260408T084813.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.677Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 18,
-            "destructionPercentage": 100,
-            "attacksUsed": 6,
+            "totalAttacks": 14,
+            "totalStars": 41,
+            "destructionPercentage": 99.07142857142857,
+            "attacksUsed": 14,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 16,
-            "totalStars": 28,
-            "destructionPercentage": 72.625,
-            "attacksUsed": 16,
+            "totalAttacks": 19,
+            "totalStars": 34,
+            "destructionPercentage": 71.78947368421052,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "members": [
@@ -3980,7 +3980,7 @@
               "name": "Pig Grease 2.3",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4044,7 +4044,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4052,7 +4052,7 @@
               "name": "slingblade",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4108,7 +4108,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4148,7 +4148,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4156,7 +4156,7 @@
               "name": "cosmicity",
               "townhallLevel": 15,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4172,7 +4172,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4180,7 +4180,7 @@
               "name": "Jackson Red",
               "townhallLevel": 15,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4356,7 +4356,7 @@
               "name": "Agus hazard",
               "townhallLevel": 14,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4436,7 +4436,7 @@
               "name": "supri",
               "townhallLevel": 11,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4444,7 +4444,7 @@
               "name": "farisi",
               "townhallLevel": 9,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -4690,6 +4690,127 @@
               "destructionPercentage": 100,
               "order": 22,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#CY2R2P8Q",
+              "defenderName": "Wahyu_FlyArmy",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#882UYU9P",
+              "attackerName": "Pig Grease 2.3",
+              "defenderTag": "#QJPGUJYYR",
+              "defenderName": "GELYA 87",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 24,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#Q809PLLC",
+              "attackerName": "cosmicity",
+              "defenderTag": "#Q9GRCCR8J",
+              "defenderName": "طريقة جيدة",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#QUJRQ0JJ0",
+              "defenderName": "Legend war",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 26,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#R2Y8UPLJ0",
+              "attackerName": "supri",
+              "defenderTag": "#QJ2VLGP9U",
+              "defenderName": "prem",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#PUP9Q9CGV",
+              "attackerName": "Agus hazard",
+              "defenderTag": "#QUQUVY9Q8",
+              "defenderName": "parth",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 28,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#R0YUQUVY9",
+              "attackerName": "farisi",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 0,
+              "destructionPercentage": 2,
+              "order": 29,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#9R220PLPC",
+              "defenderName": "hisyam88",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#QR99QJGUJ",
+              "defenderName": "black saga mini",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 31,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#8GL9RLLGU",
+              "defenderName": "saf mini",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 32,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#QG0VGQLR8",
+              "attackerName": "Jackson Red",
+              "defenderTag": "#LCL0VLLY8",
+              "defenderName": "va",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 33,
+              "isOurClan": true
             }
           ]
         },
@@ -4706,7 +4827,7 @@
           "preparationStartTime": "20260407T085610.000Z",
           "startTime": "20260408T085600.000Z",
           "endTime": "20260409T085600.000Z",
-          "collectedAt": "2026-04-07T13:00:04.445Z",
+          "collectedAt": "2026-04-07T19:00:04.677Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
