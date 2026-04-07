@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-07T07:00:03.302Z",
+  "lastUpdated": "2026-04-07T08:43:29.259Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-07T07:00:03.293Z",
+      "collectedAt": "2026-04-07T08:43:29.251Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-07T07:00:03.293Z",
+          "collectedAt": "2026-04-07T08:43:29.251Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,7 +1037,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-07T07:00:03.293Z",
+          "collectedAt": "2026-04-07T08:43:29.251Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1979,7 +1979,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-07T07:00:03.293Z",
+          "collectedAt": "2026-04-07T08:43:29.251Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 51,
@@ -2976,19 +2976,19 @@
           "preparationStartTime": "20260405T084429.000Z",
           "startTime": "20260406T084426.000Z",
           "endTime": "20260407T084426.000Z",
-          "collectedAt": "2026-04-07T07:00:03.293Z",
+          "collectedAt": "2026-04-07T08:43:29.251Z",
           "clanStats": {
-            "totalAttacks": 17,
-            "totalStars": 48,
-            "destructionPercentage": 98,
-            "attacksUsed": 17,
+            "totalAttacks": 18,
+            "totalStars": 51,
+            "destructionPercentage": 98.11111111111111,
+            "attacksUsed": 18,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 23,
-            "totalStars": 40,
-            "destructionPercentage": 70.26086956521739,
-            "attacksUsed": 23,
+            "totalAttacks": 24,
+            "totalStars": 42,
+            "destructionPercentage": 71.25,
+            "attacksUsed": 24,
             "attacksAvailable": 30
           },
           "members": [
@@ -3197,7 +3197,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3469,7 +3469,7 @@
               "name": "Nightmare.",
               "townhallLevel": 10,
               "mapPosition": 30,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -3913,6 +3913,28 @@
               "destructionPercentage": 49,
               "order": 40,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round4-#2QUGJR990",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#LLU9PJJJQ",
+              "defenderName": "༆᭄BOSS★KENSHIN",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 41,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round4-#2QUGJR990",
+              "attackerTag": "#R0Q8Y9LV8",
+              "attackerName": "Nightmare.",
+              "defenderTag": "#QJ2VLGP9U",
+              "defenderName": "prem",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 42,
+              "isOurClan": false
             }
           ]
         },
@@ -3929,7 +3951,7 @@
           "preparationStartTime": "20260406T084851.000Z",
           "startTime": "20260407T084813.000Z",
           "endTime": "20260408T084813.000Z",
-          "collectedAt": "2026-04-07T07:00:03.293Z",
+          "collectedAt": "2026-04-07T08:43:29.251Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
