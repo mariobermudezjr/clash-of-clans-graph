@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-08T07:00:04.444Z",
+  "lastUpdated": "2026-04-08T08:47:16.753Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-08T07:00:04.435Z",
+      "collectedAt": "2026-04-08T08:47:16.744Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-08T07:00:04.434Z",
+          "collectedAt": "2026-04-08T08:47:16.743Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,7 +1037,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-08T07:00:04.434Z",
+          "collectedAt": "2026-04-08T08:47:16.743Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1979,7 +1979,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-08T07:00:04.434Z",
+          "collectedAt": "2026-04-08T08:47:16.743Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 51,
@@ -2976,7 +2976,7 @@
           "preparationStartTime": "20260405T084429.000Z",
           "startTime": "20260406T084426.000Z",
           "endTime": "20260407T084426.000Z",
-          "collectedAt": "2026-04-08T07:00:04.435Z",
+          "collectedAt": "2026-04-08T08:47:16.743Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -3951,7 +3951,7 @@
           "preparationStartTime": "20260406T084851.000Z",
           "startTime": "20260407T084813.000Z",
           "endTime": "20260408T084813.000Z",
-          "collectedAt": "2026-04-08T07:00:04.435Z",
+          "collectedAt": "2026-04-08T08:47:16.743Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 54,
@@ -3960,10 +3960,10 @@
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 24,
-            "totalStars": 47,
-            "destructionPercentage": 75.875,
-            "attacksUsed": 24,
+            "totalAttacks": 25,
+            "totalStars": 48,
+            "destructionPercentage": 74.8,
+            "attacksUsed": 25,
             "attacksAvailable": 30
           },
           "members": [
@@ -4276,7 +4276,7 @@
               "name": "Gokil",
               "townhallLevel": 16,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4921,6 +4921,17 @@
               "destructionPercentage": 100,
               "order": 43,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round5-#UQ9809PP",
+              "attackerTag": "#282L8YY0J",
+              "attackerName": "Gokil",
+              "defenderTag": "#PULY82YUL",
+              "defenderName": "heyd",
+              "stars": 1,
+              "destructionPercentage": 49,
+              "order": 44,
+              "isOurClan": false
             }
           ]
         },
@@ -4937,7 +4948,7 @@
           "preparationStartTime": "20260407T085610.000Z",
           "startTime": "20260408T085600.000Z",
           "endTime": "20260409T085600.000Z",
-          "collectedAt": "2026-04-08T07:00:04.435Z",
+          "collectedAt": "2026-04-08T08:47:16.744Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
