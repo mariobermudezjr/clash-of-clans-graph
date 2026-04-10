@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-10T07:00:04.399Z",
+  "lastUpdated": "2026-04-10T08:57:44.480Z",
   "seasons": [
     {
       "season": "2026-04",
       "state": "inWar",
-      "collectedAt": "2026-04-10T07:00:04.390Z",
+      "collectedAt": "2026-04-10T08:57:44.470Z",
       "participatingClans": [
         {
           "tag": "#UQ9809PP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260402T072328.000Z",
           "startTime": "20260403T072326.000Z",
           "endTime": "20260404T072326.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.468Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 66,
@@ -1037,7 +1037,7 @@
           "preparationStartTime": "20260403T072722.000Z",
           "startTime": "20260404T072526.000Z",
           "endTime": "20260405T072526.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.468Z",
           "clanStats": {
             "totalAttacks": 21,
             "totalStars": 59,
@@ -1979,7 +1979,7 @@
           "preparationStartTime": "20260404T074820.000Z",
           "startTime": "20260405T074819.000Z",
           "endTime": "20260406T074819.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.469Z",
           "clanStats": {
             "totalAttacks": 24,
             "totalStars": 51,
@@ -2976,7 +2976,7 @@
           "preparationStartTime": "20260405T084429.000Z",
           "startTime": "20260406T084426.000Z",
           "endTime": "20260407T084426.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.469Z",
           "clanStats": {
             "totalAttacks": 18,
             "totalStars": 51,
@@ -3951,7 +3951,7 @@
           "preparationStartTime": "20260406T084851.000Z",
           "startTime": "20260407T084813.000Z",
           "endTime": "20260408T084813.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.469Z",
           "clanStats": {
             "totalAttacks": 19,
             "totalStars": 54,
@@ -4948,7 +4948,7 @@
           "preparationStartTime": "20260407T085610.000Z",
           "startTime": "20260408T085600.000Z",
           "endTime": "20260409T085600.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.469Z",
           "clanStats": {
             "totalAttacks": 22,
             "totalStars": 59,
@@ -5879,19 +5879,19 @@
           "preparationStartTime": "20260408T085843.000Z",
           "startTime": "20260409T085840.000Z",
           "endTime": "20260410T085840.000Z",
-          "collectedAt": "2026-04-10T07:00:04.390Z",
+          "collectedAt": "2026-04-10T08:57:44.470Z",
           "clanStats": {
-            "totalAttacks": 17,
-            "totalStars": 46,
-            "destructionPercentage": 96.05882352941177,
-            "attacksUsed": 17,
+            "totalAttacks": 19,
+            "totalStars": 51,
+            "destructionPercentage": 95.84210526315789,
+            "attacksUsed": 19,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 27,
-            "totalStars": 71,
-            "destructionPercentage": 94.22222222222223,
-            "attacksUsed": 27,
+            "totalAttacks": 30,
+            "totalStars": 79,
+            "destructionPercentage": 94.46666666666667,
+            "attacksUsed": 30,
             "attacksAvailable": 30
           },
           "members": [
@@ -6012,7 +6012,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6068,7 +6068,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -6260,7 +6260,7 @@
               "name": "Emperor Yanu",
               "townhallLevel": 16,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6340,7 +6340,7 @@
               "name": "Skull crusher",
               "townhallLevel": 14,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6364,7 +6364,7 @@
               "name": "manthan",
               "townhallLevel": 13,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -6860,6 +6860,61 @@
               "destructionPercentage": 100,
               "order": 44,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round7-#2R2V0RPQJ",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#9J89PV0LJ",
+              "defenderName": "PIYUSH",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 45,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-04-round7-#2R2V0RPQJ",
+              "attackerTag": "#PVVGL0YYR",
+              "attackerName": "Emperor Yanu",
+              "defenderTag": "#G2LJVQUPU",
+              "defenderName": "jisn",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 46,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round7-#2R2V0RPQJ",
+              "attackerTag": "#LV22QJPV0",
+              "attackerName": "Skull crusher",
+              "defenderTag": "#28LJL9YJ8",
+              "defenderName": "Alpha",
+              "stars": 2,
+              "destructionPercentage": 90,
+              "order": 47,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round7-#2R2V0RPQJ",
+              "attackerTag": "#P820LJ09G",
+              "attackerName": "manthan",
+              "defenderTag": "#QJ2VLGP9U",
+              "defenderName": "prem",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 48,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-04-round7-#2R2V0RPQJ",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#Q09U89VUV",
+              "defenderName": "mr.bludy",
+              "stars": 2,
+              "destructionPercentage": 88,
+              "order": 49,
+              "isOurClan": true
             }
           ]
         }
