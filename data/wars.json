@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-18T16:00:00.370Z",
+  "lastUpdated": "2026-04-19T02:31:00.417Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -19555,19 +19555,19 @@
       "preparationStartTime": "20260417T033200.000Z",
       "startTime": "20260418T023200.000Z",
       "endTime": "20260419T023200.000Z",
-      "collectedAt": "2026-04-18T16:00:00.363Z",
+      "collectedAt": "2026-04-19T02:31:00.410Z",
       "clanStats": {
-        "totalAttacks": 5,
-        "totalStars": 8,
-        "destructionPercentage": 76.8,
-        "attacksUsed": 5,
+        "totalAttacks": 7,
+        "totalStars": 13,
+        "destructionPercentage": 80.71428571428571,
+        "attacksUsed": 7,
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 4,
-        "totalStars": 12,
-        "destructionPercentage": 100,
-        "attacksUsed": 4,
+        "totalAttacks": 17,
+        "totalStars": 41,
+        "destructionPercentage": 89.41176470588235,
+        "attacksUsed": 17,
         "attacksAvailable": 30
       },
       "members": [
@@ -19616,7 +19616,7 @@
           "name": "slingblade",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": true
         },
         {
@@ -19680,7 +19680,7 @@
           "name": "SkyHigh",
           "townhallLevel": 15,
           "mapPosition": 14,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": true
         },
         {
@@ -19696,7 +19696,7 @@
           "name": "hepe14",
           "townhallLevel": 18,
           "mapPosition": 1,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19704,7 +19704,7 @@
           "name": "gabi",
           "townhallLevel": 18,
           "mapPosition": 2,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19712,7 +19712,7 @@
           "name": "<<<UNO>>>",
           "townhallLevel": 18,
           "mapPosition": 3,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19720,7 +19720,7 @@
           "name": "Twins-2014",
           "townhallLevel": 18,
           "mapPosition": 4,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19744,7 +19744,7 @@
           "name": "kambal 2014",
           "townhallLevel": 18,
           "mapPosition": 7,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19752,7 +19752,7 @@
           "name": "alexxis",
           "townhallLevel": 17,
           "mapPosition": 8,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -19792,7 +19792,7 @@
           "name": "kuya alexxis",
           "townhallLevel": 16,
           "mapPosition": 13,
-          "attacksUsed": 0,
+          "attacksUsed": 1,
           "isOurClan": false
         },
         {
@@ -19911,6 +19911,171 @@
           "destructionPercentage": 59,
           "order": 9,
           "isOurClan": true
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#2GCQJVLL",
+          "attackerName": "slingblade",
+          "defenderTag": "#QVJ80VRPU",
+          "defenderName": "harukimii",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 10,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#8CCL0YU0J",
+          "attackerName": "gabi",
+          "defenderTag": "#8CUYLRL0",
+          "defenderName": "B-A-M-C-I-S",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#Q2QQRLCL",
+          "attackerName": "<<<UNO>>>",
+          "defenderTag": "#Q8GPPQ98U",
+          "defenderName": "Mr. Frodo",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#Q2QQRLCL",
+          "attackerName": "<<<UNO>>>",
+          "defenderTag": "#YCY9LRV08",
+          "defenderName": "saeid",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#G9VR20PGQ",
+          "attackerName": "kambal 2014",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 2,
+          "destructionPercentage": 63,
+          "order": 14,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#GGUVY8YYG",
+          "attackerName": "kuya alexxis",
+          "defenderTag": "#L2G82LUYG",
+          "defenderName": "❤Alpha❤",
+          "stars": 1,
+          "destructionPercentage": 52,
+          "order": 15,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#GPQGYJY98",
+          "attackerName": "alexxis",
+          "defenderTag": "#L2G82LUYG",
+          "defenderName": "❤Alpha❤",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#GPQGYJY98",
+          "attackerName": "alexxis",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 17,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#2YVRJ80QU",
+          "attackerName": "hepe14",
+          "defenderTag": "#89G9JQJP",
+          "defenderName": "Oculus Rift™",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#G9VR20PGQ",
+          "attackerName": "kambal 2014",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#2YVRJ80QU",
+          "attackerName": "hepe14",
+          "defenderTag": "#2GCQJVLL",
+          "defenderName": "slingblade",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#2CL9L09",
+          "attackerName": "Twins-2014",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 21,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#2CL9L09",
+          "attackerName": "Twins-2014",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 22,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#G8J8VLY28",
+          "attackerName": "SkyHigh",
+          "defenderTag": "#Q2Q9JJ0J8",
+          "defenderName": "MC47",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "isOurClan": true
+        },
+        {
+          "warId": "20260419t023200.000z--2yguqgy90--yjy08lcl",
+          "attackerTag": "#8CCL0YU0J",
+          "attackerName": "gabi",
+          "defenderTag": "#PULY82YUL",
+          "defenderName": "heyd",
+          "stars": 1,
+          "destructionPercentage": 68,
+          "order": 24,
+          "isOurClan": false
         }
       ]
     }
