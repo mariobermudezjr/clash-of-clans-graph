@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-21T16:00:00.701Z",
+  "lastUpdated": "2026-04-22T02:03:18.455Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -20090,7 +20090,7 @@
       "preparationStartTime": "20260420T030418.000Z",
       "startTime": "20260421T020418.000Z",
       "endTime": "20260422T020418.000Z",
-      "collectedAt": "2026-04-21T16:00:00.693Z",
+      "collectedAt": "2026-04-22T02:03:18.445Z",
       "clanStats": {
         "totalAttacks": 10,
         "totalStars": 24,
@@ -20099,10 +20099,10 @@
         "attacksAvailable": 30
       },
       "opponentStats": {
-        "totalAttacks": 18,
-        "totalStars": 43,
-        "destructionPercentage": 85.5,
-        "attacksUsed": 18,
+        "totalAttacks": 24,
+        "totalStars": 59,
+        "destructionPercentage": 87.29166666666667,
+        "attacksUsed": 24,
         "attacksAvailable": 30
       },
       "members": [
@@ -20271,7 +20271,7 @@
           "name": "ADAN EL MX",
           "townhallLevel": 18,
           "mapPosition": 6,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -20295,7 +20295,7 @@
           "name": "DJ JUNIOR",
           "townhallLevel": 17,
           "mapPosition": 9,
-          "attacksUsed": 0,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -20311,7 +20311,7 @@
           "name": "PhyrusLaikan",
           "townhallLevel": 15,
           "mapPosition": 11,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -20319,7 +20319,7 @@
           "name": "ROY",
           "townhallLevel": 15,
           "mapPosition": 12,
-          "attacksUsed": 1,
+          "attacksUsed": 2,
           "isOurClan": false
         },
         {
@@ -20655,6 +20655,72 @@
           "destructionPercentage": 59,
           "order": 28,
           "isOurClan": true
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#8CQUY2YJY",
+          "attackerName": "DJ JUNIOR",
+          "defenderTag": "#G8J8VLY28",
+          "defenderName": "SkyHigh",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#8CQUY2YJY",
+          "attackerName": "DJ JUNIOR",
+          "defenderTag": "#Q809PLLC",
+          "defenderName": "cosmicity",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#8CRLGY8RU",
+          "attackerName": "PhyrusLaikan",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 31,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#P8PU0VQ2",
+          "attackerName": "ROY",
+          "defenderTag": "#20Y9C8V22",
+          "defenderName": "Remuism",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 32,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#8Y0YYVUQ8",
+          "attackerName": "ADAN EL MX",
+          "defenderTag": "#QLLPGJL29",
+          "defenderName": "UZUMAKI NARUTO",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "isOurClan": false
+        },
+        {
+          "warId": "20260422t020418.000z--2yguqgy90--9vcvrvgl",
+          "attackerTag": "#8Y0YYVUQ8",
+          "attackerName": "ADAN EL MX",
+          "defenderTag": "#LU9LVLYG",
+          "defenderName": "Grizzly Reaper",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "isOurClan": false
         }
       ]
     }
