@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-22T02:03:18.455Z",
+  "lastUpdated": "2026-04-22T16:00:00.852Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -20086,11 +20086,11 @@
       "opponentTag": "#9VCVRVGL",
       "opponentName": "SUPER BUENOS",
       "teamSize": 15,
-      "state": "inWar",
+      "state": "warEnded",
       "preparationStartTime": "20260420T030418.000Z",
       "startTime": "20260421T020418.000Z",
       "endTime": "20260422T020418.000Z",
-      "collectedAt": "2026-04-22T02:03:18.445Z",
+      "collectedAt": "2026-04-22T16:00:00.844Z",
       "clanStats": {
         "totalAttacks": 10,
         "totalStars": 24,
