@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-27T03:48:23.685Z",
+  "lastUpdated": "2026-04-27T16:00:00.626Z",
   "wars": [
     {
       "id": "20251221t041627.000z--2yguqgy90--2jv0cyc2y",
@@ -20731,11 +20731,11 @@
       "opponentTag": "#2PJP9P2GL",
       "opponentName": ":{enDgame}:",
       "teamSize": 15,
-      "state": "inWar",
+      "state": "warEnded",
       "preparationStartTime": "20260425T044923.000Z",
       "startTime": "20260426T034923.000Z",
       "endTime": "20260427T034923.000Z",
-      "collectedAt": "2026-04-27T03:48:23.675Z",
+      "collectedAt": "2026-04-27T16:00:00.618Z",
       "clanStats": {
         "totalAttacks": 18,
         "totalStars": 35,
