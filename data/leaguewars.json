@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-02T01:00:01.736Z",
+  "lastUpdated": "2026-05-02T07:00:01.023Z",
   "seasons": [
     {
       "season": "2026-05",
       "state": "preparation",
-      "collectedAt": "2026-05-02T01:00:01.727Z",
+      "collectedAt": "2026-05-02T07:00:01.012Z",
       "participatingClans": [
         {
           "tag": "#2QURRVCQP",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260501T164046.000Z",
           "startTime": "20260502T164038.000Z",
           "endTime": "20260503T164038.000Z",
-          "collectedAt": "2026-05-02T01:00:01.727Z",
+          "collectedAt": "2026-05-02T07:00:01.012Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -87,14 +87,6 @@
               "isOurClan": true
             },
             {
-              "tag": "#8JRC2L02C",
-              "name": "ichigo korusaki",
-              "townhallLevel": 18,
-              "mapPosition": 3,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#QYUJ2YCU",
               "name": "*General*Tange*",
               "townhallLevel": 18,
@@ -103,18 +95,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#Q9UPPQJ92",
-              "name": "iambogik",
+              "tag": "#Q8GPPQ98U",
+              "name": "Mr. Frodo",
               "townhallLevel": 18,
-              "mapPosition": 6,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#L0CCUYYVQ",
-              "name": "iishikaori",
-              "townhallLevel": 18,
-              "mapPosition": 7,
+              "mapPosition": 5,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -135,18 +119,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#PULY82YUL",
-              "name": "heyd",
+              "tag": "#2GCQJVLL",
+              "name": "slingblade",
               "townhallLevel": 18,
-              "mapPosition": 11,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#QP0RJLC00",
-              "name": "ang",
-              "townhallLevel": 18,
-              "mapPosition": 12,
+              "mapPosition": 10,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -159,10 +135,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#QLLJUUCP2",
-              "name": "***anabelle***",
-              "townhallLevel": 18,
-              "mapPosition": 14,
+              "tag": "#LU9LVLYG",
+              "name": "Grizzly Reaper",
+              "townhallLevel": 17,
+              "mapPosition": 15,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -191,10 +167,34 @@
               "isOurClan": true
             },
             {
-              "tag": "#G0GY89YJU",
-              "name": "geeth",
-              "townhallLevel": 17,
-              "mapPosition": 28,
+              "tag": "#28PQVGGQ8",
+              "name": "Butta",
+              "townhallLevel": 16,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8QCRYPQC",
+              "name": "Roland",
+              "townhallLevel": 16,
+              "mapPosition": 22,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L2G82LUYG",
+              "name": "❤Alpha❤",
+              "townhallLevel": 16,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G8J8VLY28",
+              "name": "SkyHigh",
+              "townhallLevel": 15,
+              "mapPosition": 26,
               "attacksUsed": 0,
               "isOurClan": true
             },
