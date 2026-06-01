@@ -1,7 +1,328 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-02T13:00:01.322Z",
+  "lastUpdated": "2026-06-01T13:00:01.874Z",
   "seasons": [
+    {
+      "season": "2026-06",
+      "state": "preparation",
+      "collectedAt": "2026-06-01T13:00:01.847Z",
+      "participatingClans": [
+        {
+          "tag": "#2GGUQPJRV",
+          "name": "Destroyers",
+          "clanLevel": 14
+        },
+        {
+          "tag": "#2RCV0YPVQ",
+          "name": "新生力量",
+          "clanLevel": 15
+        },
+        {
+          "tag": "#Y0Y0RPUJ",
+          "name": "PHINMA-COC",
+          "clanLevel": 21
+        },
+        {
+          "tag": "#2CVL982VC",
+          "name": "INDIAN FIGHTER",
+          "clanLevel": 3
+        },
+        {
+          "tag": "#2YGUQGY90",
+          "name": "Alpha",
+          "clanLevel": 25
+        },
+        {
+          "tag": "#20U80VJG9",
+          "name": "war of warriors",
+          "clanLevel": 21
+        },
+        {
+          "tag": "#2LQRYQVL2",
+          "name": "SelontokGH",
+          "clanLevel": 14
+        },
+        {
+          "tag": "#9VRGRQYU",
+          "name": "でっど・おあ・あらいぶ",
+          "clanLevel": 20
+        }
+      ],
+      "wars": [
+        {
+          "id": "2026-06-round1-#2RCV0YPVQ",
+          "season": "2026-06",
+          "roundNumber": 1,
+          "clanTag": "#2YGUQGY90",
+          "clanName": "Alpha",
+          "opponentTag": "#2RCV0YPVQ",
+          "opponentName": "新生力量",
+          "teamSize": 15,
+          "state": "preparation",
+          "preparationStartTime": "20260601T084744.000Z",
+          "startTime": "20260602T084743.000Z",
+          "endTime": "20260603T084743.000Z",
+          "collectedAt": "2026-06-01T13:00:01.847Z",
+          "clanStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 15
+          },
+          "opponentStats": {
+            "totalAttacks": 0,
+            "totalStars": 0,
+            "destructionPercentage": 0,
+            "attacksUsed": 0,
+            "attacksAvailable": 15
+          },
+          "members": [
+            {
+              "tag": "#9PU99J8",
+              "name": "Mist",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q8GPPQ98U",
+              "name": "Mr. Frodo",
+              "townhallLevel": 18,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8JRC2L02C",
+              "name": "ichigo korusaki",
+              "townhallLevel": 18,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QYUJ2YCU",
+              "name": "*General*Tange*",
+              "townhallLevel": 18,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L0CCUYYVQ",
+              "name": "iishikaori",
+              "townhallLevel": 18,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#Q9UPPQJ92",
+              "name": "iambogik",
+              "townhallLevel": 18,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#YCY9LRV08",
+              "name": "saeid",
+              "townhallLevel": 18,
+              "mapPosition": 8,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#PULY82YUL",
+              "name": "heyd",
+              "townhallLevel": 18,
+              "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLPGJL29",
+              "name": "UZUMAKI NARUTO",
+              "townhallLevel": 18,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QP0RJLC00",
+              "name": "ang",
+              "townhallLevel": 18,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QLLJUUCP2",
+              "name": "***anabelle***",
+              "townhallLevel": 18,
+              "mapPosition": 14,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#LU9LVLYG",
+              "name": "Grizzly Reaper",
+              "townhallLevel": 17,
+              "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#G2LJVQUPU",
+              "name": "jisn",
+              "townhallLevel": 18,
+              "mapPosition": 17,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#20Y9C8V22",
+              "name": "Remuism",
+              "townhallLevel": 17,
+              "mapPosition": 20,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8CUYLRL0",
+              "name": "B-A-M-C-I-S",
+              "townhallLevel": 18,
+              "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#PYPUP9VU9",
+              "name": "Setsuna",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QGQ2CQGJY",
+              "name": "划水至上",
+              "townhallLevel": 18,
+              "mapPosition": 2,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GQ9RYU8CQ",
+              "name": "肉麻哥",
+              "townhallLevel": 18,
+              "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QCC9V9U92",
+              "name": "Rocky",
+              "townhallLevel": 18,
+              "mapPosition": 4,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GG9CGV9VC",
+              "name": "Fan's",
+              "townhallLevel": 18,
+              "mapPosition": 5,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GY9QJGRGU",
+              "name": "tan",
+              "townhallLevel": 18,
+              "mapPosition": 6,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#8P2QL99R",
+              "name": "虾米碗糕",
+              "townhallLevel": 17,
+              "mapPosition": 7,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GPYYY0PPP",
+              "name": "me hotel",
+              "townhallLevel": 18,
+              "mapPosition": 8,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#LVLJ20LCP",
+              "name": "محمد",
+              "townhallLevel": 18,
+              "mapPosition": 9,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#QUU0PJY0R",
+              "name": "麻婆豆腐",
+              "townhallLevel": 18,
+              "mapPosition": 10,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GYJ980Q9Q",
+              "name": "她说她是向日葵.",
+              "townhallLevel": 17,
+              "mapPosition": 11,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GRYPQYQQL",
+              "name": "geronimo",
+              "townhallLevel": 17,
+              "mapPosition": 12,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#R2YUCQU8P",
+              "name": "不慌张的张先生",
+              "townhallLevel": 16,
+              "mapPosition": 13,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GQQ2PPPUV",
+              "name": "LIAN21 KING",
+              "townhallLevel": 15,
+              "mapPosition": 14,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#R9U8VC0YJ",
+              "name": "Moon",
+              "townhallLevel": 9,
+              "mapPosition": 15,
+              "attacksUsed": 0,
+              "isOurClan": false
+            }
+          ],
+          "attacks": []
+        }
+      ]
+    },
     {
       "season": "2026-05",
       "state": "preparation",
