@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-03T07:00:02.060Z",
+  "lastUpdated": "2026-06-03T08:46:44.468Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-03T07:00:02.045Z",
+      "collectedAt": "2026-06-03T08:46:44.459Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-03T07:00:02.045Z",
+          "collectedAt": "2026-06-03T08:46:44.459Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-03T07:00:02.045Z",
+          "collectedAt": "2026-06-03T08:46:44.459Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -552,34 +552,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#8JRC2L02C",
-              "name": "ichigo korusaki",
-              "townhallLevel": 18,
-              "mapPosition": 4,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#QYUJ2YCU",
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#L0CCUYYVQ",
-              "name": "iishikaori",
-              "townhallLevel": 18,
-              "mapPosition": 6,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#Q9UPPQJ92",
-              "name": "iambogik",
-              "townhallLevel": 18,
-              "mapPosition": 7,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -592,10 +568,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#PULY82YUL",
-              "name": "heyd",
+              "tag": "#2GCQJVLL",
+              "name": "slingblade",
               "townhallLevel": 18,
-              "mapPosition": 11,
+              "mapPosition": 9,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -608,22 +584,6 @@
               "isOurClan": true
             },
             {
-              "tag": "#QP0RJLC00",
-              "name": "ang",
-              "townhallLevel": 18,
-              "mapPosition": 13,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#QLLJUUCP2",
-              "name": "***anabelle***",
-              "townhallLevel": 18,
-              "mapPosition": 14,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#LU9LVLYG",
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
@@ -632,10 +592,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#G2LJVQUPU",
-              "name": "jisn",
+              "tag": "#2J2PRRCL",
+              "name": "Aral",
+              "townhallLevel": 17,
+              "mapPosition": 19,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8CUYLRL0",
+              "name": "B-A-M-C-I-S",
               "townhallLevel": 18,
-              "mapPosition": 17,
+              "mapPosition": 20,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -644,6 +612,38 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 21,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#28PQVGGQ8",
+              "name": "Butta",
+              "townhallLevel": 16,
+              "mapPosition": 23,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#8QCRYPQC",
+              "name": "Roland",
+              "townhallLevel": 16,
+              "mapPosition": 24,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#L2G82LUYG",
+              "name": "❤Alpha❤",
+              "townhallLevel": 16,
+              "mapPosition": 25,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QG0VGQLR8",
+              "name": "Jackson Red",
+              "townhallLevel": 15,
+              "mapPosition": 31,
               "attacksUsed": 0,
               "isOurClan": true
             },
