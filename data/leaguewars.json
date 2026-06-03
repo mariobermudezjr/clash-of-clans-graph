@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-02T19:00:01.507Z",
+  "lastUpdated": "2026-06-03T01:00:02.222Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-02T19:00:01.492Z",
+      "collectedAt": "2026-06-03T01:00:02.207Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,12 +62,12 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-02T19:00:01.492Z",
+          "collectedAt": "2026-06-03T01:00:02.207Z",
           "clanStats": {
-            "totalAttacks": 4,
-            "totalStars": 12,
-            "destructionPercentage": 100,
-            "attacksUsed": 4,
+            "totalAttacks": 6,
+            "totalStars": 16,
+            "destructionPercentage": 95.66666666666667,
+            "attacksUsed": 6,
             "attacksAvailable": 15
           },
           "opponentStats": {
@@ -83,7 +83,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -99,7 +99,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -440,6 +440,28 @@
               "destructionPercentage": 100,
               "order": 11,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round1-#2RCV0YPVQ",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#PYPUP9VU9",
+              "defenderName": "Setsuna",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round1-#2RCV0YPVQ",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#GQ9RYU8CQ",
+              "defenderName": "肉麻哥",
+              "stars": 2,
+              "destructionPercentage": 87,
+              "order": 13,
+              "isOurClan": true
             }
           ]
         },
@@ -456,7 +478,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-02T19:00:01.492Z",
+          "collectedAt": "2026-06-03T01:00:02.207Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
