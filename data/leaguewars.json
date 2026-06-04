@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-03T19:00:02.978Z",
+  "lastUpdated": "2026-06-04T01:00:02.516Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-03T19:00:02.963Z",
+      "collectedAt": "2026-06-04T01:00:02.501Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-03T19:00:02.963Z",
+          "collectedAt": "2026-06-04T01:00:02.501Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,19 +511,19 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-03T19:00:02.963Z",
+          "collectedAt": "2026-06-04T01:00:02.501Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 18,
-            "destructionPercentage": 100,
-            "attacksUsed": 6,
+            "totalAttacks": 8,
+            "totalStars": 23,
+            "destructionPercentage": 99.875,
+            "attacksUsed": 8,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 9,
-            "totalStars": 17,
-            "destructionPercentage": 74,
-            "attacksUsed": 9,
+            "totalAttacks": 10,
+            "totalStars": 19,
+            "destructionPercentage": 75.1,
+            "attacksUsed": 10,
             "attacksAvailable": 15
           },
           "members": [
@@ -620,7 +620,7 @@
               "name": "Butta",
               "townhallLevel": 16,
               "mapPosition": 23,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -636,7 +636,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -676,7 +676,7 @@
               "name": "Suka janda",
               "townhallLevel": 16,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -933,6 +933,39 @@
               "destructionPercentage": 69,
               "order": 15,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round2-#2LQRYQVL2",
+              "attackerTag": "#28PQVGGQ8",
+              "attackerName": "Butta",
+              "defenderTag": "#QJ8C0UVLL",
+              "defenderName": "ESCABOR",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round2-#2LQRYQVL2",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#YC22R0V8G",
+              "defenderName": "BTRQ17",
+              "stars": 2,
+              "destructionPercentage": 99,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round2-#2LQRYQVL2",
+              "attackerTag": "#GL02QPUVG",
+              "attackerName": "Suka janda",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 85,
+              "order": 18,
+              "isOurClan": false
             }
           ]
         },
@@ -949,7 +982,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-03T19:00:02.963Z",
+          "collectedAt": "2026-06-04T01:00:02.501Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
