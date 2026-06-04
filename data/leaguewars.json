@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-04T13:00:03.477Z",
+  "lastUpdated": "2026-06-04T19:00:02.764Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-04T13:00:03.462Z",
+      "collectedAt": "2026-06-04T19:00:02.750Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-04T13:00:03.461Z",
+          "collectedAt": "2026-06-04T19:00:02.749Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-04T13:00:03.462Z",
+          "collectedAt": "2026-06-04T19:00:02.749Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,19 +1026,19 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-04T13:00:03.462Z",
+          "collectedAt": "2026-06-04T19:00:02.749Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 15,
-            "destructionPercentage": 100,
-            "attacksUsed": 5,
+            "totalAttacks": 6,
+            "totalStars": 16,
+            "destructionPercentage": 98,
+            "attacksUsed": 6,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 6,
-            "destructionPercentage": 57.333333333333336,
-            "attacksUsed": 3,
+            "totalAttacks": 9,
+            "totalStars": 17,
+            "destructionPercentage": 63.55555555555556,
+            "attacksUsed": 9,
             "attacksAvailable": 15
           },
           "members": [
@@ -1047,7 +1047,7 @@
               "name": "Mist",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1223,7 +1223,7 @@
               "name": "aringkingking",
               "townhallLevel": 15,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1231,7 +1231,7 @@
               "name": "BHENAR DA GREAT",
               "townhallLevel": 15,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1239,7 +1239,7 @@
               "name": "☆ WhİŢë ŠőuĹ ☆",
               "townhallLevel": 15,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1255,7 +1255,7 @@
               "name": "dodo",
               "townhallLevel": 14,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1263,7 +1263,7 @@
               "name": "daday",
               "townhallLevel": 14,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1271,7 +1271,7 @@
               "name": "00001",
               "townhallLevel": 14,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1371,6 +1371,83 @@
               "destructionPercentage": 100,
               "order": 8,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#QV2CUURUG",
+              "attackerName": "00001",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 2,
+              "destructionPercentage": 61,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#QGQQYC28C",
+              "attackerName": "daday",
+              "defenderTag": "#28PQVGGQ8",
+              "defenderName": "Butta",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#G0PV0JGGJ",
+              "attackerName": "dodo",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 1,
+              "destructionPercentage": 53,
+              "order": 11,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#8YY99LQ0V",
+              "attackerName": "BHENAR DA GREAT",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 2,
+              "destructionPercentage": 67,
+              "order": 12,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#9LC9RRJ99",
+              "attackerName": "aringkingking",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 13,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#2990J9G8L",
+              "attackerName": "☆ WhİŢë ŠőuĹ ☆",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 61,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#9PU99J8",
+              "attackerName": "Mist",
+              "defenderTag": "#G8RL8C0VG",
+              "defenderName": "cannon",
+              "stars": 1,
+              "destructionPercentage": 88,
+              "order": 15,
+              "isOurClan": true
             }
           ]
         },
@@ -1387,7 +1464,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-04T13:00:03.462Z",
+          "collectedAt": "2026-06-04T19:00:02.749Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
