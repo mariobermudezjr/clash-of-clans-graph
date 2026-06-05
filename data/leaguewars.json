@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-04T19:00:02.764Z",
+  "lastUpdated": "2026-06-05T01:00:03.516Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-04T19:00:02.750Z",
+      "collectedAt": "2026-06-05T01:00:03.499Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-04T19:00:02.749Z",
+          "collectedAt": "2026-06-05T01:00:03.499Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-04T19:00:02.749Z",
+          "collectedAt": "2026-06-05T01:00:03.499Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,12 +1026,12 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-04T19:00:02.749Z",
+          "collectedAt": "2026-06-05T01:00:03.499Z",
           "clanStats": {
-            "totalAttacks": 6,
-            "totalStars": 16,
+            "totalAttacks": 9,
+            "totalStars": 24,
             "destructionPercentage": 98,
-            "attacksUsed": 6,
+            "attacksUsed": 9,
             "attacksAvailable": 15
           },
           "opponentStats": {
@@ -1063,7 +1063,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1119,7 +1119,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1159,7 +1159,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1448,6 +1448,39 @@
               "destructionPercentage": 88,
               "order": 15,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#2990J9G8L",
+              "defenderName": "☆ WhİŢë ŠőuĹ ☆",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 16,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#222RLQYQR",
+              "defenderName": "pangit",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#G8P20GPRJ",
+              "defenderName": "noy-bok",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 18,
+              "isOurClan": true
             }
           ]
         },
@@ -1464,7 +1497,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-04T19:00:02.749Z",
+          "collectedAt": "2026-06-05T01:00:03.499Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
