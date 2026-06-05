@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-05T07:00:03.299Z",
+  "lastUpdated": "2026-06-05T09:10:58.589Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-05T07:00:03.283Z",
+      "collectedAt": "2026-06-05T09:10:58.576Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-05T07:00:03.283Z",
+          "collectedAt": "2026-06-05T09:10:58.576Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-05T07:00:03.283Z",
+          "collectedAt": "2026-06-05T09:10:58.576Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-05T07:00:03.283Z",
+          "collectedAt": "2026-06-05T09:10:58.576Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1035,10 +1035,10 @@
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 10,
-            "totalStars": 19,
-            "destructionPercentage": 66.1,
-            "attacksUsed": 10,
+            "totalAttacks": 14,
+            "totalStars": 27,
+            "destructionPercentage": 64.42857142857143,
+            "attacksUsed": 14,
             "attacksAvailable": 15
           },
           "members": [
@@ -1175,7 +1175,7 @@
               "name": "arlaine sire",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1183,7 +1183,7 @@
               "name": "pangit",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1199,7 +1199,7 @@
               "name": "arbhenthegreat",
               "townhallLevel": 16,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1215,7 +1215,7 @@
               "name": "♠ Ku John pYu ♣",
               "townhallLevel": 15,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1525,6 +1525,50 @@
               "destructionPercentage": 100,
               "order": 22,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#L0UVLRVL",
+              "attackerName": "♠ Ku John pYu ♣",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 2,
+              "destructionPercentage": 64,
+              "order": 23,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#2PJ0GGGL9",
+              "attackerName": "arbhenthegreat",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 24,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#222RLQYQR",
+              "attackerName": "pangit",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 2,
+              "destructionPercentage": 56,
+              "order": 25,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round3-#Y0Y0RPUJ",
+              "attackerTag": "#2G2QGL8LR",
+              "attackerName": "arlaine sire",
+              "defenderTag": "#882UYU9P",
+              "defenderName": "Pig Grease 2.3",
+              "stars": 2,
+              "destructionPercentage": 59,
+              "order": 26,
+              "isOurClan": false
             }
           ]
         },
@@ -1541,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-05T07:00:03.283Z",
+          "collectedAt": "2026-06-05T09:10:58.576Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -1582,10 +1626,10 @@
               "isOurClan": true
             },
             {
-              "tag": "#QYUJ2YCU",
-              "name": "*General*Tange*",
+              "tag": "#L0CCUYYVQ",
+              "name": "iishikaori",
               "townhallLevel": 18,
-              "mapPosition": 5,
+              "mapPosition": 6,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -1702,14 +1746,6 @@
               "isOurClan": false
             },
             {
-              "tag": "#2G8VLVUU",
-              "name": "きんぐかじゅ",
-              "townhallLevel": 17,
-              "mapPosition": 4,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
               "tag": "#2ULVG8QP",
               "name": "Buzz.",
               "townhallLevel": 16,
@@ -1786,6 +1822,14 @@
               "name": "Bishamonten",
               "townhallLevel": 16,
               "mapPosition": 16,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#GCQP090L2",
+              "name": "くらげほよよ",
+              "townhallLevel": 13,
+              "mapPosition": 17,
               "attacksUsed": 0,
               "isOurClan": false
             },
