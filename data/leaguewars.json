@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-06T07:00:03.799Z",
+  "lastUpdated": "2026-06-06T09:53:48.781Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-06T07:00:03.773Z",
+      "collectedAt": "2026-06-06T09:53:48.756Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-06T07:00:03.772Z",
+          "collectedAt": "2026-06-06T09:53:48.755Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-06T07:00:03.772Z",
+          "collectedAt": "2026-06-06T09:53:48.755Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-06T07:00:03.772Z",
+          "collectedAt": "2026-06-06T09:53:48.756Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,19 +1585,19 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-06T07:00:03.772Z",
+          "collectedAt": "2026-06-06T09:53:48.756Z",
           "clanStats": {
-            "totalAttacks": 10,
-            "totalStars": 28,
-            "destructionPercentage": 96.2,
-            "attacksUsed": 10,
+            "totalAttacks": 11,
+            "totalStars": 31,
+            "destructionPercentage": 96.54545454545455,
+            "attacksUsed": 11,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 11,
-            "totalStars": 21,
-            "destructionPercentage": 69.27272727272727,
-            "attacksUsed": 11,
+            "totalAttacks": 15,
+            "totalStars": 29,
+            "destructionPercentage": 69.8,
+            "attacksUsed": 15,
             "attacksAvailable": 15
           },
           "members": [
@@ -1654,7 +1654,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1726,7 +1726,7 @@
               "name": "くらっしゃー",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1758,7 +1758,7 @@
               "name": "うしじま社長",
               "townhallLevel": 16,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1766,7 +1766,7 @@
               "name": "くらっしゃ〜サブ",
               "townhallLevel": 17,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1830,7 +1830,7 @@
               "name": "くらげほよよ",
               "townhallLevel": 13,
               "mapPosition": 17,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2073,6 +2073,61 @@
               "destructionPercentage": 100,
               "order": 21,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#GYLYULQL8",
+              "defenderName": "ほよほよ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#9J800UJQR",
+              "attackerName": "うしじま社長",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 2,
+              "destructionPercentage": 63,
+              "order": 23,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#92GPJPRCP",
+              "attackerName": "くらっしゃ〜サブ",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 24,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#GCQP090L2",
+              "attackerName": "くらげほよよ",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 2,
+              "destructionPercentage": 56,
+              "order": 25,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#L2VJ922P",
+              "attackerName": "くらっしゃー",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 26,
+              "isOurClan": false
             }
           ]
         },
@@ -2089,7 +2144,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-06T07:00:03.773Z",
+          "collectedAt": "2026-06-06T09:53:48.756Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
