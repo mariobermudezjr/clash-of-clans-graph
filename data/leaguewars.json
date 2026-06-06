@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-06T13:00:04.672Z",
+  "lastUpdated": "2026-06-06T19:00:04.528Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-06T13:00:04.647Z",
+      "collectedAt": "2026-06-06T19:00:04.513Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-06T13:00:04.646Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-06T13:00:04.646Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-06T13:00:04.647Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-06T13:00:04.647Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -2144,19 +2144,19 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-06T13:00:04.647Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
-            "totalAttacks": 2,
-            "totalStars": 6,
-            "destructionPercentage": 100,
-            "attacksUsed": 2,
+            "totalAttacks": 7,
+            "totalStars": 19,
+            "destructionPercentage": 95.14285714285714,
+            "attacksUsed": 7,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 0,
-            "totalStars": 0,
-            "destructionPercentage": 0,
-            "attacksUsed": 0,
+            "totalAttacks": 5,
+            "totalStars": 10,
+            "destructionPercentage": 77.8,
+            "attacksUsed": 5,
             "attacksAvailable": 15
           },
           "members": [
@@ -2213,7 +2213,7 @@
               "name": "slingblade",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2221,7 +2221,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2229,7 +2229,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 18,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2269,7 +2269,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2277,7 +2277,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2285,7 +2285,7 @@
               "name": "king of hero",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2317,7 +2317,7 @@
               "name": "trish",
               "townhallLevel": 17,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2341,7 +2341,7 @@
               "name": "gummybear",
               "townhallLevel": 17,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2373,7 +2373,7 @@
               "name": "yuvi banna",
               "townhallLevel": 16,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2397,7 +2397,7 @@
               "name": "worrier",
               "townhallLevel": 15,
               "mapPosition": 26,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -2423,6 +2423,116 @@
               "destructionPercentage": 100,
               "order": 2,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#888GGVJ9U",
+              "defenderName": "swami",
+              "stars": 2,
+              "destructionPercentage": 81,
+              "order": 3,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#980U80VCQ",
+              "defenderName": "worrier",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 4,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#Q8PR2CYCP",
+              "attackerName": "trish",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 2,
+              "destructionPercentage": 72,
+              "order": 5,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#2VVQVLRP",
+              "defenderName": "napalmfury",
+              "stars": 2,
+              "destructionPercentage": 85,
+              "order": 6,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#9RQYCLRUG",
+              "defenderName": "nanji bhaliya",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 7,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#980U80VCQ",
+              "attackerName": "worrier",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 1,
+              "destructionPercentage": 48,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#LRCJGPQC9",
+              "attackerName": "gummybear",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#9L2PJCR0U",
+              "attackerName": "king of hero",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#LRCJGPQC9",
+              "defenderName": "gummybear",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round5-#20U80VJG9",
+              "attackerTag": "#YUVJ8Q8LR",
+              "attackerName": "yuvi banna",
+              "defenderTag": "#8CUYLRL0",
+              "defenderName": "B-A-M-C-I-S",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 12,
+              "isOurClan": false
             }
           ]
         },
@@ -2439,7 +2549,7 @@
           "preparationStartTime": "20260606T104156.000Z",
           "startTime": "20260607T103933.000Z",
           "endTime": "20260608T103933.000Z",
-          "collectedAt": "2026-06-06T13:00:04.647Z",
+          "collectedAt": "2026-06-06T19:00:04.513Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -2664,14 +2774,6 @@
               "isOurClan": false
             },
             {
-              "tag": "#89Y0GC8",
-              "name": "MovingStar",
-              "townhallLevel": 17,
-              "mapPosition": 14,
-              "attacksUsed": 0,
-              "isOurClan": false
-            },
-            {
               "tag": "#2P0LCLY0C",
               "name": "big wiggy",
               "townhallLevel": 17,
@@ -2692,6 +2794,14 @@
               "name": "Ambush Alley",
               "townhallLevel": 16,
               "mapPosition": 17,
+              "attacksUsed": 0,
+              "isOurClan": false
+            },
+            {
+              "tag": "#PJ098U9",
+              "name": "Extremely.Sharp",
+              "townhallLevel": 17,
+              "mapPosition": 18,
               "attacksUsed": 0,
               "isOurClan": false
             }
