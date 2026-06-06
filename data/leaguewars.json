@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-05T19:00:04.358Z",
+  "lastUpdated": "2026-06-06T01:00:04.347Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-05T19:00:04.327Z",
+      "collectedAt": "2026-06-06T01:00:04.321Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-05T19:00:04.327Z",
+          "collectedAt": "2026-06-06T01:00:04.320Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-05T19:00:04.327Z",
+          "collectedAt": "2026-06-06T01:00:04.321Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-05T19:00:04.327Z",
+          "collectedAt": "2026-06-06T01:00:04.321Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,19 +1585,19 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-05T19:00:04.327Z",
+          "collectedAt": "2026-06-06T01:00:04.321Z",
           "clanStats": {
-            "totalAttacks": 5,
-            "totalStars": 15,
-            "destructionPercentage": 100,
-            "attacksUsed": 5,
+            "totalAttacks": 7,
+            "totalStars": 19,
+            "destructionPercentage": 94.57142857142857,
+            "attacksUsed": 7,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 5,
-            "destructionPercentage": 79,
-            "attacksUsed": 2,
+            "totalAttacks": 7,
+            "totalStars": 15,
+            "destructionPercentage": 70.71428571428571,
+            "attacksUsed": 7,
             "attacksAvailable": 15
           },
           "members": [
@@ -1622,7 +1622,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1718,7 +1718,7 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1742,7 +1742,7 @@
               "name": "(;^_^A",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1798,7 +1798,7 @@
               "name": "atyuki",
               "townhallLevel": 15,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1806,7 +1806,7 @@
               "name": "tomoatu",
               "townhallLevel": 14,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1814,7 +1814,7 @@
               "name": "yui",
               "townhallLevel": 14,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1838,7 +1838,7 @@
               "name": "くらっしゃ〜ズ",
               "townhallLevel": 13,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -1919,6 +1919,83 @@
               "destructionPercentage": 100,
               "order": 7,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#QJ89CRURV",
+              "attackerName": "くらっしゃ〜ズ",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 2,
+              "destructionPercentage": 52,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#G88UGJQ8C",
+              "attackerName": "yui",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 2,
+              "destructionPercentage": 62,
+              "order": 9,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#G0YJCVVL8",
+              "attackerName": "tomoatu",
+              "defenderTag": "#8CUYLRL0",
+              "defenderName": "B-A-M-C-I-S",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 10,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#G20CYRYLY",
+              "attackerName": "atyuki",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 59,
+              "order": 11,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#2V9YRCUVV",
+              "attackerName": "(;^_^A",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 2,
+              "destructionPercentage": 86,
+              "order": 12,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#L2G82LUYG",
+              "attackerName": "❤Alpha❤",
+              "defenderTag": "#QJ89CRURV",
+              "defenderName": "くらっしゃ〜ズ",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round4-#9VRGRQYU",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#2V9YRCUVV",
+              "defenderName": "(;^_^A",
+              "stars": 1,
+              "destructionPercentage": 62,
+              "order": 14,
+              "isOurClan": true
             }
           ]
         },
@@ -1935,7 +2012,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-05T19:00:04.327Z",
+          "collectedAt": "2026-06-06T01:00:04.321Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -1972,6 +2049,14 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 3,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QYUJ2YCU",
+              "name": "*General*Tange*",
+              "townhallLevel": 18,
+              "mapPosition": 5,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -2044,14 +2129,6 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#28PQVGGQ8",
-              "name": "Butta",
-              "townhallLevel": 16,
-              "mapPosition": 23,
               "attacksUsed": 0,
               "isOurClan": true
             },
