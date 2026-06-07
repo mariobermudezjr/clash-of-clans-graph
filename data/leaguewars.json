@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-07T13:00:06.287Z",
+  "lastUpdated": "2026-06-07T19:00:05.039Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-07T13:00:06.272Z",
+      "collectedAt": "2026-06-07T19:00:05.024Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-07T13:00:06.271Z",
+          "collectedAt": "2026-06-07T19:00:05.023Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.023Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.023Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.024Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -2144,7 +2144,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.024Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 29,
@@ -2659,19 +2659,19 @@
           "preparationStartTime": "20260606T104156.000Z",
           "startTime": "20260607T103933.000Z",
           "endTime": "20260608T103933.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.024Z",
           "clanStats": {
-            "totalAttacks": 1,
-            "totalStars": 2,
-            "destructionPercentage": 84,
-            "attacksUsed": 1,
+            "totalAttacks": 6,
+            "totalStars": 11,
+            "destructionPercentage": 77,
+            "attacksUsed": 6,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 2,
-            "totalStars": 4,
-            "destructionPercentage": 84.5,
-            "attacksUsed": 2,
+            "totalAttacks": 8,
+            "totalStars": 14,
+            "destructionPercentage": 78.25,
+            "attacksUsed": 8,
             "attacksAvailable": 15
           },
           "members": [
@@ -2704,7 +2704,7 @@
               "name": "slingblade",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2712,7 +2712,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2744,7 +2744,7 @@
               "name": "Remuism",
               "townhallLevel": 17,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2768,7 +2768,7 @@
               "name": "Roland",
               "townhallLevel": 16,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2792,7 +2792,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2808,7 +2808,7 @@
               "name": "Ultrasharp",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2824,7 +2824,7 @@
               "name": "Very.Sharp",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2832,7 +2832,7 @@
               "name": "Bruiser",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2864,7 +2864,7 @@
               "name": "Not.so.Sharp",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2896,7 +2896,7 @@
               "name": "Alex Voloshyn",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2912,7 +2912,7 @@
               "name": "Extremely.Sharp",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -2949,6 +2949,127 @@
               "destructionPercentage": 88,
               "order": 3,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#QUR9YQU2",
+              "defenderName": "Very.Sharp",
+              "stars": 1,
+              "destructionPercentage": 55,
+              "order": 4,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#20Y9C8V22",
+              "attackerName": "Remuism",
+              "defenderTag": "#P08U0L8PY",
+              "defenderName": "Not.so.Sharp",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 5,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#8QCRYPQC",
+              "attackerName": "Roland",
+              "defenderTag": "#2P0LCLY0C",
+              "defenderName": "big wiggy",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 6,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#PJ098U9",
+              "attackerName": "Extremely.Sharp",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 1,
+              "destructionPercentage": 93,
+              "order": 7,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#P08U0L8PY",
+              "attackerName": "Not.so.Sharp",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 2,
+              "destructionPercentage": 85,
+              "order": 8,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#LYVYJ8GP",
+              "defenderName": "Bruiser",
+              "stars": 2,
+              "destructionPercentage": 71,
+              "order": 9,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#PJ098U9",
+              "defenderName": "Extremely.Sharp",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 10,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#QUR9YQU2",
+              "attackerName": "Very.Sharp",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 11,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#2UYQGP0Y",
+              "attackerName": "Ultrasharp",
+              "defenderTag": "#QYUJ2YCU",
+              "defenderName": "*General*Tange*",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 12,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#LYVYJ8GP",
+              "attackerName": "Bruiser",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 1,
+              "destructionPercentage": 82,
+              "order": 13,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#G8GV089Q",
+              "attackerName": "Alex Voloshyn",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 2,
+              "destructionPercentage": 51,
+              "order": 14,
+              "isOurClan": false
             }
           ]
         },
@@ -2965,7 +3086,7 @@
           "preparationStartTime": "20260607T105010.000Z",
           "startTime": "20260608T105007.000Z",
           "endTime": "20260609T105007.000Z",
-          "collectedAt": "2026-06-07T13:00:06.272Z",
+          "collectedAt": "2026-06-07T19:00:05.024Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
