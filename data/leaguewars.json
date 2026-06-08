@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-08T01:00:06.021Z",
+  "lastUpdated": "2026-06-08T07:00:05.330Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-08T01:00:06.005Z",
+      "collectedAt": "2026-06-08T07:00:05.313Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-08T01:00:06.004Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-08T01:00:06.004Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-08T01:00:06.004Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-08T01:00:06.004Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -2144,7 +2144,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-08T01:00:06.004Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 29,
@@ -2659,19 +2659,19 @@
           "preparationStartTime": "20260606T104156.000Z",
           "startTime": "20260607T103933.000Z",
           "endTime": "20260608T103933.000Z",
-          "collectedAt": "2026-06-08T01:00:06.005Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
-            "totalAttacks": 7,
-            "totalStars": 13,
-            "destructionPercentage": 75.71428571428571,
-            "attacksUsed": 7,
+            "totalAttacks": 10,
+            "totalStars": 17,
+            "destructionPercentage": 75.1,
+            "attacksUsed": 10,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 11,
-            "totalStars": 23,
-            "destructionPercentage": 84.18181818181819,
-            "attacksUsed": 11,
+            "totalAttacks": 13,
+            "totalStars": 28,
+            "destructionPercentage": 86,
+            "attacksUsed": 13,
             "attacksAvailable": 15
           },
           "members": [
@@ -2720,7 +2720,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 18,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2728,7 +2728,7 @@
               "name": "Grizzly Reaper",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2736,7 +2736,7 @@
               "name": "B-A-M-C-I-S",
               "townhallLevel": 18,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -2800,7 +2800,7 @@
               "name": "HELLBAT",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -2816,7 +2816,7 @@
               "name": "Johnwick",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3114,6 +3114,61 @@
               "destructionPercentage": 100,
               "order": 18,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#Q2V29GVCQ",
+              "attackerName": "HELLBAT",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#8CUYLRL0",
+              "attackerName": "B-A-M-C-I-S",
+              "defenderTag": "#R8V8PGCU",
+              "defenderName": "DBoss",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#LU9LVLYG",
+              "attackerName": "Grizzly Reaper",
+              "defenderTag": "#8J2JPGLV9",
+              "defenderName": "!Aibin",
+              "stars": 1,
+              "destructionPercentage": 70,
+              "order": 21,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#JLQ2U00V",
+              "attackerName": "Johnwick",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 2,
+              "destructionPercentage": 92,
+              "order": 22,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round6-#2GGUQPJRV",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#Y9J90LQ8",
+              "defenderName": "Couto",
+              "stars": 1,
+              "destructionPercentage": 83,
+              "order": 23,
+              "isOurClan": true
             }
           ]
         },
@@ -3130,7 +3185,7 @@
           "preparationStartTime": "20260607T105010.000Z",
           "startTime": "20260608T105007.000Z",
           "endTime": "20260609T105007.000Z",
-          "collectedAt": "2026-06-08T01:00:06.005Z",
+          "collectedAt": "2026-06-08T07:00:05.313Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -3146,6 +3201,14 @@
             "attacksAvailable": 15
           },
           "members": [
+            {
+              "tag": "#9PU99J8",
+              "name": "Mist",
+              "townhallLevel": 18,
+              "mapPosition": 1,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
             {
               "tag": "#Q8GPPQ98U",
               "name": "Mr. Frodo",
@@ -3247,14 +3310,6 @@
               "name": "❤Alpha❤",
               "townhallLevel": 16,
               "mapPosition": 25,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
-              "tag": "#QG0VGQLR8",
-              "name": "Jackson Red",
-              "townhallLevel": 15,
-              "mapPosition": 31,
               "attacksUsed": 0,
               "isOurClan": true
             },
