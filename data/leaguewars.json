@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-09T10:49:11.299Z",
+  "lastUpdated": "2026-06-09T13:00:05.856Z",
   "seasons": [
     {
       "season": "2026-06",
-      "state": "inWar",
-      "collectedAt": "2026-06-09T10:49:11.284Z",
+      "state": "ended",
+      "collectedAt": "2026-06-09T13:00:05.841Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -2144,7 +2144,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 29,
@@ -2659,7 +2659,7 @@
           "preparationStartTime": "20260606T104156.000Z",
           "startTime": "20260607T103933.000Z",
           "endTime": "20260608T103933.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 19,
@@ -3203,11 +3203,11 @@
           "opponentTag": "#2CVL982VC",
           "opponentName": "INDIAN FIGHTER",
           "teamSize": 15,
-          "state": "inWar",
+          "state": "warEnded",
           "preparationStartTime": "20260607T105010.000Z",
           "startTime": "20260608T105007.000Z",
           "endTime": "20260609T105007.000Z",
-          "collectedAt": "2026-06-09T10:49:11.284Z",
+          "collectedAt": "2026-06-09T13:00:05.841Z",
           "clanStats": {
             "totalAttacks": 13,
             "totalStars": 35,
