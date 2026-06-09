@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-09T01:00:04.671Z",
+  "lastUpdated": "2026-06-09T07:00:05.175Z",
   "seasons": [
     {
       "season": "2026-06",
       "state": "inWar",
-      "collectedAt": "2026-06-09T01:00:04.654Z",
+      "collectedAt": "2026-06-09T07:00:05.166Z",
       "participatingClans": [
         {
           "tag": "#2GGUQPJRV",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260601T084744.000Z",
           "startTime": "20260602T084743.000Z",
           "endTime": "20260603T084743.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 8,
             "totalStars": 19,
@@ -511,7 +511,7 @@
           "preparationStartTime": "20260602T084755.000Z",
           "startTime": "20260603T084752.000Z",
           "endTime": "20260604T084752.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -1026,7 +1026,7 @@
           "preparationStartTime": "20260603T091200.000Z",
           "startTime": "20260604T091156.000Z",
           "endTime": "20260605T091156.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 12,
             "totalStars": 33,
@@ -1585,7 +1585,7 @@
           "preparationStartTime": "20260604T095447.000Z",
           "startTime": "20260605T095445.000Z",
           "endTime": "20260606T095445.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 31,
@@ -2144,7 +2144,7 @@
           "preparationStartTime": "20260605T101351.000Z",
           "startTime": "20260606T101348.000Z",
           "endTime": "20260607T101348.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 29,
@@ -2659,7 +2659,7 @@
           "preparationStartTime": "20260606T104156.000Z",
           "startTime": "20260607T103933.000Z",
           "endTime": "20260608T103933.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
             "totalAttacks": 11,
             "totalStars": 19,
@@ -3207,19 +3207,19 @@
           "preparationStartTime": "20260607T105010.000Z",
           "startTime": "20260608T105007.000Z",
           "endTime": "20260609T105007.000Z",
-          "collectedAt": "2026-06-09T01:00:04.654Z",
+          "collectedAt": "2026-06-09T07:00:05.166Z",
           "clanStats": {
-            "totalAttacks": 8,
-            "totalStars": 22,
-            "destructionPercentage": 96.625,
-            "attacksUsed": 8,
+            "totalAttacks": 12,
+            "totalStars": 32,
+            "destructionPercentage": 97.08333333333333,
+            "attacksUsed": 12,
             "attacksAvailable": 15
           },
           "opponentStats": {
-            "totalAttacks": 3,
-            "totalStars": 8,
-            "destructionPercentage": 98,
-            "attacksUsed": 3,
+            "totalAttacks": 10,
+            "totalStars": 24,
+            "destructionPercentage": 90.7,
+            "attacksUsed": 10,
             "attacksAvailable": 15
           },
           "members": [
@@ -3236,7 +3236,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3252,7 +3252,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3268,7 +3268,7 @@
               "name": "Oculus Rift™",
               "townhallLevel": 18,
               "mapPosition": 10,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3340,7 +3340,7 @@
               "name": "SkyHigh",
               "townhallLevel": 15,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3356,7 +3356,7 @@
               "name": "CHAMPION LADY❣️",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3364,7 +3364,7 @@
               "name": "CHAMPION LADY",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3372,7 +3372,7 @@
               "name": "X HERT",
               "townhallLevel": 17,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3380,7 +3380,7 @@
               "name": "KINGxOp",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3396,7 +3396,7 @@
               "name": "SHADOW",
               "townhallLevel": 16,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3404,7 +3404,7 @@
               "name": "Acid 8",
               "townhallLevel": 16,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3428,7 +3428,7 @@
               "name": "亗ＫＩＮＧ亗",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3584,6 +3584,127 @@
               "stars": 1,
               "destructionPercentage": 73,
               "order": 11,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#89G9JQJP",
+              "attackerName": "Oculus Rift™",
+              "defenderTag": "#P8VLPRLP9",
+              "defenderName": "shanawaz",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 12,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#G8J8VLY28",
+              "attackerName": "SkyHigh",
+              "defenderTag": "#GURLV9L00",
+              "defenderName": "CHAMPIONxKING",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 13,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#LCRJY88JY",
+              "attackerName": "KINGxOp",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 14,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#Q9JPQG2J2",
+              "attackerName": "CHAMPION LADY❣️",
+              "defenderTag": "#QYUJ2YCU",
+              "defenderName": "*General*Tange*",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 15,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#Y0VU0L8CU",
+              "attackerName": "CHAMPION LADY",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#9CGRRYRUR",
+              "attackerName": "X HERT",
+              "defenderTag": "#89G9JQJP",
+              "defenderName": "Oculus Rift™",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 17,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#GLCR2J2G0",
+              "attackerName": "亗ＫＩＮＧ亗",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 1,
+              "destructionPercentage": 59,
+              "order": 18,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#Y2CRV8R2Q",
+              "attackerName": "Acid 8",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 19,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#QL0Y8G2YC",
+              "attackerName": "SHADOW",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 99,
+              "order": 20,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#GQQ2P82CQ",
+              "defenderName": "SOLOxKING>>2",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 21,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-06-round7-#2CVL982VC",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#Q9JPQG2J2",
+              "defenderName": "CHAMPION LADY❣️",
+              "stars": 1,
+              "destructionPercentage": 92,
+              "order": 22,
               "isOurClan": true
             }
           ]
