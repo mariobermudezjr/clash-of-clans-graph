@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04T13:00:15.326Z",
+  "lastUpdated": "2026-07-04T19:00:02.314Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-04T13:00:15.308Z",
+      "collectedAt": "2026-07-04T19:00:02.282Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-04T13:00:15.308Z",
+          "collectedAt": "2026-07-04T19:00:02.282Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 75,
@@ -1191,19 +1191,19 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-04T13:00:15.308Z",
+          "collectedAt": "2026-07-04T19:00:02.282Z",
           "clanStats": {
-            "totalAttacks": 18,
-            "totalStars": 46,
-            "destructionPercentage": 91.88888888888889,
-            "attacksUsed": 18,
+            "totalAttacks": 27,
+            "totalStars": 69,
+            "destructionPercentage": 93.51851851851852,
+            "attacksUsed": 27,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 13,
-            "totalStars": 29,
-            "destructionPercentage": 84.38461538461539,
-            "attacksUsed": 13,
+            "totalAttacks": 30,
+            "totalStars": 70,
+            "destructionPercentage": 85.63333333333334,
+            "attacksUsed": 30,
             "attacksAvailable": 30
           },
           "members": [
@@ -1228,7 +1228,7 @@
               "name": "*General*Tange*",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1308,7 +1308,7 @@
               "name": "mk33",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1324,7 +1324,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1332,7 +1332,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1348,7 +1348,7 @@
               "name": "Toby",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1372,7 +1372,7 @@
               "name": "Psycho",
               "townhallLevel": 16,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1388,7 +1388,7 @@
               "name": "José Carlos",
               "townhallLevel": 15,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1436,7 +1436,7 @@
               "name": "ÁYÚSH",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1444,7 +1444,7 @@
               "name": "Tap!",
               "townhallLevel": 16,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1452,7 +1452,7 @@
               "name": "ᴘʙꜱ•ᴹᴵᴰᴺᴵᴳᴴᵀ",
               "townhallLevel": 18,
               "mapPosition": 1,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1460,7 +1460,7 @@
               "name": "Avocados",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1484,7 +1484,7 @@
               "name": "ＴＲＩＯＸＩＤＥ",
               "townhallLevel": 16,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1500,7 +1500,7 @@
               "name": "the emperor 98",
               "townhallLevel": 16,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1516,7 +1516,7 @@
               "name": "Azis #46",
               "townhallLevel": 15,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1532,7 +1532,7 @@
               "name": "Zen.",
               "townhallLevel": 15,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1548,7 +1548,7 @@
               "name": "shi hao",
               "townhallLevel": 16,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1564,7 +1564,7 @@
               "name": "KU 23 PR",
               "townhallLevel": 15,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1572,7 +1572,7 @@
               "name": "Alham",
               "townhallLevel": 15,
               "mapPosition": 19,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1588,7 +1588,7 @@
               "name": "Alham²",
               "townhallLevel": 14,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1604,7 +1604,7 @@
               "name": "Alham³",
               "townhallLevel": 14,
               "mapPosition": 23,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1644,7 +1644,7 @@
               "name": "Maljaazzz",
               "townhallLevel": 14,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1652,7 +1652,7 @@
               "name": "Lookman",
               "townhallLevel": 14,
               "mapPosition": 32,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1660,7 +1660,7 @@
               "name": "CW_Superminer",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1668,7 +1668,7 @@
               "name": "Alham⁴",
               "townhallLevel": 14,
               "mapPosition": 34,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1676,7 +1676,7 @@
               "name": "CW_CEO MBG",
               "townhallLevel": 14,
               "mapPosition": 35,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -1684,7 +1684,7 @@
               "name": "heri_satrio",
               "townhallLevel": 13,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             }
           ],
@@ -2029,6 +2029,292 @@
               "destructionPercentage": 100,
               "order": 31,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#QRU0VC8G9",
+              "attackerName": "Alham⁴",
+              "defenderTag": "#QQ99RULQ",
+              "defenderName": "Daddy",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 32,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#LQRL2GQ0U",
+              "attackerName": "Alham³",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 33,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#8LRJ8RGGC",
+              "attackerName": "José Carlos",
+              "defenderTag": "#8GCLPYYRR",
+              "defenderName": "DEMIGOD fs",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 34,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#GP02UV902",
+              "attackerName": "KU 23 PR",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 35,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#PYVVLPVUQ",
+              "attackerName": "Alham",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 36,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#8290G8V9C",
+              "attackerName": "Azis #46",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 37,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#GQRJURPJ9",
+              "attackerName": "shi hao",
+              "defenderTag": "#89GR8J922",
+              "defenderName": "mk33",
+              "stars": 1,
+              "destructionPercentage": 34,
+              "order": 38,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#9GPGCLJQR",
+              "attackerName": "ᴘʙꜱ•ᴹᴵᴰᴺᴵᴳᴴᵀ",
+              "defenderTag": "#9PU99J8",
+              "defenderName": "Mist",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 39,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#QJ8889C9U",
+              "attackerName": "Lookman",
+              "defenderTag": "#GYYRGQU08",
+              "defenderName": "IXG.YASH",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 40,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#QYUJ2YCU",
+              "attackerName": "*General*Tange*",
+              "defenderTag": "#G2CUCGQCU",
+              "defenderName": "Ppujic/////////",
+              "stars": 2,
+              "destructionPercentage": 84,
+              "order": 41,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#GG80C0JG2",
+              "attackerName": "CW_Superminer",
+              "defenderTag": "#8YUC0PJRC",
+              "defenderName": "Nero❤️",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 42,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#GQG0RU822",
+              "attackerName": "CW_CEO MBG",
+              "defenderTag": "#9RV9YQU9Q",
+              "defenderName": "ÁYÚSH",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 43,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#GL9QR28R8",
+              "attackerName": "heri_satrio",
+              "defenderTag": "#G22CCUQPG",
+              "defenderName": "Tap!",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 44,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#LULUQ8YU2",
+              "attackerName": "the emperor 98",
+              "defenderTag": "#YCY9LRV08",
+              "defenderName": "saeid",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 45,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#Q20LPVGUJ",
+              "attackerName": "ＴＲＩＯＸＩＤＥ",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 2,
+              "destructionPercentage": 99,
+              "order": 46,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#PRLPC008U",
+              "attackerName": "Avocados",
+              "defenderTag": "#Q8GPPQ98U",
+              "defenderName": "Mr. Frodo",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 47,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#PYVVLPVUQ",
+              "defenderName": "Alham",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 48,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#QY2YUUVCP",
+              "attackerName": "Psycho",
+              "defenderTag": "#GLG8092RC",
+              "defenderName": "CW_SuperGoblin",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 49,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#2G02GG9U9",
+              "attackerName": "Toby",
+              "defenderTag": "#YRJ2CRR8G",
+              "defenderName": "Alham²",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 50,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#GP02UV902",
+              "defenderName": "KU 23 PR",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 51,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#89GR8J922",
+              "attackerName": "mk33",
+              "defenderTag": "#GQRJURPJ9",
+              "defenderName": "shi hao",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 52,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#G22CCUQPG",
+              "attackerName": "Tap!",
+              "defenderTag": "#GL9QR28R8",
+              "defenderName": "heri_satrio",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 53,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#YRJ2CRR8G",
+              "attackerName": "Alham²",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 83,
+              "order": 54,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#LYLGPYVJ9",
+              "attackerName": "Zen.",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 2,
+              "destructionPercentage": 63,
+              "order": 55,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#QQYJYU89J",
+              "attackerName": "Maljaazzz",
+              "defenderTag": "#G8J8VLY28",
+              "defenderName": "SkyHigh",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 56,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round2-#2YLVJRGQL",
+              "attackerTag": "#9RV9YQU9Q",
+              "attackerName": "ÁYÚSH",
+              "defenderTag": "#GQG0RU822",
+              "defenderName": "CW_CEO MBG",
+              "stars": 2,
+              "destructionPercentage": 94,
+              "order": 57,
+              "isOurClan": true
             }
           ]
         },
@@ -2045,7 +2331,7 @@
           "preparationStartTime": "20260704T024746.000Z",
           "startTime": "20260705T024742.000Z",
           "endTime": "20260706T024742.000Z",
-          "collectedAt": "2026-07-04T13:00:15.308Z",
+          "collectedAt": "2026-07-04T19:00:02.282Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -2246,14 +2532,6 @@
               "isOurClan": true
             },
             {
-              "tag": "#LQV2VVVC8",
-              "name": "TFㅤMUHAIMIN",
-              "townhallLevel": 15,
-              "mapPosition": 26,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#G8J8VLY28",
               "name": "SkyHigh",
               "townhallLevel": 15,
@@ -2286,18 +2564,26 @@
               "isOurClan": true
             },
             {
-              "tag": "#9RV9YQU9Q",
-              "name": "ÁYÚSH",
-              "townhallLevel": 14,
-              "mapPosition": 33,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#G22CCUQPG",
               "name": "Tap!",
               "townhallLevel": 16,
               "mapPosition": 34,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#9L2VVLUL9",
+              "name": "bloodhunter",
+              "townhallLevel": 13,
+              "mapPosition": 36,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QUQUVY9Q8",
+              "name": "parth",
+              "townhallLevel": 13,
+              "mapPosition": 37,
               "attacksUsed": 0,
               "isOurClan": true
             },
