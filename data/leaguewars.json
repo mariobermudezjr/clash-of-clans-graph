@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-03T19:00:02.351Z",
+  "lastUpdated": "2026-07-04T01:00:01.762Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-03T19:00:02.334Z",
+      "collectedAt": "2026-07-04T01:00:01.741Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,12 +62,12 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-03T19:00:02.334Z",
+          "collectedAt": "2026-07-04T01:00:01.740Z",
           "clanStats": {
-            "totalAttacks": 23,
-            "totalStars": 63,
-            "destructionPercentage": 96,
-            "attacksUsed": 23,
+            "totalAttacks": 26,
+            "totalStars": 72,
+            "destructionPercentage": 96.46153846153847,
+            "attacksUsed": 26,
             "attacksAvailable": 30
           },
           "opponentStats": {
@@ -131,7 +131,7 @@
               "name": "saeid",
               "townhallLevel": 18,
               "mapPosition": 7,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -195,7 +195,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -291,7 +291,7 @@
               "name": "Daddy",
               "townhallLevel": 14,
               "mapPosition": 31,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -1131,6 +1131,39 @@
               "destructionPercentage": 100,
               "order": 52,
               "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round1-#2RJ28UC9P",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#GG0J8Q2GY",
+              "defenderName": "belang",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 53,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round1-#2RJ28UC9P",
+              "attackerTag": "#YCY9LRV08",
+              "attackerName": "saeid",
+              "defenderTag": "#99QCUGCYJ",
+              "defenderName": "........",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 54,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round1-#2RJ28UC9P",
+              "attackerTag": "#QQ99RULQ",
+              "attackerName": "Daddy",
+              "defenderTag": "#QYYJRYQ0U",
+              "defenderName": "Dimas♋Suka♋Game",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 55,
+              "isOurClan": true
             }
           ]
         },
@@ -1147,7 +1180,7 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-03T19:00:02.334Z",
+          "collectedAt": "2026-07-04T01:00:01.741Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
