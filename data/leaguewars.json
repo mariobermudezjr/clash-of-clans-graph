@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-04T19:00:02.314Z",
+  "lastUpdated": "2026-07-05T01:00:03.056Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-04T19:00:02.282Z",
+      "collectedAt": "2026-07-05T01:00:03.038Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-04T19:00:02.282Z",
+          "collectedAt": "2026-07-05T01:00:03.038Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 75,
@@ -1191,7 +1191,7 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-04T19:00:02.282Z",
+          "collectedAt": "2026-07-05T01:00:03.038Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 69,
@@ -2331,7 +2331,7 @@
           "preparationStartTime": "20260704T024746.000Z",
           "startTime": "20260705T024742.000Z",
           "endTime": "20260706T024742.000Z",
-          "collectedAt": "2026-07-04T19:00:02.282Z",
+          "collectedAt": "2026-07-05T01:00:03.038Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
@@ -2548,18 +2548,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#8YUC0PJRC",
-              "name": "Nero❤️",
-              "townhallLevel": 14,
-              "mapPosition": 30,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#QQ99RULQ",
               "name": "Daddy",
               "townhallLevel": 14,
               "mapPosition": 31,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#9RV9YQU9Q",
+              "name": "ÁYÚSH",
+              "townhallLevel": 14,
+              "mapPosition": 33,
               "attacksUsed": 0,
               "isOurClan": true
             },
@@ -2572,18 +2572,18 @@
               "isOurClan": true
             },
             {
-              "tag": "#9L2VVLUL9",
-              "name": "bloodhunter",
-              "townhallLevel": 13,
-              "mapPosition": 36,
-              "attacksUsed": 0,
-              "isOurClan": true
-            },
-            {
               "tag": "#QUQUVY9Q8",
               "name": "parth",
               "townhallLevel": 13,
               "mapPosition": 37,
+              "attacksUsed": 0,
+              "isOurClan": true
+            },
+            {
+              "tag": "#QJ2VLGP9U",
+              "name": "prem",
+              "townhallLevel": 11,
+              "mapPosition": 38,
               "attacksUsed": 0,
               "isOurClan": true
             },
