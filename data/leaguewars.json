@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-06T19:00:04.525Z",
+  "lastUpdated": "2026-07-07T01:00:04.405Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-06T19:00:04.508Z",
+      "collectedAt": "2026-07-07T01:00:04.392Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-06T19:00:04.507Z",
+          "collectedAt": "2026-07-07T01:00:04.392Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 75,
@@ -1191,7 +1191,7 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-06T19:00:04.507Z",
+          "collectedAt": "2026-07-07T01:00:04.392Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 69,
@@ -2331,7 +2331,7 @@
           "preparationStartTime": "20260704T024746.000Z",
           "startTime": "20260705T024742.000Z",
           "endTime": "20260706T024742.000Z",
-          "collectedAt": "2026-07-06T19:00:04.507Z",
+          "collectedAt": "2026-07-07T01:00:04.392Z",
           "clanStats": {
             "totalAttacks": 28,
             "totalStars": 77,
@@ -3306,19 +3306,19 @@
           "preparationStartTime": "20260705T030818.000Z",
           "startTime": "20260706T030704.000Z",
           "endTime": "20260707T030704.000Z",
-          "collectedAt": "2026-07-06T19:00:04.508Z",
+          "collectedAt": "2026-07-07T01:00:04.392Z",
           "clanStats": {
-            "totalAttacks": 22,
-            "totalStars": 42,
-            "destructionPercentage": 75.72727272727273,
-            "attacksUsed": 22,
+            "totalAttacks": 26,
+            "totalStars": 51,
+            "destructionPercentage": 77.88461538461539,
+            "attacksUsed": 26,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 14,
-            "totalStars": 29,
-            "destructionPercentage": 82.35714285714286,
-            "attacksUsed": 14,
+            "totalAttacks": 22,
+            "totalStars": 48,
+            "destructionPercentage": 82,
+            "attacksUsed": 22,
             "attacksAvailable": 30
           },
           "members": [
@@ -3351,7 +3351,7 @@
               "name": "ichigo korusaki",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3359,7 +3359,7 @@
               "name": "iishikaori",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3383,7 +3383,7 @@
               "name": "iambogik",
               "townhallLevel": 18,
               "mapPosition": 8,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3407,7 +3407,7 @@
               "name": "ang",
               "townhallLevel": 18,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -3583,7 +3583,7 @@
               "name": "Ungoliant",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3599,7 +3599,7 @@
               "name": "dani",
               "townhallLevel": 18,
               "mapPosition": 5,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3655,7 +3655,7 @@
               "name": "chu",
               "townhallLevel": 18,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3663,7 +3663,7 @@
               "name": "Dr. Manhattan",
               "townhallLevel": 18,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3671,7 +3671,7 @@
               "name": "HighCotton",
               "townhallLevel": 18,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3687,7 +3687,7 @@
               "name": "Ian",
               "townhallLevel": 18,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3703,7 +3703,7 @@
               "name": "el jefe",
               "townhallLevel": 18,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -3719,7 +3719,7 @@
               "name": "romo2.0",
               "townhallLevel": 18,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4199,6 +4199,138 @@
               "destructionPercentage": 100,
               "order": 36,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#8JRC2L02C",
+              "attackerName": "ichigo korusaki",
+              "defenderTag": "#PRYYV220",
+              "defenderName": "Ungoliant",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 37,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#Q9UPPQJ92",
+              "attackerName": "iambogik",
+              "defenderTag": "#90P9LRCQ",
+              "defenderName": "Lefty",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 38,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#QP0RJLC00",
+              "attackerName": "ang",
+              "defenderTag": "#RC2VYJ09",
+              "defenderName": "parvin",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 39,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#L0CCUYYVQ",
+              "attackerName": "iishikaori",
+              "defenderTag": "#QCGQYY2P",
+              "defenderName": "dani",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 40,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#QCGQYY2P",
+              "attackerName": "dani",
+              "defenderTag": "#L0CCUYYVQ",
+              "defenderName": "iishikaori",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 41,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#GYGU89LJ",
+              "attackerName": "HighCotton",
+              "defenderTag": "#Q2JQ90CLJ",
+              "defenderName": "El MEJOR",
+              "stars": 2,
+              "destructionPercentage": 67,
+              "order": 42,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#PRYYV220",
+              "attackerName": "Ungoliant",
+              "defenderTag": "#QYUJ2YCU",
+              "defenderName": "*General*Tange*",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 43,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#GYY8CCLJU",
+              "attackerName": "Ian",
+              "defenderTag": "#2J2PRRCL",
+              "defenderName": "Aral",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 44,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#L8CQ28YV",
+              "attackerName": "chu",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 45,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#VLV9GPVY",
+              "attackerName": "Dr. Manhattan",
+              "defenderTag": "#89GR8J922",
+              "defenderName": "mk33",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 46,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#8VGU8VCYQ",
+              "attackerName": "el jefe",
+              "defenderTag": "#2G02GG9U9",
+              "defenderName": "Toby",
+              "stars": 2,
+              "destructionPercentage": 61,
+              "order": 47,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round4-#98VJCRQQ",
+              "attackerTag": "#20UVJJPVJ",
+              "attackerName": "romo2.0",
+              "defenderTag": "#L2G82LUYG",
+              "defenderName": "❤Alpha❤",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 48,
+              "isOurClan": false
             }
           ]
         },
@@ -4215,7 +4347,7 @@
           "preparationStartTime": "20260706T030717.000Z",
           "startTime": "20260707T030714.000Z",
           "endTime": "20260708T030714.000Z",
-          "collectedAt": "2026-07-06T19:00:04.508Z",
+          "collectedAt": "2026-07-07T01:00:04.392Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
