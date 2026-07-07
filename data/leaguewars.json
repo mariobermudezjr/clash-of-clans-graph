@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-07T13:00:05.758Z",
+  "lastUpdated": "2026-07-07T19:00:04.827Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-07T13:00:05.739Z",
+      "collectedAt": "2026-07-07T19:00:04.812Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 75,
@@ -1191,7 +1191,7 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 69,
@@ -2331,7 +2331,7 @@
           "preparationStartTime": "20260704T024746.000Z",
           "startTime": "20260705T024742.000Z",
           "endTime": "20260706T024742.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
             "totalAttacks": 28,
             "totalStars": 77,
@@ -3306,7 +3306,7 @@
           "preparationStartTime": "20260705T030818.000Z",
           "startTime": "20260706T030704.000Z",
           "endTime": "20260707T030704.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
             "totalAttacks": 26,
             "totalStars": 51,
@@ -4369,19 +4369,19 @@
           "preparationStartTime": "20260706T030717.000Z",
           "startTime": "20260707T030714.000Z",
           "endTime": "20260708T030714.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
-            "totalAttacks": 15,
-            "totalStars": 39,
-            "destructionPercentage": 92.93333333333334,
-            "attacksUsed": 15,
+            "totalAttacks": 25,
+            "totalStars": 62,
+            "destructionPercentage": 91.72,
+            "attacksUsed": 25,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 9,
-            "totalStars": 21,
-            "destructionPercentage": 90.22222222222223,
-            "attacksUsed": 9,
+            "totalAttacks": 18,
+            "totalStars": 40,
+            "destructionPercentage": 86.16666666666667,
+            "attacksUsed": 18,
             "attacksAvailable": 30
           },
           "members": [
@@ -4398,7 +4398,7 @@
               "name": "Mr. Frodo",
               "townhallLevel": 18,
               "mapPosition": 2,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4430,7 +4430,7 @@
               "name": "UZUMAKI NARUTO",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4486,7 +4486,7 @@
               "name": "mk33",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4494,7 +4494,7 @@
               "name": "El MEJOR",
               "townhallLevel": 17,
               "mapPosition": 14,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4502,7 +4502,7 @@
               "name": "coicoi",
               "townhallLevel": 17,
               "mapPosition": 15,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4510,7 +4510,7 @@
               "name": "Aral",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4526,7 +4526,7 @@
               "name": "Toby",
               "townhallLevel": 17,
               "mapPosition": 18,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4582,7 +4582,7 @@
               "name": "IXG.YASH",
               "townhallLevel": 15,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4614,7 +4614,7 @@
               "name": "parth",
               "townhallLevel": 13,
               "mapPosition": 37,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4622,7 +4622,7 @@
               "name": "prem",
               "townhallLevel": 11,
               "mapPosition": 38,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4646,7 +4646,7 @@
               "name": "K.GOPINATH",
               "townhallLevel": 18,
               "mapPosition": 3,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4654,7 +4654,7 @@
               "name": "samiksha",
               "townhallLevel": 18,
               "mapPosition": 4,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4670,7 +4670,7 @@
               "name": "RajeshRagav8067",
               "townhallLevel": 18,
               "mapPosition": 6,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4694,7 +4694,7 @@
               "name": "AlwinJessi No:7",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4710,7 +4710,7 @@
               "name": "samiinzhi",
               "townhallLevel": 17,
               "mapPosition": 11,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4718,7 +4718,7 @@
               "name": "prem",
               "townhallLevel": 17,
               "mapPosition": 12,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4742,7 +4742,7 @@
               "name": "Karthik",
               "townhallLevel": 17,
               "mapPosition": 16,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4758,7 +4758,7 @@
               "name": "kalai",
               "townhallLevel": 16,
               "mapPosition": 20,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4822,7 +4822,7 @@
               "name": "JACK SPARROW",
               "townhallLevel": 14,
               "mapPosition": 29,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5130,6 +5130,215 @@
               "destructionPercentage": 80,
               "order": 24,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#Q8GPPQ98U",
+              "attackerName": "Mr. Frodo",
+              "defenderTag": "#VYLPQ8YV",
+              "defenderName": "kris",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 25,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#Q2JQ90CLJ",
+              "attackerName": "El MEJOR",
+              "defenderTag": "#29929CQJJ",
+              "defenderName": "RAJAN",
+              "stars": 2,
+              "destructionPercentage": 96,
+              "order": 26,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#P2CJRRRY8",
+              "attackerName": "AlwinJessi No:7",
+              "defenderTag": "#2GCQJVLL",
+              "defenderName": "slingblade",
+              "stars": 1,
+              "destructionPercentage": 75,
+              "order": 27,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#L0CVYLJJ",
+              "attackerName": "prem",
+              "defenderTag": "#LU9LVLYG",
+              "defenderName": "Grizzly Reaper",
+              "stars": 2,
+              "destructionPercentage": 78,
+              "order": 28,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#GL0J0QJJU",
+              "attackerName": "kalai",
+              "defenderTag": "#20Y9C8V22",
+              "defenderName": "Remuism",
+              "stars": 2,
+              "destructionPercentage": 73,
+              "order": 29,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#2J2PRRCL",
+              "attackerName": "Aral",
+              "defenderTag": "#G2YRGRPGC",
+              "defenderName": "Steel Claw",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 30,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#9GJGPVU00",
+              "attackerName": "RajeshRagav8067",
+              "defenderTag": "#QLLPGJL29",
+              "defenderName": "UZUMAKI NARUTO",
+              "stars": 2,
+              "destructionPercentage": 77,
+              "order": 31,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#UGRUG88Y",
+              "attackerName": "Karthik",
+              "defenderTag": "#LRRGGPV2",
+              "defenderName": "coicoi",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 32,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#RLJ8820V",
+              "attackerName": "K.GOPINATH",
+              "defenderTag": "#QYUJ2YCU",
+              "defenderName": "*General*Tange*",
+              "stars": 2,
+              "destructionPercentage": 68,
+              "order": 33,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#L8Q9LQLUC",
+              "attackerName": "samiinzhi",
+              "defenderTag": "#QP0RJLC00",
+              "defenderName": "ang",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 34,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#22UVRJRC9",
+              "attackerName": "samiksha",
+              "defenderTag": "#8JRC2L02C",
+              "defenderName": "ichigo korusaki",
+              "stars": 2,
+              "destructionPercentage": 93,
+              "order": 35,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#2G02GG9U9",
+              "attackerName": "Toby",
+              "defenderTag": "#8Y28LLLQC",
+              "defenderName": "vinay the hulk",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 36,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#LRRGGPV2",
+              "attackerName": "coicoi",
+              "defenderTag": "#UGRUG88Y",
+              "defenderName": "Karthik",
+              "stars": 2,
+              "destructionPercentage": 70,
+              "order": 37,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#89GR8J922",
+              "attackerName": "mk33",
+              "defenderTag": "#GRY2C2CVR",
+              "defenderName": "Sasidharan sasi",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 38,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#GYYRGQU08",
+              "attackerName": "IXG.YASH",
+              "defenderTag": "#GGRUQVGG2",
+              "defenderName": "JACK SPARROW",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 39,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#GGRUQVGG2",
+              "attackerName": "JACK SPARROW",
+              "defenderTag": "#G22CCUQPG",
+              "defenderName": "Tap!",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 40,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#QLLPGJL29",
+              "attackerName": "UZUMAKI NARUTO",
+              "defenderTag": "#9GJGPVU00",
+              "defenderName": "RajeshRagav8067",
+              "stars": 2,
+              "destructionPercentage": 97,
+              "order": 41,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#QJ2VLGP9U",
+              "attackerName": "prem",
+              "defenderTag": "#PRY9C0P8L",
+              "defenderName": "Shrey",
+              "stars": 2,
+              "destructionPercentage": 58,
+              "order": 42,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#QUQUVY9Q8",
+              "attackerName": "parth",
+              "defenderTag": "#L9JQU9LRR",
+              "defenderName": "Thalashankar",
+              "stars": 1,
+              "destructionPercentage": 81,
+              "order": 43,
+              "isOurClan": true
             }
           ]
         },
@@ -5146,7 +5355,7 @@
           "preparationStartTime": "20260707T035200.000Z",
           "startTime": "20260708T035132.000Z",
           "endTime": "20260709T035132.000Z",
-          "collectedAt": "2026-07-07T13:00:05.739Z",
+          "collectedAt": "2026-07-07T19:00:04.812Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
