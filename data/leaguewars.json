@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-07T07:00:05.072Z",
+  "lastUpdated": "2026-07-07T13:00:05.758Z",
   "seasons": [
     {
       "season": "2026-07-02",
       "state": "inWar",
-      "collectedAt": "2026-07-07T07:00:05.057Z",
+      "collectedAt": "2026-07-07T13:00:05.739Z",
       "participatingClans": [
         {
           "tag": "#2YLVJRGQL",
@@ -62,7 +62,7 @@
           "preparationStartTime": "20260702T021800.000Z",
           "startTime": "20260703T021757.000Z",
           "endTime": "20260704T021757.000Z",
-          "collectedAt": "2026-07-07T07:00:05.056Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 75,
@@ -1191,7 +1191,7 @@
           "preparationStartTime": "20260703T024338.000Z",
           "startTime": "20260704T024335.000Z",
           "endTime": "20260705T024335.000Z",
-          "collectedAt": "2026-07-07T07:00:05.057Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
             "totalAttacks": 27,
             "totalStars": 69,
@@ -2331,7 +2331,7 @@
           "preparationStartTime": "20260704T024746.000Z",
           "startTime": "20260705T024742.000Z",
           "endTime": "20260706T024742.000Z",
-          "collectedAt": "2026-07-07T07:00:05.057Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
             "totalAttacks": 28,
             "totalStars": 77,
@@ -3306,7 +3306,7 @@
           "preparationStartTime": "20260705T030818.000Z",
           "startTime": "20260706T030704.000Z",
           "endTime": "20260707T030704.000Z",
-          "collectedAt": "2026-07-07T07:00:05.057Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
             "totalAttacks": 26,
             "totalStars": 51,
@@ -4369,19 +4369,19 @@
           "preparationStartTime": "20260706T030717.000Z",
           "startTime": "20260707T030714.000Z",
           "endTime": "20260708T030714.000Z",
-          "collectedAt": "2026-07-07T07:00:05.057Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
-            "totalAttacks": 11,
-            "totalStars": 30,
-            "destructionPercentage": 95.72727272727273,
-            "attacksUsed": 11,
+            "totalAttacks": 15,
+            "totalStars": 39,
+            "destructionPercentage": 92.93333333333334,
+            "attacksUsed": 15,
             "attacksAvailable": 30
           },
           "opponentStats": {
-            "totalAttacks": 4,
-            "totalStars": 9,
-            "destructionPercentage": 90.5,
-            "attacksUsed": 4,
+            "totalAttacks": 9,
+            "totalStars": 21,
+            "destructionPercentage": 90.22222222222223,
+            "attacksUsed": 9,
             "attacksAvailable": 30
           },
           "members": [
@@ -4454,7 +4454,7 @@
               "name": "slingblade",
               "townhallLevel": 18,
               "mapPosition": 9,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4550,7 +4550,7 @@
               "name": "Psycho",
               "townhallLevel": 16,
               "mapPosition": 21,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4558,7 +4558,7 @@
               "name": "AYUSH",
               "townhallLevel": 15,
               "mapPosition": 23,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4598,7 +4598,7 @@
               "name": "ÁYÚSH",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": true
             },
             {
@@ -4726,7 +4726,7 @@
               "name": "Sasidharan sasi",
               "townhallLevel": 17,
               "mapPosition": 13,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4774,7 +4774,7 @@
               "name": "Steve",
               "townhallLevel": 16,
               "mapPosition": 22,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4790,7 +4790,7 @@
               "name": "DR.PRAKASHMENON",
               "townhallLevel": 17,
               "mapPosition": 24,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4798,7 +4798,7 @@
               "name": "prem smart",
               "townhallLevel": 17,
               "mapPosition": 25,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -4854,7 +4854,7 @@
               "name": "Thalashankar",
               "townhallLevel": 14,
               "mapPosition": 33,
-              "attacksUsed": 0,
+              "attacksUsed": 1,
               "isOurClan": false
             },
             {
@@ -5031,6 +5031,105 @@
               "destructionPercentage": 85,
               "order": 15,
               "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#L9JQU9LRR",
+              "attackerName": "Thalashankar",
+              "defenderTag": "#QJ2VLGP9U",
+              "defenderName": "prem",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 16,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#2VU89QUQP",
+              "attackerName": "prem smart",
+              "defenderTag": "#2UUVU92YC",
+              "defenderName": "AYUSH",
+              "stars": 2,
+              "destructionPercentage": 91,
+              "order": 17,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#QY2YUUVCP",
+              "attackerName": "Psycho",
+              "defenderTag": "#VGC09GUU",
+              "defenderName": "DR.PRAKASHMENON",
+              "stars": 2,
+              "destructionPercentage": 76,
+              "order": 18,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#2UUVU92YC",
+              "attackerName": "AYUSH",
+              "defenderTag": "#2VU89QUQP",
+              "defenderName": "prem smart",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 19,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#9RV9YQU9Q",
+              "attackerName": "ÁYÚSH",
+              "defenderTag": "#8U2YPY8Y9",
+              "defenderName": "vinay the hulk2",
+              "stars": 2,
+              "destructionPercentage": 75,
+              "order": 20,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#QLYJCU9J2",
+              "attackerName": "Steve",
+              "defenderTag": "#8QCRYPQC",
+              "defenderName": "Roland",
+              "stars": 2,
+              "destructionPercentage": 79,
+              "order": 21,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#2GCQJVLL",
+              "attackerName": "slingblade",
+              "defenderTag": "#P2CJRRRY8",
+              "defenderName": "AlwinJessi No:7",
+              "stars": 2,
+              "destructionPercentage": 90,
+              "order": 22,
+              "isOurClan": true
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#VGC09GUU",
+              "attackerName": "DR.PRAKASHMENON",
+              "defenderTag": "#QY2YUUVCP",
+              "defenderName": "Psycho",
+              "stars": 3,
+              "destructionPercentage": 100,
+              "order": 23,
+              "isOurClan": false
+            },
+            {
+              "warId": "2026-07-02-round5-#9GPP8RGC",
+              "attackerTag": "#GRY2C2CVR",
+              "attackerName": "Sasidharan sasi",
+              "defenderTag": "#89GR8J922",
+              "defenderName": "mk33",
+              "stars": 2,
+              "destructionPercentage": 80,
+              "order": 24,
+              "isOurClan": false
             }
           ]
         },
@@ -5047,7 +5146,7 @@
           "preparationStartTime": "20260707T035200.000Z",
           "startTime": "20260708T035132.000Z",
           "endTime": "20260709T035132.000Z",
-          "collectedAt": "2026-07-07T07:00:05.057Z",
+          "collectedAt": "2026-07-07T13:00:05.739Z",
           "clanStats": {
             "totalAttacks": 0,
             "totalStars": 0,
